@@ -1,0 +1,4913 @@
+{
+  "title": "Hagelst\u00fcrme \u2014 Mahler Hailstorm",
+  "duration": 160,
+  "seed": 42,
+  "audio_file": "mahler_hail_01.mp3",
+  "events": [
+    {
+      "time": 1.0,
+      "pc": 2,
+      "octave": 5,
+      "duration": 2.3076923076923075,
+      "amplitude": 0.11199999999999999,
+      "type": "violin",
+      "category": "melody"
+    },
+    {
+      "time": 1.05,
+      "pc": 10,
+      "octave": 4,
+      "duration": 2.0769230769230766,
+      "amplitude": 0.0672,
+      "type": "viola",
+      "category": "accompaniment"
+    },
+    {
+      "time": 3.3076923076923075,
+      "pc": 5,
+      "octave": 5,
+      "duration": 1.1538461538461537,
+      "amplitude": 0.08,
+      "type": "violin",
+      "category": "melody"
+    },
+    {
+      "time": 3.3576923076923073,
+      "pc": 2,
+      "octave": 5,
+      "duration": 1.0384615384615383,
+      "amplitude": 0.048,
+      "type": "viola",
+      "category": "accompaniment"
+    },
+    {
+      "time": 4.461538461538462,
+      "pc": 9,
+      "octave": 5,
+      "duration": 1.7307692307692306,
+      "amplitude": 0.096,
+      "type": "violin",
+      "category": "melody"
+    },
+    {
+      "time": 4.5115384615384615,
+      "pc": 5,
+      "octave": 5,
+      "duration": 1.5576923076923075,
+      "amplitude": 0.0576,
+      "type": "viola",
+      "category": "accompaniment"
+    },
+    {
+      "time": 6.1923076923076925,
+      "pc": 7,
+      "octave": 5,
+      "duration": 0.5769230769230769,
+      "amplitude": 0.064,
+      "type": "violin",
+      "category": "melody"
+    },
+    {
+      "time": 6.242307692307692,
+      "pc": 4,
+      "octave": 5,
+      "duration": 0.5192307692307692,
+      "amplitude": 0.0384,
+      "type": "viola",
+      "category": "accompaniment"
+    },
+    {
+      "time": 6.769230769230769,
+      "pc": 5,
+      "octave": 5,
+      "duration": 3.4615384615384612,
+      "amplitude": 0.128,
+      "type": "violin",
+      "category": "melody"
+    },
+    {
+      "time": 6.819230769230769,
+      "pc": 2,
+      "octave": 5,
+      "duration": 3.115384615384615,
+      "amplitude": 0.0768,
+      "type": "viola",
+      "category": "accompaniment"
+    },
+    {
+      "time": 10.23076923076923,
+      "pc": 4,
+      "octave": 5,
+      "duration": 1.1538461538461537,
+      "amplitude": 0.08,
+      "type": "violin",
+      "category": "melody"
+    },
+    {
+      "time": 10.28076923076923,
+      "pc": 0,
+      "octave": 5,
+      "duration": 1.0384615384615383,
+      "amplitude": 0.048,
+      "type": "viola",
+      "category": "accompaniment"
+    },
+    {
+      "time": 11.384615384615383,
+      "pc": 2,
+      "octave": 5,
+      "duration": 1.1538461538461537,
+      "amplitude": 0.096,
+      "type": "violin",
+      "category": "melody"
+    },
+    {
+      "time": 11.434615384615384,
+      "pc": 10,
+      "octave": 4,
+      "duration": 1.0384615384615383,
+      "amplitude": 0.0576,
+      "type": "viola",
+      "category": "accompaniment"
+    },
+    {
+      "time": 12.538461538461537,
+      "pc": 10,
+      "octave": 4,
+      "duration": 1.1538461538461537,
+      "amplitude": 0.064,
+      "type": "violin",
+      "category": "melody"
+    },
+    {
+      "time": 12.588461538461537,
+      "pc": 7,
+      "octave": 4,
+      "duration": 1.0384615384615383,
+      "amplitude": 0.0384,
+      "type": "viola",
+      "category": "accompaniment"
+    },
+    {
+      "time": 13.69230769230769,
+      "pc": 2,
+      "octave": 5,
+      "duration": 3.4615384615384612,
+      "amplitude": 0.11199999999999999,
+      "type": "violin",
+      "category": "melody"
+    },
+    {
+      "time": 13.74230769230769,
+      "pc": 10,
+      "octave": 4,
+      "duration": 3.115384615384615,
+      "amplitude": 0.0672,
+      "type": "viola",
+      "category": "accompaniment"
+    },
+    {
+      "time": 6.2369169430236,
+      "pc": 7,
+      "octave": 5,
+      "duration": 1.0061371984961462,
+      "amplitude": 0.032680128421475635,
+      "type": "cowbell",
+      "category": "color"
+    },
+    {
+      "time": 6.00841160724257,
+      "pc": 7,
+      "octave": 5,
+      "duration": 1.3614057699452449,
+      "amplitude": 0.02443948097617303,
+      "type": "cowbell",
+      "category": "color"
+    },
+    {
+      "time": 4.946323207373267,
+      "pc": 7,
+      "octave": 5,
+      "duration": 1.6857321813401822,
+      "amplitude": 0.0293748505163044,
+      "type": "cowbell",
+      "category": "color"
+    },
+    {
+      "time": 10.770262944259356,
+      "pc": 7,
+      "octave": 5,
+      "duration": 1.0322580695327932,
+      "amplitude": 0.021846212090573386,
+      "type": "cowbell",
+      "category": "color"
+    },
+    {
+      "time": 5.665729170954012,
+      "pc": 7,
+      "octave": 5,
+      "duration": 1.1691127830427528,
+      "amplitude": 0.02375816112514771,
+      "type": "cowbell",
+      "category": "color"
+    },
+    {
+      "time": 7.77101447043567,
+      "pc": 7,
+      "octave": 5,
+      "duration": 1.1431912454573532,
+      "amplitude": 0.02111925573686759,
+      "type": "cowbell",
+      "category": "color"
+    },
+    {
+      "time": 0.5,
+      "pc": 2,
+      "octave": 3,
+      "duration": 14,
+      "amplitude": 0.08,
+      "type": "cello",
+      "category": "pedal"
+    },
+    {
+      "time": 16.273802319776017,
+      "pc": 2,
+      "octave": 2,
+      "duration": 1.767809745457031,
+      "amplitude": 0.11822566293100634,
+      "type": "timpani",
+      "category": "percussion"
+    },
+    {
+      "time": 31.908580757523275,
+      "pc": 2,
+      "octave": 2,
+      "duration": 1.8248409140429698,
+      "amplitude": 0.1188886534394835,
+      "type": "timpani",
+      "category": "percussion"
+    },
+    {
+      "time": 32.36452447067815,
+      "pc": 2,
+      "octave": 2,
+      "duration": 2.9186102446325695,
+      "amplitude": 0.074660874372014,
+      "type": "timpani",
+      "category": "percussion"
+    },
+    {
+      "time": 26.49061552409699,
+      "pc": 2,
+      "octave": 2,
+      "duration": 1.007262410807361,
+      "amplitude": 0.08117974097367375,
+      "type": "timpani",
+      "category": "percussion"
+    },
+    {
+      "time": 31.71292466157874,
+      "pc": 2,
+      "octave": 2,
+      "duration": 2.281727911331356,
+      "amplitude": 0.10897911303434836,
+      "type": "timpani",
+      "category": "percussion"
+    },
+    {
+      "time": 29.76637115012542,
+      "pc": 0,
+      "octave": 6,
+      "duration": 0.02,
+      "amplitude": 0.013078290464618142,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 28.087783630739075,
+      "pc": 1,
+      "octave": 6,
+      "duration": 0.02,
+      "amplitude": 0.03971507972630649,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 26.875301246623692,
+      "pc": 8,
+      "octave": 6,
+      "duration": 0.02,
+      "amplitude": 0.024290272184933646,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 30.24502340087804,
+      "pc": 11,
+      "octave": 6,
+      "duration": 0.02,
+      "amplitude": 0.02036674177207285,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 24.752512189558146,
+      "pc": 10,
+      "octave": 6,
+      "duration": 0.02,
+      "amplitude": 0.03124702503441664,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 34.412373391696114,
+      "pc": 2,
+      "octave": 6,
+      "duration": 0.02,
+      "amplitude": 0.013346375556006774,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 29.728462770232074,
+      "pc": 4,
+      "octave": 6,
+      "duration": 0.02,
+      "amplitude": 0.02736397496216214,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 24.53892720617059,
+      "pc": 9,
+      "octave": 6,
+      "duration": 0.02,
+      "amplitude": 0.01940179574893022,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 34.06706297074084,
+      "pc": 4,
+      "octave": 6,
+      "duration": 0.02,
+      "amplitude": 0.029516774622829728,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 27.478697217013554,
+      "pc": 0,
+      "octave": 6,
+      "duration": 0.02,
+      "amplitude": 0.023456413937122507,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 30.86649151925517,
+      "pc": 4,
+      "octave": 6,
+      "duration": 0.02,
+      "amplitude": 0.019907078209713817,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 33.3555780836633,
+      "pc": 5,
+      "octave": 6,
+      "duration": 0.02,
+      "amplitude": 0.021766947374106997,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 22.341491449656903,
+      "pc": 0,
+      "octave": 6,
+      "duration": 0.02,
+      "amplitude": 0.011445274456598539,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 27.214098589963875,
+      "pc": 11,
+      "octave": 6,
+      "duration": 0.02,
+      "amplitude": 0.012159837140866374,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 28.838889899314573,
+      "pc": 2,
+      "octave": 6,
+      "duration": 0.02,
+      "amplitude": 0.015254072828633534,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 29.523817047898167,
+      "pc": 3,
+      "octave": 6,
+      "duration": 0.02,
+      "amplitude": 0.0333549858639185,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 22.33501938740907,
+      "pc": 5,
+      "octave": 6,
+      "duration": 0.02,
+      "amplitude": 0.03016132214590895,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 26.916535050259643,
+      "pc": 3,
+      "octave": 6,
+      "duration": 0.02,
+      "amplitude": 0.014597452060440354,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 27.77586918674407,
+      "pc": 3,
+      "octave": 6,
+      "duration": 0.02,
+      "amplitude": 0.020782938910338757,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 33.80132896537866,
+      "pc": 1,
+      "octave": 6,
+      "duration": 0.02,
+      "amplitude": 0.03440808763119617,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 29.393151866234017,
+      "pc": 0,
+      "octave": 6,
+      "duration": 0.02,
+      "amplitude": 0.039682258928352004,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 22.23287163819733,
+      "pc": 6,
+      "octave": 6,
+      "duration": 0.02,
+      "amplitude": 0.038625397126559,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 34.99720855708133,
+      "pc": 8,
+      "octave": 6,
+      "duration": 0.02,
+      "amplitude": 0.023151741598576768,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 26.028425272508073,
+      "pc": 9,
+      "octave": 6,
+      "duration": 0.02,
+      "amplitude": 0.02672259563096089,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 31.761930288881317,
+      "pc": 6,
+      "octave": 6,
+      "duration": 0.02,
+      "amplitude": 0.029668983886770244,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 28.75040829059657,
+      "pc": 2,
+      "octave": 6,
+      "duration": 0.02,
+      "amplitude": 0.02551763332490003,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 25.977615107569804,
+      "pc": 4,
+      "octave": 6,
+      "duration": 0.02,
+      "amplitude": 0.026472625160382977,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 25.43744731619753,
+      "pc": 1,
+      "octave": 6,
+      "duration": 0.02,
+      "amplitude": 0.015427363196679787,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 31.50254984009072,
+      "pc": 0,
+      "octave": 6,
+      "duration": 0.02,
+      "amplitude": 0.014792068180085006,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 34.034752663974366,
+      "pc": 11,
+      "octave": 6,
+      "duration": 0.02,
+      "amplitude": 0.01450341119186131,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 29.698303122754645,
+      "pc": 7,
+      "octave": 3,
+      "duration": 2.306136944613719,
+      "amplitude": 0.04202369074833426,
+      "type": "violin",
+      "category": "tremolo"
+    },
+    {
+      "time": 23.04247035955725,
+      "pc": 2,
+      "octave": 4,
+      "duration": 3.8041946780399494,
+      "amplitude": 0.060275040308671625,
+      "type": "viola",
+      "category": "tremolo"
+    },
+    {
+      "time": 22.429944588355667,
+      "pc": 9,
+      "octave": 3,
+      "duration": 3.45343386784626,
+      "amplitude": 0.04344992085924701,
+      "type": "cello",
+      "category": "tremolo"
+    },
+    {
+      "time": 18.074527734663583,
+      "pc": 0,
+      "octave": 3,
+      "duration": 3.6465540670600456,
+      "amplitude": 0.07115897263772623,
+      "type": "cello",
+      "category": "tremolo"
+    },
+    {
+      "time": 23.56434226128858,
+      "pc": 10,
+      "octave": 3,
+      "duration": 4.450911398700386,
+      "amplitude": 0.0630064968996334,
+      "type": "cello",
+      "category": "tremolo"
+    },
+    {
+      "time": 30.25705131144935,
+      "pc": 2,
+      "octave": 4,
+      "duration": 4.669552225475723,
+      "amplitude": 0.06680359387002904,
+      "type": "viola",
+      "category": "tremolo"
+    },
+    {
+      "time": 23.46787703111311,
+      "pc": 4,
+      "octave": 3,
+      "duration": 3.163478504851078,
+      "amplitude": 0.057109802838148864,
+      "type": "cello",
+      "category": "tremolo"
+    },
+    {
+      "time": 28.397751716597273,
+      "pc": 7,
+      "octave": 4,
+      "duration": 3.524906128295173,
+      "amplitude": 0.08240523739546796,
+      "type": "violin",
+      "category": "tremolo"
+    },
+    {
+      "time": 55.816505663002744,
+      "pc": 2,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.03275870730341973,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 66.90643403822416,
+      "pc": 5,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.04053986948945749,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 52.28168187578612,
+      "pc": 0,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.027580039404103862,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 38.58032621238185,
+      "pc": 8,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.05783139565580166,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 66.966665751434,
+      "pc": 4,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.0390145287335671,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 39.14542551163838,
+      "pc": 0,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.043068815435801835,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 69.77857900845109,
+      "pc": 9,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.03503487869863944,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 65.55321441824508,
+      "pc": 9,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.023345104745881785,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 41.39166391007647,
+      "pc": 1,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.02534266661418988,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 37.55618909070708,
+      "pc": 10,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.052008866082661476,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 38.786154050211216,
+      "pc": 11,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.03131387534567938,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 54.326959254693506,
+      "pc": 5,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.056840328267218396,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 59.60448322161266,
+      "pc": 4,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.05084532052674746,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 36.82846134161819,
+      "pc": 8,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.020800751749202283,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 44.60176213459313,
+      "pc": 2,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.0505869036733472,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 57.43410731803053,
+      "pc": 7,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.029247318767061922,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 52.52219592862744,
+      "pc": 10,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.05944210644237266,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 58.303378518647285,
+      "pc": 1,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.04414748758786227,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 62.18413585031689,
+      "pc": 1,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.027302715176319138,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 57.657868367589614,
+      "pc": 10,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.042281317365448004,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 42.435257705485654,
+      "pc": 9,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.027870554709271817,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 69.95770249361118,
+      "pc": 7,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.033649040689829705,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 43.51724351709972,
+      "pc": 4,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.04698601267980476,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 62.10727512457299,
+      "pc": 10,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.05098390130194223,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 38.90235574241572,
+      "pc": 0,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.0487128346844007,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 64.53375247695831,
+      "pc": 5,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.032125835237290686,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 61.659224981461804,
+      "pc": 11,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.02962318703212527,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 44.45072198021741,
+      "pc": 9,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.04696163473467506,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 58.95393926545691,
+      "pc": 10,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.03220529582759836,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 35.834947541683555,
+      "pc": 8,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.02886195229397468,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 37.91151751935339,
+      "pc": 9,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.03620678027704931,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 39.9731231670672,
+      "pc": 5,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.05228016414750865,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 35.36597523032971,
+      "pc": 11,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.04573038818179459,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 67.73173236803049,
+      "pc": 8,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.03820531949365351,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 38.500647568421215,
+      "pc": 8,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.031312652388667095,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 49.14782625272617,
+      "pc": 4,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.03518602258362681,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 39.144876452191134,
+      "pc": 7,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.02105628786755629,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 35.94915058728173,
+      "pc": 7,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.03517522726706836,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 42.26265127094523,
+      "pc": 7,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.044339568338204335,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 61.11432296821579,
+      "pc": 3,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.05573236456780818,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 52.261836459427315,
+      "pc": 11,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.051371787886185516,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 65.93221682773184,
+      "pc": 7,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.03656144307360071,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 65.48943552225597,
+      "pc": 7,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.048263956924441166,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 55.90616681184435,
+      "pc": 4,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.05578659621905031,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 49.19527453415083,
+      "pc": 11,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.021947897371283314,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 36.341133597069955,
+      "pc": 3,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.043469532289629347,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 39.314985791490365,
+      "pc": 6,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.05963357990221363,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 42.38357463962249,
+      "pc": 11,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.04670970353637304,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 60.06944689414936,
+      "pc": 11,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.02772000768618366,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 50.22542308059411,
+      "pc": 4,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.05154338778685297,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 60.44986208473823,
+      "pc": 8,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.029612007207791242,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 54.14215883555245,
+      "pc": 2,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.027629346404105207,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 59.53300576235665,
+      "pc": 1,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.054561593024216426,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 65.30253191115408,
+      "pc": 5,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.05436607496451519,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 55.13463795062694,
+      "pc": 3,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.05874573162642066,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 44.6169784961762,
+      "pc": 2,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.02077889049833462,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 67.37182919853281,
+      "pc": 0,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.04642840395259169,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 43.047619522146704,
+      "pc": 4,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.03601594879336295,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 50.1524086305954,
+      "pc": 6,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.033603703820218093,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 43.916552335975936,
+      "pc": 9,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.04322517510696516,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 49.38855682582924,
+      "pc": 0,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.04448028574485956,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 64.96580314398015,
+      "pc": 6,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.028388122407917257,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 65.64733025709141,
+      "pc": 9,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.052718971740543505,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 42.69061011891821,
+      "pc": 7,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.056061387794981474,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 66.05348701510533,
+      "pc": 8,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.05712178651466242,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 42.75584695229753,
+      "pc": 9,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.02256429427672816,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 36.96945298504733,
+      "pc": 3,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.059325167589960565,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 54.63790642368275,
+      "pc": 9,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.024447018674275234,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 57.65289033398305,
+      "pc": 7,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.04768785254558308,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 40.328560399654826,
+      "pc": 10,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.032262760168989844,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 66.84076824266545,
+      "pc": 10,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.048498732991703014,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 56.561361694494316,
+      "pc": 2,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.03063854161246196,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 55.01605357100587,
+      "pc": 4,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.048044673325859405,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 68.2500089594248,
+      "pc": 2,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.056016535681066515,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 50.271564975721034,
+      "pc": 4,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.04562613636302919,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 48.85123748260604,
+      "pc": 8,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.0461462930352777,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 66.82371735920758,
+      "pc": 9,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.05310220742477109,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 69.99452816341882,
+      "pc": 2,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.036077630216410084,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 54.433295347703606,
+      "pc": 3,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.022129426275335665,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 39.34989594546296,
+      "pc": 3,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.058381085525638365,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 37.419525246775464,
+      "pc": 2,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.05196213570437469,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 40.97480813122085,
+      "pc": 1,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.05171470636264923,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 66.7974221371739,
+      "pc": 5,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.02624385785696455,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 65.3385633754043,
+      "pc": 2,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.0476774669627881,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 35.99569368530963,
+      "pc": 4,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.0427501077018836,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 52.423999991671266,
+      "pc": 2,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.03822518793502275,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 51.626680499830755,
+      "pc": 5,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.04081491971404322,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 60.842844476554966,
+      "pc": 11,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.05790839182311451,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 61.617614470757175,
+      "pc": 7,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.03119301695668921,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 46.57806661507699,
+      "pc": 3,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.058427749729952766,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 43.75358386969788,
+      "pc": 9,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.05206971456150193,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 67.81895725038646,
+      "pc": 7,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.03959827183670454,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 64.01820760482454,
+      "pc": 9,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.05191853088579845,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 56.30398642113367,
+      "pc": 11,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.05953962652574274,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 47.30866091797871,
+      "pc": 9,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.020528821490804528,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 63.025044712314056,
+      "pc": 10,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.03012018268365656,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 67.11457628078671,
+      "pc": 10,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.028513346064711807,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 38.21541463583677,
+      "pc": 4,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.05551025576283228,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 40.57149805972161,
+      "pc": 5,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.034174639793750364,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 42.95294922924613,
+      "pc": 8,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.042652732980069344,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 62.06920172417255,
+      "pc": 4,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.03141779348677305,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 68.19762760833342,
+      "pc": 9,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.054264838082312555,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 41.48657125518962,
+      "pc": 4,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.053280145342913934,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 64.49520015976502,
+      "pc": 0,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.03186879175793409,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 67.99649593563906,
+      "pc": 10,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.02793987743706404,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 38.92363109607053,
+      "pc": 11,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.03817567174143116,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 44.020664130932225,
+      "pc": 5,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.03445444715692011,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 38.396606581367074,
+      "pc": 5,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.03480837356785614,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 66.8266994496347,
+      "pc": 2,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.039366707352781555,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 68.4675132221241,
+      "pc": 11,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.05510604511346785,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 45.57576591872858,
+      "pc": 6,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.0373804659655889,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 46.89645179035899,
+      "pc": 6,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.047349218889763546,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 43.16920156593436,
+      "pc": 8,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.022023926845627595,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 61.473939825102576,
+      "pc": 1,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.04699346582511683,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 44.24244343557177,
+      "pc": 9,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.04131885955553531,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 59.71321426186708,
+      "pc": 5,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.05187906922283017,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 56.45797485075448,
+      "pc": 4,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.02190778331980319,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 68.38803529343433,
+      "pc": 4,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.0573077741889744,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 67.18989971024699,
+      "pc": 3,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.02495054065055697,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 37.23554015243085,
+      "pc": 0,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.03454179571645661,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 36,
+      "pc": 2,
+      "octave": 1,
+      "duration": 5.0411293153324745,
+      "amplitude": 0.08378849532301767,
+      "type": "thunder",
+      "category": "storm"
+    },
+    {
+      "time": 42,
+      "pc": 2,
+      "octave": 1,
+      "duration": 5.104060458885482,
+      "amplitude": 0.1304844678829979,
+      "type": "thunder",
+      "category": "storm"
+    },
+    {
+      "time": 48,
+      "pc": 2,
+      "octave": 1,
+      "duration": 5.57649726769093,
+      "amplitude": 0.11624790539028279,
+      "type": "thunder",
+      "category": "storm"
+    },
+    {
+      "time": 53,
+      "pc": 2,
+      "octave": 1,
+      "duration": 4.282443480320567,
+      "amplitude": 0.1469924652144645,
+      "type": "thunder",
+      "category": "storm"
+    },
+    {
+      "time": 60,
+      "pc": 2,
+      "octave": 1,
+      "duration": 5.07238802198704,
+      "amplitude": 0.13889622438130847,
+      "type": "thunder",
+      "category": "storm"
+    },
+    {
+      "time": 66,
+      "pc": 2,
+      "octave": 1,
+      "duration": 3.801592579804183,
+      "amplitude": 0.14055469379400748,
+      "type": "thunder",
+      "category": "storm"
+    },
+    {
+      "time": 37.70748189192814,
+      "pc": 4,
+      "octave": 5,
+      "duration": 1.7850012073529782,
+      "amplitude": 0.059258024766140845,
+      "type": "violin",
+      "category": "tremolo"
+    },
+    {
+      "time": 68.25861721084652,
+      "pc": 9,
+      "octave": 3,
+      "duration": 3.1520689172819942,
+      "amplitude": 0.1113239358822944,
+      "type": "viola",
+      "category": "tremolo"
+    },
+    {
+      "time": 39.812347383853854,
+      "pc": 0,
+      "octave": 4,
+      "duration": 2.2617493637473403,
+      "amplitude": 0.11318617378323902,
+      "type": "cello",
+      "category": "tremolo"
+    },
+    {
+      "time": 40.76643313837057,
+      "pc": 5,
+      "octave": 3,
+      "duration": 3.942501450008303,
+      "amplitude": 0.0638132942086015,
+      "type": "cello",
+      "category": "tremolo"
+    },
+    {
+      "time": 53.77192610404438,
+      "pc": 5,
+      "octave": 4,
+      "duration": 1.9380571761744334,
+      "amplitude": 0.05606171929533592,
+      "type": "viola",
+      "category": "tremolo"
+    },
+    {
+      "time": 58.80044148556592,
+      "pc": 5,
+      "octave": 3,
+      "duration": 3.767471048454693,
+      "amplitude": 0.05262499048341363,
+      "type": "bass",
+      "category": "tremolo"
+    },
+    {
+      "time": 53.520548901114836,
+      "pc": 5,
+      "octave": 3,
+      "duration": 2.910410214013332,
+      "amplitude": 0.08638641880877479,
+      "type": "viola",
+      "category": "tremolo"
+    },
+    {
+      "time": 52.549838348409054,
+      "pc": 0,
+      "octave": 5,
+      "duration": 3.5097734566419048,
+      "amplitude": 0.05288529509811562,
+      "type": "bass",
+      "category": "tremolo"
+    },
+    {
+      "time": 40.998661256407246,
+      "pc": 2,
+      "octave": 5,
+      "duration": 1.715026756534211,
+      "amplitude": 0.052166310928794854,
+      "type": "cello",
+      "category": "tremolo"
+    },
+    {
+      "time": 54.40070602649965,
+      "pc": 10,
+      "octave": 3,
+      "duration": 2.070762815806968,
+      "amplitude": 0.09514498929553977,
+      "type": "violin",
+      "category": "tremolo"
+    },
+    {
+      "time": 60.35281654447572,
+      "pc": 4,
+      "octave": 5,
+      "duration": 3.031991545848946,
+      "amplitude": 0.05971053953521746,
+      "type": "violin",
+      "category": "tremolo"
+    },
+    {
+      "time": 42.62046405782615,
+      "pc": 2,
+      "octave": 3,
+      "duration": 1.5271121426503234,
+      "amplitude": 0.10669085844737003,
+      "type": "violin",
+      "category": "tremolo"
+    },
+    {
+      "time": 68.01795519994371,
+      "pc": 9,
+      "octave": 3,
+      "duration": 2.487331313577636,
+      "amplitude": 0.0685129608057194,
+      "type": "viola",
+      "category": "tremolo"
+    },
+    {
+      "time": 42.913887945361566,
+      "pc": 10,
+      "octave": 3,
+      "duration": 3.1728498017687183,
+      "amplitude": 0.07171224938324165,
+      "type": "bass",
+      "category": "tremolo"
+    },
+    {
+      "time": 48.04429251809679,
+      "pc": 5,
+      "octave": 3,
+      "duration": 3.0258425367131387,
+      "amplitude": 0.10777619284589601,
+      "type": "violin",
+      "category": "tremolo"
+    },
+    {
+      "time": 69.26385181468953,
+      "pc": 4,
+      "octave": 3,
+      "duration": 2.9831321578580403,
+      "amplitude": 0.06514529139684196,
+      "type": "violin",
+      "category": "tremolo"
+    },
+    {
+      "time": 65.0134786585921,
+      "pc": 0,
+      "octave": 3,
+      "duration": 2.003743782183213,
+      "amplitude": 0.11584794062221052,
+      "type": "cello",
+      "category": "tremolo"
+    },
+    {
+      "time": 45.04648645763733,
+      "pc": 10,
+      "octave": 4,
+      "duration": 3.7894753341877774,
+      "amplitude": 0.07306001505068288,
+      "type": "violin",
+      "category": "tremolo"
+    },
+    {
+      "time": 42.75973037763295,
+      "pc": 0,
+      "octave": 5,
+      "duration": 2.4174795057259177,
+      "amplitude": 0.056899278450260694,
+      "type": "bass",
+      "category": "tremolo"
+    },
+    {
+      "time": 67.96685788044633,
+      "pc": 10,
+      "octave": 5,
+      "duration": 2.4407653181425966,
+      "amplitude": 0.0928646841653092,
+      "type": "bass",
+      "category": "tremolo"
+    },
+    {
+      "time": 54.11947730804074,
+      "pc": 0,
+      "octave": 3,
+      "duration": 3.945785410312717,
+      "amplitude": 0.11706465519061543,
+      "type": "cello",
+      "category": "tremolo"
+    },
+    {
+      "time": 48.68724886361962,
+      "pc": 0,
+      "octave": 3,
+      "duration": 2.262216264877931,
+      "amplitude": 0.10717799979731563,
+      "type": "cello",
+      "category": "tremolo"
+    },
+    {
+      "time": 59.9258544992596,
+      "pc": 10,
+      "octave": 5,
+      "duration": 3.707204037370482,
+      "amplitude": 0.07085796844172887,
+      "type": "viola",
+      "category": "tremolo"
+    },
+    {
+      "time": 45.19443730839856,
+      "pc": 0,
+      "octave": 5,
+      "duration": 3.8750437866784035,
+      "amplitude": 0.11301730149795874,
+      "type": "violin",
+      "category": "tremolo"
+    },
+    {
+      "time": 38.614422260560936,
+      "pc": 9,
+      "octave": 4,
+      "duration": 2.5257827953634147,
+      "amplitude": 0.09316480786704781,
+      "type": "viola",
+      "category": "tremolo"
+    },
+    {
+      "time": 38,
+      "pc": 2,
+      "octave": 4,
+      "duration": 3.0,
+      "amplitude": 0.13,
+      "type": "horn",
+      "category": "brass"
+    },
+    {
+      "time": 42,
+      "pc": 9,
+      "octave": 5,
+      "duration": 2.0,
+      "amplitude": 0.15,
+      "type": "trumpet",
+      "category": "brass"
+    },
+    {
+      "time": 47,
+      "pc": 2,
+      "octave": 3,
+      "duration": 4.0,
+      "amplitude": 0.12,
+      "type": "trombone",
+      "category": "brass"
+    },
+    {
+      "time": 52,
+      "pc": 5,
+      "octave": 5,
+      "duration": 1.5,
+      "amplitude": 0.16,
+      "type": "trumpet",
+      "category": "brass"
+    },
+    {
+      "time": 55,
+      "pc": 10,
+      "octave": 4,
+      "duration": 3.0,
+      "amplitude": 0.14,
+      "type": "horn",
+      "category": "brass"
+    },
+    {
+      "time": 58,
+      "pc": 0,
+      "octave": 6,
+      "duration": 2.5,
+      "amplitude": 0.17,
+      "type": "trumpet",
+      "category": "brass"
+    },
+    {
+      "time": 62,
+      "pc": 7,
+      "octave": 3,
+      "duration": 3.5,
+      "amplitude": 0.13,
+      "type": "trombone",
+      "category": "brass"
+    },
+    {
+      "time": 65,
+      "pc": 2,
+      "octave": 5,
+      "duration": 2.0,
+      "amplitude": 0.15,
+      "type": "horn",
+      "category": "brass"
+    },
+    {
+      "time": 38.908064821754785,
+      "pc": 7,
+      "octave": 2,
+      "duration": 2.0,
+      "amplitude": 0.14,
+      "type": "timpani",
+      "category": "percussion"
+    },
+    {
+      "time": 46.572862450039565,
+      "pc": 2,
+      "octave": 2,
+      "duration": 2.0,
+      "amplitude": 0.14,
+      "type": "timpani",
+      "category": "percussion"
+    },
+    {
+      "time": 35.593536378549736,
+      "pc": 7,
+      "octave": 2,
+      "duration": 2.0,
+      "amplitude": 0.14,
+      "type": "timpani",
+      "category": "percussion"
+    },
+    {
+      "time": 49.00586099454325,
+      "pc": 2,
+      "octave": 2,
+      "duration": 2.0,
+      "amplitude": 0.14,
+      "type": "timpani",
+      "category": "percussion"
+    },
+    {
+      "time": 35.683528984387834,
+      "pc": 7,
+      "octave": 2,
+      "duration": 2.0,
+      "amplitude": 0.14,
+      "type": "timpani",
+      "category": "percussion"
+    },
+    {
+      "time": 36.89306427493174,
+      "pc": 7,
+      "octave": 2,
+      "duration": 2.0,
+      "amplitude": 0.14,
+      "type": "timpani",
+      "category": "percussion"
+    },
+    {
+      "time": 38.77242098397599,
+      "pc": 2,
+      "octave": 2,
+      "duration": 2.0,
+      "amplitude": 0.14,
+      "type": "timpani",
+      "category": "percussion"
+    },
+    {
+      "time": 42.78051509235682,
+      "pc": 2,
+      "octave": 2,
+      "duration": 2.0,
+      "amplitude": 0.14,
+      "type": "timpani",
+      "category": "percussion"
+    },
+    {
+      "time": 37.488208160156596,
+      "pc": 2,
+      "octave": 2,
+      "duration": 2.0,
+      "amplitude": 0.14,
+      "type": "timpani",
+      "category": "percussion"
+    },
+    {
+      "time": 63.58469051393266,
+      "pc": 2,
+      "octave": 2,
+      "duration": 2.0,
+      "amplitude": 0.14,
+      "type": "timpani",
+      "category": "percussion"
+    },
+    {
+      "time": 74.2756939166267,
+      "pc": 9,
+      "octave": 5,
+      "duration": 1.5,
+      "amplitude": 0.04676230574920759,
+      "type": "cowbell",
+      "category": "color"
+    },
+    {
+      "time": 72.4081082256477,
+      "pc": 7,
+      "octave": 5,
+      "duration": 1.5,
+      "amplitude": 0.04224627644555296,
+      "type": "cowbell",
+      "category": "color"
+    },
+    {
+      "time": 72.61402801978134,
+      "pc": 7,
+      "octave": 5,
+      "duration": 1.5,
+      "amplitude": 0.05830822393156909,
+      "type": "cowbell",
+      "category": "color"
+    },
+    {
+      "time": 83.26118532094009,
+      "pc": 0,
+      "octave": 5,
+      "duration": 1.5,
+      "amplitude": 0.05754404243176742,
+      "type": "cowbell",
+      "category": "color"
+    },
+    {
+      "time": 83.8076117367978,
+      "pc": 0,
+      "octave": 5,
+      "duration": 1.5,
+      "amplitude": 0.04468367289717006,
+      "type": "cowbell",
+      "category": "color"
+    },
+    {
+      "time": 80.76383972190764,
+      "pc": 4,
+      "octave": 5,
+      "duration": 1.5,
+      "amplitude": 0.040209036063446335,
+      "type": "cowbell",
+      "category": "color"
+    },
+    {
+      "time": 80.26493946915028,
+      "pc": 9,
+      "octave": 5,
+      "duration": 1.5,
+      "amplitude": 0.043320705861412456,
+      "type": "cowbell",
+      "category": "color"
+    },
+    {
+      "time": 82.11499171897259,
+      "pc": 4,
+      "octave": 5,
+      "duration": 1.5,
+      "amplitude": 0.03987991713863711,
+      "type": "cowbell",
+      "category": "color"
+    },
+    {
+      "time": 82.04087246502074,
+      "pc": 4,
+      "octave": 5,
+      "duration": 1.5,
+      "amplitude": 0.05905200465058601,
+      "type": "cowbell",
+      "category": "color"
+    },
+    {
+      "time": 83.10288318037072,
+      "pc": 0,
+      "octave": 5,
+      "duration": 1.5,
+      "amplitude": 0.05843026205453476,
+      "type": "cowbell",
+      "category": "color"
+    },
+    {
+      "time": 73.0,
+      "pc": 9,
+      "octave": 4,
+      "duration": 2.25,
+      "amplitude": 0.06999999999999999,
+      "type": "horn",
+      "category": "melody"
+    },
+    {
+      "time": 75.25,
+      "pc": 10,
+      "octave": 4,
+      "duration": 1.5,
+      "amplitude": 0.06,
+      "type": "horn",
+      "category": "melody"
+    },
+    {
+      "time": 76.75,
+      "pc": 0,
+      "octave": 4,
+      "duration": 0.75,
+      "amplitude": 0.05,
+      "type": "horn",
+      "category": "melody"
+    },
+    {
+      "time": 77.5,
+      "pc": 2,
+      "octave": 5,
+      "duration": 3.0,
+      "amplitude": 0.09000000000000001,
+      "type": "horn",
+      "category": "melody"
+    },
+    {
+      "time": 100.11622088307624,
+      "pc": 0,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.04017772094430625,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 104.30295369512923,
+      "pc": 10,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.03286865851294241,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 129.53906858563724,
+      "pc": 8,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.0625444293638139,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 129.33978702749954,
+      "pc": 0,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.03993078772844727,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 120.2817938740061,
+      "pc": 5,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.026771158037309378,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 108.45373601738379,
+      "pc": 0,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.026626447228486776,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 93.13908667471742,
+      "pc": 11,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.04253021504638384,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 125.52491949843701,
+      "pc": 7,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.02577616296194778,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 102.83078227556973,
+      "pc": 2,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.056140205755675215,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 97.3415765633739,
+      "pc": 8,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.05565838443102328,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 129.57728988228365,
+      "pc": 4,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.026058665411038233,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 88.63169449535084,
+      "pc": 1,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.024991568406655867,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 94.42340740497211,
+      "pc": 9,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.020082493364358623,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 89.64585581566132,
+      "pc": 10,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.05920495199126352,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 85.75614919139514,
+      "pc": 3,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.05706844286219037,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 108.36349786379583,
+      "pc": 10,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.06569843678011016,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 91.95374352511442,
+      "pc": 4,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.02920473302023306,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 101.85915116092411,
+      "pc": 2,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.051958856196440265,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 121.20261488262105,
+      "pc": 6,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.02736749976109882,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 103.0753909454443,
+      "pc": 6,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.02436732149454295,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 85.40078684217191,
+      "pc": 8,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.021324965757309227,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 103.51417105448225,
+      "pc": 5,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.06994743825293126,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 126.01447473374628,
+      "pc": 4,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.02095165294952352,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 127.24500534885948,
+      "pc": 9,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.04786076041707519,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 102.90484805513603,
+      "pc": 10,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.06639037167439918,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 111.33561864585184,
+      "pc": 3,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.029741152975194897,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 98.7225886330834,
+      "pc": 2,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.031077810254117218,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 85.92845695345534,
+      "pc": 0,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.0260363684242635,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 110.67422989940772,
+      "pc": 11,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.0551621102714452,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 115.32851196055016,
+      "pc": 5,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.06885969754502967,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 114.40242388807812,
+      "pc": 0,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.06820110158999718,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 88.0278927322598,
+      "pc": 2,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.05955890788101138,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 87.70946362004504,
+      "pc": 5,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.056198141710959604,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 87.87931379521032,
+      "pc": 11,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.04868133589040709,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 95.16348701325425,
+      "pc": 7,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.02088217617792883,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 93.72671445245658,
+      "pc": 10,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.05738797755682906,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 109.67341856263933,
+      "pc": 1,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.04348722230435728,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 119.4618290705036,
+      "pc": 10,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.04827819153764705,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 108.53874274806878,
+      "pc": 7,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.0542654105278102,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 125.55891899664813,
+      "pc": 3,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.04390986950291184,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 94.90140872067158,
+      "pc": 0,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.046948059200098625,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 91.56336795931794,
+      "pc": 9,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.03758534860203801,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 107.32538341987451,
+      "pc": 9,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.027256383773843384,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 111.11767434322829,
+      "pc": 3,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.039556686986612785,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 103.91867290049072,
+      "pc": 1,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.06289156258974826,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 123.61724137473871,
+      "pc": 1,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.056020760423071386,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 88.75846217378421,
+      "pc": 8,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.06748298441833848,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 86.39471531982277,
+      "pc": 10,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.06537282989106559,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 100.20019408108682,
+      "pc": 9,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.030356094620256003,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 125.89993645936545,
+      "pc": 7,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.03501895889136108,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 111.72456036902565,
+      "pc": 0,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.055092228789958037,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 87.0391282600529,
+      "pc": 2,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.02710292765722343,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 110.71753138449249,
+      "pc": 3,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.02453754208267741,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 100.87023641399914,
+      "pc": 8,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.0316122702703822,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 126.84184338906115,
+      "pc": 1,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.027414346930271217,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 126.6340012104196,
+      "pc": 1,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.06946129544749265,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 105.92077158696745,
+      "pc": 0,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.047044467800777076,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 93.20126432941319,
+      "pc": 1,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.042391073119137715,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 96.09860954645859,
+      "pc": 8,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.03154245244182473,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 112.30777492878205,
+      "pc": 4,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.06792195571207355,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 87.25044242282209,
+      "pc": 9,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.047374106821448964,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 104.53269483488542,
+      "pc": 2,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.02221152024944744,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 113.83710361314893,
+      "pc": 7,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.05020936772791874,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 117.87699489491625,
+      "pc": 0,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.06638461808796838,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 126.52189848387343,
+      "pc": 10,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.03934882636970945,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 112.2483829933709,
+      "pc": 7,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.06476249143416433,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 98.85303857864861,
+      "pc": 4,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.056079732690338724,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 92.84298189759986,
+      "pc": 2,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.02107090167079204,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 89.99033054946797,
+      "pc": 6,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.06819604093952454,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 117.5589747373055,
+      "pc": 6,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.03491821858860735,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 97.99711518238674,
+      "pc": 5,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.044649480425692126,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 112.09744861573992,
+      "pc": 6,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.021312835557107057,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 89.38556653453018,
+      "pc": 8,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.05327019493299827,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 102.8919777803008,
+      "pc": 10,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.04589515044282612,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 100.87001082138474,
+      "pc": 11,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.03479800399417866,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 118.66455332636279,
+      "pc": 5,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.03284096176890859,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 103.02689670901363,
+      "pc": 4,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.05282948340943605,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 92.85248969895365,
+      "pc": 5,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.06869668504164396,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 96.74969467844761,
+      "pc": 4,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.042066686910727825,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 90.20598229985352,
+      "pc": 4,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.041339078483911204,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 96.2503281626042,
+      "pc": 0,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.04247173257130758,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 109.51062694363372,
+      "pc": 5,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.0639947675700303,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 87.58084131464032,
+      "pc": 8,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.04993618629964819,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 116.19315279921463,
+      "pc": 9,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.06440090745678095,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 128.96883300939933,
+      "pc": 9,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.04447906163161436,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 128.14942207681355,
+      "pc": 0,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.03332191469725514,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 118.05471539928628,
+      "pc": 9,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.05273780795552527,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 128.0647211386938,
+      "pc": 8,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.029392327522218743,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 127.35280020751316,
+      "pc": 2,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.06942031762633429,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 95.62030927061349,
+      "pc": 10,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.027353015978106354,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 116.12396561210463,
+      "pc": 8,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.033995058950501485,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 124.727163379675,
+      "pc": 8,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.05541788832895422,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 120.63883088622794,
+      "pc": 0,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.06849640862689585,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 109.16953970633644,
+      "pc": 9,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.04446022222197542,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 113.41395435356552,
+      "pc": 11,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.037356527701794436,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 119.24478862913381,
+      "pc": 4,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.024502933832314378,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 110.38998844202573,
+      "pc": 5,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.06187359559864539,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 101.73871536075136,
+      "pc": 4,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.06703695513599339,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 93.39309375126675,
+      "pc": 5,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.04759077515161804,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 110.99398005093823,
+      "pc": 9,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.020955978751486904,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 86.46504332483481,
+      "pc": 4,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.040394817161628696,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 118.87125198018612,
+      "pc": 10,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.05404093081702811,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 109.35429726281826,
+      "pc": 9,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.02379212860550805,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 86.60788693098844,
+      "pc": 11,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.03800927537675412,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 89.85418342072505,
+      "pc": 8,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.024584507213105844,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 113.26881923816212,
+      "pc": 1,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.06972251627148539,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 101.42618032503972,
+      "pc": 11,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.038831764708082375,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 95.61252368257969,
+      "pc": 4,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.06851221716273906,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 113.8197147204377,
+      "pc": 4,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.023888223327939183,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 128.81648011159206,
+      "pc": 7,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.0557970429891394,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 111.51826258805465,
+      "pc": 1,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.030751770772324483,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 119.8824876470987,
+      "pc": 5,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.03054140541792013,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 87.51671428324327,
+      "pc": 7,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.06456202655225006,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 123.45266844797784,
+      "pc": 8,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.024450365200534098,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 120.49668110457469,
+      "pc": 9,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.03150616118079172,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 128.8510408480077,
+      "pc": 1,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.024456107701253827,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 102.78662747826253,
+      "pc": 6,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.06781265498688493,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 85.39536264721039,
+      "pc": 11,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.05659770841797178,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 115.03784898994955,
+      "pc": 2,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.06719985237825683,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 114.93415248338538,
+      "pc": 2,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.029078824848734718,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 96.07652688516184,
+      "pc": 2,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.06633184025024208,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 91.22008739224194,
+      "pc": 8,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.04978888338531648,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 126.09554315724327,
+      "pc": 5,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.025223062656055662,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 112.38658322782334,
+      "pc": 11,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.039470648773587164,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 98.76094873473521,
+      "pc": 9,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.0638932026069332,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 117.54059051201335,
+      "pc": 4,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.027387164294896276,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 121.28017868068245,
+      "pc": 3,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.034190787037270895,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 97.70467084377047,
+      "pc": 4,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.035746472855362484,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 90.81904894927806,
+      "pc": 1,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.020527556080736985,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 110.93616571773032,
+      "pc": 4,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.02320483728904913,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 90.51716286891683,
+      "pc": 10,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.05082829401107064,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 115.44448918358447,
+      "pc": 5,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.03787491879460887,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 113.71642581511266,
+      "pc": 10,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.05823257970152859,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 88.27924063798687,
+      "pc": 2,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.02201018297739187,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 96.60989149156264,
+      "pc": 9,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.06709046735623828,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 88.59072556229444,
+      "pc": 3,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.06898601398805447,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 124.27511427001077,
+      "pc": 2,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.05045885140580068,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 99.71625240342958,
+      "pc": 11,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.04390769295817548,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 95.12961688978542,
+      "pc": 3,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.06450337884437304,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 88.36682893919348,
+      "pc": 6,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.025227982085506896,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 122.35614957901737,
+      "pc": 6,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.02000147445833077,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 96.32153254035588,
+      "pc": 1,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.06631829605307708,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 101.10895965897024,
+      "pc": 2,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.04790111933704608,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 86.99666867782567,
+      "pc": 1,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.061523295502344394,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 123.87041532484105,
+      "pc": 4,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.0628864937361339,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 114.5629379754229,
+      "pc": 0,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.05190557813862759,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 88.38731034098801,
+      "pc": 10,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.06447942348515527,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 115.64791016281558,
+      "pc": 8,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.02270901799033075,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 110.26521848914294,
+      "pc": 5,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.021695203281936627,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 99.7263472148898,
+      "pc": 10,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.04013089022682932,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 106.15458650188924,
+      "pc": 6,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.0296384424329188,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 103.24564155294125,
+      "pc": 5,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.048464311606108354,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 122.40271941628501,
+      "pc": 3,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.06435150908955854,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 117.29063355027114,
+      "pc": 5,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.05633431115595536,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 102.79049458111223,
+      "pc": 3,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.06701294510614096,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 129.78010335817032,
+      "pc": 3,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.0573355651539727,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 117.6976528582581,
+      "pc": 4,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.02194641258945776,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 118.36148534320844,
+      "pc": 0,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.050323195432338444,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 102.43398289465134,
+      "pc": 4,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.03997269909701068,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 122.56235059817828,
+      "pc": 5,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.05418758113488931,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 106.88550019512101,
+      "pc": 2,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.030742247847682508,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 112.06033681705568,
+      "pc": 5,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.03264400128330003,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 109.49003527337514,
+      "pc": 11,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.03781871982147998,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 91.30768499554173,
+      "pc": 6,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.06631327192039158,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 91.20683270760519,
+      "pc": 5,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.0660328558233356,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 86.50276190524893,
+      "pc": 6,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.04117001266317814,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 119.91969903272525,
+      "pc": 11,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.05315983248177651,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 85.61420081469765,
+      "pc": 1,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.03965703181673205,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 102.92730946059682,
+      "pc": 4,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.06506834271052116,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 104.64098811179318,
+      "pc": 11,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.06016688239626397,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 90.37249305916313,
+      "pc": 5,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.042973830746278224,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 93.24387208034732,
+      "pc": 10,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.06469688542870945,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 121.80867786315952,
+      "pc": 2,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.027605540217154407,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 127.11995720769721,
+      "pc": 4,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.05076950511861664,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 121.08378310672711,
+      "pc": 5,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.05930913379874317,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 96.15456918775308,
+      "pc": 8,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.02329446127897959,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 120.4409012368764,
+      "pc": 0,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.06833775401101456,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 116.58017643915016,
+      "pc": 8,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.04743763975435902,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 125.05763877441657,
+      "pc": 3,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.033012785220021205,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 109.36173510866674,
+      "pc": 5,
+      "octave": 7,
+      "duration": 0.02,
+      "amplitude": 0.06965505934321126,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 86,
+      "pc": 2,
+      "octave": 1,
+      "duration": 4.38070564070862,
+      "amplitude": 0.1939972702532697,
+      "type": "thunder",
+      "category": "storm"
+    },
+    {
+      "time": 90,
+      "pc": 2,
+      "octave": 1,
+      "duration": 5.861050951625556,
+      "amplitude": 0.16666519294934312,
+      "type": "thunder",
+      "category": "storm"
+    },
+    {
+      "time": 95,
+      "pc": 2,
+      "octave": 1,
+      "duration": 4.630290020237034,
+      "amplitude": 0.17306577275357488,
+      "type": "thunder",
+      "category": "storm"
+    },
+    {
+      "time": 100,
+      "pc": 2,
+      "octave": 1,
+      "duration": 6.9045311864179535,
+      "amplitude": 0.15979140386387694,
+      "type": "thunder",
+      "category": "storm"
+    },
+    {
+      "time": 106,
+      "pc": 2,
+      "octave": 1,
+      "duration": 7.130336186141022,
+      "amplitude": 0.1614029742022408,
+      "type": "thunder",
+      "category": "storm"
+    },
+    {
+      "time": 112,
+      "pc": 2,
+      "octave": 1,
+      "duration": 4.293646905185639,
+      "amplitude": 0.16388363000535613,
+      "type": "thunder",
+      "category": "storm"
+    },
+    {
+      "time": 118,
+      "pc": 2,
+      "octave": 1,
+      "duration": 6.102321265475972,
+      "amplitude": 0.19360705036276393,
+      "type": "thunder",
+      "category": "storm"
+    },
+    {
+      "time": 125,
+      "pc": 2,
+      "octave": 1,
+      "duration": 7.4813112999106,
+      "amplitude": 0.1695836539766542,
+      "type": "thunder",
+      "category": "storm"
+    },
+    {
+      "time": 89.21510737687383,
+      "pc": 10,
+      "octave": 5,
+      "duration": 2.9938137827259923,
+      "amplitude": 0.10819379681292912,
+      "type": "bass",
+      "category": "tremolo"
+    },
+    {
+      "time": 96.97604887670039,
+      "pc": 0,
+      "octave": 4,
+      "duration": 1.1744368382132682,
+      "amplitude": 0.06273081595138855,
+      "type": "violin",
+      "category": "tremolo"
+    },
+    {
+      "time": 124.72000585031098,
+      "pc": 10,
+      "octave": 3,
+      "duration": 3.9749270312759397,
+      "amplitude": 0.09117121301621621,
+      "type": "violin",
+      "category": "tremolo"
+    },
+    {
+      "time": 95.42555949255112,
+      "pc": 2,
+      "octave": 5,
+      "duration": 1.4617175149171966,
+      "amplitude": 0.12267655316113983,
+      "type": "viola",
+      "category": "tremolo"
+    },
+    {
+      "time": 122.44414976934975,
+      "pc": 0,
+      "octave": 5,
+      "duration": 3.9443534562438245,
+      "amplitude": 0.08240366751253977,
+      "type": "violin",
+      "category": "tremolo"
+    },
+    {
+      "time": 90.77718469884067,
+      "pc": 4,
+      "octave": 5,
+      "duration": 2.580764180796637,
+      "amplitude": 0.11773645020399863,
+      "type": "cello",
+      "category": "tremolo"
+    },
+    {
+      "time": 90.83034717589614,
+      "pc": 0,
+      "octave": 3,
+      "duration": 3.4641919734255886,
+      "amplitude": 0.07168953363623398,
+      "type": "violin",
+      "category": "tremolo"
+    },
+    {
+      "time": 125.7118911143036,
+      "pc": 5,
+      "octave": 4,
+      "duration": 3.661366775550707,
+      "amplitude": 0.1388362268146096,
+      "type": "bass",
+      "category": "tremolo"
+    },
+    {
+      "time": 129.51532766258953,
+      "pc": 2,
+      "octave": 4,
+      "duration": 1.1602419366621368,
+      "amplitude": 0.10118281257245805,
+      "type": "viola",
+      "category": "tremolo"
+    },
+    {
+      "time": 105.62732171749184,
+      "pc": 10,
+      "octave": 4,
+      "duration": 3.51383497654258,
+      "amplitude": 0.09271432316939113,
+      "type": "bass",
+      "category": "tremolo"
+    },
+    {
+      "time": 101.63767521706431,
+      "pc": 4,
+      "octave": 5,
+      "duration": 2.2888034557138157,
+      "amplitude": 0.061467706755363546,
+      "type": "bass",
+      "category": "tremolo"
+    },
+    {
+      "time": 94.6151141082839,
+      "pc": 4,
+      "octave": 4,
+      "duration": 1.1501875265136574,
+      "amplitude": 0.1136032341767756,
+      "type": "viola",
+      "category": "tremolo"
+    },
+    {
+      "time": 116.75850557866164,
+      "pc": 2,
+      "octave": 5,
+      "duration": 1.5676890364214984,
+      "amplitude": 0.08179862154256083,
+      "type": "bass",
+      "category": "tremolo"
+    },
+    {
+      "time": 123.34155740247678,
+      "pc": 4,
+      "octave": 3,
+      "duration": 1.6339147220628636,
+      "amplitude": 0.1198028967368266,
+      "type": "bass",
+      "category": "tremolo"
+    },
+    {
+      "time": 107.1905458994137,
+      "pc": 9,
+      "octave": 5,
+      "duration": 3.9739589131964554,
+      "amplitude": 0.13968677450423322,
+      "type": "cello",
+      "category": "tremolo"
+    },
+    {
+      "time": 116.55512917107065,
+      "pc": 0,
+      "octave": 5,
+      "duration": 2.255958622816357,
+      "amplitude": 0.0884654804632418,
+      "type": "viola",
+      "category": "tremolo"
+    },
+    {
+      "time": 115.08370069705883,
+      "pc": 5,
+      "octave": 5,
+      "duration": 2.0669313930742574,
+      "amplitude": 0.10538066938972698,
+      "type": "cello",
+      "category": "tremolo"
+    },
+    {
+      "time": 105.78546100501536,
+      "pc": 0,
+      "octave": 4,
+      "duration": 2.5481656832393482,
+      "amplitude": 0.08077330694535693,
+      "type": "bass",
+      "category": "tremolo"
+    },
+    {
+      "time": 94.00688951897173,
+      "pc": 4,
+      "octave": 4,
+      "duration": 3.656504064837994,
+      "amplitude": 0.08073453095617426,
+      "type": "viola",
+      "category": "tremolo"
+    },
+    {
+      "time": 110.63962325554007,
+      "pc": 2,
+      "octave": 5,
+      "duration": 2.767876300511335,
+      "amplitude": 0.07520306737776149,
+      "type": "violin",
+      "category": "tremolo"
+    },
+    {
+      "time": 128.43525209129822,
+      "pc": 7,
+      "octave": 5,
+      "duration": 1.5194475657963147,
+      "amplitude": 0.10809567966638908,
+      "type": "bass",
+      "category": "tremolo"
+    },
+    {
+      "time": 85.61397199959647,
+      "pc": 7,
+      "octave": 5,
+      "duration": 3.575691266915095,
+      "amplitude": 0.08156062655198701,
+      "type": "cello",
+      "category": "tremolo"
+    },
+    {
+      "time": 111.33056582320712,
+      "pc": 0,
+      "octave": 5,
+      "duration": 3.880110473109062,
+      "amplitude": 0.12741849715926926,
+      "type": "violin",
+      "category": "tremolo"
+    },
+    {
+      "time": 125.87827991738664,
+      "pc": 5,
+      "octave": 3,
+      "duration": 2.0359036254965024,
+      "amplitude": 0.08571947788476414,
+      "type": "violin",
+      "category": "tremolo"
+    },
+    {
+      "time": 101.0094185095227,
+      "pc": 0,
+      "octave": 5,
+      "duration": 2.8791089526791978,
+      "amplitude": 0.09083430865752377,
+      "type": "bass",
+      "category": "tremolo"
+    },
+    {
+      "time": 105.12027013141214,
+      "pc": 0,
+      "octave": 4,
+      "duration": 2.2912502557926495,
+      "amplitude": 0.08963411336243514,
+      "type": "bass",
+      "category": "tremolo"
+    },
+    {
+      "time": 128.98193381021565,
+      "pc": 4,
+      "octave": 4,
+      "duration": 3.3212882811490747,
+      "amplitude": 0.0706905513992304,
+      "type": "cello",
+      "category": "tremolo"
+    },
+    {
+      "time": 85.5566023532094,
+      "pc": 7,
+      "octave": 5,
+      "duration": 1.1205305122707716,
+      "amplitude": 0.09184813276007754,
+      "type": "viola",
+      "category": "tremolo"
+    },
+    {
+      "time": 88.80274722878876,
+      "pc": 9,
+      "octave": 5,
+      "duration": 2.5077409670577797,
+      "amplitude": 0.10839413603413611,
+      "type": "bass",
+      "category": "tremolo"
+    },
+    {
+      "time": 92.45553547396364,
+      "pc": 7,
+      "octave": 4,
+      "duration": 2.9740494540719573,
+      "amplitude": 0.09376181251996027,
+      "type": "viola",
+      "category": "tremolo"
+    },
+    {
+      "time": 89.37719572336945,
+      "pc": 9,
+      "octave": 4,
+      "duration": 1.9141211467507109,
+      "amplitude": 0.13403313836591463,
+      "type": "viola",
+      "category": "tremolo"
+    },
+    {
+      "time": 124.7975976916102,
+      "pc": 5,
+      "octave": 3,
+      "duration": 2.0872988933929904,
+      "amplitude": 0.08762415537683339,
+      "type": "violin",
+      "category": "tremolo"
+    },
+    {
+      "time": 85.38782640786508,
+      "pc": 0,
+      "octave": 5,
+      "duration": 2.168931728154388,
+      "amplitude": 0.08455584117920521,
+      "type": "viola",
+      "category": "tremolo"
+    },
+    {
+      "time": 101.76882545762399,
+      "pc": 7,
+      "octave": 5,
+      "duration": 3.5599103488216643,
+      "amplitude": 0.12313069363270543,
+      "type": "viola",
+      "category": "tremolo"
+    },
+    {
+      "time": 110.77501902951875,
+      "pc": 7,
+      "octave": 5,
+      "duration": 3.628228855894402,
+      "amplitude": 0.09488336682503834,
+      "type": "violin",
+      "category": "tremolo"
+    },
+    {
+      "time": 87,
+      "pc": 2,
+      "octave": 6,
+      "duration": 2.0,
+      "amplitude": 0.18,
+      "type": "trumpet",
+      "category": "brass"
+    },
+    {
+      "time": 90,
+      "pc": 9,
+      "octave": 5,
+      "duration": 3.0,
+      "amplitude": 0.16,
+      "type": "horn",
+      "category": "brass"
+    },
+    {
+      "time": 93,
+      "pc": 5,
+      "octave": 3,
+      "duration": 4.0,
+      "amplitude": 0.15,
+      "type": "trombone",
+      "category": "brass"
+    },
+    {
+      "time": 96,
+      "pc": 7,
+      "octave": 6,
+      "duration": 1.5,
+      "amplitude": 0.2,
+      "type": "trumpet",
+      "category": "brass"
+    },
+    {
+      "time": 99,
+      "pc": 2,
+      "octave": 5,
+      "duration": 2.5,
+      "amplitude": 0.17,
+      "type": "horn",
+      "category": "brass"
+    },
+    {
+      "time": 102,
+      "pc": 0,
+      "octave": 6,
+      "duration": 2.0,
+      "amplitude": 0.19,
+      "type": "trumpet",
+      "category": "brass"
+    },
+    {
+      "time": 105,
+      "pc": 10,
+      "octave": 3,
+      "duration": 3.0,
+      "amplitude": 0.14,
+      "type": "trombone",
+      "category": "brass"
+    },
+    {
+      "time": 108,
+      "pc": 5,
+      "octave": 6,
+      "duration": 1.0,
+      "amplitude": 0.21,
+      "type": "trumpet",
+      "category": "brass"
+    },
+    {
+      "time": 110,
+      "pc": 7,
+      "octave": 4,
+      "duration": 4.0,
+      "amplitude": 0.16,
+      "type": "horn",
+      "category": "brass"
+    },
+    {
+      "time": 114,
+      "pc": 2,
+      "octave": 6,
+      "duration": 3.0,
+      "amplitude": 0.2,
+      "type": "trumpet",
+      "category": "brass"
+    },
+    {
+      "time": 118,
+      "pc": 9,
+      "octave": 3,
+      "duration": 3.5,
+      "amplitude": 0.15,
+      "type": "trombone",
+      "category": "brass"
+    },
+    {
+      "time": 122,
+      "pc": 5,
+      "octave": 5,
+      "duration": 2.0,
+      "amplitude": 0.18,
+      "type": "horn",
+      "category": "brass"
+    },
+    {
+      "time": 125,
+      "pc": 4,
+      "octave": 5,
+      "duration": 2.0,
+      "amplitude": 0.16,
+      "type": "trumpet",
+      "category": "brass"
+    },
+    {
+      "time": 106.63640925057953,
+      "pc": 2,
+      "octave": 2,
+      "duration": 2.0,
+      "amplitude": 0.17,
+      "type": "timpani",
+      "category": "percussion"
+    },
+    {
+      "time": 113.51763134661283,
+      "pc": 2,
+      "octave": 2,
+      "duration": 2.0,
+      "amplitude": 0.17,
+      "type": "timpani",
+      "category": "percussion"
+    },
+    {
+      "time": 85.43168335423076,
+      "pc": 5,
+      "octave": 2,
+      "duration": 2.0,
+      "amplitude": 0.17,
+      "type": "timpani",
+      "category": "percussion"
+    },
+    {
+      "time": 126.4931324787222,
+      "pc": 2,
+      "octave": 2,
+      "duration": 2.0,
+      "amplitude": 0.17,
+      "type": "timpani",
+      "category": "percussion"
+    },
+    {
+      "time": 88.9395941794766,
+      "pc": 5,
+      "octave": 2,
+      "duration": 2.0,
+      "amplitude": 0.17,
+      "type": "timpani",
+      "category": "percussion"
+    },
+    {
+      "time": 120.61899220655444,
+      "pc": 9,
+      "octave": 2,
+      "duration": 2.0,
+      "amplitude": 0.17,
+      "type": "timpani",
+      "category": "percussion"
+    },
+    {
+      "time": 111.83476487063488,
+      "pc": 9,
+      "octave": 2,
+      "duration": 2.0,
+      "amplitude": 0.17,
+      "type": "timpani",
+      "category": "percussion"
+    },
+    {
+      "time": 103.72407712175806,
+      "pc": 9,
+      "octave": 2,
+      "duration": 2.0,
+      "amplitude": 0.17,
+      "type": "timpani",
+      "category": "percussion"
+    },
+    {
+      "time": 100.51234069697789,
+      "pc": 9,
+      "octave": 2,
+      "duration": 2.0,
+      "amplitude": 0.17,
+      "type": "timpani",
+      "category": "percussion"
+    },
+    {
+      "time": 97.87935471593545,
+      "pc": 2,
+      "octave": 2,
+      "duration": 2.0,
+      "amplitude": 0.17,
+      "type": "timpani",
+      "category": "percussion"
+    },
+    {
+      "time": 102.75055608118238,
+      "pc": 2,
+      "octave": 2,
+      "duration": 2.0,
+      "amplitude": 0.17,
+      "type": "timpani",
+      "category": "percussion"
+    },
+    {
+      "time": 127.20564700115601,
+      "pc": 2,
+      "octave": 2,
+      "duration": 2.0,
+      "amplitude": 0.17,
+      "type": "timpani",
+      "category": "percussion"
+    },
+    {
+      "time": 112.65824719712643,
+      "pc": 9,
+      "octave": 2,
+      "duration": 2.0,
+      "amplitude": 0.17,
+      "type": "timpani",
+      "category": "percussion"
+    },
+    {
+      "time": 123.78721408289871,
+      "pc": 9,
+      "octave": 2,
+      "duration": 2.0,
+      "amplitude": 0.17,
+      "type": "timpani",
+      "category": "percussion"
+    },
+    {
+      "time": 103.16110789110265,
+      "pc": 9,
+      "octave": 2,
+      "duration": 2.0,
+      "amplitude": 0.17,
+      "type": "timpani",
+      "category": "percussion"
+    },
+    {
+      "time": 144.6301883309834,
+      "pc": 8,
+      "octave": 6,
+      "duration": 0.02,
+      "amplitude": 0.02522881087372573,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 135.5496304611528,
+      "pc": 9,
+      "octave": 6,
+      "duration": 0.02,
+      "amplitude": 0.028773070881940213,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 136.92790530981554,
+      "pc": 8,
+      "octave": 6,
+      "duration": 0.02,
+      "amplitude": 0.020365514927785315,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 141.34148594059133,
+      "pc": 3,
+      "octave": 6,
+      "duration": 0.02,
+      "amplitude": 0.021034846807799726,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 132.45950549616413,
+      "pc": 10,
+      "octave": 6,
+      "duration": 0.02,
+      "amplitude": 0.012644747587679726,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 144.99408529904244,
+      "pc": 9,
+      "octave": 6,
+      "duration": 0.02,
+      "amplitude": 0.01732457858912491,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 133.2336612837892,
+      "pc": 0,
+      "octave": 6,
+      "duration": 0.02,
+      "amplitude": 0.024129417629661445,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 136.08862010710607,
+      "pc": 1,
+      "octave": 6,
+      "duration": 0.02,
+      "amplitude": 0.012207945451662922,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 135.00872154418929,
+      "pc": 7,
+      "octave": 6,
+      "duration": 0.02,
+      "amplitude": 0.011500395990575603,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 136.52724037658828,
+      "pc": 2,
+      "octave": 6,
+      "duration": 0.02,
+      "amplitude": 0.01946013654921453,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 133.21744610757017,
+      "pc": 8,
+      "octave": 6,
+      "duration": 0.02,
+      "amplitude": 0.014216088279698585,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 142.39711960174702,
+      "pc": 0,
+      "octave": 6,
+      "duration": 0.02,
+      "amplitude": 0.016379232596258047,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 140.37187362769814,
+      "pc": 11,
+      "octave": 6,
+      "duration": 0.02,
+      "amplitude": 0.015729183819478174,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 138.8008323541952,
+      "pc": 8,
+      "octave": 6,
+      "duration": 0.02,
+      "amplitude": 0.028511456559860628,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 142.24435162614233,
+      "pc": 1,
+      "octave": 6,
+      "duration": 0.02,
+      "amplitude": 0.028677646962046284,
+      "type": "hail",
+      "category": "storm"
+    },
+    {
+      "time": 132.0,
+      "pc": 2,
+      "octave": 4,
+      "duration": 3.4615384615384612,
+      "amplitude": 0.08399999999999999,
+      "type": "cello",
+      "category": "melody"
+    },
+    {
+      "time": 132.03,
+      "pc": 2,
+      "octave": 5,
+      "duration": 2.769230769230769,
+      "amplitude": 0.0336,
+      "type": "violin",
+      "category": "accompaniment"
+    },
+    {
+      "time": 135.46153846153845,
+      "pc": 6,
+      "octave": 4,
+      "duration": 1.7307692307692306,
+      "amplitude": 0.06,
+      "type": "cello",
+      "category": "melody"
+    },
+    {
+      "time": 135.49153846153845,
+      "pc": 6,
+      "octave": 5,
+      "duration": 1.3846153846153846,
+      "amplitude": 0.024,
+      "type": "violin",
+      "category": "accompaniment"
+    },
+    {
+      "time": 137.19230769230768,
+      "pc": 9,
+      "octave": 4,
+      "duration": 2.596153846153846,
+      "amplitude": 0.072,
+      "type": "cello",
+      "category": "melody"
+    },
+    {
+      "time": 137.22230769230768,
+      "pc": 9,
+      "octave": 5,
+      "duration": 2.0769230769230766,
+      "amplitude": 0.0288,
+      "type": "violin",
+      "category": "accompaniment"
+    },
+    {
+      "time": 139.78846153846152,
+      "pc": 7,
+      "octave": 4,
+      "duration": 0.8653846153846153,
+      "amplitude": 0.048,
+      "type": "cello",
+      "category": "melody"
+    },
+    {
+      "time": 139.81846153846152,
+      "pc": 7,
+      "octave": 5,
+      "duration": 0.6923076923076923,
+      "amplitude": 0.019200000000000002,
+      "type": "violin",
+      "category": "accompaniment"
+    },
+    {
+      "time": 140.65384615384613,
+      "pc": 6,
+      "octave": 4,
+      "duration": 5.192307692307692,
+      "amplitude": 0.096,
+      "type": "cello",
+      "category": "melody"
+    },
+    {
+      "time": 140.68384615384613,
+      "pc": 6,
+      "octave": 5,
+      "duration": 4.153846153846153,
+      "amplitude": 0.038400000000000004,
+      "type": "violin",
+      "category": "accompaniment"
+    },
+    {
+      "time": 145.8461538461538,
+      "pc": 4,
+      "octave": 4,
+      "duration": 1.7307692307692306,
+      "amplitude": 0.06,
+      "type": "cello",
+      "category": "melody"
+    },
+    {
+      "time": 145.8761538461538,
+      "pc": 4,
+      "octave": 5,
+      "duration": 1.3846153846153846,
+      "amplitude": 0.024,
+      "type": "violin",
+      "category": "accompaniment"
+    },
+    {
+      "time": 147.57692307692304,
+      "pc": 2,
+      "octave": 4,
+      "duration": 1.7307692307692306,
+      "amplitude": 0.072,
+      "type": "cello",
+      "category": "melody"
+    },
+    {
+      "time": 147.60692307692304,
+      "pc": 2,
+      "octave": 5,
+      "duration": 1.3846153846153846,
+      "amplitude": 0.0288,
+      "type": "violin",
+      "category": "accompaniment"
+    },
+    {
+      "time": 151.26740594624064,
+      "pc": 2,
+      "octave": 5,
+      "duration": 1.5,
+      "amplitude": 0.03,
+      "type": "cowbell",
+      "category": "color"
+    },
+    {
+      "time": 156.99712299627558,
+      "pc": 2,
+      "octave": 5,
+      "duration": 1.5,
+      "amplitude": 0.03,
+      "type": "cowbell",
+      "category": "color"
+    },
+    {
+      "time": 151.2066725510847,
+      "pc": 2,
+      "octave": 5,
+      "duration": 1.5,
+      "amplitude": 0.03,
+      "type": "cowbell",
+      "category": "color"
+    },
+    {
+      "time": 150.69663586044476,
+      "pc": 2,
+      "octave": 5,
+      "duration": 1.5,
+      "amplitude": 0.03,
+      "type": "cowbell",
+      "category": "color"
+    },
+    {
+      "time": 154.87831049378212,
+      "pc": 2,
+      "octave": 5,
+      "duration": 1.5,
+      "amplitude": 0.03,
+      "type": "cowbell",
+      "category": "color"
+    },
+    {
+      "time": 153.0,
+      "pc": 2,
+      "octave": 3,
+      "duration": 7.0,
+      "amplitude": 0.03,
+      "type": "cello",
+      "category": "chord"
+    },
+    {
+      "time": 153.0,
+      "pc": 2,
+      "octave": 4,
+      "duration": 7.0,
+      "amplitude": 0.05,
+      "type": "viola",
+      "category": "chord"
+    },
+    {
+      "time": 153.0,
+      "pc": 2,
+      "octave": 5,
+      "duration": 7.0,
+      "amplitude": 0.03,
+      "type": "violin",
+      "category": "chord"
+    },
+    {
+      "time": 153.0,
+      "pc": 6,
+      "octave": 3,
+      "duration": 7.0,
+      "amplitude": 0.03,
+      "type": "cello",
+      "category": "chord"
+    },
+    {
+      "time": 153.0,
+      "pc": 6,
+      "octave": 4,
+      "duration": 7.0,
+      "amplitude": 0.05,
+      "type": "viola",
+      "category": "chord"
+    },
+    {
+      "time": 153.0,
+      "pc": 6,
+      "octave": 5,
+      "duration": 7.0,
+      "amplitude": 0.03,
+      "type": "violin",
+      "category": "chord"
+    },
+    {
+      "time": 153.0,
+      "pc": 9,
+      "octave": 3,
+      "duration": 7.0,
+      "amplitude": 0.03,
+      "type": "cello",
+      "category": "chord"
+    },
+    {
+      "time": 153.0,
+      "pc": 9,
+      "octave": 4,
+      "duration": 7.0,
+      "amplitude": 0.05,
+      "type": "viola",
+      "category": "chord"
+    },
+    {
+      "time": 153.0,
+      "pc": 9,
+      "octave": 5,
+      "duration": 7.0,
+      "amplitude": 0.03,
+      "type": "violin",
+      "category": "chord"
+    }
+  ]
+}
