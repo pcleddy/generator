@@ -36,46 +36,49 @@ DURATION = 100  # seconds
 # Based on Peterson & Barney (1952) + Fant (1960) measurements
 # =====================================================================
 VOWELS = {
+    # Formant data: (frequency_hz, bandwidth_hz, amplitude)
+    # Amplitudes boosted on F1/F2 so cascaded 4th-order filters
+    # produce strong, distinct vowel shapes. F3+ are "presence" only.
     "ah": [  # as in "father" — open, warm
         (800,  80,  1.0),
-        (1150, 90,  0.50),
-        (2800, 120, 0.18),
-        (3500, 130, 0.10),
-        (4950, 140, 0.04),
+        (1150, 90,  0.63),
+        (2800, 120, 0.15),
+        (3500, 130, 0.07),
+        (4950, 140, 0.03),
     ],
     "ee": [  # as in "see" — bright, forward
         (270,  60,  1.0),
-        (2300, 100, 0.35),
-        (3000, 120, 0.15),
-        (3700, 130, 0.08),
-        (4950, 140, 0.03),
+        (2300, 90,  0.50),
+        (3000, 110, 0.12),
+        (3700, 130, 0.05),
+        (4950, 140, 0.02),
     ],
     "oh": [  # as in "go" — round, dark
         (500,  70,  1.0),
-        (700,  80,  0.40),
-        (2800, 100, 0.12),
-        (3500, 130, 0.06),
-        (4950, 140, 0.03),
+        (700,  80,  0.55),
+        (2800, 100, 0.10),
+        (3500, 130, 0.05),
+        (4950, 140, 0.02),
     ],
     "oo": [  # as in "moon" — closed, deep
         (300,  50,  1.0),
-        (600,  70,  0.30),
-        (2300, 100, 0.08),
-        (3500, 120, 0.04),
-        (4950, 140, 0.02),
+        (600,  70,  0.45),
+        (2300, 100, 0.06),
+        (3500, 120, 0.03),
+        (4950, 140, 0.01),
     ],
-    "mm": [  # humming — nasal, closed
-        (250,  60,  1.0),
-        (1700, 120, 0.10),
-        (2500, 130, 0.04),
+    "mm": [  # humming — nasal, closed mouth
+        (250,  50,  1.0),
+        (1700, 100, 0.15),
+        (2500, 120, 0.05),
         (3300, 140, 0.02),
     ],
     "eh": [  # as in "bed" — mid, neutral
         (530,  60,  1.0),
-        (1850, 100, 0.35),
-        (2500, 120, 0.12),
-        (3500, 130, 0.06),
-        (4950, 140, 0.03),
+        (1850, 90,  0.50),
+        (2500, 110, 0.10),
+        (3500, 130, 0.05),
+        (4950, 140, 0.02),
     ],
 }
 
@@ -269,8 +272,10 @@ def glottal_source(freq_array, n_samples, jitter, rng):
 def formant_filter(signal, formant_set, sample_rate):
     """Apply formant resonances to shape the spectral envelope.
 
-    Each formant is a bandpass resonance at a characteristic frequency.
-    Together they define the vowel identity.
+    Each formant is a cascaded (4th-order) bandpass resonance.
+    Single 2nd-order filters give too-gentle peaks — real vocal
+    tract resonances are sharp. Cascading two biquads per formant
+    gives 24dB/oct rolloff and distinct vowel identity.
     """
     output = np.zeros_like(signal)
 
@@ -279,13 +284,19 @@ def formant_filter(signal, formant_set, sample_rate):
             continue
 
         w0 = 2 * np.pi * f_freq / sample_rate
-        Q = f_freq / max(f_bw, 1)
+        # Slightly wider Q for cascaded version (cascading narrows effective BW)
+        Q = f_freq / max(f_bw * 1.4, 1)
         alpha = np.sin(w0) / (2 * Q)
 
         b = [alpha, 0, -alpha]
         a = [1 + alpha, -2 * np.cos(w0), 1 - alpha]
 
-        output += f_amp * lfilter(b, a, signal)
+        # First pass
+        stage1 = lfilter(b, a, signal)
+        # Second pass — cascaded for 4th-order (sharper resonance)
+        stage2 = lfilter(b, a, stage1)
+
+        output += f_amp * stage2
 
     return output
 
@@ -341,17 +352,49 @@ def vocal_tone(t, start, pitch_class, octave, duration, amplitude,
     )
     freq_base = freq * (2 ** (drift_cents / 1200))
 
-    # Vibrato
+    # Vibrato — irregular, human
+    # Real vocal vibrato is NOT a sine wave. The rate drifts (faster when
+    # tense, slower when relaxed), the depth varies breath-to-breath,
+    # and there's random jitter on top. We model this with:
+    #   - Low-frequency noise modulating the rate
+    #   - Separate noise modulating the depth
+    #   - Gradual onset (singers don't start with full vibrato)
     vib_delay = voice_timbre["vibrato_delay"]
     vib_rate = voice_timbre["vibrato_rate"]
     vib_depth = voice_timbre["vibrato_depth"]
 
     if vib_delay < duration and vib_rate > 0:
-        vib_onset = np.clip((t_local - vib_delay) / 0.4, 0, 1)
-        rate_wobble = 1.0 + 0.06 * np.sin(2 * np.pi * 0.25 * t_local)
-        vibrato = vib_onset * vib_depth * np.sin(
-            2 * np.pi * vib_rate * rate_wobble * t_local
+        # Gradual onset over ~0.5s
+        vib_onset = np.clip((t_local - vib_delay) / 0.5, 0, 1)
+        # Onset curve: slow start, not linear
+        vib_onset = vib_onset ** 1.5
+
+        # Rate variation: ±15% wander via smoothed noise
+        n_rate_pts = max(int(duration * 8), 4)
+        rate_noise = np.cumsum(rng.randn(n_rate_pts) * 0.15)
+        rate_noise = np.clip(rate_noise, -0.4, 0.4)
+        rate_mod = np.interp(
+            np.linspace(0, 1, n_active),
+            np.linspace(0, 1, n_rate_pts),
+            rate_noise
         )
+        inst_rate = vib_rate * (1.0 + rate_mod * 0.15)
+
+        # Depth variation: ±25% wander
+        n_depth_pts = max(int(duration * 6), 4)
+        depth_noise = np.cumsum(rng.randn(n_depth_pts) * 0.2)
+        depth_noise = np.clip(depth_noise, -0.6, 0.6)
+        depth_mod = np.interp(
+            np.linspace(0, 1, n_active),
+            np.linspace(0, 1, n_depth_pts),
+            depth_noise
+        )
+        inst_depth = vib_depth * (1.0 + depth_mod * 0.25)
+
+        # Accumulate phase with varying rate (not constant-rate sine)
+        vib_phase = np.cumsum(2 * np.pi * inst_rate / SAMPLE_RATE)
+        vibrato = vib_onset * inst_depth * np.sin(vib_phase)
+
         freq_final = freq_base * (2 ** (vibrato / 1200))
     else:
         freq_final = freq_base
@@ -422,20 +465,23 @@ def vocal_tone(t, start, pitch_class, octave, duration, amplitude,
         filtered /= peak
 
     # --- BREATHINESS: aspiration noise through formants ---
+    # Reduced relative to voiced content. Breath is supplementary texture,
+    # not the primary signal. Only prominent at phrase boundaries.
     breathiness = voice_timbre["breathiness"]
     if breathiness > 0:
         breath_noise = rng.randn(n_active)
-        # Shape breath noise through the current vowel formants
+        # Shape breath through wider formants (aspiration is less focused)
         mid_vowel = VOWELS[vowel_seq[len(vowel_seq) // 2]]
-        mid_shifted = [(f * shift_mult, bw * 1.5, amp) for f, bw, amp in mid_vowel]
+        mid_shifted = [(f * shift_mult, bw * 2.0, amp * 0.6) for f, bw, amp in mid_vowel]
         breath_filtered = formant_filter(breath_noise, mid_shifted, SAMPLE_RATE)
         b_peak = np.max(np.abs(breath_filtered))
         if b_peak > 0:
             breath_filtered /= b_peak
 
-        # Breath envelope: more at start and end, less in middle
-        breath_env = 0.4 + 0.6 * (1.0 - np.sin(t_norm * np.pi) * 0.6)
-        filtered += breathiness * breath_filtered * breath_env
+        # Breath envelope: concentrated at attack and release, minimal in sustain
+        breath_env = np.exp(-8.0 * t_norm) + 0.15 * np.exp(-3.0 * (1.0 - t_norm) ** 2)
+        breath_env = np.clip(breath_env, 0, 1)
+        filtered += breathiness * 0.5 * breath_filtered * breath_env
 
     # --- SHIMMER: amplitude perturbation ---
     shimmer = voice_timbre["shimmer"]
