@@ -266,37 +266,57 @@ def glottal_source(freq_array, n_samples, jitter, rng):
     # Remove DC offset
     pulse -= np.mean(pulse)
 
+    # Spectral tilt: real glottal source has additional -6dB/oct rolloff
+    # beyond what the pulse shape gives. Simple first-order lowpass.
+    tilt_coeff = 0.96  # gentle rolloff
+    pulse = lfilter([1.0], [1.0, -tilt_coeff], pulse)
+
+    # Re-center after filtering
+    pulse -= np.mean(pulse)
+
     return pulse
 
 
 def formant_filter(signal, formant_set, sample_rate):
-    """Apply formant resonances to shape the spectral envelope.
+    """Apply vocal tract formant resonances.
 
-    Each formant is a cascaded (4th-order) bandpass resonance.
-    Single 2nd-order filters give too-gentle peaks — real vocal
-    tract resonances are sharp. Cascading two biquads per formant
-    gives 24dB/oct rolloff and distinct vowel identity.
+    CRITICAL FIX: Uses all-pole resonators (IIR peak filters),
+    NOT bandpass filters. The vocal tract is a series of resonant
+    cavities that AMPLIFY at formant frequencies — it doesn't
+    reject everything else. Bandpass filters were killing most of
+    the harmonic energy, producing Darth Vader breathing.
+
+    All-pole resonator: H(z) = gain / (1 - 2r·cos(θ)·z⁻¹ + r²·z⁻²)
+    where r = exp(-π·bandwidth/fs), θ = 2π·freq/fs
+
+    We cascade the formants in series (F1 → F2 → F3 → ...) which
+    models the physical vocal tract: sound passes through one
+    resonant cavity after another.
     """
-    output = np.zeros_like(signal)
+    output = signal.copy()
 
     for f_freq, f_bw, f_amp in formant_set:
         if f_freq >= sample_rate / 2 - 100:
             continue
 
-        w0 = 2 * np.pi * f_freq / sample_rate
-        # Slightly wider Q for cascaded version (cascading narrows effective BW)
-        Q = f_freq / max(f_bw * 1.4, 1)
-        alpha = np.sin(w0) / (2 * Q)
+        # Pole radius: controls resonance bandwidth
+        # Closer to 1.0 = narrower/sharper resonance
+        r = np.exp(-np.pi * f_bw / sample_rate)
 
-        b = [alpha, 0, -alpha]
-        a = [1 + alpha, -2 * np.cos(w0), 1 - alpha]
+        # Pole angle: formant center frequency
+        theta = 2 * np.pi * f_freq / sample_rate
 
-        # First pass
-        stage1 = lfilter(b, a, signal)
-        # Second pass — cascaded for 4th-order (sharper resonance)
-        stage2 = lfilter(b, a, stage1)
+        # All-pole resonator coefficients
+        a = [1.0, -2 * r * np.cos(theta), r * r]
 
-        output += f_amp * stage2
+        # Gain normalization: scale so peak is at f_amp
+        # Without this, each resonator has arbitrary gain
+        gain = f_amp * (1 - 2 * r * np.cos(theta) + r * r)
+
+        b = [gain]
+
+        # Series cascade: output of previous stage feeds the next
+        output = lfilter(b, a, output)
 
     return output
 
