@@ -1,0 +1,1916 @@
+{
+  "title": "The Dormitory of Dust \u2014 Quay Brothers Music Box",
+  "duration": 180,
+  "seed": 42,
+  "audio_file": "quay_music_box_01.mp3",
+  "events": [
+    {
+      "time": 8.0,
+      "pc": 2,
+      "octave": 6,
+      "duration": 0.5555555555555556,
+      "amplitude": 0.17600000000000002,
+      "type": "music_box",
+      "category": "melody"
+    },
+    {
+      "time": 8.555555555555555,
+      "pc": 0,
+      "octave": 6,
+      "duration": 0.2778385952620747,
+      "amplitude": 0.1097962962962963,
+      "type": "music_box",
+      "category": "melody"
+    },
+    {
+      "time": 8.83339415081763,
+      "pc": 11,
+      "octave": 6,
+      "duration": 0.2778690206526814,
+      "amplitude": 0.1096944221447002,
+      "type": "music_box",
+      "category": "melody"
+    },
+    {
+      "time": 9.111263171470313,
+      "pc": 9,
+      "octave": 5,
+      "duration": 0.5557989120810634,
+      "amplitude": 0.13151104420455306,
+      "type": "music_box",
+      "category": "melody"
+    },
+    {
+      "time": 9.667062083551375,
+      "pc": 7,
+      "octave": 5,
+      "duration": 1.111841413973269,
+      "amplitude": 0.15314424146377698,
+      "type": "music_box",
+      "category": "melody"
+    },
+    {
+      "time": 10.778903497524645,
+      "pc": 7,
+      "octave": 5,
+      "duration": 0.55616451044258,
+      "amplitude": 0.1743697099481189,
+      "type": "music_box",
+      "category": "melody"
+    },
+    {
+      "time": 11.335068007967225,
+      "pc": 9,
+      "octave": 5,
+      "duration": 0.27814327294374547,
+      "amplitude": 0.10877714173041202,
+      "type": "music_box",
+      "category": "melody"
+    },
+    {
+      "time": 11.61321128091097,
+      "pc": 11,
+      "octave": 5,
+      "duration": 0.27817379854490004,
+      "amplitude": 0.10867515586366598,
+      "type": "music_box",
+      "category": "melody"
+    },
+    {
+      "time": 11.89138507945587,
+      "pc": 0,
+      "octave": 6,
+      "duration": 0.5564086683964846,
+      "amplitude": 0.13028779056503942,
+      "type": "music_box",
+      "category": "melody"
+    },
+    {
+      "time": 12.447793747852355,
+      "pc": 2,
+      "octave": 6,
+      "duration": 1.113061729314665,
+      "amplitude": 0.1517167992094358,
+      "type": "music_box",
+      "category": "melody"
+    },
+    {
+      "time": 13.56085547716702,
+      "pc": 4,
+      "octave": 6,
+      "duration": 0.5567754719988246,
+      "amplitude": 0.19432983538506976,
+      "type": "music_box",
+      "category": "melody"
+    },
+    {
+      "time": 14.117630949165845,
+      "pc": 2,
+      "octave": 6,
+      "duration": 0.5568979101223366,
+      "amplitude": 0.12930824238236702,
+      "type": "music_box",
+      "category": "melody"
+    },
+    {
+      "time": 14.67452885928818,
+      "pc": 11,
+      "octave": 5,
+      "duration": 0.5570204290500029,
+      "amplitude": 0.10755267275159433,
+      "type": "music_box",
+      "category": "melody"
+    },
+    {
+      "time": 15.231549288338183,
+      "pc": 7,
+      "octave": 5,
+      "duration": 1.6714290866122137,
+      "amplitude": 0.15028780469865305,
+      "type": "music_box",
+      "category": "melody"
+    },
+    {
+      "time": 16.902978374950397,
+      "pc": 9,
+      "octave": 5,
+      "duration": 0.5575112334338271,
+      "amplitude": 0.12808268951502183,
+      "type": "music_box",
+      "category": "melody"
+    },
+    {
+      "time": 17.460489608384226,
+      "pc": 7,
+      "octave": 5,
+      "duration": 0.27881707883251977,
+      "amplitude": 0.08522492304820731,
+      "type": "music_box",
+      "category": "melody"
+    },
+    {
+      "time": 17.739306687216747,
+      "pc": 6,
+      "octave": 4,
+      "duration": 0.2788478268339637,
+      "amplitude": 0.0851431367050831,
+      "type": "music_box",
+      "category": "melody"
+    },
+    {
+      "time": 18.01815451405071,
+      "pc": 7,
+      "octave": 5,
+      "duration": 1.6732715100597861,
+      "amplitude": 0.17012268268509026,
+      "type": "music_box",
+      "category": "melody"
+    },
+    {
+      "time": 19.6914260241105,
+      "pc": 2,
+      "octave": 6,
+      "duration": 0.5581265940846452,
+      "amplitude": 0.16914103006585518,
+      "type": "music_box",
+      "category": "melody"
+    },
+    {
+      "time": 20.249552618195143,
+      "pc": 0,
+      "octave": 6,
+      "duration": 0.2791249629316323,
+      "amplitude": 0.10550849737332844,
+      "type": "music_box",
+      "category": "melody"
+    },
+    {
+      "time": 20.528677581126775,
+      "pc": 11,
+      "octave": 6,
+      "duration": 0.2791558129136693,
+      "amplitude": 0.10540615155358685,
+      "type": "music_box",
+      "category": "melody"
+    },
+    {
+      "time": 20.807833394040443,
+      "pc": 9,
+      "octave": 5,
+      "duration": 0.5583733462531454,
+      "amplitude": 0.12636455330662222,
+      "type": "music_box",
+      "category": "melody"
+    },
+    {
+      "time": 21.36620674029359,
+      "pc": 7,
+      "octave": 5,
+      "duration": 1.1169936834121708,
+      "amplitude": 0.14713868053998264,
+      "type": "music_box",
+      "category": "melody"
+    },
+    {
+      "time": 22.48320042370576,
+      "pc": 7,
+      "octave": 5,
+      "duration": 0.5587440512528956,
+      "amplitude": 0.1675031890847593,
+      "type": "music_box",
+      "category": "melody"
+    },
+    {
+      "time": 23.041944474958655,
+      "pc": 9,
+      "octave": 5,
+      "duration": 0.2794338964360173,
+      "amplitude": 0.10448462035918182,
+      "type": "music_box",
+      "category": "melody"
+    },
+    {
+      "time": 23.321378371394673,
+      "pc": 11,
+      "octave": 5,
+      "duration": 0.2794648489726615,
+      "amplitude": 0.10438216126382195,
+      "type": "music_box",
+      "category": "melody"
+    },
+    {
+      "time": 23.600843220367334,
+      "pc": 0,
+      "octave": 6,
+      "duration": 0.558991623593848,
+      "amplitude": 0.12513562898303837,
+      "type": "music_box",
+      "category": "melody"
+    },
+    {
+      "time": 24.159834843961182,
+      "pc": 2,
+      "octave": 6,
+      "duration": 1.1182310595903735,
+      "amplitude": 0.14570461811343327,
+      "type": "music_box",
+      "category": "melody"
+    },
+    {
+      "time": 25.278065903551557,
+      "pc": 4,
+      "octave": 6,
+      "duration": 0.5593635620524775,
+      "amplitude": 0.186596476503656,
+      "type": "music_box",
+      "category": "melody"
+    },
+    {
+      "time": 25.837429465604036,
+      "pc": 2,
+      "octave": 6,
+      "duration": 0.5594877157869272,
+      "amplitude": 0.12415153103513424,
+      "type": "music_box",
+      "category": "melody"
+    },
+    {
+      "time": 26.39691718139096,
+      "pc": 11,
+      "octave": 5,
+      "duration": 0.5596119522217257,
+      "amplitude": 0.10325446370015666,
+      "type": "music_box",
+      "category": "melody"
+    },
+    {
+      "time": 26.956529133612687,
+      "pc": 7,
+      "octave": 5,
+      "duration": 1.6792088143461672,
+      "amplitude": 0.14426898171141217,
+      "type": "music_box",
+      "category": "melody"
+    },
+    {
+      "time": 28.635737947958855,
+      "pc": 9,
+      "octave": 5,
+      "duration": 0.560109643747239,
+      "amplitude": 0.1229202753028981,
+      "type": "music_box",
+      "category": "melody"
+    },
+    {
+      "time": 29.195847591706094,
+      "pc": 7,
+      "octave": 5,
+      "duration": 0.28011714750446337,
+      "amplitude": 0.08178255137309956,
+      "type": "music_box",
+      "category": "melody"
+    },
+    {
+      "time": 29.475964739210557,
+      "pc": 6,
+      "octave": 4,
+      "duration": 0.28014832766218356,
+      "amplitude": 0.08170038367649825,
+      "type": "music_box",
+      "category": "melody"
+    },
+    {
+      "time": 29.75611306687274,
+      "pc": 7,
+      "octave": 5,
+      "duration": 1.6810771094035917,
+      "amplitude": 0.1632364136674347,
+      "type": "music_box",
+      "category": "melody"
+    },
+    {
+      "time": 31.43719017627633,
+      "pc": 2,
+      "octave": 6,
+      "duration": 0.5607336569567909,
+      "amplitude": 0.16225018176325123,
+      "type": "music_box",
+      "category": "melody"
+    },
+    {
+      "time": 31.997923833233124,
+      "pc": 0,
+      "octave": 6,
+      "duration": 0.280429362681733,
+      "amplitude": 0.10120076126114785,
+      "type": "music_box",
+      "category": "melody"
+    },
+    {
+      "time": 32.27835319591485,
+      "pc": 11,
+      "octave": 6,
+      "duration": 0.2804606472225468,
+      "amplitude": 0.10109793716149788,
+      "type": "music_box",
+      "category": "melody"
+    },
+    {
+      "time": 32.5588138431374,
+      "pc": 9,
+      "octave": 5,
+      "duration": 0.5609838844711295,
+      "amplitude": 0.12119412190901956,
+      "type": "music_box",
+      "category": "melody"
+    },
+    {
+      "time": 33.11979772760853,
+      "pc": 7,
+      "octave": 5,
+      "duration": 1.1222182408257588,
+      "amplitude": 0.14110517049982763,
+      "type": "music_box",
+      "category": "melody"
+    },
+    {
+      "time": 34.24201596843429,
+      "pc": 7,
+      "octave": 5,
+      "duration": 0.5613598160985402,
+      "amplitude": 0.16060468396518524,
+      "type": "music_box",
+      "category": "melody"
+    },
+    {
+      "time": 34.803375784532825,
+      "pc": 9,
+      "octave": 5,
+      "duration": 0.2807426520096776,
+      "amplitude": 0.1001720955456713,
+      "type": "music_box",
+      "category": "melody"
+    },
+    {
+      "time": 35.084118436542504,
+      "pc": 11,
+      "octave": 5,
+      "duration": 0.28077404152664076,
+      "amplitude": 0.10006915657326775,
+      "type": "music_box",
+      "category": "melody"
+    },
+    {
+      "time": 35.364892478069144,
+      "pc": 0,
+      "octave": 6,
+      "duration": 0.56161088314889,
+      "amplitude": 0.11995944730964958,
+      "type": "music_box",
+      "category": "melody"
+    },
+    {
+      "time": 35.92650336121803,
+      "pc": 2,
+      "octave": 6,
+      "duration": 1.1234730790856275,
+      "amplitude": 0.13966439494124142,
+      "type": "music_box",
+      "category": "melody"
+    },
+    {
+      "time": 37.04997644030366,
+      "pc": 4,
+      "octave": 6,
+      "duration": 0.5619880773868476,
+      "amplitude": 0.1788270155493996,
+      "type": "music_box",
+      "category": "melody"
+    },
+    {
+      "time": 37.61196451769051,
+      "pc": 2,
+      "octave": 6,
+      "duration": 0.5621139871721988,
+      "amplitude": 0.11897073561221617,
+      "type": "music_box",
+      "category": "melody"
+    },
+    {
+      "time": 38.174078504862706,
+      "pc": 11,
+      "octave": 5,
+      "duration": 0.5622399816169752,
+      "amplitude": 0.09893617121488367,
+      "type": "music_box",
+      "category": "melody"
+    },
+    {
+      "time": 38.73631848647968,
+      "pc": 7,
+      "octave": 5,
+      "duration": 1.6870981824482625,
+      "amplitude": 0.13822202317694043,
+      "type": "music_box",
+      "category": "melody"
+    },
+    {
+      "time": 40.42341666892794,
+      "pc": 9,
+      "octave": 5,
+      "duration": 0.5627447228635322,
+      "amplitude": 0.11773369666567171,
+      "type": "music_box",
+      "category": "melody"
+    },
+    {
+      "time": 40.98616139179148,
+      "pc": 7,
+      "octave": 5,
+      "duration": 0.28143557098738414,
+      "amplitude": 0.07832405932507451,
+      "type": "music_box",
+      "category": "melody"
+    },
+    {
+      "time": 41.26759696277886,
+      "pc": 6,
+      "octave": 4,
+      "duration": 0.2814671935194043,
+      "amplitude": 0.0782415048909182,
+      "type": "music_box",
+      "category": "melody"
+    },
+    {
+      "time": 41.549064156298265,
+      "pc": 7,
+      "octave": 5,
+      "duration": 1.6889929602773366,
+      "amplitude": 0.15631788236163838,
+      "type": "music_box",
+      "category": "melody"
+    },
+    {
+      "time": 43.238057116575604,
+      "pc": 2,
+      "octave": 6,
+      "duration": 0.5633775933061949,
+      "amplitude": 0.155327006491609,
+      "type": "music_box",
+      "category": "melody"
+    },
+    {
+      "time": 43.801434709881796,
+      "pc": 0,
+      "octave": 6,
+      "duration": 0.2817522197397066,
+      "amplitude": 0.09687280727304334,
+      "type": "music_box",
+      "category": "melody"
+    },
+    {
+      "time": 44.083186929621505,
+      "pc": 11,
+      "octave": 6,
+      "duration": 0.2817839491373083,
+      "amplitude": 0.09676949812580546,
+      "type": "music_box",
+      "category": "melody"
+    },
+    {
+      "time": 44.36497087875881,
+      "pc": 9,
+      "octave": 5,
+      "duration": 0.5636313785129944,
+      "amplitude": 0.11599941281334614,
+      "type": "music_box",
+      "category": "melody"
+    },
+    {
+      "time": 44.928602257271805,
+      "pc": 7,
+      "octave": 5,
+      "duration": 1.1275167924214846,
+      "amplitude": 0.1350433175079338,
+      "type": "music_box",
+      "category": "melody"
+    },
+    {
+      "time": 46.05611904969329,
+      "pc": 7,
+      "octave": 5,
+      "duration": 0.5640126607418143,
+      "amplitude": 0.15367374349084661,
+      "type": "music_box",
+      "category": "melody"
+    },
+    {
+      "time": 46.6201317104351,
+      "pc": 9,
+      "octave": 5,
+      "duration": 0.28206996821274005,
+      "amplitude": 0.09583928503950713,
+      "type": "music_box",
+      "category": "melody"
+    },
+    {
+      "time": 46.90220167864784,
+      "pc": 11,
+      "octave": 5,
+      "duration": 0.28210180508884025,
+      "amplitude": 0.09573585938449579,
+      "type": "music_box",
+      "category": "melody"
+    },
+    {
+      "time": 47.184303483736684,
+      "pc": 0,
+      "octave": 6,
+      "duration": 0.5642673054942622,
+      "amplitude": 0.11475890646715586,
+      "type": "music_box",
+      "category": "melody"
+    },
+    {
+      "time": 47.748570789230946,
+      "pc": 2,
+      "octave": 6,
+      "duration": 1.1287895073438927,
+      "amplitude": 0.1335957336615281,
+      "type": "music_box",
+      "category": "melody"
+    },
+    {
+      "time": 48.87736029657484,
+      "pc": 4,
+      "octave": 6,
+      "duration": 0.5646498804589994,
+      "amplitude": 0.17102094220426062,
+      "type": "music_box",
+      "category": "melody"
+    },
+    {
+      "time": 49.44201017703384,
+      "pc": 2,
+      "octave": 6,
+      "duration": 0.5647775880823761,
+      "amplitude": 0.1137655155221051,
+      "type": "music_box",
+      "category": "melody"
+    },
+    {
+      "time": 50.00678776511622,
+      "pc": 11,
+      "octave": 5,
+      "duration": 0.5649053823898431,
+      "amplitude": 0.09459751115279072,
+      "type": "music_box",
+      "category": "melody"
+    },
+    {
+      "time": 50.57169314750607,
+      "pc": 7,
+      "octave": 5,
+      "duration": 1.6950997904385146,
+      "amplitude": 0.13214653085094688,
+      "type": "music_box",
+      "category": "melody"
+    },
+    {
+      "time": 52.26679293794458,
+      "pc": 9,
+      "octave": 5,
+      "duration": 0.5654173413607324,
+      "amplitude": 0.11252261110730438,
+      "type": "music_box",
+      "category": "melody"
+    },
+    {
+      "time": 52.832210279305315,
+      "pc": 7,
+      "octave": 5,
+      "duration": 0.2827727852520427,
+      "amplitude": 0.07484921831807045,
+      "type": "music_box",
+      "category": "melody"
+    },
+    {
+      "time": 53.11498306455736,
+      "pc": 6,
+      "octave": 4,
+      "duration": 0.28280486071783273,
+      "amplitude": 0.07476627163439652,
+      "type": "music_box",
+      "category": "melody"
+    },
+    {
+      "time": 53.39778792527519,
+      "pc": 7,
+      "octave": 5,
+      "duration": 1.6970216826050022,
+      "amplitude": 0.14936663108383857,
+      "type": "music_box",
+      "category": "melody"
+    },
+    {
+      "time": 55.094809607880194,
+      "pc": 2,
+      "octave": 6,
+      "duration": 0.5665879469760465,
+      "amplitude": 0.14837104503004364,
+      "type": "music_box",
+      "category": "melody"
+    },
+    {
+      "time": 55.661397554856244,
+      "pc": 0,
+      "octave": 6,
+      "duration": 0.28494923439941167,
+      "amplitude": 0.09252415422988604,
+      "type": "music_box",
+      "category": "melody"
+    },
+    {
+      "time": 55.94634678925566,
+      "pc": 11,
+      "octave": 6,
+      "duration": 0.28578903241584536,
+      "amplitude": 0.0924196728439396,
+      "type": "music_box",
+      "category": "melody"
+    },
+    {
+      "time": 56.2321358216715,
+      "pc": 9,
+      "octave": 5,
+      "duration": 0.5732725843932339,
+      "amplitude": 0.11077786023846455,
+      "type": "music_box",
+      "category": "melody"
+    },
+    {
+      "time": 56.805408406064736,
+      "pc": 7,
+      "octave": 5,
+      "duration": 1.15340428575129,
+      "amplitude": 0.12894655701822008,
+      "type": "music_box",
+      "category": "melody"
+    },
+    {
+      "time": 57.95881269181603,
+      "pc": 7,
+      "octave": 5,
+      "duration": 0.5837281414759099,
+      "amplitude": 0.14669082988746796,
+      "type": "music_box",
+      "category": "melody"
+    },
+    {
+      "time": 58.54254083329194,
+      "pc": 9,
+      "octave": 5,
+      "duration": 0.2936747946542618,
+      "amplitude": 0.09146773502779296,
+      "type": "music_box",
+      "category": "melody"
+    },
+    {
+      "time": 58.8362156279462,
+      "pc": 11,
+      "octave": 5,
+      "duration": 0.2945942951707374,
+      "amplitude": 0.09136005426975306,
+      "type": "music_box",
+      "category": "melody"
+    },
+    {
+      "time": 59.13080992311694,
+      "pc": 0,
+      "octave": 6,
+      "duration": 0.5910449557949959,
+      "amplitude": 0.10950244363382855,
+      "type": "music_box",
+      "category": "melody"
+    },
+    {
+      "time": 59.72185487891194,
+      "pc": 2,
+      "octave": 6,
+      "duration": 1.1896097733326298,
+      "amplitude": 0.1274494478288252,
+      "type": "music_box",
+      "category": "melody"
+    },
+    {
+      "time": 60.91146465224457,
+      "pc": 4,
+      "octave": 6,
+      "duration": 0.6025195053390248,
+      "amplitude": 0.16307843332951857,
+      "type": "music_box",
+      "category": "melody"
+    },
+    {
+      "time": 62.12048785231163,
+      "pc": 11,
+      "octave": 5,
+      "duration": 0.6105678014277635,
+      "amplitude": 0.09015582112081906,
+      "type": "music_box",
+      "category": "melody"
+    },
+    {
+      "time": 62.731055653739396,
+      "pc": 7,
+      "octave": 5,
+      "duration": 1.844143589050271,
+      "amplitude": 0.12590472476441378,
+      "type": "music_box",
+      "category": "melody"
+    },
+    {
+      "time": 64.57519924278967,
+      "pc": 9,
+      "octave": 5,
+      "duration": 0.6275883482848122,
+      "amplitude": 0.10710691233317256,
+      "type": "music_box",
+      "category": "melody"
+    },
+    {
+      "time": 65.20278759107448,
+      "pc": 7,
+      "octave": 5,
+      "duration": 0.316046676600651,
+      "amplitude": 0.07122051563995149,
+      "type": "music_box",
+      "category": "melody"
+    },
+    {
+      "time": 65.51883426767513,
+      "pc": 6,
+      "octave": 4,
+      "duration": 0.31719329988932804,
+      "amplitude": 0.07112780861481531,
+      "type": "music_box",
+      "category": "melody"
+    },
+    {
+      "time": 65.83602756756446,
+      "pc": 7,
+      "octave": 5,
+      "duration": 1.910114873961009,
+      "amplitude": 0.14206953049369553,
+      "type": "music_box",
+      "category": "melody"
+    },
+    {
+      "time": 67.74614244152546,
+      "pc": 2,
+      "octave": 6,
+      "duration": 0.6510322638316514,
+      "amplitude": 0.1409489297676384,
+      "type": "music_box",
+      "category": "melody"
+    },
+    {
+      "time": 68.39717470535712,
+      "pc": 0,
+      "octave": 6,
+      "duration": 0.3280319864076081,
+      "amplitude": 0.0878543692747024,
+      "type": "music_box",
+      "category": "melody"
+    },
+    {
+      "time": 68.72520669176473,
+      "pc": 11,
+      "octave": 6,
+      "duration": 0.3293144275525873,
+      "amplitude": 0.08773409087968627,
+      "type": "music_box",
+      "category": "melody"
+    },
+    {
+      "time": 69.05452111931731,
+      "pc": 9,
+      "octave": 5,
+      "duration": 0.6612240168639769,
+      "amplitude": 0.10513601070750038,
+      "type": "music_box",
+      "category": "melody"
+    },
+    {
+      "time": 69.7157451361813,
+      "pc": 7,
+      "octave": 5,
+      "duration": 1.3329940821816992,
+      "amplitude": 0.12231925083009361,
+      "type": "music_box",
+      "category": "melody"
+    },
+    {
+      "time": 71.72612625316474,
+      "pc": 9,
+      "octave": 5,
+      "duration": 0.34152925454612815,
+      "amplitude": 0.08663375370717293,
+      "type": "music_box",
+      "category": "melody"
+    },
+    {
+      "time": 72.06765550771087,
+      "pc": 11,
+      "octave": 5,
+      "duration": 0.34297707668202754,
+      "amplitude": 0.08650852631383935,
+      "type": "music_box",
+      "category": "melody"
+    },
+    {
+      "time": 72.4106325843929,
+      "pc": 0,
+      "octave": 6,
+      "duration": 0.6888868855359518,
+      "amplitude": 0.10365932166286713,
+      "type": "music_box",
+      "category": "melody"
+    },
+    {
+      "time": 73.09951946992885,
+      "pc": 2,
+      "octave": 6,
+      "duration": 1.3897077042349957,
+      "amplitude": 0.12058224667210318,
+      "type": "music_box",
+      "category": "melody"
+    },
+    {
+      "time": 74.48922717416384,
+      "pc": 4,
+      "octave": 6,
+      "duration": 0.7072113475049885,
+      "amplitude": 0.15411711006505188,
+      "type": "music_box",
+      "category": "melody"
+    },
+    {
+      "time": 75.19643852166884,
+      "pc": 2,
+      "octave": 6,
+      "duration": 0.7136702741278405,
+      "amplitude": 0.10243356705046572,
+      "type": "music_box",
+      "category": "melody"
+    },
+    {
+      "time": 75.91010879579667,
+      "pc": 11,
+      "octave": 5,
+      "duration": 0.7203089016093978,
+      "amplitude": 0.08509962677487455,
+      "type": "music_box",
+      "category": "melody"
+    },
+    {
+      "time": 76.63041769740607,
+      "pc": 7,
+      "octave": 5,
+      "duration": 2.1814071121747847,
+      "amplitude": 0.11876971891533156,
+      "type": "music_box",
+      "category": "melody"
+    },
+    {
+      "time": 78.81182480958086,
+      "pc": 9,
+      "octave": 5,
+      "duration": 0.7486228928856349,
+      "amplitude": 0.10084279708378444,
+      "type": "music_box",
+      "category": "melody"
+    },
+    {
+      "time": 79.56044770246649,
+      "pc": 7,
+      "octave": 5,
+      "duration": 0.3781463140998825,
+      "amplitude": 0.06700893534060984,
+      "type": "music_box",
+      "category": "melody"
+    },
+    {
+      "time": 79.93859401656637,
+      "pc": 6,
+      "octave": 4,
+      "duration": 0.38011341773448276,
+      "amplitude": 0.06689801242180721,
+      "type": "music_box",
+      "category": "melody"
+    },
+    {
+      "time": 80.31870743430085,
+      "pc": 7,
+      "octave": 5,
+      "duration": 2.2926689289921356,
+      "amplitude": 0.13357302497187684,
+      "type": "music_box",
+      "category": "melody"
+    },
+    {
+      "time": 82.61137636329298,
+      "pc": 2,
+      "octave": 6,
+      "duration": 0.7892459012580069,
+      "amplitude": 0.1322279925335348,
+      "type": "music_box",
+      "category": "melody"
+    },
+    {
+      "time": 83.40062226455099,
+      "pc": 0,
+      "octave": 6,
+      "duration": 0.39912172633931486,
+      "amplitude": 0.08235310516966464,
+      "type": "music_box",
+      "category": "melody"
+    },
+    {
+      "time": 83.7997439908903,
+      "pc": 11,
+      "octave": 6,
+      "duration": 0.40143603559079416,
+      "amplitude": 0.08220676053667356,
+      "type": "music_box",
+      "category": "melody"
+    },
+    {
+      "time": 85.00876201878582,
+      "pc": 7,
+      "octave": 5,
+      "duration": 1.6344529969256096,
+      "amplitude": 0.11446883549702327,
+      "type": "music_box",
+      "category": "melody"
+    },
+    {
+      "time": 86.64321501571142,
+      "pc": 7,
+      "octave": 5,
+      "duration": 0.837468223215413,
+      "amplitude": 0.12986264719078264,
+      "type": "music_box",
+      "category": "melody"
+    },
+    {
+      "time": 87.48068323892683,
+      "pc": 9,
+      "octave": 5,
+      "duration": 0.4241166394860202,
+      "amplitude": 0.08085708281239351,
+      "type": "music_box",
+      "category": "melody"
+    },
+    {
+      "time": 87.90479987841285,
+      "pc": 11,
+      "octave": 5,
+      "duration": 0.42689562720140284,
+      "amplitude": 0.08070157337791528,
+      "type": "music_box",
+      "category": "melody"
+    },
+    {
+      "time": 89.19115519568969,
+      "pc": 2,
+      "octave": 6,
+      "duration": 1.7422064553367518,
+      "amplitude": 0.11232187366621263,
+      "type": "music_box",
+      "category": "melody"
+    },
+    {
+      "time": 90.93336165102644,
+      "pc": 4,
+      "octave": 6,
+      "duration": 0.8983834059521252,
+      "amplitude": 0.14326398131032256,
+      "type": "music_box",
+      "category": "melody"
+    },
+    {
+      "time": 91.83174505697858,
+      "pc": 2,
+      "octave": 6,
+      "duration": 0.9143730562321154,
+      "amplitude": 0.09511403217492943,
+      "type": "music_box",
+      "category": "melody"
+    },
+    {
+      "time": 96.52458652361159,
+      "pc": 9,
+      "octave": 5,
+      "duration": 1.0080977549123447,
+      "amplitude": 0.09304918192961091,
+      "type": "music_box",
+      "category": "melody"
+    },
+    {
+      "time": 97.53268427852393,
+      "pc": 7,
+      "octave": 5,
+      "duration": 0.5153974078997322,
+      "amplitude": 0.061737079278299654,
+      "type": "music_box",
+      "category": "melody"
+    },
+    {
+      "time": 98.04808168642366,
+      "pc": 6,
+      "octave": 4,
+      "duration": 0.5213991436660679,
+      "amplitude": 0.06158589603864907,
+      "type": "music_box",
+      "category": "melody"
+    },
+    {
+      "time": 98.56948083008973,
+      "pc": 7,
+      "octave": 5,
+      "duration": 3.1656881656544584,
+      "amplitude": 0.12286590457968069,
+      "type": "music_box",
+      "category": "melody"
+    },
+    {
+      "time": 101.73516899574419,
+      "pc": 2,
+      "octave": 6,
+      "duration": 1.107505673009971,
+      "amplitude": 0.1210087008558301,
+      "type": "music_box",
+      "category": "melody"
+    },
+    {
+      "time": 103.40185735730648,
+      "pc": 11,
+      "octave": 6,
+      "duration": 0.5619648925833031,
+      "amplitude": 0.07501931896898761,
+      "type": "music_box",
+      "category": "melody"
+    },
+    {
+      "time": 108.540735018273,
+      "pc": 9,
+      "octave": 5,
+      "duration": 0.588891725184468,
+      "amplitude": 0.07313506382663323,
+      "type": "music_box",
+      "category": "melody"
+    },
+    {
+      "time": 109.12962674345746,
+      "pc": 11,
+      "octave": 5,
+      "duration": 0.5921431217871967,
+      "amplitude": 0.07291913686073227,
+      "type": "music_box",
+      "category": "melody"
+    },
+    {
+      "time": 110.91266761192614,
+      "pc": 2,
+      "octave": 6,
+      "duration": 2.4088412720468124,
+      "amplitude": 0.10117149729254457,
+      "type": "music_box",
+      "category": "melody"
+    },
+    {
+      "time": 113.32150888397295,
+      "pc": 4,
+      "octave": 6,
+      "duration": 1.2327344426127544,
+      "amplitude": 0.12848780413657784,
+      "type": "music_box",
+      "category": "melody"
+    },
+    {
+      "time": 114.5542433265857,
+      "pc": 2,
+      "octave": 6,
+      "duration": 1.2477453652000345,
+      "amplitude": 0.0851161329363023,
+      "type": "music_box",
+      "category": "melody"
+    },
+    {
+      "time": 115.80198869178574,
+      "pc": 11,
+      "octave": 5,
+      "duration": 1.2633159988297946,
+      "amplitude": 0.07047260414634524,
+      "type": "music_box",
+      "category": "melody"
+    },
+    {
+      "time": 117.06530469061553,
+      "pc": 7,
+      "octave": 5,
+      "duration": 3.83844576545018,
+      "amplitude": 0.09801314359215069,
+      "type": "music_box",
+      "category": "melody"
+    },
+    {
+      "time": 122.23499171319317,
+      "pc": 7,
+      "octave": 5,
+      "duration": 0.6750921324796395,
+      "amplitude": 0.054491069097463346,
+      "type": "music_box",
+      "category": "melody"
+    },
+    {
+      "time": 122.9100838456728,
+      "pc": 6,
+      "octave": 4,
+      "duration": 0.6799990271968441,
+      "amplitude": 0.054293042071935985,
+      "type": "music_box",
+      "category": "melody"
+    },
+    {
+      "time": 123.59008287286964,
+      "pc": 7,
+      "octave": 5,
+      "duration": 4.110085382195829,
+      "amplitude": 0.10818715138124983,
+      "type": "music_box",
+      "category": "melody"
+    },
+    {
+      "time": 127.70016825506548,
+      "pc": 2,
+      "octave": 6,
+      "duration": 1.4339514752478866,
+      "amplitude": 0.10577590129036159,
+      "type": "music_box",
+      "category": "melody"
+    },
+    {
+      "time": 129.13411973031336,
+      "pc": 0,
+      "octave": 6,
+      "duration": 0.728840075714695,
+      "amplitude": 0.06558415609888511,
+      "type": "music_box",
+      "category": "melody"
+    },
+    {
+      "time": 129.86295980602804,
+      "pc": 11,
+      "octave": 6,
+      "duration": 0.7350221938059851,
+      "amplitude": 0.06531691473778972,
+      "type": "music_box",
+      "category": "melody"
+    },
+    {
+      "time": 130.59798199983402,
+      "pc": 9,
+      "octave": 5,
+      "duration": 1.4827277580919458,
+      "amplitude": 0.07805688792007304,
+      "type": "music_box",
+      "category": "melody"
+    },
+    {
+      "time": 132.08070975792597,
+      "pc": 7,
+      "octave": 5,
+      "duration": 3.0179824321601543,
+      "amplitude": 0.090305235657598,
+      "type": "music_box",
+      "category": "melody"
+    },
+    {
+      "time": 136.6641224305019,
+      "pc": 9,
+      "octave": 5,
+      "duration": 0.7982004975160457,
+      "amplitude": 0.06282315510881596,
+      "type": "music_box",
+      "category": "melody"
+    },
+    {
+      "time": 137.46232292801793,
+      "pc": 11,
+      "octave": 5,
+      "duration": 0.8063346378247878,
+      "amplitude": 0.06253048159306009,
+      "type": "music_box",
+      "category": "melody"
+    },
+    {
+      "time": 138.26865756584272,
+      "pc": 0,
+      "octave": 6,
+      "duration": 1.6294434940005091,
+      "amplitude": 0.0746817906710292,
+      "type": "music_box",
+      "category": "melody"
+    },
+    {
+      "time": 143.22695874433649,
+      "pc": 4,
+      "octave": 6,
+      "duration": 1.818833741182285,
+      "amplitude": 0.10875020722873792,
+      "type": "music_box",
+      "category": "melody"
+    },
+    {
+      "time": 146.9633016454041,
+      "pc": 11,
+      "octave": 5,
+      "duration": 2.0338349828880498,
+      "amplitude": 0.059046789396685166,
+      "type": "music_box",
+      "category": "melody"
+    },
+    {
+      "time": 148.99713662829214,
+      "pc": 7,
+      "octave": 5,
+      "duration": 6.5211076981304,
+      "amplitude": 0.08162146986414338,
+      "type": "music_box",
+      "category": "melody"
+    },
+    {
+      "time": 159.89298505711662,
+      "pc": 6,
+      "octave": 4,
+      "duration": 1.7208530849065864,
+      "amplitude": 0.0434447243832458,
+      "type": "music_box",
+      "category": "melody"
+    },
+    {
+      "time": 8.0,
+      "pc": 7,
+      "octave": 3,
+      "duration": 1.6666666666666667,
+      "amplitude": 0.049,
+      "type": "music_box",
+      "category": "bass"
+    },
+    {
+      "time": 9.666666666666666,
+      "pc": 7,
+      "octave": 3,
+      "duration": 1.6677618609541334,
+      "amplitude": 0.041800000000000004,
+      "type": "music_box",
+      "category": "bass"
+    },
+    {
+      "time": 11.3344285276208,
+      "pc": 0,
+      "octave": 3,
+      "duration": 1.6688592166195741,
+      "amplitude": 0.0415998685766855,
+      "type": "music_box",
+      "category": "bass"
+    },
+    {
+      "time": 13.003287744240374,
+      "pc": 2,
+      "octave": 3,
+      "duration": 1.669958740780589,
+      "amplitude": 0.04139960547069116,
+      "type": "music_box",
+      "category": "bass"
+    },
+    {
+      "time": 14.673246485020963,
+      "pc": 7,
+      "octave": 3,
+      "duration": 1.6710604405876315,
+      "amplitude": 0.048065745492097064,
+      "type": "music_box",
+      "category": "bass"
+    },
+    {
+      "time": 16.344306925608596,
+      "pc": 4,
+      "octave": 3,
+      "duration": 1.672164323224206,
+      "amplitude": 0.03416556930743914,
+      "type": "music_box",
+      "category": "bass"
+    },
+    {
+      "time": 18.0164712488328,
+      "pc": 7,
+      "octave": 3,
+      "duration": 1.6732703959070632,
+      "amplitude": 0.04759769402516341,
+      "type": "music_box",
+      "category": "bass"
+    },
+    {
+      "time": 19.689741644739865,
+      "pc": 7,
+      "octave": 3,
+      "duration": 1.6743786658863975,
+      "amplitude": 0.04736343616973642,
+      "type": "music_box",
+      "category": "bass"
+    },
+    {
+      "time": 21.364120310626262,
+      "pc": 7,
+      "octave": 3,
+      "duration": 1.6754891404460475,
+      "amplitude": 0.04039630556272485,
+      "type": "music_box",
+      "category": "bass"
+    },
+    {
+      "time": 23.03960945107231,
+      "pc": 0,
+      "octave": 3,
+      "duration": 1.6766018269036982,
+      "amplitude": 0.04019524686587133,
+      "type": "music_box",
+      "category": "bass"
+    },
+    {
+      "time": 24.716211277976008,
+      "pc": 2,
+      "octave": 3,
+      "duration": 1.6777167326110805,
+      "amplitude": 0.03999405464664288,
+      "type": "music_box",
+      "category": "bass"
+    },
+    {
+      "time": 26.39392801058709,
+      "pc": 7,
+      "octave": 3,
+      "duration": 1.6788338649541776,
+      "amplitude": 0.04642485007851781,
+      "type": "music_box",
+      "category": "bass"
+    },
+    {
+      "time": 28.072761875541268,
+      "pc": 4,
+      "octave": 3,
+      "duration": 1.6799532313534293,
+      "amplitude": 0.032992723812445876,
+      "type": "music_box",
+      "category": "bass"
+    },
+    {
+      "time": 29.752715106894698,
+      "pc": 7,
+      "octave": 3,
+      "duration": 1.681074839263939,
+      "amplitude": 0.04595461988503474,
+      "type": "music_box",
+      "category": "bass"
+    },
+    {
+      "time": 31.433789946158637,
+      "pc": 7,
+      "octave": 3,
+      "duration": 1.6821986961756827,
+      "amplitude": 0.045719269407537795,
+      "type": "music_box",
+      "category": "bass"
+    },
+    {
+      "time": 33.11598864233432,
+      "pc": 7,
+      "octave": 3,
+      "duration": 1.6833248096137186,
+      "amplitude": 0.03898608136291989,
+      "type": "music_box",
+      "category": "bass"
+    },
+    {
+      "time": 34.79931345194804,
+      "pc": 0,
+      "octave": 3,
+      "duration": 1.684453187138398,
+      "amplitude": 0.038784082385766236,
+      "type": "music_box",
+      "category": "bass"
+    },
+    {
+      "time": 36.48376663908643,
+      "pc": 2,
+      "octave": 3,
+      "duration": 1.6855838363455806,
+      "amplitude": 0.03858194800330963,
+      "type": "music_box",
+      "category": "bass"
+    },
+    {
+      "time": 38.16935047543201,
+      "pc": 7,
+      "octave": 3,
+      "duration": 1.686716764866846,
+      "amplitude": 0.044776290933439516,
+      "type": "music_box",
+      "category": "bass"
+    },
+    {
+      "time": 39.856067240298856,
+      "pc": 4,
+      "octave": 3,
+      "duration": 1.6878519803697118,
+      "amplitude": 0.03181439327597012,
+      "type": "music_box",
+      "category": "bass"
+    },
+    {
+      "time": 41.54391922066857,
+      "pc": 7,
+      "octave": 3,
+      "duration": 1.6889894905578529,
+      "amplitude": 0.044303851309106405,
+      "type": "music_box",
+      "category": "bass"
+    },
+    {
+      "time": 43.23290871122642,
+      "pc": 7,
+      "octave": 3,
+      "duration": 1.6901293031713176,
+      "amplitude": 0.0440673927804283,
+      "type": "music_box",
+      "category": "bass"
+    },
+    {
+      "time": 44.92303801439774,
+      "pc": 7,
+      "octave": 3,
+      "duration": 1.6912714259867507,
+      "amplitude": 0.03756923543827227,
+      "type": "music_box",
+      "category": "bass"
+    },
+    {
+      "time": 46.61430944038449,
+      "pc": 0,
+      "octave": 3,
+      "duration": 1.6924158668176168,
+      "amplitude": 0.03736628286715386,
+      "type": "music_box",
+      "category": "bass"
+    },
+    {
+      "time": 48.30672530720211,
+      "pc": 2,
+      "octave": 3,
+      "duration": 1.693562633514424,
+      "amplitude": 0.03716319296313575,
+      "type": "music_box",
+      "category": "bass"
+    },
+    {
+      "time": 50.00028794071653,
+      "pc": 7,
+      "octave": 3,
+      "duration": 1.6947117339649487,
+      "amplitude": 0.04311995968829969,
+      "type": "music_box",
+      "category": "bass"
+    },
+    {
+      "time": 51.69499967468148,
+      "pc": 4,
+      "octave": 3,
+      "duration": 1.695863176094465,
+      "amplitude": 0.030630500032531854,
+      "type": "music_box",
+      "category": "bass"
+    },
+    {
+      "time": 53.390862850775946,
+      "pc": 7,
+      "octave": 3,
+      "duration": 1.697016967865975,
+      "amplitude": 0.04264527920089137,
+      "type": "music_box",
+      "category": "bass"
+    },
+    {
+      "time": 55.08787981864192,
+      "pc": 7,
+      "octave": 3,
+      "duration": 1.6996430847411417,
+      "amplitude": 0.04240769682539013,
+      "type": "music_box",
+      "category": "bass"
+    },
+    {
+      "time": 56.78752290338306,
+      "pc": 7,
+      "octave": 3,
+      "duration": 1.7297835726831656,
+      "amplitude": 0.036145497251594036,
+      "type": "music_box",
+      "category": "bass"
+    },
+    {
+      "time": 58.51730647606623,
+      "pc": 0,
+      "octave": 3,
+      "duration": 1.761576319200299,
+      "amplitude": 0.03593792322287206,
+      "type": "music_box",
+      "category": "bass"
+    },
+    {
+      "time": 60.27888279526653,
+      "pc": 2,
+      "octave": 3,
+      "duration": 1.7951774078274947,
+      "amplitude": 0.03572653406456802,
+      "type": "music_box",
+      "category": "bass"
+    },
+    {
+      "time": 62.07406020309403,
+      "pc": 7,
+      "octave": 3,
+      "duration": 1.8307643140309953,
+      "amplitude": 0.04142963157156684,
+      "type": "music_box",
+      "category": "bass"
+    },
+    {
+      "time": 63.90482451712502,
+      "pc": 4,
+      "octave": 3,
+      "duration": 1.8685398192329181,
+      "amplitude": 0.029409517548287502,
+      "type": "music_box",
+      "category": "bass"
+    },
+    {
+      "time": 65.77336433635794,
+      "pc": 7,
+      "octave": 3,
+      "duration": 1.9087368353895962,
+      "amplitude": 0.04091172899290989,
+      "type": "music_box",
+      "category": "bass"
+    },
+    {
+      "time": 67.68210117174753,
+      "pc": 7,
+      "octave": 3,
+      "duration": 1.9516244010600543,
+      "amplitude": 0.04064450583595535,
+      "type": "music_box",
+      "category": "bass"
+    },
+    {
+      "time": 69.63372557280759,
+      "pc": 7,
+      "octave": 3,
+      "duration": 1.9975152000139036,
+      "amplitude": 0.03460395293126309,
+      "type": "music_box",
+      "category": "bass"
+    },
+    {
+      "time": 71.6312407728215,
+      "pc": 0,
+      "octave": 3,
+      "duration": 2.046775080456482,
+      "amplitude": 0.03436425110726143,
+      "type": "music_box",
+      "category": "bass"
+    },
+    {
+      "time": 73.67801585327798,
+      "pc": 2,
+      "octave": 3,
+      "duration": 2.099835234625651,
+      "amplitude": 0.034118638097606645,
+      "type": "music_box",
+      "category": "bass"
+    },
+    {
+      "time": 75.77785108790363,
+      "pc": 7,
+      "octave": 3,
+      "duration": 2.157207962473521,
+      "amplitude": 0.03951110084769349,
+      "type": "music_box",
+      "category": "bass"
+    },
+    {
+      "time": 77.93505905037715,
+      "pc": 4,
+      "octave": 3,
+      "duration": 2.2195073333113666,
+      "amplitude": 0.028006494094962288,
+      "type": "music_box",
+      "category": "bass"
+    },
+    {
+      "time": 80.15456638368852,
+      "pc": 7,
+      "octave": 3,
+      "duration": 2.2874766470064456,
+      "amplitude": 0.03889836070628361,
+      "type": "music_box",
+      "category": "bass"
+    },
+    {
+      "time": 82.44204303069496,
+      "pc": 7,
+      "octave": 3,
+      "duration": 2.362025500225987,
+      "amplitude": 0.03857811397570271,
+      "type": "music_box",
+      "category": "bass"
+    },
+    {
+      "time": 84.80406853092094,
+      "pc": 7,
+      "octave": 3,
+      "duration": 2.4442806859089474,
+      "amplitude": 0.032783511776289485,
+      "type": "music_box",
+      "category": "bass"
+    },
+    {
+      "time": 87.2483492168299,
+      "pc": 0,
+      "octave": 3,
+      "duration": 2.53565745172688,
+      "amplitude": 0.03249019809398042,
+      "type": "music_box",
+      "category": "bass"
+    },
+    {
+      "time": 89.78400666855677,
+      "pc": 2,
+      "octave": 3,
+      "duration": 2.637961462516263,
+      "amplitude": 0.03218591919977319,
+      "type": "music_box",
+      "category": "bass"
+    },
+    {
+      "time": 92.42196813107303,
+      "pc": 7,
+      "octave": 3,
+      "duration": 2.7755743902066756,
+      "amplitude": 0.03718092446164978,
+      "type": "music_box",
+      "category": "bass"
+    },
+    {
+      "time": 95.1975425212797,
+      "pc": 4,
+      "octave": 3,
+      "duration": 2.939102063765316,
+      "amplitude": 0.026280245747872036,
+      "type": "music_box",
+      "category": "bass"
+    },
+    {
+      "time": 98.13664458504502,
+      "pc": 7,
+      "octave": 3,
+      "duration": 3.1346672900074033,
+      "amplitude": 0.036380869758093695,
+      "type": "music_box",
+      "category": "bass"
+    },
+    {
+      "time": 101.27131187505242,
+      "pc": 7,
+      "octave": 3,
+      "duration": 3.309059125945103,
+      "amplitude": 0.035942016337492666,
+      "type": "music_box",
+      "category": "bass"
+    },
+    {
+      "time": 104.58037100099752,
+      "pc": 7,
+      "octave": 3,
+      "duration": 3.407521140607626,
+      "amplitude": 0.0304103554798803,
+      "type": "music_box",
+      "category": "bass"
+    },
+    {
+      "time": 107.98789214160514,
+      "pc": 0,
+      "octave": 3,
+      "duration": 3.5152301385419373,
+      "amplitude": 0.030001452943007385,
+      "type": "music_box",
+      "category": "bass"
+    },
+    {
+      "time": 111.50312228014708,
+      "pc": 2,
+      "octave": 3,
+      "duration": 3.6337196892889594,
+      "amplitude": 0.02957962532638235,
+      "type": "music_box",
+      "category": "bass"
+    },
+    {
+      "time": 115.13684196943603,
+      "pc": 7,
+      "octave": 3,
+      "duration": 3.764902734931948,
+      "amplitude": 0.03400084212427895,
+      "type": "music_box",
+      "category": "bass"
+    },
+    {
+      "time": 118.90174470436799,
+      "pc": 4,
+      "octave": 3,
+      "duration": 3.911200854959585,
+      "amplitude": 0.0239098255295632,
+      "type": "music_box",
+      "category": "bass"
+    },
+    {
+      "time": 122.81294555932757,
+      "pc": 7,
+      "octave": 3,
+      "duration": 4.075731542826198,
+      "amplitude": 0.032926187621694136,
+      "type": "music_box",
+      "category": "bass"
+    },
+    {
+      "time": 126.88867710215378,
+      "pc": 7,
+      "octave": 3,
+      "duration": 4.262586872000394,
+      "amplitude": 0.03235558520569847,
+      "type": "music_box",
+      "category": "bass"
+    },
+    {
+      "time": 131.15126397415418,
+      "pc": 7,
+      "octave": 3,
+      "duration": 4.47726115331605,
+      "amplitude": 0.027221848323101504,
+      "type": "music_box",
+      "category": "bass"
+    },
+    {
+      "time": 135.62852512747023,
+      "pc": 0,
+      "octave": 3,
+      "duration": 4.727331390706067,
+      "amplitude": 0.02668457698470357,
+      "type": "music_box",
+      "category": "bass"
+    },
+    {
+      "time": 140.3558565181763,
+      "pc": 2,
+      "octave": 3,
+      "duration": 5.046559098694168,
+      "amplitude": 0.026117297217818844,
+      "type": "music_box",
+      "category": "bass"
+    },
+    {
+      "time": 145.40241561687046,
+      "pc": 7,
+      "octave": 3,
+      "duration": 5.814376904171345,
+      "amplitude": 0.029763661813638133,
+      "type": "music_box",
+      "category": "bass"
+    },
+    {
+      "time": 151.2167925210418,
+      "pc": 4,
+      "octave": 3,
+      "duration": 7.050254388393375,
+      "amplitude": 0.02067832074789582,
+      "type": "music_box",
+      "category": "bass"
+    },
+    {
+      "time": 158.26704690943518,
+      "pc": 7,
+      "octave": 3,
+      "duration": 9.498301699979425,
+      "amplitude": 0.027962613432679074,
+      "type": "music_box",
+      "category": "bass"
+    },
+    {
+      "time": 35,
+      "pc": 2,
+      "octave": 3,
+      "duration": 12.0,
+      "amplitude": 0.04,
+      "type": "tubular_bell",
+      "category": "distant_bell"
+    },
+    {
+      "time": 72,
+      "pc": 7,
+      "octave": 2,
+      "duration": 12.0,
+      "amplitude": 0.04,
+      "type": "tubular_bell",
+      "category": "distant_bell"
+    },
+    {
+      "time": 115,
+      "pc": 0,
+      "octave": 3,
+      "duration": 12.0,
+      "amplitude": 0.04,
+      "type": "tubular_bell",
+      "category": "distant_bell"
+    },
+    {
+      "time": 155,
+      "pc": 2,
+      "octave": 2,
+      "duration": 12.0,
+      "amplitude": 0.04,
+      "type": "tubular_bell",
+      "category": "distant_bell"
+    },
+    {
+      "time": 175,
+      "pc": 7,
+      "octave": 4,
+      "duration": 5.0,
+      "amplitude": 0.12,
+      "type": "music_box",
+      "category": "last_tine"
+    }
+  ]
+}
