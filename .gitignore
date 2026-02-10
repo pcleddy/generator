@@ -1,4 +1,5 @@
 *.wav
 __pycache__/
 *.pyc
-*.png
+# *.png
+*.mp3
