@@ -1,0 +1,791 @@
+{
+  "title": "Bells Family \u2014 Rude Guy, Boy, Papa & Little Sister",
+  "duration": 30,
+  "seed": 42,
+  "audio_file": "cage_bells_family_01.mp3",
+  "events": [
+    {
+      "time": 0.4353409747985254,
+      "pc": 11,
+      "octave": 5,
+      "duration": 1.6071213628420704,
+      "amplitude": 0.12396611738515312,
+      "type": "glockenspiel",
+      "category": "sister"
+    },
+    {
+      "time": 0.48727005942368123,
+      "pc": 0,
+      "octave": 4,
+      "duration": 3.987233560090703,
+      "amplitude": 0.35,
+      "type": "cluster",
+      "category": "rude_guy"
+    },
+    {
+      "time": 0.8192489889519251,
+      "pc": 6,
+      "octave": 5,
+      "duration": 2.7995106732375397,
+      "amplitude": 0.19851759613930137,
+      "type": "church_bell",
+      "category": "boy"
+    },
+    {
+      "time": 1.107743063218654,
+      "pc": 11,
+      "octave": 5,
+      "duration": 2.0896723256680274,
+      "amplitude": 0.09295708754819842,
+      "type": "glockenspiel",
+      "category": "sister"
+    },
+    {
+      "time": 1.212595802853953,
+      "pc": 11,
+      "octave": 5,
+      "duration": 1.2538033954008163,
+      "amplitude": 0.05293612314705022,
+      "type": "glockenspiel",
+      "category": "sister"
+    },
+    {
+      "time": 1.8974888587464869,
+      "pc": 2,
+      "octave": 2,
+      "duration": 3.7108455220509495,
+      "amplitude": 0.36725223945388225,
+      "type": "tubular_bell",
+      "category": "papa"
+    },
+    {
+      "time": 1.9143933713973817,
+      "pc": 6,
+      "octave": 5,
+      "duration": 2.6961075720123566,
+      "amplitude": 0.13442325382859996,
+      "type": "church_bell",
+      "category": "boy"
+    },
+    {
+      "time": 1.9264536090231543,
+      "pc": 11,
+      "octave": 5,
+      "duration": 2.1266922437617466,
+      "amplitude": 0.14495071758702022,
+      "type": "glockenspiel",
+      "category": "sister"
+    },
+    {
+      "time": 2.127829877223045,
+      "pc": 11,
+      "octave": 5,
+      "duration": 1.4886845706332226,
+      "amplitude": 0.12337180378934692,
+      "type": "glockenspiel",
+      "category": "sister"
+    },
+    {
+      "time": 2.3723741517696424,
+      "pc": 11,
+      "octave": 5,
+      "duration": 1.4886845706332226,
+      "amplitude": 0.13882654348293552,
+      "type": "glockenspiel",
+      "category": "sister"
+    },
+    {
+      "time": 2.568421338666889,
+      "pc": 11,
+      "octave": 5,
+      "duration": 1.4886845706332226,
+      "amplitude": 0.1172713200092962,
+      "type": "glockenspiel",
+      "category": "sister"
+    },
+    {
+      "time": 2.9781550804053483,
+      "pc": 11,
+      "octave": 5,
+      "duration": 2.1711266524354924,
+      "amplitude": 0.13016183911782023,
+      "type": "glockenspiel",
+      "category": "sister"
+    },
+    {
+      "time": 3.167656620337457,
+      "pc": 6,
+      "octave": 5,
+      "duration": 2.934411320226733,
+      "amplitude": 0.18535019612132922,
+      "type": "church_bell",
+      "category": "boy"
+    },
+    {
+      "time": 3.172753329183741,
+      "pc": 11,
+      "octave": 5,
+      "duration": 1.5197886567048446,
+      "amplitude": 0.1174447995146829,
+      "type": "glockenspiel",
+      "category": "sister"
+    },
+    {
+      "time": 3.26745017159316,
+      "pc": 6,
+      "octave": 5,
+      "duration": 2.3475290561813864,
+      "amplitude": 0.11392167897325037,
+      "type": "church_bell",
+      "category": "boy"
+    },
+    {
+      "time": 3.558752259190274,
+      "pc": 11,
+      "octave": 5,
+      "duration": 1.5197886567048446,
+      "amplitude": 0.10276442133700862,
+      "type": "glockenspiel",
+      "category": "sister"
+    },
+    {
+      "time": 3.608463177272894,
+      "pc": 2,
+      "octave": 2,
+      "duration": 4.5090340238002,
+      "amplitude": 0.368417971097403,
+      "type": "tubular_bell",
+      "category": "papa"
+    },
+    {
+      "time": 4.163888131446812,
+      "pc": 11,
+      "octave": 5,
+      "duration": 2.06499301363856,
+      "amplitude": 0.09692129117461529,
+      "type": "glockenspiel",
+      "category": "sister"
+    },
+    {
+      "time": 4.3686435679416675,
+      "pc": 11,
+      "octave": 5,
+      "duration": 1.445495109546992,
+      "amplitude": 0.08441570906383085,
+      "type": "glockenspiel",
+      "category": "sister"
+    },
+    {
+      "time": 4.543509152794647,
+      "pc": 2,
+      "octave": 2,
+      "duration": 3.640266593330536,
+      "amplitude": 0.3052179001224622,
+      "type": "tubular_bell",
+      "category": "papa"
+    },
+    {
+      "time": 4.609680488438388,
+      "pc": 11,
+      "octave": 5,
+      "duration": 1.445495109546992,
+      "amplitude": 0.08475465691849067,
+      "type": "glockenspiel",
+      "category": "sister"
+    },
+    {
+      "time": 5.295155818287327,
+      "pc": 11,
+      "octave": 5,
+      "duration": 1.9960167009015666,
+      "amplitude": 0.09484070397350873,
+      "type": "glockenspiel",
+      "category": "sister"
+    },
+    {
+      "time": 5.381862054601635,
+      "pc": 6,
+      "octave": 5,
+      "duration": 3.0527619991950434,
+      "amplitude": 0.18288797577466856,
+      "type": "church_bell",
+      "category": "boy"
+    },
+    {
+      "time": 6.058848051961368,
+      "pc": 11,
+      "octave": 5,
+      "duration": 2.170516538806607,
+      "amplitude": 0.17020874788242937,
+      "type": "glockenspiel",
+      "category": "sister"
+    },
+    {
+      "time": 6.243395963256789,
+      "pc": 2,
+      "octave": 2,
+      "duration": 4.145905705594163,
+      "amplitude": 0.2751676132067452,
+      "type": "tubular_bell",
+      "category": "papa"
+    },
+    {
+      "time": 6.366038413450987,
+      "pc": 11,
+      "octave": 5,
+      "duration": 1.5193615771646247,
+      "amplitude": 0.14780929737327453,
+      "type": "glockenspiel",
+      "category": "sister"
+    },
+    {
+      "time": 6.459021383274907,
+      "pc": 2,
+      "octave": 2,
+      "duration": 3.7313151350347464,
+      "amplitude": 0.25342983726119545,
+      "type": "tubular_bell",
+      "category": "papa"
+    },
+    {
+      "time": 6.6273019928771575,
+      "pc": 11,
+      "octave": 5,
+      "duration": 1.5193615771646247,
+      "amplitude": 0.18665579693038953,
+      "type": "glockenspiel",
+      "category": "sister"
+    },
+    {
+      "time": 6.991544230653823,
+      "pc": 11,
+      "octave": 5,
+      "duration": 2.362882071860739,
+      "amplitude": 0.09148023791668003,
+      "type": "glockenspiel",
+      "category": "sister"
+    },
+    {
+      "time": 7.243035042131287,
+      "pc": 11,
+      "octave": 5,
+      "duration": 1.6540174503025173,
+      "amplitude": 0.07507425066642459,
+      "type": "glockenspiel",
+      "category": "sister"
+    },
+    {
+      "time": 7.419523516097481,
+      "pc": 11,
+      "octave": 5,
+      "duration": 1.6540174503025173,
+      "amplitude": 0.07604405641724744,
+      "type": "glockenspiel",
+      "category": "sister"
+    },
+    {
+      "time": 7.763986402157135,
+      "pc": 6,
+      "octave": 5,
+      "duration": 3.9320248533452844,
+      "amplitude": 0.15453858914544644,
+      "type": "church_bell",
+      "category": "boy"
+    },
+    {
+      "time": 7.857592463552608,
+      "pc": 11,
+      "octave": 5,
+      "duration": 2.0027583025763134,
+      "amplitude": 0.12123511543176571,
+      "type": "glockenspiel",
+      "category": "sister"
+    },
+    {
+      "time": 7.958385974843304,
+      "pc": 11,
+      "octave": 5,
+      "duration": 1.201654981545788,
+      "amplitude": 0.08404275510438254,
+      "type": "glockenspiel",
+      "category": "sister"
+    },
+    {
+      "time": 8.175174477258611,
+      "pc": 2,
+      "octave": 2,
+      "duration": 4.962659861890021,
+      "amplitude": 0.29102704769167903,
+      "type": "tubular_bell",
+      "category": "papa"
+    },
+    {
+      "time": 8.379808484183238,
+      "pc": 11,
+      "octave": 5,
+      "duration": 2.119293655572128,
+      "amplitude": 0.1350518020754787,
+      "type": "glockenspiel",
+      "category": "sister"
+    },
+    {
+      "time": 8.725185875680685,
+      "pc": 11,
+      "octave": 5,
+      "duration": 2.0876246532363503,
+      "amplitude": 0.1629415603045355,
+      "type": "glockenspiel",
+      "category": "sister"
+    },
+    {
+      "time": 8.817945557727903,
+      "pc": 11,
+      "octave": 5,
+      "duration": 1.2525747919418102,
+      "amplitude": 0.10024883440293873,
+      "type": "glockenspiel",
+      "category": "sister"
+    },
+    {
+      "time": 9.764739181701419,
+      "pc": 11,
+      "octave": 5,
+      "duration": 1.899974014106562,
+      "amplitude": 0.08682562688701985,
+      "type": "glockenspiel",
+      "category": "sister"
+    },
+    {
+      "time": 9.786540900399256,
+      "pc": 11,
+      "octave": 4,
+      "duration": 4.27437641723356,
+      "amplitude": 0.35,
+      "type": "cluster",
+      "category": "rude_guy"
+    },
+    {
+      "time": 10.049777836696288,
+      "pc": 11,
+      "octave": 5,
+      "duration": 1.3299818098745932,
+      "amplitude": 0.08518004132636367,
+      "type": "glockenspiel",
+      "category": "sister"
+    },
+    {
+      "time": 10.090140005651131,
+      "pc": 2,
+      "octave": 2,
+      "duration": 4.925405875682545,
+      "amplitude": 0.3978585909531579,
+      "type": "tubular_bell",
+      "category": "papa"
+    },
+    {
+      "time": 10.244301731031612,
+      "pc": 6,
+      "octave": 5,
+      "duration": 3.85712843841678,
+      "amplitude": 0.15551076911404701,
+      "type": "church_bell",
+      "category": "boy"
+    },
+    {
+      "time": 10.358547280467816,
+      "pc": 11,
+      "octave": 5,
+      "duration": 1.3299818098745932,
+      "amplitude": 0.07602019400124876,
+      "type": "glockenspiel",
+      "category": "sister"
+    },
+    {
+      "time": 10.580447157606928,
+      "pc": 11,
+      "octave": 5,
+      "duration": 1.3299818098745932,
+      "amplitude": 0.07713159098133654,
+      "type": "glockenspiel",
+      "category": "sister"
+    },
+    {
+      "time": 10.90320771960381,
+      "pc": 2,
+      "octave": 2,
+      "duration": 3.5155677527361746,
+      "amplitude": 0.30681173423468855,
+      "type": "tubular_bell",
+      "category": "papa"
+    },
+    {
+      "time": 11.167302847651083,
+      "pc": 11,
+      "octave": 5,
+      "duration": 2.0674283169803838,
+      "amplitude": 0.15982160437040863,
+      "type": "glockenspiel",
+      "category": "sister"
+    },
+    {
+      "time": 11.876497812044702,
+      "pc": 11,
+      "octave": 5,
+      "duration": 2.169042997623282,
+      "amplitude": 0.1007567328062966,
+      "type": "glockenspiel",
+      "category": "sister"
+    },
+    {
+      "time": 11.943628249131843,
+      "pc": 11,
+      "octave": 5,
+      "duration": 1.301425798573969,
+      "amplitude": 0.07761160377363253,
+      "type": "glockenspiel",
+      "category": "sister"
+    },
+    {
+      "time": 11.951503574213655,
+      "pc": 2,
+      "octave": 2,
+      "duration": 4.736519263874149,
+      "amplitude": 0.31951899318814647,
+      "type": "tubular_bell",
+      "category": "papa"
+    },
+    {
+      "time": 12.160469289507455,
+      "pc": 2,
+      "octave": 2,
+      "duration": 4.262867337486734,
+      "amplitude": 0.23728607678484445,
+      "type": "tubular_bell",
+      "category": "papa"
+    },
+    {
+      "time": 12.294652448319125,
+      "pc": 11,
+      "octave": 5,
+      "duration": 2.459910970700289,
+      "amplitude": 0.1134033677921138,
+      "type": "glockenspiel",
+      "category": "sister"
+    },
+    {
+      "time": 12.549070507388997,
+      "pc": 6,
+      "octave": 5,
+      "duration": 2.9720668708537605,
+      "amplitude": 0.17083719920612028,
+      "type": "church_bell",
+      "category": "boy"
+    },
+    {
+      "time": 12.610490406973963,
+      "pc": 11,
+      "octave": 5,
+      "duration": 2.213749577514757,
+      "amplitude": 0.09976011288855785,
+      "type": "glockenspiel",
+      "category": "sister"
+    },
+    {
+      "time": 12.63493322759307,
+      "pc": 6,
+      "octave": 5,
+      "duration": 2.3776534966830085,
+      "amplitude": 0.12907072564559163,
+      "type": "church_bell",
+      "category": "boy"
+    },
+    {
+      "time": 13.15572722120967,
+      "pc": 11,
+      "octave": 5,
+      "duration": 2.2204652475286046,
+      "amplitude": 0.12337673295327015,
+      "type": "glockenspiel",
+      "category": "sister"
+    },
+    {
+      "time": 13.73344771136195,
+      "pc": 11,
+      "octave": 5,
+      "duration": 1.5973714904374718,
+      "amplitude": 0.08710402713800687,
+      "type": "glockenspiel",
+      "category": "sister"
+    },
+    {
+      "time": 13.875751319272409,
+      "pc": 6,
+      "octave": 5,
+      "duration": 3.685430247698712,
+      "amplitude": 0.1617022742948402,
+      "type": "church_bell",
+      "category": "boy"
+    },
+    {
+      "time": 14.053053376054969,
+      "pc": 2,
+      "octave": 2,
+      "duration": 4.743480871269307,
+      "amplitude": 0.3898081840815497,
+      "type": "tubular_bell",
+      "category": "papa"
+    },
+    {
+      "time": 14.228191720607946,
+      "pc": 11,
+      "octave": 5,
+      "duration": 1.6761743299964007,
+      "amplitude": 0.09653297180941434,
+      "type": "glockenspiel",
+      "category": "sister"
+    },
+    {
+      "time": 14.941786394437466,
+      "pc": 11,
+      "octave": 5,
+      "duration": 1.6590760568511822,
+      "amplitude": 0.16378240997307972,
+      "type": "glockenspiel",
+      "category": "sister"
+    },
+    {
+      "time": 15.079301633596689,
+      "pc": 2,
+      "octave": 2,
+      "duration": 4.006356093007275,
+      "amplitude": 0.29146869982021506,
+      "type": "tubular_bell",
+      "category": "papa"
+    },
+    {
+      "time": 15.239914591781625,
+      "pc": 6,
+      "octave": 5,
+      "duration": 3.1482963022039674,
+      "amplitude": 0.20157079111264808,
+      "type": "church_bell",
+      "category": "boy"
+    },
+    {
+      "time": 15.692501409692696,
+      "pc": 11,
+      "octave": 5,
+      "duration": 2.486164290311625,
+      "amplitude": 0.08579540883016419,
+      "type": "glockenspiel",
+      "category": "sister"
+    },
+    {
+      "time": 16.03213891698448,
+      "pc": 11,
+      "octave": 5,
+      "duration": 2.0332893593615218,
+      "amplitude": 0.10349915442159803,
+      "type": "glockenspiel",
+      "category": "sister"
+    },
+    {
+      "time": 16.162032329376025,
+      "pc": 11,
+      "octave": 4,
+      "duration": 4.29156462585034,
+      "amplitude": 0.35,
+      "type": "cluster",
+      "category": "rude_guy"
+    },
+    {
+      "time": 16.503079059853608,
+      "pc": 11,
+      "octave": 5,
+      "duration": 1.9245454865087566,
+      "amplitude": 0.15293736335151853,
+      "type": "glockenspiel",
+      "category": "sister"
+    },
+    {
+      "time": 16.69690285871416,
+      "pc": 2,
+      "octave": 2,
+      "duration": 3.9964598647412806,
+      "amplitude": 0.3087800138250869,
+      "type": "tubular_bell",
+      "category": "papa"
+    },
+    {
+      "time": 16.887315273235146,
+      "pc": 2,
+      "octave": 2,
+      "duration": 3.5968138782671524,
+      "amplitude": 0.21774995405845837,
+      "type": "tubular_bell",
+      "category": "papa"
+    },
+    {
+      "time": 16.985732161655715,
+      "pc": 6,
+      "octave": 5,
+      "duration": 2.996913510464287,
+      "amplitude": 0.13746902581798318,
+      "type": "church_bell",
+      "category": "boy"
+    },
+    {
+      "time": 17.503561992032495,
+      "pc": 11,
+      "octave": 5,
+      "duration": 1.9530434453079502,
+      "amplitude": 0.16507260529209206,
+      "type": "glockenspiel",
+      "category": "sister"
+    },
+    {
+      "time": 18.390442085148763,
+      "pc": 2,
+      "octave": 2,
+      "duration": 4.499506853022088,
+      "amplitude": 0.29596487246044206,
+      "type": "tubular_bell",
+      "category": "papa"
+    },
+    {
+      "time": 18.451932277087938,
+      "pc": 6,
+      "octave": 5,
+      "duration": 2.9301980249046067,
+      "amplitude": 0.16426396857887923,
+      "type": "church_bell",
+      "category": "boy"
+    },
+    {
+      "time": 20.084118818452712,
+      "pc": 2,
+      "octave": 2,
+      "duration": 4.762672473502468,
+      "amplitude": 0.3857874980415166,
+      "type": "tubular_bell",
+      "category": "papa"
+    },
+    {
+      "time": 20.33013314624756,
+      "pc": 6,
+      "octave": 5,
+      "duration": 3.1045640640274312,
+      "amplitude": 0.14964190610073236,
+      "type": "church_bell",
+      "category": "boy"
+    },
+    {
+      "time": 21.815930069000647,
+      "pc": 6,
+      "octave": 5,
+      "duration": 3.4288222777080373,
+      "amplitude": 0.127254309646906,
+      "type": "church_bell",
+      "category": "boy"
+    },
+    {
+      "time": 21.823833260944504,
+      "pc": 2,
+      "octave": 2,
+      "duration": 3.763739802537574,
+      "amplitude": 0.37145169680492723,
+      "type": "tubular_bell",
+      "category": "papa"
+    },
+    {
+      "time": 21.939064967806704,
+      "pc": 6,
+      "octave": 5,
+      "duration": 2.74305782216643,
+      "amplitude": 0.07668160884305013,
+      "type": "church_bell",
+      "category": "boy"
+    },
+    {
+      "time": 23.071568020614766,
+      "pc": 6,
+      "octave": 5,
+      "duration": 3.3008199435322725,
+      "amplitude": 0.172468136587126,
+      "type": "church_bell",
+      "category": "boy"
+    },
+    {
+      "time": 23.45172961668954,
+      "pc": 2,
+      "octave": 2,
+      "duration": 3.5101695717128036,
+      "amplitude": 0.3528393888395152,
+      "type": "tubular_bell",
+      "category": "papa"
+    },
+    {
+      "time": 24.35481408340201,
+      "pc": 6,
+      "octave": 5,
+      "duration": 2.824642803477019,
+      "amplitude": 0.19868185792412874,
+      "type": "church_bell",
+      "category": "boy"
+    },
+    {
+      "time": 24.702260916426997,
+      "pc": 11,
+      "octave": 4,
+      "duration": 1.5359183673469388,
+      "amplitude": 0.35,
+      "type": "cluster",
+      "category": "rude_guy"
+    },
+    {
+      "time": 25.2690379010002,
+      "pc": 2,
+      "octave": 2,
+      "duration": 3.851575235642975,
+      "amplitude": 0.30697046490046714,
+      "type": "tubular_bell",
+      "category": "papa"
+    },
+    {
+      "time": 26.69790400315289,
+      "pc": 2,
+      "octave": 2,
+      "duration": 4.927245955293047,
+      "amplitude": 0.32612001977509925,
+      "type": "tubular_bell",
+      "category": "papa"
+    },
+    {
+      "time": 27.745245588993654,
+      "pc": 11,
+      "octave": 4,
+      "duration": 1.089047619047619,
+      "amplitude": 0.35,
+      "type": "cluster",
+      "category": "rude_guy"
+    },
+    {
+      "time": 27.92321267865655,
+      "pc": 2,
+      "octave": 2,
+      "duration": 4.052528485393684,
+      "amplitude": 0.3274747666645268,
+      "type": "tubular_bell",
+      "category": "papa"
+    },
+    {
+      "time": 28.16028440868105,
+      "pc": 2,
+      "octave": 2,
+      "duration": 3.6472756368543156,
+      "amplitude": 0.32562444936521795,
+      "type": "tubular_bell",
+      "category": "papa"
+    }
+  ]
+}
