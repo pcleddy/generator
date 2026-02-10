@@ -1,0 +1,760 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Animated Score Player</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            background: #0a0a0f;
+            color: #ffffff;
+            font-family: 'SF Mono', 'Fira Code', 'Consolas', monospace;
+            padding: 20px;
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .container {
+            width: 100%;
+            max-width: 1400px;
+            display: flex;
+            flex-direction: column;
+            gap: 20px;
+        }
+
+        .header {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+
+        .header h1 {
+            font-size: 28px;
+            margin-bottom: 10px;
+            color: #66ccff;
+            text-shadow: 0 0 10px rgba(102, 204, 255, 0.3);
+        }
+
+        .header p {
+            font-size: 14px;
+            color: #999;
+        }
+
+        .controls-wrapper {
+            display: flex;
+            flex-direction: column;
+            gap: 15px;
+            background: rgba(20, 20, 30, 0.6);
+            padding: 20px;
+            border-radius: 8px;
+            border: 1px solid rgba(102, 204, 255, 0.2);
+            backdrop-filter: blur(10px);
+        }
+
+        .selector-row {
+            display: flex;
+            gap: 15px;
+            align-items: center;
+            flex-wrap: wrap;
+        }
+
+        .selector-row label {
+            font-size: 14px;
+            color: #aaa;
+            min-width: 80px;
+        }
+
+        .selector-row select {
+            padding: 8px 12px;
+            background: rgba(30, 30, 50, 0.8);
+            color: #66ccff;
+            border: 1px solid rgba(102, 204, 255, 0.4);
+            border-radius: 4px;
+            font-family: inherit;
+            font-size: 14px;
+            cursor: pointer;
+            flex: 1;
+            min-width: 200px;
+            transition: all 0.2s;
+        }
+
+        .selector-row select:hover {
+            border-color: rgba(102, 204, 255, 0.8);
+            background: rgba(40, 40, 70, 0.9);
+        }
+
+        .selector-row select:focus {
+            outline: none;
+            border-color: #66ccff;
+            box-shadow: 0 0 8px rgba(102, 204, 255, 0.3);
+        }
+
+        .playback-controls {
+            display: flex;
+            gap: 15px;
+            align-items: center;
+        }
+
+        button {
+            padding: 10px 20px;
+            background: linear-gradient(135deg, #66ccff 0%, #4499dd 100%);
+            color: #0a0a0f;
+            border: none;
+            border-radius: 4px;
+            font-family: inherit;
+            font-size: 14px;
+            font-weight: bold;
+            cursor: pointer;
+            transition: all 0.2s;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+        }
+
+        button:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 4px 12px rgba(102, 204, 255, 0.4);
+        }
+
+        button:active {
+            transform: translateY(0);
+        }
+
+        .time-display {
+            font-size: 13px;
+            color: #cc99ff;
+            min-width: 120px;
+            text-align: right;
+            font-weight: bold;
+        }
+
+        .timeline-container {
+            display: flex;
+            gap: 10px;
+            align-items: center;
+        }
+
+        .timeline-bar {
+            flex: 1;
+            height: 6px;
+            background: rgba(100, 100, 120, 0.3);
+            border-radius: 3px;
+            cursor: pointer;
+            position: relative;
+            border: 1px solid rgba(102, 204, 255, 0.2);
+            transition: all 0.2s;
+        }
+
+        .timeline-bar:hover {
+            background: rgba(100, 100, 140, 0.5);
+            border-color: rgba(102, 204, 255, 0.4);
+        }
+
+        .timeline-progress {
+            height: 100%;
+            background: linear-gradient(90deg, #66ccff 0%, #cc99ff 100%);
+            border-radius: 3px;
+            width: 0%;
+            box-shadow: 0 0 8px rgba(102, 204, 255, 0.6);
+        }
+
+        .canvas-wrapper {
+            background: linear-gradient(180deg, rgba(15, 15, 25, 0.8) 0%, rgba(20, 20, 30, 0.8) 100%);
+            border: 1px solid rgba(102, 204, 255, 0.2);
+            border-radius: 8px;
+            overflow: hidden;
+            box-shadow: 0 8px 32px rgba(0, 0, 0, 0.5);
+            backdrop-filter: blur(5px);
+        }
+
+        canvas {
+            display: block;
+            width: 100%;
+            height: auto;
+        }
+
+        .error-message {
+            background: rgba(255, 100, 100, 0.1);
+            border: 1px solid rgba(255, 100, 100, 0.3);
+            color: #ffaa88;
+            padding: 15px;
+            border-radius: 4px;
+            margin-top: 20px;
+            text-align: center;
+        }
+
+        .loading {
+            text-align: center;
+            color: #66ccff;
+            font-size: 14px;
+            margin-top: 20px;
+        }
+
+        @keyframes pulse {
+            0% { opacity: 1; }
+            50% { opacity: 0.6; }
+            100% { opacity: 1; }
+        }
+
+        .pulse {
+            animation: pulse 0.4s ease-in-out;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>Animated Score Player</h1>
+            <p>Graphical representation of synthesized compositions</p>
+        </div>
+
+        <div class="controls-wrapper">
+            <div class="selector-row">
+                <label for="piece-select">Piece:</label>
+                <select id="piece-select">
+                    <option value="cage_ambient">Cage Ambient — Drift with Interruptions</option>
+                    <option value="bells_bergman">Bells + Bergman Clock</option>
+                    <option value="bells_pizz">Bells + Pizzicato Clock</option>
+                    <option value="bells_gentle">Bells Gentle — For Tanya</option>
+                    <option value="tubular_low">Tubular Bells — Low Register</option>
+                    <option value="berg_extended">Berg Extended — Lyrical Serialism</option>
+                    <option value="berg_lyrical">Berg Lyrical — Original</option>
+                    <option value="webern">Webern Pointillism</option>
+                </select>
+            </div>
+
+            <div class="playback-controls">
+                <button id="play-btn">Play</button>
+                <div class="timeline-container">
+                    <div class="timeline-bar">
+                        <div class="timeline-progress" id="progress"></div>
+                    </div>
+                </div>
+                <div class="time-display" id="time-display">0:00 / 0:00</div>
+            </div>
+        </div>
+
+        <div class="canvas-wrapper">
+            <canvas id="score-canvas"></canvas>
+        </div>
+
+        <div id="error-container"></div>
+    </div>
+
+    <script>
+        // ============================================
+        // CONFIGURATION & STATE
+        // ============================================
+
+        const CONFIG = {
+            pieces: {
+                cage_ambient: 'Cage Ambient',
+                bells_bergman: 'Bells + Bergman Clock',
+                bells_pizz: 'Bells + Pizzicato Clock',
+                bells_gentle: 'Bells Gentle',
+                tubular_low: 'Tubular Bells',
+                berg_extended: 'Berg Extended',
+                berg_lyrical: 'Berg Lyrical',
+                webern: 'Webern Pointillism'
+            },
+            colors: {
+                cello_pont: { hex: '#4488dd', rgb: [68, 136, 221] },
+                cello_tasto: { hex: '#3366cc', rgb: [51, 102, 204] },
+                flute: { hex: '#44ccaa', rgb: [68, 204, 170] },
+                clarinet: { hex: '#33bb99', rgb: [51, 187, 153] },
+                oboe: { hex: '#22aa88', rgb: [34, 170, 136] },
+                bell_struck: { hex: '#ffaa44', rgb: [255, 170, 68] },
+                glass_harmonica: { hex: '#ffbb66', rgb: [255, 187, 102] },
+                pizzicato: { hex: '#ffffff', rgb: [255, 255, 255] },
+                glockenspiel: { hex: '#66ccff', rgb: [102, 204, 255] },
+                celesta: { hex: '#cc99ff', rgb: [204, 153, 255] },
+                tubular_bell: { hex: '#ffaa44', rgb: [255, 170, 68] },
+                church_bell: { hex: '#ff6644', rgb: [255, 102, 68] },
+                wind_chime: { hex: '#aaffcc', rgb: [170, 255, 204] },
+                cluster: { hex: '#ff6688', rgb: [255, 102, 136] },
+                cascade: { hex: '#ff8899', rgb: [255, 136, 153] },
+                vocal: { hex: '#ffdd44', rgb: [255, 221, 68] },
+                ambient: { hex: '#66ccff', rgb: [102, 204, 255] },
+                xylophone: { hex: '#cc8844', rgb: [204, 136, 68] },
+                marimba: { hex: '#dd9955', rgb: [221, 153, 85] }
+            }
+        };
+
+        let state = {
+            currentPiece: 'cage_ambient',
+            audio: null,
+            isPlaying: false,
+            events: [],
+            duration: 0,
+            activationTimes: new Map(),
+            pastEvents: new Set()
+        };
+
+        // ============================================
+        // UTILITY FUNCTIONS
+        // ============================================
+
+        function midiToNote(pc, octave) {
+            const midi = pc + (octave + 1) * 12;
+            const notes = ['C', 'C#', 'D', 'D#', 'E', 'F', 'F#', 'G', 'G#', 'A', 'A#', 'B'];
+            const noteName = notes[pc % 12];
+            const octaveNum = Math.floor(midi / 12) - 1;
+            return { midi, name: `${noteName}${octaveNum}` };
+        }
+
+        function formatTime(seconds) {
+            if (isNaN(seconds)) return '0:00';
+            const mins = Math.floor(seconds / 60);
+            const secs = Math.floor(seconds % 60);
+            return `${mins}:${secs.toString().padStart(2, '0')}`;
+        }
+
+        function showError(message) {
+            const container = document.getElementById('error-container');
+            container.innerHTML = `<div class="error-message">${message}</div>`;
+        }
+
+        function clearError() {
+            document.getElementById('error-container').innerHTML = '';
+        }
+
+        // ============================================
+        // AUDIO LOADING
+        // ============================================
+
+        async function loadAudio(filename) {
+            return new Promise((resolve, reject) => {
+                const audio = new Audio();
+                audio.crossOrigin = 'anonymous';
+
+                // Try S3 first
+                const s3Url = `https://www.cloudautomat.net/audio/generator/${filename}`;
+
+                // Try local fallback
+                const localUrl = `./${filename}`;
+
+                let attempts = 0;
+                const maxAttempts = 2;
+
+                function tryNext() {
+                    attempts++;
+                    if (attempts === 1) {
+                        audio.src = s3Url;
+                    } else if (attempts === 2) {
+                        audio.src = localUrl;
+                    } else {
+                        reject(new Error(`Could not load audio: ${filename}`));
+                        return;
+                    }
+
+                    audio.onerror = () => tryNext();
+                    audio.oncanplaythrough = () => {
+                        audio.onerror = null;
+                        resolve(audio);
+                    };
+                    audio.load();
+                }
+
+                tryNext();
+            });
+        }
+
+        // ============================================
+        // DATA LOADING
+        // ============================================
+
+        async function loadPiece(pieceName) {
+            try {
+                clearError();
+                const response = await fetch(`${pieceName}.json`);
+                if (!response.ok) throw new Error(`Failed to load ${pieceName}.json`);
+
+                const data = await response.json();
+                state.events = data.events || [];
+                state.duration = data.duration || 0;
+                state.activationTimes.clear();
+                state.pastEvents.clear();
+
+                // Load audio
+                const audioFile = data.audio_file || `${pieceName}.mp3`;
+                state.audio = await loadAudio(audioFile);
+                state.audio.onended = () => {
+                    state.isPlaying = false;
+                    updatePlayButton();
+                };
+
+                updateCanvasSize();
+                render();
+            } catch (error) {
+                console.error('Error loading piece:', error);
+                showError(`Error loading piece: ${error.message}`);
+            }
+        }
+
+        // ============================================
+        // CANVAS SETUP
+        // ============================================
+
+        const canvas = document.getElementById('score-canvas');
+        const ctx = canvas.getContext('2d');
+
+        function updateCanvasSize() {
+            const rect = canvas.parentElement.getBoundingClientRect();
+            canvas.width = rect.width;
+            canvas.height = 500;
+        }
+
+        window.addEventListener('resize', () => {
+            updateCanvasSize();
+            render();
+        });
+
+        // ============================================
+        // RENDERING
+        // ============================================
+
+        function getEventColor(event) {
+            const typeColor = CONFIG.colors[event.type] || CONFIG.colors.ambient;
+            return typeColor.hex;
+        }
+
+        function drawShape(x, y, width, height, shape, color, alpha, isPast, isActive) {
+            ctx.save();
+            ctx.globalAlpha = isPast ? 0.4 : (isActive ? 1.0 : 0.15);
+            ctx.fillStyle = color;
+            ctx.strokeStyle = color;
+
+            const centerX = x + width / 2;
+            const centerY = y + height / 2;
+
+            switch (shape) {
+                case 'bar':
+                    ctx.fillRect(x, y, width, height);
+                    if (isActive) {
+                        ctx.strokeStyle = 'white';
+                        ctx.lineWidth = 2;
+                        ctx.strokeRect(x, y, width, height);
+                    }
+                    break;
+
+                case 'circle':
+                    ctx.beginPath();
+                    ctx.arc(centerX, centerY, Math.min(width, height) / 2, 0, Math.PI * 2);
+                    ctx.fill();
+                    if (isActive) {
+                        ctx.strokeStyle = 'white';
+                        ctx.lineWidth = 2;
+                        ctx.stroke();
+                    }
+                    break;
+
+                case 'diamond':
+                    ctx.beginPath();
+                    ctx.moveTo(centerX, y);
+                    ctx.lineTo(x + width, centerY);
+                    ctx.lineTo(centerX, y + height);
+                    ctx.lineTo(x, centerY);
+                    ctx.closePath();
+                    ctx.fill();
+                    if (isActive) {
+                        ctx.strokeStyle = 'white';
+                        ctx.lineWidth = 2;
+                        ctx.stroke();
+                    }
+                    break;
+
+                case 'square':
+                    ctx.fillRect(x, y, width, height);
+                    if (isActive) {
+                        ctx.strokeStyle = 'white';
+                        ctx.lineWidth = 2;
+                        ctx.strokeRect(x, y, width, height);
+                    }
+                    break;
+
+                case 'pentagon':
+                    drawPentagon(centerX, centerY, Math.min(width, height) / 2);
+                    ctx.fill();
+                    if (isActive) {
+                        ctx.strokeStyle = 'white';
+                        ctx.lineWidth = 2;
+                        ctx.stroke();
+                    }
+                    break;
+
+                case 'star':
+                    drawStar(centerX, centerY, Math.min(width, height) / 2);
+                    ctx.fill();
+                    if (isActive) {
+                        ctx.strokeStyle = 'white';
+                        ctx.lineWidth = 2;
+                        ctx.stroke();
+                    }
+                    break;
+            }
+
+            ctx.restore();
+        }
+
+        function drawPentagon(x, y, radius) {
+            ctx.beginPath();
+            for (let i = 0; i < 5; i++) {
+                const angle = (i * 4 * Math.PI) / 5 - Math.PI / 2;
+                const px = x + radius * Math.cos(angle);
+                const py = y + radius * Math.sin(angle);
+                if (i === 0) ctx.moveTo(px, py);
+                else ctx.lineTo(px, py);
+            }
+            ctx.closePath();
+        }
+
+        function drawStar(x, y, radius) {
+            ctx.beginPath();
+            for (let i = 0; i < 10; i++) {
+                const r = i % 2 === 0 ? radius : radius / 2;
+                const angle = (i * Math.PI) / 5 - Math.PI / 2;
+                const px = x + r * Math.cos(angle);
+                const py = y + r * Math.sin(angle);
+                if (i === 0) ctx.moveTo(px, py);
+                else ctx.lineTo(px, py);
+            }
+            ctx.closePath();
+        }
+
+        function getShapeForType(type) {
+            if (type.includes('cello')) return 'bar';
+            if (type.includes('flute') || type.includes('clarinet') || type.includes('oboe')) return 'bar';
+            if (type.includes('bell_struck') || type.includes('glass_harmonica')) return 'diamond';
+            if (type.includes('pizzicato')) return 'circle';
+            if (type.includes('glockenspiel')) return 'diamond';
+            if (type.includes('celesta')) return 'circle';
+            if (type.includes('tubular_bell')) return 'square';
+            if (type.includes('church_bell')) return 'pentagon';
+            if (type.includes('wind_chime')) return 'star';
+            if (type.includes('cluster') || type.includes('cascade')) return 'circle';
+            if (type.includes('vocal')) return 'circle';
+            if (type.includes('xylophone') || type.includes('marimba')) return 'square';
+            return 'bar';
+        }
+
+        function render() {
+            const width = canvas.width;
+            const height = canvas.height;
+            const padding = 50;
+            const graphWidth = width - padding * 2;
+            const graphHeight = height - padding * 2;
+
+            // Background
+            ctx.fillStyle = '#0a0a0f';
+            ctx.fillRect(0, 0, width, height);
+
+            // Grid background
+            ctx.strokeStyle = 'rgba(102, 204, 255, 0.05)';
+            ctx.lineWidth = 1;
+
+            // Vertical grid (time)
+            const timeStep = 10;
+            for (let t = 0; t <= state.duration; t += timeStep) {
+                const x = padding + (t / state.duration) * graphWidth;
+                ctx.beginPath();
+                ctx.moveTo(x, padding);
+                ctx.lineTo(x, height - padding);
+                ctx.stroke();
+            }
+
+            // Horizontal grid (pitch)
+            const pitchStep = 12;
+            for (let midi = 24; midi <= 96; midi += pitchStep) {
+                const y = height - padding - ((midi - 24) / 72) * graphHeight;
+                ctx.beginPath();
+                ctx.moveTo(padding, y);
+                ctx.lineTo(width - padding, y);
+                ctx.stroke();
+            }
+
+            // Draw axis labels
+            ctx.fillStyle = '#666666';
+            ctx.font = '11px "SF Mono", "Fira Code", "Consolas"';
+            ctx.textAlign = 'center';
+
+            // Time axis labels
+            for (let t = 0; t <= state.duration; t += timeStep) {
+                const x = padding + (t / state.duration) * graphWidth;
+                ctx.fillText(t + 's', x, height - padding + 15);
+            }
+
+            // Pitch axis labels
+            ctx.textAlign = 'right';
+            const notes = ['C', 'C#', 'D', 'D#', 'E', 'F', 'F#', 'G', 'G#', 'A', 'A#', 'B'];
+            for (let midi = 24; midi <= 96; midi += 12) {
+                const y = height - padding - ((midi - 24) / 72) * graphHeight;
+                const octave = Math.floor(midi / 12) - 1;
+                const noteName = notes[midi % 12];
+                ctx.fillText(`${noteName}${octave}`, padding - 10, y + 3);
+            }
+
+            // Draw events
+            state.events.forEach((event, idx) => {
+                const x = padding + (event.time / state.duration) * graphWidth;
+                const midiNote = event.pc + (event.octave + 1) * 12;
+                const y = height - padding - ((midiNote - 24) / 72) * graphHeight;
+
+                const eventWidth = Math.max(10, (event.duration / state.duration) * graphWidth * 0.8);
+                const eventHeight = 20;
+
+                const isPast = state.pastEvents.has(idx);
+                const isActive = state.activationTimes.has(idx);
+
+                const color = getEventColor(event);
+                const shape = getShapeForType(event.type);
+
+                drawShape(x - eventWidth / 2, y - eventHeight / 2, eventWidth, eventHeight, shape, color, 1, isPast, isActive);
+
+                // Draw sustain decay trail
+                if (isPast && event.duration > 0.1) {
+                    ctx.save();
+                    ctx.globalAlpha = 0.1;
+                    ctx.strokeStyle = color;
+                    ctx.lineWidth = 1;
+                    ctx.setLineDash([4, 4]);
+                    const endX = x + (event.duration / state.duration) * graphWidth * 0.8;
+                    ctx.beginPath();
+                    ctx.moveTo(x, y);
+                    ctx.lineTo(Math.min(endX, width - padding), y);
+                    ctx.stroke();
+                    ctx.restore();
+                }
+            });
+
+            // Playhead
+            if (state.audio) {
+                const playheadX = padding + (state.audio.currentTime / state.duration) * graphWidth;
+                ctx.strokeStyle = '#66ccff';
+                ctx.lineWidth = 2;
+                ctx.globalAlpha = 0.8;
+                ctx.beginPath();
+                ctx.moveTo(playheadX, padding);
+                ctx.lineTo(playheadX, height - padding);
+                ctx.stroke();
+
+                // Playhead glow
+                ctx.strokeStyle = 'rgba(102, 204, 255, 0.4)';
+                ctx.lineWidth = 6;
+                ctx.globalAlpha = 0.3;
+                ctx.beginPath();
+                ctx.moveTo(playheadX, padding);
+                ctx.lineTo(playheadX, height - padding);
+                ctx.stroke();
+            }
+
+            ctx.globalAlpha = 1.0;
+        }
+
+        // ============================================
+        // ANIMATION LOOP
+        // ============================================
+
+        function updateEvents() {
+            if (!state.audio) return;
+
+            const currentTime = state.audio.currentTime;
+
+            state.events.forEach((event, idx) => {
+                const eventStart = event.time;
+                const eventEnd = event.time + (event.duration || 0.1);
+
+                // Mark as past if playhead passed the start
+                if (currentTime >= eventStart && !state.pastEvents.has(idx)) {
+                    state.pastEvents.add(idx);
+                    state.activationTimes.set(idx, currentTime);
+                }
+
+                // Mark as no longer active if playhead passed the end
+                if (currentTime > eventEnd && state.activationTimes.has(idx)) {
+                    state.activationTimes.delete(idx);
+                }
+            });
+        }
+
+        function animate() {
+            updateEvents();
+            render();
+
+            if (state.isPlaying) {
+                updateTimeDisplay();
+            }
+
+            requestAnimationFrame(animate);
+        }
+
+        animate();
+
+        // ============================================
+        // CONTROLS
+        // ============================================
+
+        const playBtn = document.getElementById('play-btn');
+        const pieceSelect = document.getElementById('piece-select');
+        const timeDisplay = document.getElementById('time-display');
+        const progressBar = document.getElementById('progress');
+        const timelineBar = document.querySelector('.timeline-bar');
+
+        function updatePlayButton() {
+            playBtn.textContent = state.isPlaying ? 'Pause' : 'Play';
+        }
+
+        function updateTimeDisplay() {
+            if (state.audio) {
+                const current = formatTime(state.audio.currentTime);
+                const total = formatTime(state.duration);
+                const progress = (state.audio.currentTime / state.duration) * 100;
+                timeDisplay.textContent = `${current} / ${total}`;
+                progressBar.style.width = Math.min(progress, 100) + '%';
+            }
+        }
+
+        playBtn.addEventListener('click', () => {
+            if (!state.audio) return;
+
+            if (state.isPlaying) {
+                state.audio.pause();
+                state.isPlaying = false;
+            } else {
+                state.audio.play();
+                state.isPlaying = true;
+            }
+
+            updatePlayButton();
+        });
+
+        pieceSelect.addEventListener('change', (e) => {
+            state.currentPiece = e.target.value;
+            state.isPlaying = false;
+            updatePlayButton();
+            loadPiece(state.currentPiece);
+        });
+
+        timelineBar.addEventListener('click', (e) => {
+            if (!state.audio) return;
+            const rect = timelineBar.getBoundingClientRect();
+            const percent = (e.clientX - rect.left) / rect.width;
+            state.audio.currentTime = percent * state.duration;
+            updateTimeDisplay();
+        });
+
+        // ============================================
+        // INITIALIZATION
+        // ============================================
+
+        // Load initial piece
+        loadPiece(state.currentPiece);
+    </script>
+</body>
+</html>

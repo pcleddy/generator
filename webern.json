@@ -1,0 +1,297 @@
+{
+  "title": "Webern Pointillism",
+  "duration": 50.0,
+  "seed": null,
+  "audio_file": "webern_02.mp3",
+  "n_events": 32,
+  "events": [
+    {
+      "time": 2.785638693055656,
+      "pc": 0,
+      "octave": 3,
+      "duration": 0.18032322556303632,
+      "amplitude": 0.023267113631214618,
+      "type": "oboe_pp",
+      "category": "pointillist"
+    },
+    {
+      "time": 3.877369544085335,
+      "pc": 1,
+      "octave": 3,
+      "duration": 0.11394135080500228,
+      "amplitude": 0.08049805202991886,
+      "type": "oboe_pp",
+      "category": "pointillist"
+    },
+    {
+      "time": 4.89570251844742,
+      "pc": 4,
+      "octave": 2,
+      "duration": 0.2644692987105069,
+      "amplitude": 0.05431165669982671,
+      "type": "cello_tasto",
+      "category": "pointillist"
+    },
+    {
+      "time": 6.286157086422205,
+      "pc": 1,
+      "octave": 5,
+      "duration": 0.8475699887306092,
+      "amplitude": 0.03206303390240286,
+      "type": "glass_harmonica",
+      "category": "pointillist"
+    },
+    {
+      "time": 9.718434101509038,
+      "pc": 4,
+      "octave": 6,
+      "duration": 0.38171278286353133,
+      "amplitude": 0.041550942311703115,
+      "type": "oboe_pp",
+      "category": "pointillist"
+    },
+    {
+      "time": 10.150220385582344,
+      "pc": 5,
+      "octave": 3,
+      "duration": 0.24735296541422735,
+      "amplitude": 0.0464324077449255,
+      "type": "pizzicato",
+      "category": "pointillist"
+    },
+    {
+      "time": 10.933533490138263,
+      "pc": 8,
+      "octave": 5,
+      "duration": 0.2552437533453106,
+      "amplitude": 0.05655383785754413,
+      "type": "clarinet_chalumeau",
+      "category": "pointillist"
+    },
+    {
+      "time": 12.67257190676045,
+      "pc": 2,
+      "octave": 3,
+      "duration": 0.6557689566474669,
+      "amplitude": 0.046176933919558044,
+      "type": "bell_struck",
+      "category": "pointillist"
+    },
+    {
+      "time": 19.86273651804949,
+      "pc": 0,
+      "octave": 4,
+      "duration": 0.39379885650611,
+      "amplitude": 0.12882399096508454,
+      "type": "cello_tasto",
+      "category": "pointillist"
+    },
+    {
+      "time": 20.61786439138869,
+      "pc": 11,
+      "octave": 3,
+      "duration": 1.3109417953200453,
+      "amplitude": 0.05772588139034526,
+      "type": "pizzicato",
+      "category": "pointillist"
+    },
+    {
+      "time": 21.614208517221208,
+      "pc": 8,
+      "octave": 2,
+      "duration": 0.32050284470423523,
+      "amplitude": 0.03805171692019582,
+      "type": "bell_struck",
+      "category": "pointillist"
+    },
+    {
+      "time": 22.29446343985547,
+      "pc": 11,
+      "octave": 4,
+      "duration": 0.2608915441084651,
+      "amplitude": 0.04408366167967723,
+      "type": "cello_pont",
+      "category": "pointillist"
+    },
+    {
+      "time": 24.645561586479,
+      "pc": 8,
+      "octave": 4,
+      "duration": 0.09568003181244134,
+      "amplitude": 0.10849139141029324,
+      "type": "clarinet_chalumeau",
+      "category": "pointillist"
+    },
+    {
+      "time": 25.274172568826494,
+      "pc": 7,
+      "octave": 3,
+      "duration": 0.26937496221420504,
+      "amplitude": 0.062490000675233276,
+      "type": "cello_tasto",
+      "category": "pointillist"
+    },
+    {
+      "time": 26.74457804910265,
+      "pc": 4,
+      "octave": 4,
+      "duration": 0.33694159292105524,
+      "amplitude": 0.05650376265704213,
+      "type": "bell_struck",
+      "category": "pointillist"
+    },
+    {
+      "time": 27.370362895191143,
+      "pc": 10,
+      "octave": 2,
+      "duration": 0.9793274337227783,
+      "amplitude": 0.04547742920599641,
+      "type": "bell_struck",
+      "category": "pointillist"
+    },
+    {
+      "time": 29.051109522946746,
+      "pc": 9,
+      "octave": 4,
+      "duration": 0.9363929258896662,
+      "amplitude": 0.025481747837362713,
+      "type": "pizzicato",
+      "category": "pointillist"
+    },
+    {
+      "time": 31.818946612730223,
+      "pc": 6,
+      "octave": 5,
+      "duration": 2.4538791473474806,
+      "amplitude": 0.05438291551849475,
+      "type": "glass_harmonica",
+      "category": "pointillist"
+    },
+    {
+      "time": 32.46538411722509,
+      "pc": 5,
+      "octave": 3,
+      "duration": 0.35952770238650034,
+      "amplitude": 0.059743480856702086,
+      "type": "flute_breathy",
+      "category": "pointillist"
+    },
+    {
+      "time": 32.90649711199835,
+      "pc": 3,
+      "octave": 3,
+      "duration": 0.9917661214374205,
+      "amplitude": 0.11265024129340857,
+      "type": "cello_pont",
+      "category": "pointillist"
+    },
+    {
+      "time": 36.86552703411728,
+      "pc": 9,
+      "octave": 6,
+      "duration": 0.3348198878226441,
+      "amplitude": 0.032497999725342584,
+      "type": "pizzicato",
+      "category": "pointillist"
+    },
+    {
+      "time": 37.47939278227802,
+      "pc": 7,
+      "octave": 4,
+      "duration": 0.26897725447443216,
+      "amplitude": 0.0680355778743004,
+      "type": "bell_struck",
+      "category": "pointillist"
+    },
+    {
+      "time": 37.90623853007677,
+      "pc": 6,
+      "octave": 4,
+      "duration": 0.6327078334002405,
+      "amplitude": 0.05725149440251663,
+      "type": "cello_tasto",
+      "category": "pointillist"
+    },
+    {
+      "time": 39.31206439402642,
+      "pc": 3,
+      "octave": 6,
+      "duration": 0.30951147129763734,
+      "amplitude": 0.021453379621513488,
+      "type": "clarinet_chalumeau",
+      "category": "pointillist"
+    },
+    {
+      "time": 39.71114627681685,
+      "pc": 2,
+      "octave": 2,
+      "duration": 0.35264338695238756,
+      "amplitude": 0.03570642823158037,
+      "type": "oboe_pp",
+      "category": "pointillist"
+    },
+    {
+      "time": 43.40461767157925,
+      "pc": 8,
+      "octave": 3,
+      "duration": 0.18274174703563112,
+      "amplitude": 0.03531665658211392,
+      "type": "glass_harmonica",
+      "category": "pointillist"
+    },
+    {
+      "time": 44.03533215833404,
+      "pc": 5,
+      "octave": 6,
+      "duration": 2.2184996751838595,
+      "amplitude": 0.03711829198766485,
+      "type": "cello_tasto",
+      "category": "pointillist"
+    },
+    {
+      "time": 46.116821168694855,
+      "pc": 4,
+      "octave": 6,
+      "duration": 0.7033365769455082,
+      "amplitude": 0.09741525096030601,
+      "type": "pizzicato",
+      "category": "pointillist"
+    },
+    {
+      "time": 46.84743341927295,
+      "pc": 1,
+      "octave": 4,
+      "duration": 0.20548213540202626,
+      "amplitude": 0.027435009829024713,
+      "type": "oboe_pp",
+      "category": "pointillist"
+    },
+    {
+      "time": 32.90797993925033,
+      "pc": 11,
+      "octave": 2,
+      "duration": 1.2158471661387018,
+      "amplitude": 0.06902863697907624,
+      "type": "glass_harmonica",
+      "category": "pointillist"
+    },
+    {
+      "time": 19.877574584796818,
+      "pc": 8,
+      "octave": 2,
+      "duration": 0.432833476440469,
+      "amplitude": 0.0835251258003746,
+      "type": "flute_breathy",
+      "category": "pointillist"
+    },
+    {
+      "time": 3.86389396889459,
+      "pc": 8,
+      "octave": 2,
+      "duration": 0.06704672567748811,
+      "amplitude": 0.05439436426128647,
+      "type": "clarinet_chalumeau",
+      "category": "pointillist"
+    }
+  ]
+}

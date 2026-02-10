@@ -1,0 +1,999 @@
+{
+  "title": "Berg Lyrical",
+  "duration": 90.0,
+  "seed": null,
+  "audio_file": "berg_01.mp3",
+  "n_events": 110,
+  "events": [
+    {
+      "time": 0.5,
+      "pc": 7,
+      "octave": 3,
+      "duration": 3.821719767802436,
+      "amplitude": 0.06491443309942158,
+      "type": "cello_pont",
+      "category": "lyrical"
+    },
+    {
+      "time": 2.9607196151903286,
+      "pc": 10,
+      "octave": 4,
+      "duration": 2.948678833327463,
+      "amplitude": 0.0889765745931796,
+      "type": "cello_pont",
+      "category": "lyrical"
+    },
+    {
+      "time": 4.739239091062911,
+      "pc": 2,
+      "octave": 3,
+      "duration": 2.25755473106446,
+      "amplitude": 0.10091775168617466,
+      "type": "cello_pont",
+      "category": "lyrical"
+    },
+    {
+      "time": 6.132945162529578,
+      "pc": 6,
+      "octave": 3,
+      "duration": 3.876535257712976,
+      "amplitude": 0.10358083018565706,
+      "type": "cello_tasto",
+      "category": "lyrical"
+    },
+    {
+      "time": 8.605674656639287,
+      "pc": 9,
+      "octave": 2,
+      "duration": 2.37720577102223,
+      "amplitude": 0.1435215881524064,
+      "type": "cello_tasto",
+      "category": "lyrical"
+    },
+    {
+      "time": 9.969424211624112,
+      "pc": 0,
+      "octave": 3,
+      "duration": 3.377681358006421,
+      "amplitude": 0.1184100677879061,
+      "type": "cello_tasto",
+      "category": "lyrical"
+    },
+    {
+      "time": 11.731525435349997,
+      "pc": 4,
+      "octave": 3,
+      "duration": 3.5282197554161048,
+      "amplitude": 0.156334803047212,
+      "type": "cello_pont",
+      "category": "lyrical"
+    },
+    {
+      "time": 13.576246826711419,
+      "pc": 8,
+      "octave": 5,
+      "duration": 4.508978686458983,
+      "amplitude": 0.15829397234559367,
+      "type": "cello_tasto",
+      "category": "lyrical"
+    },
+    {
+      "time": 16.398012697374334,
+      "pc": 11,
+      "octave": 3,
+      "duration": 2.404460531873017,
+      "amplitude": 0.1389818868371878,
+      "type": "cello_pont",
+      "category": "lyrical"
+    },
+    {
+      "time": 17.859871516231546,
+      "pc": 1,
+      "octave": 4,
+      "duration": 2.7310066910680426,
+      "amplitude": 0.14992336378904994,
+      "type": "cello_tasto",
+      "category": "lyrical"
+    },
+    {
+      "time": 19.49703728205542,
+      "pc": 3,
+      "octave": 4,
+      "duration": 4.618251827905482,
+      "amplitude": 0.12161587047933992,
+      "type": "cello_pont",
+      "category": "lyrical"
+    },
+    {
+      "time": 21.632303301967927,
+      "pc": 5,
+      "octave": 4,
+      "duration": 3.5194599838627245,
+      "amplitude": 0.11241283783112699,
+      "type": "cello_pont",
+      "category": "lyrical"
+    },
+    {
+      "time": 23.159399572695442,
+      "pc": 7,
+      "octave": 3,
+      "duration": 3.3180624740770672,
+      "amplitude": 0.11917370812644935,
+      "type": "cello_pont",
+      "category": "lyrical"
+    },
+    {
+      "time": 25.06023640604013,
+      "pc": 10,
+      "octave": 3,
+      "duration": 3.9538198213182643,
+      "amplitude": 0.09725187962566656,
+      "type": "cello_pont",
+      "category": "lyrical"
+    },
+    {
+      "time": 26.71388678157412,
+      "pc": 2,
+      "octave": 3,
+      "duration": 3.198079147769663,
+      "amplitude": 0.08723004279950115,
+      "type": "cello_pont",
+      "category": "lyrical"
+    },
+    {
+      "time": 4.0,
+      "pc": 7,
+      "octave": 4,
+      "duration": 4.424262252885508,
+      "amplitude": 0.04172871089257295,
+      "type": "cello_tasto",
+      "category": "lyrical"
+    },
+    {
+      "time": 6.227160708224458,
+      "pc": 4,
+      "octave": 4,
+      "duration": 4.743673655403908,
+      "amplitude": 0.05469647789264749,
+      "type": "cello_tasto",
+      "category": "lyrical"
+    },
+    {
+      "time": 8.767691962965232,
+      "pc": 0,
+      "octave": 4,
+      "duration": 2.5983202625493833,
+      "amplitude": 0.09192542954269901,
+      "type": "cello_tasto",
+      "category": "lyrical"
+    },
+    {
+      "time": 9.815472883449031,
+      "pc": 8,
+      "octave": 3,
+      "duration": 3.3505099645458527,
+      "amplitude": 0.10552236054679257,
+      "type": "cello_tasto",
+      "category": "lyrical"
+    },
+    {
+      "time": 12.395212407021239,
+      "pc": 5,
+      "octave": 4,
+      "duration": 2.8001608943800242,
+      "amplitude": 0.10158628511595923,
+      "type": "cello_tasto",
+      "category": "lyrical"
+    },
+    {
+      "time": 13.83060658472147,
+      "pc": 2,
+      "octave": 4,
+      "duration": 2.3372078236278506,
+      "amplitude": 0.10471554421986069,
+      "type": "cello_tasto",
+      "category": "lyrical"
+    },
+    {
+      "time": 14.829936360426453,
+      "pc": 10,
+      "octave": 3,
+      "duration": 4.524983456113522,
+      "amplitude": 0.12738223990952888,
+      "type": "cello_pont",
+      "category": "lyrical"
+    },
+    {
+      "time": 17.008323985845603,
+      "pc": 6,
+      "octave": 5,
+      "duration": 3.9204238277756143,
+      "amplitude": 0.10404868142880518,
+      "type": "cello_pont",
+      "category": "lyrical"
+    },
+    {
+      "time": 19.246922360524394,
+      "pc": 3,
+      "octave": 5,
+      "duration": 4.02853456894457,
+      "amplitude": 0.12940082734325967,
+      "type": "cello_tasto",
+      "category": "lyrical"
+    },
+    {
+      "time": 21.582207374470446,
+      "pc": 1,
+      "octave": 6,
+      "duration": 3.3679160257816934,
+      "amplitude": 0.10866637358032467,
+      "type": "cello_pont",
+      "category": "lyrical"
+    },
+    {
+      "time": 24.113112335893035,
+      "pc": 11,
+      "octave": 5,
+      "duration": 2.6148921258006186,
+      "amplitude": 0.07681205384195734,
+      "type": "cello_tasto",
+      "category": "lyrical"
+    },
+    {
+      "time": 25.996869601737565,
+      "pc": 9,
+      "octave": 4,
+      "duration": 3.247063342005317,
+      "amplitude": 0.05701053304679876,
+      "type": "cello_tasto",
+      "category": "lyrical"
+    },
+    {
+      "time": 25.0,
+      "pc": 5,
+      "octave": 5,
+      "duration": 3.6528156020660623,
+      "amplitude": 0.07269776229308135,
+      "type": "oboe_pp",
+      "category": "lyrical"
+    },
+    {
+      "time": 27.74173955392273,
+      "pc": 3,
+      "octave": 4,
+      "duration": 1.8668819784870245,
+      "amplitude": 0.13287256102334097,
+      "type": "oboe_pp",
+      "category": "lyrical"
+    },
+    {
+      "time": 28.78116700127975,
+      "pc": 1,
+      "octave": 5,
+      "duration": 1.6028078629341103,
+      "amplitude": 0.12933936152023798,
+      "type": "flute_breathy",
+      "category": "lyrical"
+    },
+    {
+      "time": 29.43052383852057,
+      "pc": 11,
+      "octave": 3,
+      "duration": 3.2157644843184543,
+      "amplitude": 0.1279835874959768,
+      "type": "oboe_pp",
+      "category": "lyrical"
+    },
+    {
+      "time": 30.869133742246184,
+      "pc": 8,
+      "octave": 4,
+      "duration": 1.2286145749315267,
+      "amplitude": 0.14189359104376825,
+      "type": "clarinet_chalumeau",
+      "category": "lyrical"
+    },
+    {
+      "time": 31.493108350494133,
+      "pc": 4,
+      "octave": 5,
+      "duration": 1.257255188491728,
+      "amplitude": 0.1494262770859256,
+      "type": "oboe_pp",
+      "category": "lyrical"
+    },
+    {
+      "time": 32.28795008447794,
+      "pc": 0,
+      "octave": 4,
+      "duration": 3.2887267217705403,
+      "amplitude": 0.19520706852211478,
+      "type": "oboe_pp",
+      "category": "lyrical"
+    },
+    {
+      "time": 33.86712849623398,
+      "pc": 9,
+      "octave": 4,
+      "duration": 1.3053450580540353,
+      "amplitude": 0.17698279717413976,
+      "type": "clarinet_chalumeau",
+      "category": "lyrical"
+    },
+    {
+      "time": 34.61637527631905,
+      "pc": 6,
+      "octave": 4,
+      "duration": 1.1148432989761756,
+      "amplitude": 0.19684984764859853,
+      "type": "clarinet_chalumeau",
+      "category": "lyrical"
+    },
+    {
+      "time": 35.38863984681119,
+      "pc": 2,
+      "octave": 4,
+      "duration": 3.265460641914088,
+      "amplitude": 0.19122849812227546,
+      "type": "oboe_pp",
+      "category": "lyrical"
+    },
+    {
+      "time": 37.4754353594585,
+      "pc": 10,
+      "octave": 3,
+      "duration": 1.8693157621066614,
+      "amplitude": 0.20730824021977037,
+      "type": "flute_breathy",
+      "category": "lyrical"
+    },
+    {
+      "time": 38.787097549324294,
+      "pc": 7,
+      "octave": 5,
+      "duration": 1.0653800353591651,
+      "amplitude": 0.26911911685644274,
+      "type": "flute_breathy",
+      "category": "lyrical"
+    },
+    {
+      "time": 39.370629243144435,
+      "pc": 5,
+      "octave": 5,
+      "duration": 2.826541970519197,
+      "amplitude": 0.25454699549914706,
+      "type": "oboe_pp",
+      "category": "lyrical"
+    },
+    {
+      "time": 40.75969176858811,
+      "pc": 3,
+      "octave": 4,
+      "duration": 1.3444059906241612,
+      "amplitude": 0.2683212307652623,
+      "type": "flute_breathy",
+      "category": "lyrical"
+    },
+    {
+      "time": 41.822752947471514,
+      "pc": 1,
+      "octave": 3,
+      "duration": 1.2366210012611687,
+      "amplitude": 0.25173677098748815,
+      "type": "clarinet_chalumeau",
+      "category": "lyrical"
+    },
+    {
+      "time": 42.32412455508648,
+      "pc": 11,
+      "octave": 3,
+      "duration": 2.643489134724446,
+      "amplitude": 0.2610232284016224,
+      "type": "flute_breathy",
+      "category": "lyrical"
+    },
+    {
+      "time": 43.84780464117034,
+      "pc": 8,
+      "octave": 4,
+      "duration": 1.0793487560883703,
+      "amplitude": 0.25097459724095034,
+      "type": "oboe_pp",
+      "category": "lyrical"
+    },
+    {
+      "time": 44.574858676157156,
+      "pc": 4,
+      "octave": 4,
+      "duration": 1.4117127640250011,
+      "amplitude": 0.2490209557771701,
+      "type": "oboe_pp",
+      "category": "lyrical"
+    },
+    {
+      "time": 45.294210105925245,
+      "pc": 0,
+      "octave": 3,
+      "duration": 3.75750061129545,
+      "amplitude": 0.21807160225789926,
+      "type": "clarinet_chalumeau",
+      "category": "lyrical"
+    },
+    {
+      "time": 47.53466199384628,
+      "pc": 9,
+      "octave": 4,
+      "duration": 1.9678377527583994,
+      "amplitude": 0.25510825920635016,
+      "type": "oboe_pp",
+      "category": "lyrical"
+    },
+    {
+      "time": 48.579707602295926,
+      "pc": 6,
+      "octave": 3,
+      "duration": 1.9541339986262756,
+      "amplitude": 0.2062001853545814,
+      "type": "flute_breathy",
+      "category": "lyrical"
+    },
+    {
+      "time": 50.09142824204314,
+      "pc": 2,
+      "octave": 4,
+      "duration": 2.7653760356882975,
+      "amplitude": 0.21043280936713174,
+      "type": "clarinet_chalumeau",
+      "category": "lyrical"
+    },
+    {
+      "time": 51.60493430788479,
+      "pc": 10,
+      "octave": 4,
+      "duration": 1.5323481325736588,
+      "amplitude": 0.21667687815885014,
+      "type": "clarinet_chalumeau",
+      "category": "lyrical"
+    },
+    {
+      "time": 52.71982520961793,
+      "pc": 7,
+      "octave": 6,
+      "duration": 1.004334442318414,
+      "amplitude": 0.2286420410330088,
+      "type": "clarinet_chalumeau",
+      "category": "lyrical"
+    },
+    {
+      "time": 53.26261276921996,
+      "pc": 5,
+      "octave": 4,
+      "duration": 2.5916905795495193,
+      "amplitude": 0.21987286374219614,
+      "type": "flute_breathy",
+      "category": "lyrical"
+    },
+    {
+      "time": 55.27032142538308,
+      "pc": 3,
+      "octave": 3,
+      "duration": 1.9668654398717962,
+      "amplitude": 0.1645469700103093,
+      "type": "clarinet_chalumeau",
+      "category": "lyrical"
+    },
+    {
+      "time": 56.16859347775035,
+      "pc": 1,
+      "octave": 3,
+      "duration": 1.8224279892707618,
+      "amplitude": 0.19440027023198952,
+      "type": "oboe_pp",
+      "category": "lyrical"
+    },
+    {
+      "time": 57.056019283190125,
+      "pc": 11,
+      "octave": 4,
+      "duration": 3.290670125838549,
+      "amplitude": 0.18295573805271195,
+      "type": "oboe_pp",
+      "category": "lyrical"
+    },
+    {
+      "time": 59.212943420058494,
+      "pc": 8,
+      "octave": 5,
+      "duration": 1.1543409999023777,
+      "amplitude": 0.15219582394083783,
+      "type": "oboe_pp",
+      "category": "lyrical"
+    },
+    {
+      "time": 59.729500372581775,
+      "pc": 4,
+      "octave": 5,
+      "duration": 1.7911198371610753,
+      "amplitude": 0.13338031277043072,
+      "type": "clarinet_chalumeau",
+      "category": "lyrical"
+    },
+    {
+      "time": 61.03926728697864,
+      "pc": 0,
+      "octave": 4,
+      "duration": 2.6102512717571593,
+      "amplitude": 0.09680410826426279,
+      "type": "oboe_pp",
+      "category": "lyrical"
+    },
+    {
+      "time": 62.979966581768025,
+      "pc": 9,
+      "octave": 4,
+      "duration": 1.035217527094031,
+      "amplitude": 0.07909537083752449,
+      "type": "flute_breathy",
+      "category": "lyrical"
+    },
+    {
+      "time": 28.0,
+      "pc": 0,
+      "octave": 3,
+      "duration": 3.7385443491158696,
+      "amplitude": 0.073469236108305,
+      "type": "cello_tasto",
+      "category": "lyrical"
+    },
+    {
+      "time": 30.45947773434227,
+      "pc": 3,
+      "octave": 3,
+      "duration": 3.048359427361642,
+      "amplitude": 0.09694741956464906,
+      "type": "cello_tasto",
+      "category": "lyrical"
+    },
+    {
+      "time": 32.64113607276242,
+      "pc": 7,
+      "octave": 2,
+      "duration": 3.57742829063848,
+      "amplitude": 0.13487589246428092,
+      "type": "cello_tasto",
+      "category": "lyrical"
+    },
+    {
+      "time": 35.063177059667254,
+      "pc": 11,
+      "octave": 2,
+      "duration": 3.659859634013887,
+      "amplitude": 0.15556393742832728,
+      "type": "cello_tasto",
+      "category": "lyrical"
+    },
+    {
+      "time": 37.00171844650847,
+      "pc": 2,
+      "octave": 4,
+      "duration": 2.031672659606768,
+      "amplitude": 0.1653332957334701,
+      "type": "cello_pont",
+      "category": "lyrical"
+    },
+    {
+      "time": 37.92330532744915,
+      "pc": 5,
+      "octave": 4,
+      "duration": 3.3849547092820496,
+      "amplitude": 0.15970631404106747,
+      "type": "cello_pont",
+      "category": "lyrical"
+    },
+    {
+      "time": 40.192947323034275,
+      "pc": 9,
+      "octave": 3,
+      "duration": 3.0548306223432404,
+      "amplitude": 0.1709547309989017,
+      "type": "cello_pont",
+      "category": "lyrical"
+    },
+    {
+      "time": 42.30572025250269,
+      "pc": 1,
+      "octave": 3,
+      "duration": 4.263377708370921,
+      "amplitude": 0.22345314469218167,
+      "type": "cello_pont",
+      "category": "lyrical"
+    },
+    {
+      "time": 45.12886854825429,
+      "pc": 4,
+      "octave": 2,
+      "duration": 4.2636802597979155,
+      "amplitude": 0.20804241848128768,
+      "type": "cello_tasto",
+      "category": "lyrical"
+    },
+    {
+      "time": 48.063174308641734,
+      "pc": 6,
+      "octave": 3,
+      "duration": 4.109025639154032,
+      "amplitude": 0.17201266435844426,
+      "type": "cello_tasto",
+      "category": "lyrical"
+    },
+    {
+      "time": 50.30531251584833,
+      "pc": 8,
+      "octave": 3,
+      "duration": 3.15154284327131,
+      "amplitude": 0.19283416816403706,
+      "type": "cello_tasto",
+      "category": "lyrical"
+    },
+    {
+      "time": 52.68119563196124,
+      "pc": 10,
+      "octave": 4,
+      "duration": 3.4590226793493035,
+      "amplitude": 0.17743177864117868,
+      "type": "cello_tasto",
+      "category": "lyrical"
+    },
+    {
+      "time": 55.075483816719505,
+      "pc": 0,
+      "octave": 3,
+      "duration": 2.321082254815091,
+      "amplitude": 0.16308015025446698,
+      "type": "cello_pont",
+      "category": "lyrical"
+    },
+    {
+      "time": 56.92601953744824,
+      "pc": 3,
+      "octave": 3,
+      "duration": 2.7877531412840515,
+      "amplitude": 0.11973629925478407,
+      "type": "cello_pont",
+      "category": "lyrical"
+    },
+    {
+      "time": 59.09477855133437,
+      "pc": 7,
+      "octave": 2,
+      "duration": 3.7873230119164765,
+      "amplitude": 0.11910402145501658,
+      "type": "cello_tasto",
+      "category": "lyrical"
+    },
+    {
+      "time": 61.31664069236892,
+      "pc": 11,
+      "octave": 2,
+      "duration": 2.235139971200991,
+      "amplitude": 0.08604710846002764,
+      "type": "cello_tasto",
+      "category": "lyrical"
+    },
+    {
+      "time": 62.71797566446751,
+      "pc": 2,
+      "octave": 3,
+      "duration": 3.402969864438461,
+      "amplitude": 0.08226338879610796,
+      "type": "cello_pont",
+      "category": "lyrical"
+    },
+    {
+      "time": 35.0,
+      "pc": 9,
+      "octave": 5,
+      "duration": 4.986484697653071,
+      "amplitude": 0.04749128236011507,
+      "type": "flute_breathy",
+      "category": "lyrical"
+    },
+    {
+      "time": 37.988533862393275,
+      "pc": 11,
+      "octave": 5,
+      "duration": 3.1250761964370883,
+      "amplitude": 0.1264002096817591,
+      "type": "clarinet_chalumeau",
+      "category": "lyrical"
+    },
+    {
+      "time": 40.379247264758476,
+      "pc": 1,
+      "octave": 4,
+      "duration": 3.2991701841301193,
+      "amplitude": 0.1483146132255387,
+      "type": "flute_breathy",
+      "category": "lyrical"
+    },
+    {
+      "time": 42.148525044436575,
+      "pc": 3,
+      "octave": 5,
+      "duration": 3.4801148936915327,
+      "amplitude": 0.17544997128435502,
+      "type": "clarinet_chalumeau",
+      "category": "lyrical"
+    },
+    {
+      "time": 44.07416977016932,
+      "pc": 6,
+      "octave": 5,
+      "duration": 3.5545918253724227,
+      "amplitude": 0.19101787409180532,
+      "type": "oboe_pp",
+      "category": "lyrical"
+    },
+    {
+      "time": 46.88651959888061,
+      "pc": 10,
+      "octave": 6,
+      "duration": 3.6382287908062674,
+      "amplitude": 0.2371571230349088,
+      "type": "clarinet_chalumeau",
+      "category": "lyrical"
+    },
+    {
+      "time": 48.449215842936866,
+      "pc": 2,
+      "octave": 3,
+      "duration": 2.880656648230437,
+      "amplitude": 0.2111781869998517,
+      "type": "clarinet_chalumeau",
+      "category": "lyrical"
+    },
+    {
+      "time": 49.73941752846604,
+      "pc": 5,
+      "octave": 6,
+      "duration": 3.2057563779791574,
+      "amplitude": 0.20615560031414806,
+      "type": "flute_breathy",
+      "category": "lyrical"
+    },
+    {
+      "time": 51.2028121253423,
+      "pc": 8,
+      "octave": 5,
+      "duration": 3.1542533554767633,
+      "amplitude": 0.21408376897216524,
+      "type": "clarinet_chalumeau",
+      "category": "lyrical"
+    },
+    {
+      "time": 53.34250301473581,
+      "pc": 0,
+      "octave": 4,
+      "duration": 3.8086139128483594,
+      "amplitude": 0.19574120701400471,
+      "type": "oboe_pp",
+      "category": "lyrical"
+    },
+    {
+      "time": 55.33898186591331,
+      "pc": 4,
+      "octave": 5,
+      "duration": 4.259765448634571,
+      "amplitude": 0.1291305429716981,
+      "type": "flute_breathy",
+      "category": "lyrical"
+    },
+    {
+      "time": 57.24878951251136,
+      "pc": 7,
+      "octave": 6,
+      "duration": 4.175709659796363,
+      "amplitude": 0.12277670444830109,
+      "type": "flute_breathy",
+      "category": "lyrical"
+    },
+    {
+      "time": 58.0,
+      "pc": 7,
+      "octave": 3,
+      "duration": 7.539204125951911,
+      "amplitude": 0.14,
+      "type": "cello_tasto",
+      "category": "lyrical"
+    },
+    {
+      "time": 58.3,
+      "pc": 7,
+      "octave": 4,
+      "duration": 5.189933767826296,
+      "amplitude": 0.08,
+      "type": "oboe_pp",
+      "category": "lyrical"
+    },
+    {
+      "time": 59.5,
+      "pc": 10,
+      "octave": 3,
+      "duration": 8.145489488005483,
+      "amplitude": 0.14,
+      "type": "cello_pont",
+      "category": "lyrical"
+    },
+    {
+      "time": 59.8,
+      "pc": 10,
+      "octave": 4,
+      "duration": 5.666772943462057,
+      "amplitude": 0.08,
+      "type": "clarinet_chalumeau",
+      "category": "lyrical"
+    },
+    {
+      "time": 61.0,
+      "pc": 2,
+      "octave": 3,
+      "duration": 8.96634421524475,
+      "amplitude": 0.14,
+      "type": "cello_pont",
+      "category": "lyrical"
+    },
+    {
+      "time": 61.3,
+      "pc": 2,
+      "octave": 4,
+      "duration": 5.933499387152294,
+      "amplitude": 0.08,
+      "type": "flute_breathy",
+      "category": "lyrical"
+    },
+    {
+      "time": 60.72528793906919,
+      "pc": 10,
+      "octave": 6,
+      "duration": 5.19853734955927,
+      "amplitude": 0.03602883014002273,
+      "type": "bell_struck",
+      "category": "lyrical"
+    },
+    {
+      "time": 65.3807074981919,
+      "pc": 10,
+      "octave": 6,
+      "duration": 5.504992683988069,
+      "amplitude": 0.03318173826068119,
+      "type": "glass_harmonica",
+      "category": "lyrical"
+    },
+    {
+      "time": 68.7681185173183,
+      "pc": 10,
+      "octave": 6,
+      "duration": 3.1525854745728337,
+      "amplitude": 0.0683467741826484,
+      "type": "bell_struck",
+      "category": "lyrical"
+    },
+    {
+      "time": 63.749796918373946,
+      "pc": 7,
+      "octave": 5,
+      "duration": 4.650856969743225,
+      "amplitude": 0.036365362688865775,
+      "type": "bell_struck",
+      "category": "lyrical"
+    },
+    {
+      "time": 70.0,
+      "pc": 5,
+      "octave": 5,
+      "duration": 2.162030924122214,
+      "amplitude": 0.027350041228978234,
+      "type": "glass_harmonica",
+      "category": "lyrical"
+    },
+    {
+      "time": 71.07019289743488,
+      "pc": 3,
+      "octave": 2,
+      "duration": 2.990995653793574,
+      "amplitude": 0.045366223271561916,
+      "type": "glass_harmonica",
+      "category": "lyrical"
+    },
+    {
+      "time": 72.94814990919706,
+      "pc": 1,
+      "octave": 2,
+      "duration": 4.971291294767024,
+      "amplitude": 0.05769048340013927,
+      "type": "cello_tasto",
+      "category": "lyrical"
+    },
+    {
+      "time": 75.96115742236096,
+      "pc": 11,
+      "octave": 3,
+      "duration": 2.210353887964903,
+      "amplitude": 0.06811494660967424,
+      "type": "cello_tasto",
+      "category": "lyrical"
+    },
+    {
+      "time": 77.15967805422099,
+      "pc": 8,
+      "octave": 3,
+      "duration": 4.214732324612406,
+      "amplitude": 0.0826863052130329,
+      "type": "cello_tasto",
+      "category": "lyrical"
+    },
+    {
+      "time": 80.1008606967719,
+      "pc": 4,
+      "octave": 3,
+      "duration": 2.3007077190768572,
+      "amplitude": 0.07692381071464496,
+      "type": "glass_harmonica",
+      "category": "lyrical"
+    },
+    {
+      "time": 81.34955267812137,
+      "pc": 0,
+      "octave": 3,
+      "duration": 4.666905584603719,
+      "amplitude": 0.07420974117731931,
+      "type": "cello_tasto",
+      "category": "lyrical"
+    },
+    {
+      "time": 83.93784571290519,
+      "pc": 9,
+      "octave": 2,
+      "duration": 3.4429240952186024,
+      "amplitude": 0.06342084093780388,
+      "type": "cello_tasto",
+      "category": "lyrical"
+    },
+    {
+      "time": 85.32134066383959,
+      "pc": 6,
+      "octave": 3,
+      "duration": 3.559375573726131,
+      "amplitude": 0.04259019076643367,
+      "type": "cello_tasto",
+      "category": "lyrical"
+    },
+    {
+      "time": 80.0,
+      "pc": 7,
+      "octave": 6,
+      "duration": 2.005249090273632,
+      "amplitude": 0.035567911667899174,
+      "type": "bell_struck",
+      "category": "lyrical"
+    },
+    {
+      "time": 82.5,
+      "pc": 10,
+      "octave": 6,
+      "duration": 3.8040213563376994,
+      "amplitude": 0.02379943855594059,
+      "type": "bell_struck",
+      "category": "lyrical"
+    },
+    {
+      "time": 85.0,
+      "pc": 2,
+      "octave": 6,
+      "duration": 3.77051544406603,
+      "amplitude": 0.03558274769406276,
+      "type": "glass_harmonica",
+      "category": "lyrical"
+    }
+  ]
+}

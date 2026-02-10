@@ -1,0 +1,171 @@
+{
+  "title": "Tubular Low",
+  "duration": 70.0,
+  "seed": 31,
+  "audio_file": "tubular_low_01.mp3",
+  "n_events": 18,
+  "events": [
+    {
+      "time": 3.0,
+      "pc": 5,
+      "octave": 2,
+      "duration": 10.103185640719602,
+      "amplitude": 0.06416072799643892,
+      "type": "tubular_bell",
+      "category": "bell"
+    },
+    {
+      "time": 11.731433393152134,
+      "pc": 2,
+      "octave": 2,
+      "duration": 6.8844073257616705,
+      "amplitude": 0.08221965596820018,
+      "type": "tubular_bell",
+      "category": "bell"
+    },
+    {
+      "time": 24.33695550946309,
+      "pc": 0,
+      "octave": 2,
+      "duration": 9.213970485286733,
+      "amplitude": 0.07343252789811851,
+      "type": "tubular_bell",
+      "category": "bell"
+    },
+    {
+      "time": 33.638623010469274,
+      "pc": 2,
+      "octave": 2,
+      "duration": 6.708889157490423,
+      "amplitude": 0.08310743717993838,
+      "type": "tubular_bell",
+      "category": "bell"
+    },
+    {
+      "time": 45.93569871832065,
+      "pc": 0,
+      "octave": 2,
+      "duration": 7.23556612418485,
+      "amplitude": 0.07175818972995014,
+      "type": "tubular_bell",
+      "category": "bell"
+    },
+    {
+      "time": 55.06700759292494,
+      "pc": 9,
+      "octave": 2,
+      "duration": 10.343846271198661,
+      "amplitude": 0.07249013310333362,
+      "type": "tubular_bell",
+      "category": "bell"
+    },
+    {
+      "time": 15.126350562970895,
+      "pc": 7,
+      "octave": 3,
+      "duration": 6.777520557297043,
+      "amplitude": 0.0461157343121525,
+      "type": "tubular_bell",
+      "category": "bell"
+    },
+    {
+      "time": 22.563769415936104,
+      "pc": 9,
+      "octave": 3,
+      "duration": 5.430564088189818,
+      "amplitude": 0.05593700107969843,
+      "type": "tubular_bell",
+      "category": "bell"
+    },
+    {
+      "time": 28.169814877731618,
+      "pc": 7,
+      "octave": 3,
+      "duration": 8.982971363976247,
+      "amplitude": 0.06189454772341367,
+      "type": "tubular_bell",
+      "category": "bell"
+    },
+    {
+      "time": 34.18349834940124,
+      "pc": 10,
+      "octave": 3,
+      "duration": 7.41047103112241,
+      "amplitude": 0.047901893109681466,
+      "type": "tubular_bell",
+      "category": "bell"
+    },
+    {
+      "time": 41.11566208470549,
+      "pc": 0,
+      "octave": 4,
+      "duration": 7.409119928135112,
+      "amplitude": 0.059522737451532456,
+      "type": "tubular_bell",
+      "category": "bell"
+    },
+    {
+      "time": 47.843670883999735,
+      "pc": 10,
+      "octave": 3,
+      "duration": 8.949237904417561,
+      "amplitude": 0.04918939401874616,
+      "type": "tubular_bell",
+      "category": "bell"
+    },
+    {
+      "time": 25.0,
+      "pc": 4,
+      "octave": 4,
+      "duration": 6.694315975689621,
+      "amplitude": 0.05885241227452244,
+      "type": "tubular_bell",
+      "category": "bell"
+    },
+    {
+      "time": 25.23911359245173,
+      "pc": 7,
+      "octave": 2,
+      "duration": 8.405558150253635,
+      "amplitude": 0.0698674623402584,
+      "type": "tubular_bell",
+      "category": "bell"
+    },
+    {
+      "time": 25.47822718490346,
+      "pc": 10,
+      "octave": 4,
+      "duration": 8.678293776487477,
+      "amplitude": 0.06296856154721592,
+      "type": "tubular_bell",
+      "category": "bell"
+    },
+    {
+      "time": 2.0,
+      "pc": 2,
+      "octave": 2,
+      "duration": 12.0,
+      "amplitude": 0.07,
+      "type": "tubular_bell",
+      "category": "bell"
+    },
+    {
+      "time": 33.0,
+      "pc": 9,
+      "octave": 2,
+      "duration": 14.0,
+      "amplitude": 0.08,
+      "type": "tubular_bell",
+      "category": "bell"
+    },
+    {
+      "time": 58.0,
+      "pc": 2,
+      "octave": 2,
+      "duration": 14.0,
+      "amplitude": 0.07,
+      "type": "tubular_bell",
+      "category": "bell"
+    }
+  ]
+}

@@ -1,0 +1,621 @@
+{
+  "title": "Cage Ambient",
+  "duration": 150.0,
+  "seed": 99,
+  "audio_file": "cage_ambient_01.mp3",
+  "n_events": 68,
+  "events": [
+    {
+      "time": 0.0,
+      "pc": 0,
+      "octave": 3,
+      "duration": 8.423868449661999,
+      "amplitude": 0.04600226333724836,
+      "type": "cello_tasto",
+      "category": "ambient"
+    },
+    {
+      "time": 4.2,
+      "pc": 1,
+      "octave": 3,
+      "duration": 7.072813923519673,
+      "amplitude": 0.047452939555029064,
+      "type": "cello_tasto",
+      "category": "ambient"
+    },
+    {
+      "time": 8.4,
+      "pc": 3,
+      "octave": 3,
+      "duration": 10.559264619048466,
+      "amplitude": 0.047534530251256604,
+      "type": "glass_harmonica",
+      "category": "ambient"
+    },
+    {
+      "time": 12.600000000000001,
+      "pc": 5,
+      "octave": 3,
+      "duration": 8.29840549219307,
+      "amplitude": 0.060529259152819564,
+      "type": "cello_pont",
+      "category": "ambient"
+    },
+    {
+      "time": 16.8,
+      "pc": 7,
+      "octave": 3,
+      "duration": 9.23177478118999,
+      "amplitude": 0.06815130568085306,
+      "type": "cello_tasto",
+      "category": "ambient"
+    },
+    {
+      "time": 21.0,
+      "pc": 9,
+      "octave": 3,
+      "duration": 8.935649746632642,
+      "amplitude": 0.05264917874087966,
+      "type": "glass_harmonica",
+      "category": "ambient"
+    },
+    {
+      "time": 25.200000000000003,
+      "pc": 11,
+      "octave": 3,
+      "duration": 9.679296370822511,
+      "amplitude": 0.0465007693602027,
+      "type": "cello_tasto",
+      "category": "ambient"
+    },
+    {
+      "time": 29.400000000000002,
+      "pc": 2,
+      "octave": 3,
+      "duration": 11.4119958931945,
+      "amplitude": 0.05121939349673511,
+      "type": "cello_tasto",
+      "category": "ambient"
+    },
+    {
+      "time": 33.6,
+      "pc": 4,
+      "octave": 3,
+      "duration": 8.328671106464812,
+      "amplitude": 0.06047106449587439,
+      "type": "cello_tasto",
+      "category": "ambient"
+    },
+    {
+      "time": 37.800000000000004,
+      "pc": 6,
+      "octave": 3,
+      "duration": 6.9136592058010375,
+      "amplitude": 0.05981703687734924,
+      "type": "cello_pont",
+      "category": "ambient"
+    },
+    {
+      "time": 42.0,
+      "pc": 8,
+      "octave": 3,
+      "duration": 11.099803160142079,
+      "amplitude": 0.05016420202321533,
+      "type": "cello_tasto",
+      "category": "ambient"
+    },
+    {
+      "time": 46.2,
+      "pc": 10,
+      "octave": 3,
+      "duration": 11.681154402346014,
+      "amplitude": 0.05586148500681912,
+      "type": "glass_harmonica",
+      "category": "ambient"
+    },
+    {
+      "time": 50.0,
+      "pc": 0,
+      "octave": 3,
+      "duration": 10.646841380944947,
+      "amplitude": 0.054071171428943895,
+      "type": "cello_tasto",
+      "category": "ambient"
+    },
+    {
+      "time": 54.2,
+      "pc": 1,
+      "octave": 3,
+      "duration": 8.415736379145896,
+      "amplitude": 0.04808197644903182,
+      "type": "cello_pont",
+      "category": "ambient"
+    },
+    {
+      "time": 58.4,
+      "pc": 3,
+      "octave": 3,
+      "duration": 6.045718763405352,
+      "amplitude": 0.04611293234583693,
+      "type": "cello_pont",
+      "category": "ambient"
+    },
+    {
+      "time": 62.6,
+      "pc": 5,
+      "octave": 3,
+      "duration": 11.937419813862524,
+      "amplitude": 0.056029300856772754,
+      "type": "cello_pont",
+      "category": "ambient"
+    },
+    {
+      "time": 66.8,
+      "pc": 7,
+      "octave": 3,
+      "duration": 8.772520088493302,
+      "amplitude": 0.06700726789193151,
+      "type": "glass_harmonica",
+      "category": "ambient"
+    },
+    {
+      "time": 71.0,
+      "pc": 9,
+      "octave": 3,
+      "duration": 9.63305476886185,
+      "amplitude": 0.06930135653569948,
+      "type": "cello_pont",
+      "category": "ambient"
+    },
+    {
+      "time": 75.2,
+      "pc": 11,
+      "octave": 3,
+      "duration": 8.145149549654413,
+      "amplitude": 0.046474699218368255,
+      "type": "cello_pont",
+      "category": "ambient"
+    },
+    {
+      "time": 79.4,
+      "pc": 2,
+      "octave": 3,
+      "duration": 11.52458536841621,
+      "amplitude": 0.04482435876447893,
+      "type": "cello_tasto",
+      "category": "ambient"
+    },
+    {
+      "time": 83.6,
+      "pc": 4,
+      "octave": 3,
+      "duration": 10.751034666972515,
+      "amplitude": 0.05786252564002134,
+      "type": "glass_harmonica",
+      "category": "ambient"
+    },
+    {
+      "time": 87.80000000000001,
+      "pc": 6,
+      "octave": 3,
+      "duration": 11.897328533722106,
+      "amplitude": 0.06831731785160201,
+      "type": "glass_harmonica",
+      "category": "ambient"
+    },
+    {
+      "time": 92.0,
+      "pc": 8,
+      "octave": 3,
+      "duration": 9.961797915817332,
+      "amplitude": 0.04111186506818065,
+      "type": "cello_pont",
+      "category": "ambient"
+    },
+    {
+      "time": 96.2,
+      "pc": 10,
+      "octave": 3,
+      "duration": 6.139823071860696,
+      "amplitude": 0.05421180643525676,
+      "type": "cello_tasto",
+      "category": "ambient"
+    },
+    {
+      "time": 100.0,
+      "pc": 0,
+      "octave": 3,
+      "duration": 10.918008390919407,
+      "amplitude": 0.042434804499897914,
+      "type": "glass_harmonica",
+      "category": "ambient"
+    },
+    {
+      "time": 104.2,
+      "pc": 1,
+      "octave": 3,
+      "duration": 8.55252137625283,
+      "amplitude": 0.04258056673621645,
+      "type": "cello_tasto",
+      "category": "ambient"
+    },
+    {
+      "time": 108.4,
+      "pc": 3,
+      "octave": 3,
+      "duration": 7.858841551127622,
+      "amplitude": 0.040170038278638166,
+      "type": "cello_pont",
+      "category": "ambient"
+    },
+    {
+      "time": 112.6,
+      "pc": 5,
+      "octave": 3,
+      "duration": 7.978186106792813,
+      "amplitude": 0.05570206248879365,
+      "type": "cello_pont",
+      "category": "ambient"
+    },
+    {
+      "time": 116.8,
+      "pc": 7,
+      "octave": 3,
+      "duration": 7.204766477643108,
+      "amplitude": 0.06361647597860484,
+      "type": "cello_pont",
+      "category": "ambient"
+    },
+    {
+      "time": 121.0,
+      "pc": 9,
+      "octave": 3,
+      "duration": 6.332399441619232,
+      "amplitude": 0.04634305539197611,
+      "type": "glass_harmonica",
+      "category": "ambient"
+    },
+    {
+      "time": 125.2,
+      "pc": 11,
+      "octave": 3,
+      "duration": 7.545459443873357,
+      "amplitude": 0.052122029921069846,
+      "type": "cello_tasto",
+      "category": "ambient"
+    },
+    {
+      "time": 129.4,
+      "pc": 2,
+      "octave": 3,
+      "duration": 10.582769578383157,
+      "amplitude": 0.05061425565362404,
+      "type": "cello_tasto",
+      "category": "ambient"
+    },
+    {
+      "time": 133.6,
+      "pc": 4,
+      "octave": 3,
+      "duration": 10.16999345166132,
+      "amplitude": 0.06766598173733451,
+      "type": "cello_pont",
+      "category": "ambient"
+    },
+    {
+      "time": 137.8,
+      "pc": 6,
+      "octave": 3,
+      "duration": 6.785561654205058,
+      "amplitude": 0.06591788345240733,
+      "type": "cello_tasto",
+      "category": "ambient"
+    },
+    {
+      "time": 142.0,
+      "pc": 8,
+      "octave": 3,
+      "duration": 9.598008190644176,
+      "amplitude": 0.06241663921261729,
+      "type": "cello_tasto",
+      "category": "ambient"
+    },
+    {
+      "time": 5.0,
+      "pc": 0,
+      "octave": 4,
+      "duration": 8.040172828034438,
+      "amplitude": 0.030207486548343102,
+      "type": "flute_breathy",
+      "category": "ambient"
+    },
+    {
+      "time": 9.8,
+      "pc": 11,
+      "octave": 4,
+      "duration": 5.482416231882377,
+      "amplitude": 0.023591560254986176,
+      "type": "oboe_pp",
+      "category": "ambient"
+    },
+    {
+      "time": 14.6,
+      "pc": 9,
+      "octave": 4,
+      "duration": 5.870675369766413,
+      "amplitude": 0.024441137688211084,
+      "type": "oboe_pp",
+      "category": "ambient"
+    },
+    {
+      "time": 19.4,
+      "pc": 7,
+      "octave": 4,
+      "duration": 5.727557239090423,
+      "amplitude": 0.025189483031710737,
+      "type": "flute_breathy",
+      "category": "ambient"
+    },
+    {
+      "time": 24.2,
+      "pc": 5,
+      "octave": 4,
+      "duration": 7.804828670587631,
+      "amplitude": 0.03926417881606771,
+      "type": "oboe_pp",
+      "category": "ambient"
+    },
+    {
+      "time": 29.0,
+      "pc": 3,
+      "octave": 4,
+      "duration": 8.989828014146761,
+      "amplitude": 0.04115313545942281,
+      "type": "flute_breathy",
+      "category": "ambient"
+    },
+    {
+      "time": 33.8,
+      "pc": 1,
+      "octave": 4,
+      "duration": 5.586066352496523,
+      "amplitude": 0.04055871158124927,
+      "type": "flute_breathy",
+      "category": "ambient"
+    },
+    {
+      "time": 38.6,
+      "pc": 10,
+      "octave": 4,
+      "duration": 5.929759691593224,
+      "amplitude": 0.021809736062070883,
+      "type": "oboe_pp",
+      "category": "ambient"
+    },
+    {
+      "time": 43.4,
+      "pc": 8,
+      "octave": 4,
+      "duration": 6.438571401355731,
+      "amplitude": 0.034642313464089025,
+      "type": "flute_breathy",
+      "category": "ambient"
+    },
+    {
+      "time": 48.199999999999996,
+      "pc": 6,
+      "octave": 4,
+      "duration": 5.238388230556062,
+      "amplitude": 0.025408053915384088,
+      "type": "oboe_pp",
+      "category": "ambient"
+    },
+    {
+      "time": 53.0,
+      "pc": 4,
+      "octave": 4,
+      "duration": 6.995504175750686,
+      "amplitude": 0.04055917788527384,
+      "type": "oboe_pp",
+      "category": "ambient"
+    },
+    {
+      "time": 57.8,
+      "pc": 2,
+      "octave": 4,
+      "duration": 6.997050620091706,
+      "amplitude": 0.03035163026558023,
+      "type": "oboe_pp",
+      "category": "ambient"
+    },
+    {
+      "time": 60.0,
+      "pc": 0,
+      "octave": 4,
+      "duration": 6.854883117018934,
+      "amplitude": 0.02231660775490579,
+      "type": "flute_breathy",
+      "category": "ambient"
+    },
+    {
+      "time": 64.8,
+      "pc": 11,
+      "octave": 4,
+      "duration": 9.397841805129964,
+      "amplitude": 0.043075904021597576,
+      "type": "flute_breathy",
+      "category": "ambient"
+    },
+    {
+      "time": 69.6,
+      "pc": 9,
+      "octave": 4,
+      "duration": 8.608300084514225,
+      "amplitude": 0.02996449734472141,
+      "type": "flute_breathy",
+      "category": "ambient"
+    },
+    {
+      "time": 74.4,
+      "pc": 7,
+      "octave": 4,
+      "duration": 7.219868906967707,
+      "amplitude": 0.02778546908005737,
+      "type": "flute_breathy",
+      "category": "ambient"
+    },
+    {
+      "time": 79.2,
+      "pc": 5,
+      "octave": 4,
+      "duration": 8.271670349912563,
+      "amplitude": 0.03633409126102305,
+      "type": "flute_breathy",
+      "category": "ambient"
+    },
+    {
+      "time": 84.0,
+      "pc": 3,
+      "octave": 4,
+      "duration": 6.553282071119126,
+      "amplitude": 0.04185575378832997,
+      "type": "flute_breathy",
+      "category": "ambient"
+    },
+    {
+      "time": 88.8,
+      "pc": 1,
+      "octave": 4,
+      "duration": 8.60362620331097,
+      "amplitude": 0.025465098985283312,
+      "type": "flute_breathy",
+      "category": "ambient"
+    },
+    {
+      "time": 93.6,
+      "pc": 10,
+      "octave": 4,
+      "duration": 9.046369482261916,
+      "amplitude": 0.03685741892300843,
+      "type": "oboe_pp",
+      "category": "ambient"
+    },
+    {
+      "time": 98.4,
+      "pc": 8,
+      "octave": 4,
+      "duration": 6.248602881414985,
+      "amplitude": 0.02740941845590721,
+      "type": "oboe_pp",
+      "category": "ambient"
+    },
+    {
+      "time": 103.19999999999999,
+      "pc": 6,
+      "octave": 4,
+      "duration": 8.757531268860841,
+      "amplitude": 0.022003177233510165,
+      "type": "oboe_pp",
+      "category": "ambient"
+    },
+    {
+      "time": 108.0,
+      "pc": 4,
+      "octave": 4,
+      "duration": 7.189079203497959,
+      "amplitude": 0.044095166271116086,
+      "type": "flute_breathy",
+      "category": "ambient"
+    },
+    {
+      "time": 112.8,
+      "pc": 2,
+      "octave": 4,
+      "duration": 6.281062702450031,
+      "amplitude": 0.032578766475064636,
+      "type": "oboe_pp",
+      "category": "ambient"
+    },
+    {
+      "time": 0.0,
+      "pc": 0,
+      "octave": 2,
+      "duration": 35.0,
+      "amplitude": 0.03,
+      "type": "cello_tasto",
+      "category": "ambient"
+    },
+    {
+      "time": 40.0,
+      "pc": 0,
+      "octave": 2,
+      "duration": 35.0,
+      "amplitude": 0.03,
+      "type": "cello_tasto",
+      "category": "ambient"
+    },
+    {
+      "time": 80.0,
+      "pc": 0,
+      "octave": 2,
+      "duration": 35.0,
+      "amplitude": 0.03,
+      "type": "cello_tasto",
+      "category": "ambient"
+    },
+    {
+      "time": 120.0,
+      "pc": 0,
+      "octave": 2,
+      "duration": 35.0,
+      "amplitude": 0.03,
+      "type": "cello_tasto",
+      "category": "ambient"
+    },
+    {
+      "time": 31.0,
+      "pc": 0,
+      "octave": 4,
+      "duration": 2.907127456820777,
+      "amplitude": 0.11927029812098233,
+      "type": "cascade",
+      "category": "interruption"
+    },
+    {
+      "time": 47.5,
+      "pc": 0,
+      "octave": 5,
+      "duration": 2.3600848501925205,
+      "amplitude": 0.23063082521663755,
+      "type": "cascade",
+      "category": "interruption"
+    },
+    {
+      "time": 70.0,
+      "pc": 10,
+      "octave": 4,
+      "duration": 1.6320288496666497,
+      "amplitude": 0.2513603226945863,
+      "type": "cluster",
+      "category": "interruption"
+    },
+    {
+      "time": 83.0,
+      "pc": 0,
+      "octave": 2,
+      "duration": 2.961009172159092,
+      "amplitude": 0.1995986241775992,
+      "type": "cascade",
+      "category": "interruption"
+    },
+    {
+      "time": 115.5,
+      "pc": 0,
+      "octave": 3,
+      "duration": 2.536246883786781,
+      "amplitude": 0.14860536653598994,
+      "type": "cascade",
+      "category": "interruption"
+    }
+  ]
+}
