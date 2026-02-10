@@ -332,27 +332,23 @@
         async function loadAudio(filename) {
             return new Promise((resolve, reject) => {
                 const audio = new Audio();
-                audio.crossOrigin = 'anonymous';
+                // No crossOrigin — basic playback doesn't need CORS.
+                // Setting crossOrigin='anonymous' forces the browser to require
+                // Access-Control-Allow-Origin from S3, which blocks if not configured.
 
-                // Try S3 first
-                const s3Url = `https://www.cloudautomat.net/audio/generator/${filename}`;
-
-                // Try local fallback
-                const localUrl = `./${filename}`;
-
-                let attempts = 0;
-                const maxAttempts = 2;
+                const urls = [
+                    `https://www.cloudautomat.net/audio/generator/${filename}`,
+                    `./${filename}`
+                ];
+                let attempt = 0;
 
                 function tryNext() {
-                    attempts++;
-                    if (attempts === 1) {
-                        audio.src = s3Url;
-                    } else if (attempts === 2) {
-                        audio.src = localUrl;
-                    } else {
+                    if (attempt >= urls.length) {
                         reject(new Error(`Could not load audio: ${filename}`));
                         return;
                     }
+                    audio.src = urls[attempt];
+                    attempt++;
 
                     audio.onerror = () => tryNext();
                     audio.oncanplaythrough = () => {
