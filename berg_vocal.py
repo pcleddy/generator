@@ -243,13 +243,22 @@ def glottal_source(freq_array, n_samples, jitter, rng):
     # Normalized position within each cycle (0..1)
     cycle_pos = (phase % (2 * np.pi)) / (2 * np.pi)
 
-    # Rosenberg glottal pulse
+    # Rosenberg glottal pulse with smooth transitions
     open_quotient = 0.58  # open phase fraction
+
+    # Main pulse: sine-squared during open phase
     pulse = np.where(
         cycle_pos < open_quotient,
         np.sin(np.pi * cycle_pos / open_quotient) ** 2,
         0.0
     )
+
+    # Smooth the open→closed transition to prevent discontinuities
+    # Small raised-cosine crossfade at the boundary
+    transition_width = 0.04  # 4% of cycle
+    trans_zone = (cycle_pos >= open_quotient - transition_width) & (cycle_pos < open_quotient + transition_width)
+    trans_pos = (cycle_pos[trans_zone] - (open_quotient - transition_width)) / (2 * transition_width)
+    pulse[trans_zone] *= 0.5 * (1 + np.cos(np.pi * trans_pos))
 
     # Remove DC offset
     pulse -= np.mean(pulse)
@@ -354,39 +363,38 @@ def vocal_tone(t, start, pitch_class, octave, duration, amplitude,
     )
 
     # --- FORMANT FILTERING with vowel morphing ---
+    # Uses overlap-add with Hann windowing to eliminate chunk boundary crackles.
+    # Each chunk is windowed, formant-filtered at the interpolated vowel position,
+    # then summed — Hann 50% overlap gives perfect reconstruction.
     vowel_seq = voice_timbre["vowel_sequence"]
     shift_mult = VOICE_FORMANT_SHIFT[voice_timbre["formant_shift"]]
-
-    # Process in chunks, morphing between vowels
     n_vowels = len(vowel_seq)
-    chunk_size = n_active // max(n_vowels - 1, 1)
+
+    # Chunk parameters: ~50ms chunks, 50% overlap
+    hop_size = max(int(0.05 * SAMPLE_RATE), 256)
+    chunk_len = hop_size * 2  # 100% overlap = 2x hop
+    window = np.hanning(chunk_len)
+
     filtered = np.zeros(n_active)
+    norm_env = np.zeros(n_active)  # tracks window sum for normalization
 
-    for i in range(n_active):
-        # Where are we in the vowel sequence?
-        pos = (i / max(n_active - 1, 1)) * (n_vowels - 1)
-        idx_a = min(int(pos), n_vowels - 2)
-        idx_b = idx_a + 1
-        blend = pos - idx_a
+    n_chunks = (n_active - chunk_len) // hop_size + 1
+    for chunk_idx in range(max(n_chunks, 1)):
+        c_start = chunk_idx * hop_size
+        c_end = min(c_start + chunk_len, n_active)
+        actual_len = c_end - c_start
 
-        vowel_a = VOWELS[vowel_seq[idx_a]]
-        vowel_b = VOWELS[vowel_seq[idx_b]]
-        # This per-sample approach is too slow; we'll do it in chunks
-
-    # Chunk-based approach for performance
-    n_chunks = min(n_vowels * 4, 20)  # enough resolution for smooth morphing
-    chunk_len = n_active // n_chunks
-
-    for chunk_idx in range(n_chunks):
-        c_start = chunk_idx * chunk_len
-        c_end = min(c_start + chunk_len + int(0.01 * SAMPLE_RATE), n_active)  # overlap
-        if c_start >= n_active:
+        if actual_len < 64:
             break
 
-        chunk_signal = source[c_start:c_end]
+        # Extract and window the source chunk
+        chunk_signal = source[c_start:c_end].copy()
+        win = window[:actual_len]
+        chunk_signal *= win
 
-        # Vowel blend position for this chunk
-        pos = (c_start + chunk_len // 2) / max(n_active - 1, 1) * (n_vowels - 1)
+        # Vowel blend position for this chunk's center
+        center = c_start + actual_len // 2
+        pos = (center / max(n_active - 1, 1)) * (n_vowels - 1)
         idx_a = min(int(pos), n_vowels - 2)
         idx_b = idx_a + 1
         blend = pos - idx_a
@@ -400,9 +408,13 @@ def vocal_tone(t, start, pitch_class, octave, duration, amplitude,
 
         chunk_filtered = formant_filter(chunk_signal, shifted, SAMPLE_RATE)
 
-        # Crossfade into output
-        actual_end = min(c_start + chunk_len, n_active)
-        filtered[c_start:actual_end] += chunk_filtered[:actual_end - c_start]
+        # Overlap-add
+        filtered[c_start:c_end] += chunk_filtered
+        norm_env[c_start:c_end] += win
+
+    # Normalize by window sum (prevents amplitude modulation from windowing)
+    norm_env = np.maximum(norm_env, 1e-8)
+    filtered /= norm_env
 
     # Normalize filtered signal
     peak = np.max(np.abs(filtered))
