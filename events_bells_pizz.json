@@ -1,0 +1,387 @@
+{
+  "title": "Bells Pizzicato",
+  "duration": 90.0,
+  "seed": 77,
+  "audio_file": null,
+  "n_events": 42,
+  "events": [
+    {
+      "time": 8.0,
+      "pc": 9,
+      "octave": 3,
+      "duration": 6.0,
+      "amplitude": 0.04,
+      "type": "tubular_bell",
+      "category": "bell"
+    },
+    {
+      "time": 12.44454569611629,
+      "pc": 11,
+      "octave": 3,
+      "duration": 7.7889689202556305,
+      "amplitude": 0.061754849051025705,
+      "type": "tubular_bell",
+      "category": "bell"
+    },
+    {
+      "time": 16.658849671338594,
+      "pc": 7,
+      "octave": 4,
+      "duration": 7.040629535594597,
+      "amplitude": 0.08164029073636893,
+      "type": "tubular_bell",
+      "category": "bell"
+    },
+    {
+      "time": 20.877940261164092,
+      "pc": 9,
+      "octave": 4,
+      "duration": 4.223824401219245,
+      "amplitude": 0.08357584715731309,
+      "type": "tubular_bell",
+      "category": "bell"
+    },
+    {
+      "time": 26.358316635254283,
+      "pc": 5,
+      "octave": 3,
+      "duration": 5.192940250968196,
+      "amplitude": 0.06459124819083875,
+      "type": "tubular_bell",
+      "category": "bell"
+    },
+    {
+      "time": 31.307877555288172,
+      "pc": 4,
+      "octave": 4,
+      "duration": 6.30233350398275,
+      "amplitude": 0.06310991249759318,
+      "type": "tubular_bell",
+      "category": "bell"
+    },
+    {
+      "time": 35.29865677957743,
+      "pc": 0,
+      "octave": 3,
+      "duration": 4.959623518233497,
+      "amplitude": 0.09332785886687815,
+      "type": "tubular_bell",
+      "category": "bell"
+    },
+    {
+      "time": 18.0,
+      "pc": 11,
+      "octave": 6,
+      "duration": 1.65466763694314,
+      "amplitude": 0.05565641599944787,
+      "type": "glockenspiel",
+      "category": "bell"
+    },
+    {
+      "time": 20.98583688598402,
+      "pc": 9,
+      "octave": 5,
+      "duration": 1.7422858644006634,
+      "amplitude": 0.03447471768224861,
+      "type": "glockenspiel",
+      "category": "bell"
+    },
+    {
+      "time": 24.06736114579692,
+      "pc": 7,
+      "octave": 6,
+      "duration": 2.950391784104088,
+      "amplitude": 0.0472967265647765,
+      "type": "glockenspiel",
+      "category": "bell"
+    },
+    {
+      "time": 28.30964205266146,
+      "pc": 9,
+      "octave": 6,
+      "duration": 2.259585580987545,
+      "amplitude": 0.04794793520254108,
+      "type": "glockenspiel",
+      "category": "bell"
+    },
+    {
+      "time": 31.847157350212893,
+      "pc": 11,
+      "octave": 6,
+      "duration": 1.9425641582267867,
+      "amplitude": 0.03828770830205844,
+      "type": "glockenspiel",
+      "category": "bell"
+    },
+    {
+      "time": 34.604983557004694,
+      "pc": 9,
+      "octave": 5,
+      "duration": 2.387754248304414,
+      "amplitude": 0.03212250419757927,
+      "type": "glockenspiel",
+      "category": "bell"
+    },
+    {
+      "time": 40.0,
+      "pc": 9,
+      "octave": 3,
+      "duration": 6.714940788837811,
+      "amplitude": 0.09551974289269313,
+      "type": "tubular_bell",
+      "category": "bell"
+    },
+    {
+      "time": 40.0814997226394,
+      "pc": 5,
+      "octave": 4,
+      "duration": 7.805383791450799,
+      "amplitude": 0.07044067449034681,
+      "type": "tubular_bell",
+      "category": "bell"
+    },
+    {
+      "time": 40.16299944527879,
+      "pc": 2,
+      "octave": 4,
+      "duration": 7.508946612129202,
+      "amplitude": 0.06735197146542365,
+      "type": "tubular_bell",
+      "category": "bell"
+    },
+    {
+      "time": 52.5,
+      "pc": 4,
+      "octave": 3,
+      "duration": 6.599834186676484,
+      "amplitude": 0.11386421249371176,
+      "type": "tubular_bell",
+      "category": "bell"
+    },
+    {
+      "time": 52.71062484263169,
+      "pc": 0,
+      "octave": 4,
+      "duration": 7.597238864660364,
+      "amplitude": 0.07575828420291557,
+      "type": "tubular_bell",
+      "category": "bell"
+    },
+    {
+      "time": 52.921249685263376,
+      "pc": 9,
+      "octave": 3,
+      "duration": 5.293894598335417,
+      "amplitude": 0.09032028368819237,
+      "type": "tubular_bell",
+      "category": "bell"
+    },
+    {
+      "time": 48.0,
+      "pc": 2,
+      "octave": 2,
+      "duration": 12.0,
+      "amplitude": 0.08,
+      "type": "church_bell",
+      "category": "bell"
+    },
+    {
+      "time": 42.0,
+      "pc": 10,
+      "octave": 5,
+      "duration": 3.5354277607975506,
+      "amplitude": 0.05955065147934348,
+      "type": "celesta",
+      "category": "bell"
+    },
+    {
+      "time": 42.24492730686507,
+      "pc": 7,
+      "octave": 5,
+      "duration": 2.8008235688385312,
+      "amplitude": 0.040616766523056874,
+      "type": "celesta",
+      "category": "bell"
+    },
+    {
+      "time": 42.48985461373014,
+      "pc": 4,
+      "octave": 5,
+      "duration": 3.4930746238735115,
+      "amplitude": 0.033084729546981655,
+      "type": "celesta",
+      "category": "bell"
+    },
+    {
+      "time": 52.0,
+      "pc": 4,
+      "octave": 4,
+      "duration": 2.206227915660095,
+      "amplitude": 0.03822830058823638,
+      "type": "celesta",
+      "category": "bell"
+    },
+    {
+      "time": 52.19198342787148,
+      "pc": 0,
+      "octave": 4,
+      "duration": 3.5631102427249175,
+      "amplitude": 0.03670813682747286,
+      "type": "celesta",
+      "category": "bell"
+    },
+    {
+      "time": 52.38396685574295,
+      "pc": 9,
+      "octave": 4,
+      "duration": 3.648482629490865,
+      "amplitude": 0.02909076045352643,
+      "type": "celesta",
+      "category": "bell"
+    },
+    {
+      "time": 45.04882383111191,
+      "pc": 0,
+      "octave": 7,
+      "duration": 1.0854421540466208,
+      "amplitude": 0.025552858571712467,
+      "type": "glockenspiel",
+      "category": "bell"
+    },
+    {
+      "time": 47.1764559385849,
+      "pc": 2,
+      "octave": 5,
+      "duration": 1.9591881710119143,
+      "amplitude": 0.04557934796955989,
+      "type": "glockenspiel",
+      "category": "bell"
+    },
+    {
+      "time": 48.81675069209542,
+      "pc": 0,
+      "octave": 7,
+      "duration": 2.4533768744360676,
+      "amplitude": 0.02651196190676483,
+      "type": "glockenspiel",
+      "category": "bell"
+    },
+    {
+      "time": 51.01252262432807,
+      "pc": 2,
+      "octave": 7,
+      "duration": 2.4326675501865247,
+      "amplitude": 0.02716620059306535,
+      "type": "glockenspiel",
+      "category": "bell"
+    },
+    {
+      "time": 53.161893292071966,
+      "pc": 10,
+      "octave": 6,
+      "duration": 1.6807063890304512,
+      "amplitude": 0.04050444396899078,
+      "type": "glockenspiel",
+      "category": "bell"
+    },
+    {
+      "time": 55.27908228042772,
+      "pc": 7,
+      "octave": 6,
+      "duration": 2.1227331851810005,
+      "amplitude": 0.028721107448548628,
+      "type": "glockenspiel",
+      "category": "bell"
+    },
+    {
+      "time": 56.923750971485866,
+      "pc": 9,
+      "octave": 5,
+      "duration": 1.6447937265550436,
+      "amplitude": 0.02773926035155832,
+      "type": "glockenspiel",
+      "category": "bell"
+    },
+    {
+      "time": 58.90070023406067,
+      "pc": 7,
+      "octave": 5,
+      "duration": 2.381313008646659,
+      "amplitude": 0.04091958455878948,
+      "type": "glockenspiel",
+      "category": "bell"
+    },
+    {
+      "time": 60.80933554063795,
+      "pc": 9,
+      "octave": 6,
+      "duration": 1.949758107659461,
+      "amplitude": 0.04562482036174523,
+      "type": "glockenspiel",
+      "category": "bell"
+    },
+    {
+      "time": 66.33125331307016,
+      "pc": 7,
+      "octave": 3,
+      "duration": 5.1802648171975125,
+      "amplitude": 0.07996883652887965,
+      "type": "tubular_bell",
+      "category": "bell"
+    },
+    {
+      "time": 74.28087672829362,
+      "pc": 9,
+      "octave": 3,
+      "duration": 5.713381670045031,
+      "amplitude": 0.06444923658758277,
+      "type": "tubular_bell",
+      "category": "bell"
+    },
+    {
+      "time": 70.10170825685681,
+      "pc": 2,
+      "octave": 7,
+      "duration": 0.8246567880270501,
+      "amplitude": 0.01344468696302432,
+      "type": "wind_chime",
+      "category": "bell"
+    },
+    {
+      "time": 73.7290140790203,
+      "pc": 4,
+      "octave": 7,
+      "duration": 1.237543505872238,
+      "amplitude": 0.02306923436634852,
+      "type": "wind_chime",
+      "category": "bell"
+    },
+    {
+      "time": 77.92547102863664,
+      "pc": 5,
+      "octave": 6,
+      "duration": 0.7116973160657651,
+      "amplitude": 0.01920812442779941,
+      "type": "wind_chime",
+      "category": "bell"
+    },
+    {
+      "time": 81.99111161359352,
+      "pc": 4,
+      "octave": 7,
+      "duration": 0.8395773467785412,
+      "amplitude": 0.019663922573922563,
+      "type": "wind_chime",
+      "category": "bell"
+    },
+    {
+      "time": 80.0,
+      "pc": 4,
+      "octave": 2,
+      "duration": 10.0,
+      "amplitude": 0.06,
+      "type": "tubular_bell",
+      "category": "bell"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "compositions": [
+    {
+      "composition": "webern_pointillism",
+      "title": "Webern Pointillism",
+      "events_file": "events_webern_pointillism.json",
+      "score_file": "webern_pointillism_score.png",
+      "n_events": 32,
+      "duration": 50.0,
+      "seed": null
+    },
+    {
+      "composition": "berg_lyrical",
+      "title": "Berg Lyrical",
+      "events_file": "events_berg_lyrical.json",
+      "score_file": "berg_lyrical_score.png",
+      "n_events": 110,
+      "duration": 90.0,
+      "seed": null
+    },
+    {
+      "composition": "berg_extended",
+      "title": "Berg Extended (7 min)",
+      "events_file": "events_berg_extended.json",
+      "score_file": "berg_extended_score.png",
+      "n_events": 666,
+      "duration": 420.0,
+      "seed": 42
+    },
+    {
+      "composition": "cage_ambient",
+      "title": "Cage Ambient",
+      "events_file": "events_cage_ambient.json",
+      "score_file": "cage_ambient_score.png",
+      "n_events": 68,
+      "duration": 150.0,
+      "seed": 99
+    },
+    {
+      "composition": "bells_bergman",
+      "title": "Bells with Bergman Clock",
+      "events_file": "events_bells_bergman.json",
+      "score_file": "bells_bergman_score.png",
+      "n_events": 135,
+      "duration": 120.0,
+      "seed": 42
+    },
+    {
+      "composition": "bells_pizz",
+      "title": "Bells Pizzicato",
+      "events_file": "events_bells_pizz.json",
+      "score_file": "bells_pizz_score.png",
+      "n_events": 42,
+      "duration": 90.0,
+      "seed": 77
+    },
+    {
+      "composition": "bells_gentle",
+      "title": "Gentle Bells",
+      "events_file": "events_bells_gentle.json",
+      "score_file": "bells_gentle_score.png",
+      "n_events": 69,
+      "duration": 120.0,
+      "seed": 55
+    },
+    {
+      "composition": "tubular_low",
+      "title": "Tubular Low",
+      "events_file": "events_tubular_low.json",
+      "score_file": "tubular_low_score.png",
+      "n_events": 18,
+      "duration": 70.0,
+      "seed": 31
+    }
+  ],
+  "total_events": 1140,
+  "total_duration": 1110.0,
+  "generated": "2026-02-10",
+  "description": "Event data extracted from all CloudAutomat compositions for animated score player"
+}

@@ -1,0 +1,630 @@
+{
+  "title": "Gentle Bells",
+  "duration": 120.0,
+  "seed": 55,
+  "audio_file": null,
+  "n_events": 69,
+  "events": [
+    {
+      "time": 5.072992656625504,
+      "pc": 9,
+      "octave": 3,
+      "duration": 1.836864490720762,
+      "amplitude": 0.041182927850347745,
+      "type": "marimba",
+      "category": "bell"
+    },
+    {
+      "time": 9.958590163925889,
+      "pc": 7,
+      "octave": 3,
+      "duration": 1.5856813227285622,
+      "amplitude": 0.03476321500525086,
+      "type": "marimba",
+      "category": "bell"
+    },
+    {
+      "time": 15.205337279218337,
+      "pc": 4,
+      "octave": 3,
+      "duration": 1.9844332751435105,
+      "amplitude": 0.03706569665101123,
+      "type": "marimba",
+      "category": "bell"
+    },
+    {
+      "time": 20.602525751745045,
+      "pc": 0,
+      "octave": 3,
+      "duration": 2.0325263445739905,
+      "amplitude": 0.043355814993388656,
+      "type": "marimba",
+      "category": "bell"
+    },
+    {
+      "time": 20.0,
+      "pc": 9,
+      "octave": 5,
+      "duration": 1.9491900766586845,
+      "amplitude": 0.05013936479905683,
+      "type": "xylophone",
+      "category": "bell"
+    },
+    {
+      "time": 22.609591050949522,
+      "pc": 7,
+      "octave": 4,
+      "duration": 1.183979500389443,
+      "amplitude": 0.045217791289228836,
+      "type": "xylophone",
+      "category": "bell"
+    },
+    {
+      "time": 25.368773926230602,
+      "pc": 5,
+      "octave": 5,
+      "duration": 1.5808875087433596,
+      "amplitude": 0.05221692078006316,
+      "type": "xylophone",
+      "category": "bell"
+    },
+    {
+      "time": 27.652044247753352,
+      "pc": 2,
+      "octave": 4,
+      "duration": 1.5951081626472225,
+      "amplitude": 0.046359579820535304,
+      "type": "xylophone",
+      "category": "bell"
+    },
+    {
+      "time": 29.98506961880953,
+      "pc": 5,
+      "octave": 5,
+      "duration": 1.9506196537725953,
+      "amplitude": 0.05056678578190523,
+      "type": "xylophone",
+      "category": "bell"
+    },
+    {
+      "time": 32.33639684435205,
+      "pc": 4,
+      "octave": 4,
+      "duration": 1.7110826270673032,
+      "amplitude": 0.04553134520909515,
+      "type": "xylophone",
+      "category": "bell"
+    },
+    {
+      "time": 35.23081862870287,
+      "pc": 5,
+      "octave": 4,
+      "duration": 1.7839673193197298,
+      "amplitude": 0.040652557120203436,
+      "type": "xylophone",
+      "category": "bell"
+    },
+    {
+      "time": 37.45385711606454,
+      "pc": 2,
+      "octave": 5,
+      "duration": 1.354604485832799,
+      "amplitude": 0.05372824709756571,
+      "type": "xylophone",
+      "category": "bell"
+    },
+    {
+      "time": 40.37011959143796,
+      "pc": 0,
+      "octave": 4,
+      "duration": 1.0562322947233185,
+      "amplitude": 0.05875334235585728,
+      "type": "xylophone",
+      "category": "bell"
+    },
+    {
+      "time": 42.45091657609101,
+      "pc": 9,
+      "octave": 4,
+      "duration": 1.754633713780698,
+      "amplitude": 0.05814947483231886,
+      "type": "xylophone",
+      "category": "bell"
+    },
+    {
+      "time": 45.116222635606015,
+      "pc": 0,
+      "octave": 5,
+      "duration": 1.7422085690532234,
+      "amplitude": 0.0575595435060168,
+      "type": "xylophone",
+      "category": "bell"
+    },
+    {
+      "time": 47.1616009540428,
+      "pc": 4,
+      "octave": 4,
+      "duration": 1.4217985759700271,
+      "amplitude": 0.05837209113725558,
+      "type": "xylophone",
+      "category": "bell"
+    },
+    {
+      "time": 22.0,
+      "pc": 5,
+      "octave": 3,
+      "duration": 3.020722428164385,
+      "amplitude": 0.03033525508962548,
+      "type": "marimba",
+      "category": "bell"
+    },
+    {
+      "time": 22.200300857384835,
+      "pc": 2,
+      "octave": 3,
+      "duration": 2.753777052273291,
+      "amplitude": 0.03430849597635633,
+      "type": "marimba",
+      "category": "bell"
+    },
+    {
+      "time": 22.400601714769667,
+      "pc": 11,
+      "octave": 3,
+      "duration": 2.203739924539875,
+      "amplitude": 0.024281475006663705,
+      "type": "marimba",
+      "category": "bell"
+    },
+    {
+      "time": 30.60239109304815,
+      "pc": 0,
+      "octave": 6,
+      "duration": 3.078714110193186,
+      "amplitude": 0.030094758159491718,
+      "type": "celesta",
+      "category": "bell"
+    },
+    {
+      "time": 36.00197046965563,
+      "pc": 11,
+      "octave": 5,
+      "duration": 2.7947168271890757,
+      "amplitude": 0.028266611772308537,
+      "type": "celesta",
+      "category": "bell"
+    },
+    {
+      "time": 41.56403299505348,
+      "pc": 7,
+      "octave": 5,
+      "duration": 3.3613668620078454,
+      "amplitude": 0.020604331042704992,
+      "type": "celesta",
+      "category": "bell"
+    },
+    {
+      "time": 45.0,
+      "pc": 5,
+      "octave": 4,
+      "duration": 1.8660319272525898,
+      "amplitude": 0.05829371127076566,
+      "type": "xylophone",
+      "category": "bell"
+    },
+    {
+      "time": 45.17433820600025,
+      "pc": 9,
+      "octave": 4,
+      "duration": 1.7100681646125337,
+      "amplitude": 0.045654371619587665,
+      "type": "xylophone",
+      "category": "bell"
+    },
+    {
+      "time": 45.34867641200051,
+      "pc": 1,
+      "octave": 5,
+      "duration": 1.079519785866116,
+      "amplitude": 0.037871253386622755,
+      "type": "xylophone",
+      "category": "bell"
+    },
+    {
+      "time": 52.5,
+      "pc": 11,
+      "octave": 4,
+      "duration": 1.3964372726830474,
+      "amplitude": 0.05611228130569894,
+      "type": "xylophone",
+      "category": "bell"
+    },
+    {
+      "time": 52.76264274611009,
+      "pc": 7,
+      "octave": 5,
+      "duration": 1.7434950106894442,
+      "amplitude": 0.051555970267016346,
+      "type": "xylophone",
+      "category": "bell"
+    },
+    {
+      "time": 53.025285492220185,
+      "pc": 4,
+      "octave": 4,
+      "duration": 1.564372246017355,
+      "amplitude": 0.0346469358526403,
+      "type": "xylophone",
+      "category": "bell"
+    },
+    {
+      "time": 60.0,
+      "pc": 5,
+      "octave": 5,
+      "duration": 1.8171193952621234,
+      "amplitude": 0.04606122061321382,
+      "type": "xylophone",
+      "category": "bell"
+    },
+    {
+      "time": 60.22309357761396,
+      "pc": 9,
+      "octave": 5,
+      "duration": 1.9148812066082104,
+      "amplitude": 0.04072900824944572,
+      "type": "xylophone",
+      "category": "bell"
+    },
+    {
+      "time": 60.44618715522792,
+      "pc": 1,
+      "octave": 5,
+      "duration": 1.857265905938001,
+      "amplitude": 0.045837786272626184,
+      "type": "xylophone",
+      "category": "bell"
+    },
+    {
+      "time": 67.5,
+      "pc": 9,
+      "octave": 5,
+      "duration": 1.769338660930384,
+      "amplitude": 0.049559924756033616,
+      "type": "xylophone",
+      "category": "bell"
+    },
+    {
+      "time": 67.70696153023917,
+      "pc": 1,
+      "octave": 5,
+      "duration": 1.5899506548746107,
+      "amplitude": 0.050127071481087665,
+      "type": "xylophone",
+      "category": "bell"
+    },
+    {
+      "time": 67.91392306047835,
+      "pc": 4,
+      "octave": 5,
+      "duration": 1.0984475361247221,
+      "amplitude": 0.049173182786237786,
+      "type": "xylophone",
+      "category": "bell"
+    },
+    {
+      "time": 48.08498862612119,
+      "pc": 9,
+      "octave": 4,
+      "duration": 2.487742155081319,
+      "amplitude": 0.0391269642562773,
+      "type": "marimba",
+      "category": "bell"
+    },
+    {
+      "time": 51.98636448626488,
+      "pc": 7,
+      "octave": 4,
+      "duration": 2.979064633324154,
+      "amplitude": 0.04320896198612282,
+      "type": "marimba",
+      "category": "bell"
+    },
+    {
+      "time": 57.02733181623804,
+      "pc": 5,
+      "octave": 3,
+      "duration": 2.5825290376218417,
+      "amplitude": 0.03192394526811716,
+      "type": "marimba",
+      "category": "bell"
+    },
+    {
+      "time": 60.63472773461422,
+      "pc": 7,
+      "octave": 4,
+      "duration": 2.2849841030923437,
+      "amplitude": 0.04986903535898973,
+      "type": "marimba",
+      "category": "bell"
+    },
+    {
+      "time": 65.30995147852114,
+      "pc": 4,
+      "octave": 4,
+      "duration": 2.7448247467130926,
+      "amplitude": 0.04869603869039138,
+      "type": "marimba",
+      "category": "bell"
+    },
+    {
+      "time": 69.79032384265936,
+      "pc": 5,
+      "octave": 3,
+      "duration": 2.4976234922289446,
+      "amplitude": 0.031100700297280324,
+      "type": "marimba",
+      "category": "bell"
+    },
+    {
+      "time": 73.55275771343842,
+      "pc": 7,
+      "octave": 4,
+      "duration": 1.5924242101057353,
+      "amplitude": 0.03411129403709283,
+      "type": "marimba",
+      "category": "bell"
+    },
+    {
+      "time": 55.40709311965468,
+      "pc": 7,
+      "octave": 4,
+      "duration": 6.645869321984183,
+      "amplitude": 0.030264785934747268,
+      "type": "tubular_bell",
+      "category": "bell"
+    },
+    {
+      "time": 50.0,
+      "pc": 2,
+      "octave": 6,
+      "duration": 2.926986413996107,
+      "amplitude": 0.03020324021384585,
+      "type": "celesta",
+      "category": "bell"
+    },
+    {
+      "time": 50.08297262400879,
+      "pc": 5,
+      "octave": 5,
+      "duration": 2.4685826223290035,
+      "amplitude": 0.03552231221530951,
+      "type": "celesta",
+      "category": "bell"
+    },
+    {
+      "time": 50.165945248017586,
+      "pc": 9,
+      "octave": 6,
+      "duration": 2.600424616885271,
+      "amplitude": 0.03091692340376914,
+      "type": "celesta",
+      "category": "bell"
+    },
+    {
+      "time": 64.0,
+      "pc": 2,
+      "octave": 5,
+      "duration": 3.4359224886956827,
+      "amplitude": 0.025734711563352237,
+      "type": "celesta",
+      "category": "bell"
+    },
+    {
+      "time": 64.20073467150011,
+      "pc": 11,
+      "octave": 6,
+      "duration": 2.112487736600669,
+      "amplitude": 0.02371444431361635,
+      "type": "celesta",
+      "category": "bell"
+    },
+    {
+      "time": 64.40146934300022,
+      "pc": 7,
+      "octave": 5,
+      "duration": 2.7800425752986593,
+      "amplitude": 0.017551077896219302,
+      "type": "celesta",
+      "category": "bell"
+    },
+    {
+      "time": 55.0,
+      "pc": 4,
+      "octave": 6,
+      "duration": 1.254411498858837,
+      "amplitude": 0.011117634788706785,
+      "type": "wind_chime",
+      "category": "bell"
+    },
+    {
+      "time": 59.44900072246467,
+      "pc": 7,
+      "octave": 7,
+      "duration": 1.0308306663090656,
+      "amplitude": 0.01366081671683898,
+      "type": "wind_chime",
+      "category": "bell"
+    },
+    {
+      "time": 65.72338582363643,
+      "pc": 5,
+      "octave": 7,
+      "duration": 0.970740867905093,
+      "amplitude": 0.01248464950891184,
+      "type": "wind_chime",
+      "category": "bell"
+    },
+    {
+      "time": 69.0767272152594,
+      "pc": 7,
+      "octave": 6,
+      "duration": 1.354908470153367,
+      "amplitude": 0.014491329815561312,
+      "type": "wind_chime",
+      "category": "bell"
+    },
+    {
+      "time": 75.0,
+      "pc": 5,
+      "octave": 5,
+      "duration": 1.885988750905962,
+      "amplitude": 0.044448891930321685,
+      "type": "xylophone",
+      "category": "bell"
+    },
+    {
+      "time": 78.96395761356817,
+      "pc": 4,
+      "octave": 5,
+      "duration": 1.5859611404428318,
+      "amplitude": 0.03685669991890005,
+      "type": "xylophone",
+      "category": "bell"
+    },
+    {
+      "time": 81.8167647859892,
+      "pc": 2,
+      "octave": 5,
+      "duration": 2.460815363977064,
+      "amplitude": 0.031338815373247494,
+      "type": "xylophone",
+      "category": "bell"
+    },
+    {
+      "time": 85.76579408797726,
+      "pc": 10,
+      "octave": 4,
+      "duration": 1.7335955833921837,
+      "amplitude": 0.03501537091831349,
+      "type": "xylophone",
+      "category": "bell"
+    },
+    {
+      "time": 89.63756268765955,
+      "pc": 0,
+      "octave": 5,
+      "duration": 1.620364159172445,
+      "amplitude": 0.041836733057242316,
+      "type": "xylophone",
+      "category": "bell"
+    },
+    {
+      "time": 92.77265732682098,
+      "pc": 2,
+      "octave": 5,
+      "duration": 2.2455029618176665,
+      "amplitude": 0.03796470740440779,
+      "type": "xylophone",
+      "category": "bell"
+    },
+    {
+      "time": 96.20310443088623,
+      "pc": 4,
+      "octave": 5,
+      "duration": 1.2983066110699684,
+      "amplitude": 0.04046256679546067,
+      "type": "xylophone",
+      "category": "bell"
+    },
+    {
+      "time": 78.0,
+      "pc": 0,
+      "octave": 3,
+      "duration": 2.905910188904574,
+      "amplitude": 0.03219008847243598,
+      "type": "marimba",
+      "category": "bell"
+    },
+    {
+      "time": 86.18701990336427,
+      "pc": 2,
+      "octave": 3,
+      "duration": 2.2461279834570997,
+      "amplitude": 0.027982824067679067,
+      "type": "marimba",
+      "category": "bell"
+    },
+    {
+      "time": 93.03524658588255,
+      "pc": 5,
+      "octave": 3,
+      "duration": 2.3395265826098623,
+      "amplitude": 0.03541738152300319,
+      "type": "marimba",
+      "category": "bell"
+    },
+    {
+      "time": 90.0,
+      "pc": 5,
+      "octave": 3,
+      "duration": 8.0,
+      "amplitude": 0.03,
+      "type": "tubular_bell",
+      "category": "bell"
+    },
+    {
+      "time": 80.0,
+      "pc": 7,
+      "octave": 6,
+      "duration": 3.2775066646410145,
+      "amplitude": 0.023077516943100226,
+      "type": "celesta",
+      "category": "bell"
+    },
+    {
+      "time": 86.87481407297616,
+      "pc": 9,
+      "octave": 6,
+      "duration": 3.4899890054242335,
+      "amplitude": 0.01810865429384839,
+      "type": "celesta",
+      "category": "bell"
+    },
+    {
+      "time": 93.071597781702,
+      "pc": 7,
+      "octave": 5,
+      "duration": 2.92767606585426,
+      "amplitude": 0.017672387128465663,
+      "type": "celesta",
+      "category": "bell"
+    },
+    {
+      "time": 100.0,
+      "pc": 0,
+      "octave": 4,
+      "duration": 2.9303753276569586,
+      "amplitude": 0.028737550600875638,
+      "type": "xylophone",
+      "category": "bell"
+    },
+    {
+      "time": 108.00649277965742,
+      "pc": 9,
+      "octave": 5,
+      "duration": 2.3246779070806682,
+      "amplitude": 0.02300873742925055,
+      "type": "xylophone",
+      "category": "bell"
+    },
+    {
+      "time": 112.0,
+      "pc": 9,
+      "octave": 3,
+      "duration": 5.0,
+      "amplitude": 0.03,
+      "type": "marimba",
+      "category": "bell"
+    }
+  ]
+}
