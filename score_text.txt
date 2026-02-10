@@ -1,0 +1,202 @@
+========================================================================
+AMBIENT DRIFT WITH CAGE INTERRUPTIONS
+Text Score / Performance Instructions
+========================================================================
+
+Duration: 150 seconds
+Instrumentation: Prepared piano, synthesized instruments,
+                 vocal performer, ambient electronics
+
+PREPARATION TABLE (place objects on piano strings):
+--------------------------------------------------
+  SCREW: Wood screw inserted between strings. Produces
+         jangling, bright, sustained rattling tone.
+
+========================================================================
+SCORE
+========================================================================
+
+--- SECTION I: OPENING (ambient drift) ---
+
+  [   0.0s]  P[ 0]: C3   dur=8.4s  pp  (cello_pont)
+  [   0.0s]  DRONE: C2, dur=35s, pp (cello tasto)
+  [   4.2s]  P[ 1]: C#3  dur=7.1s  pp  (cello_pont)
+  [   5.0s]  I[ 0]: C4   dur=8.0s  pp  (oboe_pp)
+  [   8.4s]  P[ 2]: D#3  dur=10.6s  pp  (cello_pont)
+  [   9.8s]  I[ 1]: B4   dur=5.5s  ppp  (flute_breathy)
+  [  12.6s]  P[ 3]: F3   dur=8.3s  p  (cello_pont)
+  [  14.6s]  I[ 2]: A4   dur=5.9s  ppp  (flute_breathy)
+
+--- SECTION II: DEVELOPMENT ---
+
+  [  16.8s]  P[ 4]: G3   dur=9.2s  p  (cello_pont)
+  [  19.4s]  I[ 3]: G4   dur=5.7s  ppp  (flute_breathy)
+  [  21.0s]  P[ 5]: A3   dur=8.9s  p  (cello_tasto)
+  [  24.2s]  I[ 4]: F4   dur=7.8s  pp  (oboe_pp)
+  [  25.2s]  P[ 6]: B3   dur=9.7s  pp  (glass_harmonica)
+  [  29.0s]  I[ 5]: D#4  dur=9.0s  pp  (oboe_pp)
+  [  29.4s]  P[ 7]: D3   dur=11.4s  p  (cello_tasto)
+
+  !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+  [  31.0s]  *** CASCADE ***
+             11 rapid strikes:
+               Strike 1: C4 at 31.00s
+               Strike 2: D3 at 31.12s
+               Strike 3: E4 at 31.10s
+               Strike 4: A4 at 31.35s
+               Strike 5: G#5 at 31.29s
+               Strike 6: A#3 at 31.25s
+               Strike 7: F#5 at 31.46s
+               Strike 8: A4 at 31.89s
+               Strike 9: G#2 at 32.05s
+               Strike 10: D#4 at 32.32s
+               Strike 11: A#4 at 31.90s
+             Total span: 2.9s
+  !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+              [SILENCE — ambient ducks for ~3s]
+
+  [  33.6s]  P[ 8]: E3   dur=8.3s  p  (glass_harmonica)
+  [  33.8s]  I[ 6]: C#4  dur=5.6s  pp  (oboe_pp)
+  [  37.8s]  P[ 9]: F#3  dur=6.9s  p  (glass_harmonica)
+  [  38.6s]  I[ 7]: A#4  dur=5.9s  ppp  (flute_breathy)
+  [  40.0s]  DRONE: C2, dur=35s, pp (cello tasto)
+  [  42.0s]  P[10]: G#3  dur=11.1s  p  (cello_pont)
+  [  43.4s]  I[ 8]: G#4  dur=6.4s  pp  (flute_breathy)
+  [  46.2s]  P[11]: A#3  dur=11.7s  p  (cello_pont)
+
+  !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+  [  47.5s]  *** CASCADE ***
+             12 rapid strikes:
+               Strike 1: C5 at 47.50s
+               Strike 2: C#4 at 47.59s
+               Strike 3: E5 at 47.68s
+               Strike 4: F#2 at 47.72s
+               Strike 5: C2 at 47.83s
+               Strike 6: A#5 at 47.76s
+               Strike 7: F#4 at 48.04s
+               Strike 8: D2 at 47.96s
+               Strike 9: G#4 at 47.99s
+               Strike 10: D#3 at 48.78s
+               Strike 11: F#2 at 48.08s
+               Strike 12: B5 at 48.65s
+             Total span: 2.4s
+  !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+              [SILENCE — ambient ducks for ~3s]
+
+  [  48.2s]  I[ 9]: F#4  dur=5.2s  ppp  (flute_breathy)
+
+--- SECTION III: MIDDLE ---
+
+  [  50.0s]  P[ 0]: C3   dur=10.6s  p  (cello_tasto)
+  [  53.0s]  I[10]: E4   dur=7.0s  pp  (oboe_pp)
+  [  54.2s]  P[ 1]: C#3  dur=8.4s  pp  (cello_pont)
+  [  57.8s]  I[11]: D4   dur=7.0s  pp  (oboe_pp)
+  [  58.4s]  P[ 2]: D#3  dur=6.0s  pp  (cello_pont)
+  [  60.0s]  I[ 0]: C4   dur=6.9s  ppp  (flute_breathy)
+  [  62.6s]  P[ 3]: F3   dur=11.9s  p  (glass_harmonica)
+  [  64.8s]  I[ 1]: B4   dur=9.4s  pp  (flute_breathy)
+  [  66.8s]  P[ 4]: G3   dur=8.8s  p  (cello_tasto)
+  [  69.6s]  I[ 2]: A4   dur=8.6s  ppp  (oboe_pp)
+
+  !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+  [  70.0s]  *** CLUSTER (screw) ***
+             10 notes: D#3 to A#4
+             Duration: 1.6s   Dynamic: ff
+             Preparation: screw
+             Notes: A#4, A4, C4, D#3, D4, F#3, G#3
+  !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+              [SILENCE — ambient ducks for ~3s]
+
+  [  71.0s]  P[ 5]: A3   dur=9.6s  p  (glass_harmonica)
+  [  74.4s]  I[ 3]: G4   dur=7.2s  ppp  (oboe_pp)
+  [  75.2s]  P[ 6]: B3   dur=8.1s  pp  (cello_pont)
+  [  79.2s]  I[ 4]: F4   dur=8.3s  pp  (oboe_pp)
+  [  79.4s]  P[ 7]: D3   dur=11.5s  pp  (cello_pont)
+  [  80.0s]  DRONE: C2, dur=35s, pp (cello tasto)
+
+  !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+  [  83.0s]  *** CASCADE ***
+             7 rapid strikes:
+               Strike 1: C2 at 83.00s
+               Strike 2: C#3 at 83.12s
+               Strike 3: D5 at 83.26s
+               Strike 4: D#3 at 83.41s
+               Strike 5: C5 at 83.44s
+               Strike 6: A#4 at 83.72s
+               Strike 7: F#4 at 83.32s
+             Total span: 3.0s
+  !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+              [SILENCE — ambient ducks for ~3s]
+
+  [  83.6s]  P[ 8]: E3   dur=10.8s  p  (cello_tasto)
+  [  84.0s]  I[ 5]: D#4  dur=6.6s  pp  (oboe_pp)
+  [  87.8s]  P[ 9]: F#3  dur=11.9s  p  (cello_tasto)
+  [  88.8s]  I[ 6]: C#4  dur=8.6s  ppp  (oboe_pp)
+  [  92.0s]  P[10]: G#3  dur=10.0s  pp  (cello_pont)
+  [  93.6s]  I[ 7]: A#4  dur=9.0s  pp  (oboe_pp)
+  [  96.2s]  P[11]: A#3  dur=6.1s  p  (cello_tasto)
+  [  98.4s]  I[ 8]: G#4  dur=6.2s  ppp  (oboe_pp)
+
+--- SECTION IV: CLOSING ---
+
+  [ 100.0s]  P[ 0]: C3   dur=10.9s  pp  (cello_tasto)
+  [ 103.2s]  I[ 9]: F#4  dur=8.8s  ppp  (flute_breathy)
+  [ 104.2s]  P[ 1]: C#3  dur=8.6s  pp  (cello_pont)
+  [ 108.0s]  I[10]: E4   dur=7.2s  pp  (flute_breathy)
+  [ 108.4s]  P[ 2]: D#3  dur=7.9s  pp  (cello_pont)
+  [ 112.6s]  P[ 3]: F3   dur=8.0s  p  (cello_tasto)
+  [ 112.8s]  I[11]: D4   dur=6.3s  pp  (flute_breathy)
+
+  !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+  [ 115.5s]  *** CASCADE ***
+             12 rapid strikes:
+               Strike 1: C3 at 115.50s
+               Strike 2: D3 at 115.62s
+               Strike 3: F#4 at 115.64s
+               Strike 4: D#3 at 115.65s
+               Strike 5: G#3 at 115.82s
+               Strike 6: F5 at 116.22s
+               Strike 7: F#4 at 115.90s
+               Strike 8: A3 at 115.91s
+               Strike 9: G#5 at 116.47s
+               Strike 10: D#3 at 116.07s
+               Strike 11: F#2 at 116.65s
+               Strike 12: A#2 at 116.83s
+             Total span: 2.5s
+  !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+              [SILENCE — ambient ducks for ~3s]
+
+  [ 116.8s]  P[ 4]: G3   dur=7.2s  p  (cello_pont)
+  [ 120.0s]  DRONE: C2, dur=35s, pp (cello tasto)
+  [ 121.0s]  P[ 5]: A3   dur=6.3s  pp  (cello_pont)
+  [ 125.2s]  P[ 6]: B3   dur=7.5s  p  (cello_tasto)
+  [ 129.4s]  P[ 7]: D3   dur=10.6s  p  (cello_tasto)
+  [ 133.6s]  P[ 8]: E3   dur=10.2s  p  (glass_harmonica)
+  [ 137.8s]  P[ 9]: F#3  dur=6.8s  p  (cello_pont)
+  [ 142.0s]  P[10]: G#3  dur=9.6s  p  (cello_tasto)
+
+========================================================================
+STATISTICS
+========================================================================
+  Total events: 68
+  Ambient events: 63
+  Interruptions: 5
+  Event types:
+    ambient_drone: 4
+    ambient_inverted: 24
+    ambient_primary: 35
+    cascade: 4
+    cluster: 1
+  Pitch range: C2 — B5
+
+NOTE: This score is generated from the same random seed (99)
+that produced the audio. Re-running cage_ambient.py --seed 99
+will produce the identical performance.
+
+CloudAutomat Labs — generator project
+========================================================================
