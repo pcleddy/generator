@@ -347,7 +347,7 @@
     <span class="tag tag-tech">waltz fragments</span>
   </div>
   <audio controls preload="none">
-    <source src="https://www.cloudautomat.net/audio/generator/berg_extended_01.wav" type="audio/wav">
+    <source src="https://www.cloudautomat.net/audio/generator/berg_extended_01.mp3" type="audio/mpeg">
   </audio>
 </div>
 
@@ -373,7 +373,42 @@
     <span class="tag tag-form">D Dorian modal</span>
   </div>
   <audio controls preload="none">
-    <source src="https://www.cloudautomat.net/audio/generator/bells_bergman_01.wav" type="audio/wav">
+    <source src="https://www.cloudautomat.net/audio/generator/bells_bergman_01.mp3" type="audio/mpeg">
+  </audio>
+  <div class="score-section">
+    <a href="bells_score.png" target="_blank">
+      <img class="score-img" src="bells_score.png"
+           alt="Bells + Bergman Clock — Graphical Score" loading="lazy">
+    </a>
+    <div class="score-caption">
+      Graphical Score &mdash; Diamonds = glockenspiel, circles = celesta,
+      squares = tubular bell, pentagons = church bell, stars = wind chime.
+      Click to enlarge.
+    </div>
+  </div>
+</div>
+
+<div class="piece-card">
+  <div class="piece-header">
+    <div class="piece-title">Bells + Pizzicato Clock</div>
+    <div class="piece-meta">1:30 &middot; 42 events &middot; seed 77</div>
+  </div>
+  <div class="piece-description">
+    Variation on Bergman Clock: the mechanical tick-tock replaced by a deeper
+    pizzicato pattern at 72 BPM — alternating A2/E3 with ornamental turns and
+    two-note pickup figures from A minor pentatonic. Heavier tubular bells in
+    E Phrygian, church bell toll at 48s, tubular bell chords in D minor.
+  </div>
+  <div class="piece-tags">
+    <span class="tag tag-special">pizzicato clock</span>
+    <span class="tag tag-timbre">tubular bells</span>
+    <span class="tag tag-timbre">church bell</span>
+    <span class="tag tag-tech">E Phrygian</span>
+    <span class="tag tag-tech">ornamental figures</span>
+    <span class="tag tag-form">A minor pentatonic</span>
+  </div>
+  <audio controls preload="none">
+    <source src="https://www.cloudautomat.net/audio/generator/bells_pizz_01.mp3" type="audio/mpeg">
   </audio>
 </div>
 
@@ -397,8 +432,18 @@
     <span class="tag tag-form">ambient + interruption</span>
   </div>
   <audio controls preload="none">
-    <source src="https://www.cloudautomat.net/audio/generator/cage_ambient_01.wav" type="audio/wav">
+    <source src="https://www.cloudautomat.net/audio/generator/cage_ambient_01.mp3" type="audio/mpeg">
   </audio>
+  <div class="score-section">
+    <a href="score_graphical.png" target="_blank">
+      <img class="score-img" src="score_graphical.png"
+           alt="Cage Ambient — Graphical Score" loading="lazy">
+    </a>
+    <div class="score-caption">
+      Graphical Score &mdash; Blue bars = ambient drift, pink cascades = interruptions,
+      grey = ducking silence. Click to enlarge.
+    </div>
+  </div>
 </div>
 
 <div class="piece-card">
@@ -421,7 +466,7 @@
     <span class="tag tag-timbre">prepared piano</span>
   </div>
   <audio controls preload="none">
-    <source src="https://www.cloudautomat.net/audio/generator/one_more_thing.wav" type="audio/wav">
+    <source src="https://www.cloudautomat.net/audio/generator/one_more_thing.mp3" type="audio/mpeg">
   </audio>
 </div>
 
@@ -444,7 +489,7 @@
     <span class="tag tag-form">tonal window</span>
   </div>
   <audio controls preload="none">
-    <source src="https://www.cloudautomat.net/audio/generator/berg_01.wav" type="audio/wav">
+    <source src="https://www.cloudautomat.net/audio/generator/berg_01.mp3" type="audio/mpeg">
   </audio>
 </div>
 
@@ -465,7 +510,7 @@
     <span class="tag tag-form">60% silence</span>
   </div>
   <audio controls preload="none">
-    <source src="https://www.cloudautomat.net/audio/generator/webern_02.wav" type="audio/wav">
+    <source src="https://www.cloudautomat.net/audio/generator/webern_02.mp3" type="audio/mpeg">
   </audio>
 </div>
 
@@ -484,37 +529,8 @@
     <span class="tag tag-form">5 layers</span>
   </div>
   <audio controls preload="none">
-    <source src="https://www.cloudautomat.net/audio/generator/ambient_01.wav" type="audio/wav">
+    <source src="https://www.cloudautomat.net/audio/generator/ambient_01.mp3" type="audio/mpeg">
   </audio>
-</div>
-
-<!-- ============================================================ -->
-<h2>Graphical Scores</h2>
-<!-- ============================================================ -->
-
-<div class="score-section">
-  <a href="score_graphical.png" target="_blank">
-    <img class="score-img" src="score_graphical.png"
-         alt="Cage Ambient — Graphical Score" loading="lazy">
-  </a>
-  <div class="score-caption">
-    Cage Ambient — Graphical Score (seed 99). Blue bars = ambient drift,
-    pink cascades = interruptions, grey = ducking silence.
-    Click to enlarge.
-  </div>
-</div>
-
-<div class="score-section">
-  <a href="bells_score.png" target="_blank">
-    <img class="score-img" src="bells_score.png"
-         alt="Bells + Bergman Clock — Graphical Score" loading="lazy">
-  </a>
-  <div class="score-caption">
-    Bells + Bergman Clock — Graphical Score (seed 42). Diamonds = glockenspiel,
-    circles = celesta, squares = tubular bell, pentagons = church bell,
-    stars = wind chime. Ring decay shown as fading trails.
-    Click to enlarge.
-  </div>
 </div>
 
 <!-- ============================================================ -->
@@ -612,6 +628,10 @@
   <div class="file-item">
     <a href="https://github.com/pcleddy/generator/blob/main/bells_bergman.py">bells_bergman.py</a>
     <div class="file-desc">Bell layers + Bergman clock</div>
+  </div>
+  <div class="file-item">
+    <a href="https://github.com/pcleddy/generator/blob/main/bells_pizz.py">bells_pizz.py</a>
+    <div class="file-desc">Bells + pizzicato clock variation</div>
   </div>
   <div class="file-item">
     <a href="https://github.com/pcleddy/generator/blob/main/one_more_thing.py">one_more_thing.py</a>
@@ -715,11 +735,25 @@
     </div>
   </div>
   <div class="timeline-item">
+    <div class="timeline-label">Bells + Pizzicato</div>
+    <div class="timeline-text">
+      Variation: mechanical clock replaced by musical pizzicato patterns.
+      Heavier tubular bells in E Phrygian. Ornamental turns and pickup figures.
+    </div>
+  </div>
+  <div class="timeline-item">
     <div class="timeline-label">Berg Extended</div>
     <div class="timeline-text">
       7-minute version of the Berg piece. 7 cycles of variation
       through transposed row material. 666 events. Classical
       variation form meets algorithmic generation.
+    </div>
+  </div>
+  <div class="timeline-item">
+    <div class="timeline-label">Website + MP3s</div>
+    <div class="timeline-text">
+      GitHub Pages site with S3-hosted audio. Converted to MP3 for
+      streaming. Scores linked inline. Friends askanced.
     </div>
   </div>
 </div>
