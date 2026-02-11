@@ -1,0 +1,3728 @@
+{
+  "title": "Jazz Scat \u2014 FM Brass",
+  "duration": 39.0,
+  "events": [
+    {
+      "time": 0.0,
+      "pc": 2,
+      "octave": 4,
+      "duration": 0.17918305233033077,
+      "amplitude": 0.22921795677048454,
+      "type": "fm_muted_trumpet",
+      "category": "scat",
+      "section": "melody"
+    },
+    {
+      "time": 0.23249999999999998,
+      "pc": 2,
+      "octave": 4,
+      "duration": 0.10324096858750094,
+      "amplitude": 0.5290049032306008,
+      "type": "fm_muted_trumpet",
+      "category": "scat",
+      "section": "melody"
+    },
+    {
+      "time": 0.375,
+      "pc": 5,
+      "octave": 4,
+      "duration": 0.11685438465005968,
+      "amplitude": 0.551454812958202,
+      "type": "fm_muted_trumpet",
+      "category": "scat",
+      "section": "melody"
+    },
+    {
+      "time": 0.6074999999999999,
+      "pc": 5,
+      "octave": 5,
+      "duration": 0.07676283347950745,
+      "amplitude": 0.5618735915868649,
+      "type": "fm_muted_trumpet",
+      "category": "scat",
+      "section": "melody"
+    },
+    {
+      "time": 0.75,
+      "pc": 9,
+      "octave": 5,
+      "duration": 0.12357841842129659,
+      "amplitude": 0.4232945703517732,
+      "type": "fm_muted_trumpet",
+      "category": "scat",
+      "section": "melody"
+    },
+    {
+      "time": 1.125,
+      "pc": 10,
+      "octave": 4,
+      "duration": 0.18814535569334834,
+      "amplitude": 0.5963053801651894,
+      "type": "fm_muted_trumpet",
+      "category": "scat",
+      "section": "melody"
+    },
+    {
+      "time": 1.5,
+      "pc": 8,
+      "octave": 4,
+      "duration": 0.24634835025173613,
+      "amplitude": 0.45329060503412827,
+      "type": "fm_muted_trumpet",
+      "category": "scat",
+      "section": "melody"
+    },
+    {
+      "time": 1.875,
+      "pc": 3,
+      "octave": 4,
+      "duration": 0.30494844449379216,
+      "amplitude": 0.42567079722971457,
+      "type": "fm_muted_trumpet",
+      "category": "scat",
+      "section": "melody"
+    },
+    {
+      "time": 2.625,
+      "pc": 1,
+      "octave": 5,
+      "duration": 0.3548749397710531,
+      "amplitude": 0.49599996397811397,
+      "type": "fm_muted_trumpet",
+      "category": "scat",
+      "section": "melody"
+    },
+    {
+      "time": 3.0,
+      "pc": 10,
+      "octave": 4,
+      "duration": 0.2550625594452887,
+      "amplitude": 0.4048150365856057,
+      "type": "fm_muted_trumpet",
+      "category": "scat",
+      "section": "melody"
+    },
+    {
+      "time": 3.375,
+      "pc": 5,
+      "octave": 4,
+      "duration": 0.23368725443401556,
+      "amplitude": 0.5369704186278318,
+      "type": "fm_muted_trumpet",
+      "category": "scat",
+      "section": "melody"
+    },
+    {
+      "time": 3.75,
+      "pc": 5,
+      "octave": 4,
+      "duration": 0.311026324819953,
+      "amplitude": 0.45934478515909966,
+      "type": "fm_muted_trumpet",
+      "category": "scat",
+      "section": "melody"
+    },
+    {
+      "time": 4.5,
+      "pc": 2,
+      "octave": 4,
+      "duration": 0.3227798038995233,
+      "amplitude": 0.4808465934500936,
+      "type": "fm_muted_trumpet",
+      "category": "scat",
+      "section": "melody"
+    },
+    {
+      "time": 5.25,
+      "pc": 8,
+      "octave": 5,
+      "duration": 0.25378584963939343,
+      "amplitude": 0.5496306409742666,
+      "type": "fm_muted_trumpet",
+      "category": "scat",
+      "section": "melody"
+    },
+    {
+      "time": 5.625,
+      "pc": 10,
+      "octave": 4,
+      "duration": 0.33801975689374986,
+      "amplitude": 0.4229261979022392,
+      "type": "fm_muted_trumpet",
+      "category": "scat",
+      "section": "melody"
+    },
+    {
+      "time": 6.0,
+      "pc": 3,
+      "octave": 4,
+      "duration": 0.27550070965727813,
+      "amplitude": 0.4893832642541692,
+      "type": "fm_muted_trumpet",
+      "category": "scat",
+      "section": "melody"
+    },
+    {
+      "time": 6.375,
+      "pc": 8,
+      "octave": 4,
+      "duration": 0.35245403706178735,
+      "amplitude": 0.5291169553351748,
+      "type": "fm_muted_trumpet",
+      "category": "scat",
+      "section": "melody"
+    },
+    {
+      "time": 6.75,
+      "pc": 3,
+      "octave": 5,
+      "duration": 0.32587858366128974,
+      "amplitude": 0.45102632095465683,
+      "type": "fm_muted_trumpet",
+      "category": "scat",
+      "section": "melody"
+    },
+    {
+      "time": 7.125,
+      "pc": 5,
+      "octave": 5,
+      "duration": 0.22542594773835195,
+      "amplitude": 0.5083138091964866,
+      "type": "fm_muted_trumpet",
+      "category": "scat",
+      "section": "melody"
+    },
+    {
+      "time": 7.7325,
+      "pc": 3,
+      "octave": 4,
+      "duration": 0.08826135311257209,
+      "amplitude": 0.5097373737165013,
+      "type": "fm_muted_trumpet",
+      "category": "scat",
+      "section": "melody"
+    },
+    {
+      "time": 7.875,
+      "pc": 9,
+      "octave": 4,
+      "duration": 0.20203636949749953,
+      "amplitude": 0.5796233735989256,
+      "type": "fm_muted_trumpet",
+      "category": "scat",
+      "section": "melody"
+    },
+    {
+      "time": 8.1075,
+      "pc": 8,
+      "octave": 4,
+      "duration": 0.11865493517358726,
+      "amplitude": 0.17075141254026616,
+      "type": "fm_muted_trumpet",
+      "category": "scat",
+      "section": "melody"
+    },
+    {
+      "time": 8.625,
+      "pc": 3,
+      "octave": 4,
+      "duration": 0.16579167376624496,
+      "amplitude": 0.3814401278801103,
+      "type": "fm_muted_trumpet",
+      "category": "scat",
+      "section": "melody"
+    },
+    {
+      "time": 9.0,
+      "pc": 8,
+      "octave": 4,
+      "duration": 0.3515726314134785,
+      "amplitude": 0.5393370239503266,
+      "type": "fm_muted_trumpet",
+      "category": "scat",
+      "section": "melody"
+    },
+    {
+      "time": 9.75,
+      "pc": 5,
+      "octave": 5,
+      "duration": 0.35561335306174235,
+      "amplitude": 0.49748170864591806,
+      "type": "fm_muted_trumpet",
+      "category": "scat",
+      "section": "melody"
+    },
+    {
+      "time": 10.125,
+      "pc": 8,
+      "octave": 4,
+      "duration": 0.2575376117936635,
+      "amplitude": 0.40960388444895174,
+      "type": "fm_muted_trumpet",
+      "category": "scat",
+      "section": "melody"
+    },
+    {
+      "time": 10.70772057090918,
+      "pc": 11,
+      "octave": 4,
+      "duration": 0.754044846929115,
+      "amplitude": 0.5,
+      "type": "fm_muted_trumpet",
+      "category": "scat",
+      "section": "melody"
+    },
+    {
+      "time": 12.0,
+      "pc": 0,
+      "octave": 4,
+      "duration": 0.12283973353964475,
+      "amplitude": 0.4095011585922488,
+      "type": "fm_muted_trumpet",
+      "category": "scat",
+      "section": "melody"
+    },
+    {
+      "time": 12.2325,
+      "pc": 10,
+      "octave": 5,
+      "duration": 0.11727732887269869,
+      "amplitude": 0.15904099143618777,
+      "type": "fm_muted_trumpet",
+      "category": "scat",
+      "section": "melody"
+    },
+    {
+      "time": 12.375,
+      "pc": 10,
+      "octave": 4,
+      "duration": 0.12128792041259184,
+      "amplitude": 0.5133638720664478,
+      "type": "fm_muted_trumpet",
+      "category": "scat",
+      "section": "melody"
+    },
+    {
+      "time": 12.6075,
+      "pc": 0,
+      "octave": 4,
+      "duration": 0.10181828797288964,
+      "amplitude": 0.15401822970947743,
+      "type": "fm_muted_trumpet",
+      "category": "scat",
+      "section": "melody"
+    },
+    {
+      "time": 12.75,
+      "pc": 0,
+      "octave": 4,
+      "duration": 0.12095471464581395,
+      "amplitude": 0.5998206171031817,
+      "type": "fm_muted_trumpet",
+      "category": "scat",
+      "section": "melody"
+    },
+    {
+      "time": 13.3575,
+      "pc": 10,
+      "octave": 5,
+      "duration": 0.12268924333410129,
+      "amplitude": 0.1564637121401527,
+      "type": "fm_muted_trumpet",
+      "category": "scat",
+      "section": "melody"
+    },
+    {
+      "time": 14.25,
+      "pc": 3,
+      "octave": 4,
+      "duration": 0.24992409507887736,
+      "amplitude": 0.43265513476212625,
+      "type": "fm_muted_trumpet",
+      "category": "scat",
+      "section": "melody"
+    },
+    {
+      "time": 14.625,
+      "pc": 5,
+      "octave": 5,
+      "duration": 0.23250294206910713,
+      "amplitude": 0.48762663916884574,
+      "type": "fm_muted_trumpet",
+      "category": "scat",
+      "section": "melody"
+    },
+    {
+      "time": 15.375,
+      "pc": 10,
+      "octave": 4,
+      "duration": 0.33673870907641595,
+      "amplitude": 0.41027819990556885,
+      "type": "fm_muted_trumpet",
+      "category": "scat",
+      "section": "melody"
+    },
+    {
+      "time": 15.75,
+      "pc": 2,
+      "octave": 5,
+      "duration": 0.24073511808056003,
+      "amplitude": 0.5335430971194157,
+      "type": "fm_muted_trumpet",
+      "category": "scat",
+      "section": "melody"
+    },
+    {
+      "time": 16.125,
+      "pc": 10,
+      "octave": 4,
+      "duration": 0.28002327013783324,
+      "amplitude": 0.48755084339368376,
+      "type": "fm_muted_trumpet",
+      "category": "scat",
+      "section": "melody"
+    },
+    {
+      "time": 16.875,
+      "pc": 0,
+      "octave": 4,
+      "duration": 0.25632753128082975,
+      "amplitude": 0.4593678770186882,
+      "type": "fm_muted_trumpet",
+      "category": "scat",
+      "section": "melody"
+    },
+    {
+      "time": 17.25,
+      "pc": 0,
+      "octave": 5,
+      "duration": 0.26649825701068086,
+      "amplitude": 0.5127796738621604,
+      "type": "fm_muted_trumpet",
+      "category": "scat",
+      "section": "melody"
+    },
+    {
+      "time": 17.625,
+      "pc": 3,
+      "octave": 4,
+      "duration": 0.23461546964432684,
+      "amplitude": 0.4319731468400561,
+      "type": "fm_muted_trumpet",
+      "category": "scat",
+      "section": "melody"
+    },
+    {
+      "time": 19.125,
+      "pc": 2,
+      "octave": 5,
+      "duration": 0.33442902529647467,
+      "amplitude": 0.5055309887631056,
+      "type": "fm_muted_trumpet",
+      "category": "scat",
+      "section": "melody"
+    },
+    {
+      "time": 19.7325,
+      "pc": 8,
+      "octave": 4,
+      "duration": 0.07715443060933806,
+      "amplitude": 0.569531741243398,
+      "type": "fm_muted_trumpet",
+      "category": "scat",
+      "section": "melody"
+    },
+    {
+      "time": 20.1075,
+      "pc": 8,
+      "octave": 5,
+      "duration": 0.08285504680266483,
+      "amplitude": 0.50855948972127,
+      "type": "fm_muted_trumpet",
+      "category": "scat",
+      "section": "melody"
+    },
+    {
+      "time": 20.25,
+      "pc": 10,
+      "octave": 5,
+      "duration": 0.1933793723116164,
+      "amplitude": 0.3610216904497625,
+      "type": "fm_muted_trumpet",
+      "category": "scat",
+      "section": "melody"
+    },
+    {
+      "time": 20.4825,
+      "pc": 1,
+      "octave": 4,
+      "duration": 0.10269578400420432,
+      "amplitude": 0.18276869189806794,
+      "type": "fm_muted_trumpet",
+      "category": "scat",
+      "section": "melody"
+    },
+    {
+      "time": 20.625,
+      "pc": 1,
+      "octave": 5,
+      "duration": 0.17042338968355084,
+      "amplitude": 0.15480937855674826,
+      "type": "fm_muted_trumpet",
+      "category": "scat",
+      "section": "melody"
+    },
+    {
+      "time": 20.8575,
+      "pc": 10,
+      "octave": 4,
+      "duration": 0.08322436268536598,
+      "amplitude": 0.16495297392229247,
+      "type": "fm_muted_trumpet",
+      "category": "scat",
+      "section": "melody"
+    },
+    {
+      "time": 21.2325,
+      "pc": 1,
+      "octave": 4,
+      "duration": 0.08474402793707346,
+      "amplitude": 0.3906254417751096,
+      "type": "fm_muted_trumpet",
+      "category": "scat",
+      "section": "melody"
+    },
+    {
+      "time": 21.375,
+      "pc": 2,
+      "octave": 4,
+      "duration": 0.14714324851901786,
+      "amplitude": 0.5827039715120814,
+      "type": "fm_muted_trumpet",
+      "category": "scat",
+      "section": "melody"
+    },
+    {
+      "time": 21.75,
+      "pc": 10,
+      "octave": 4,
+      "duration": 0.19609917237441368,
+      "amplitude": 0.40560842938641606,
+      "type": "fm_muted_trumpet",
+      "category": "scat",
+      "section": "melody"
+    },
+    {
+      "time": 21.9825,
+      "pc": 2,
+      "octave": 4,
+      "duration": 0.09396256077819266,
+      "amplitude": 0.1678603061023004,
+      "type": "fm_muted_trumpet",
+      "category": "scat",
+      "section": "melody"
+    },
+    {
+      "time": 22.125,
+      "pc": 8,
+      "octave": 5,
+      "duration": 0.20359905405019854,
+      "amplitude": 0.3788354379628569,
+      "type": "fm_muted_trumpet",
+      "category": "scat",
+      "section": "melody"
+    },
+    {
+      "time": 22.3575,
+      "pc": 3,
+      "octave": 5,
+      "duration": 0.09095416536574862,
+      "amplitude": 0.5466070445509205,
+      "type": "fm_muted_trumpet",
+      "category": "scat",
+      "section": "melody"
+    },
+    {
+      "time": 22.5,
+      "pc": 2,
+      "octave": 5,
+      "duration": 0.11640728887433255,
+      "amplitude": 0.5813937913747707,
+      "type": "fm_muted_trumpet",
+      "category": "scat",
+      "section": "melody"
+    },
+    {
+      "time": 22.7325,
+      "pc": 2,
+      "octave": 4,
+      "duration": 0.12533584570036493,
+      "amplitude": 0.58019271405451,
+      "type": "fm_muted_trumpet",
+      "category": "scat",
+      "section": "melody"
+    },
+    {
+      "time": 22.875,
+      "pc": 5,
+      "octave": 5,
+      "duration": 0.1465850101517382,
+      "amplitude": 0.5243021035485997,
+      "type": "fm_muted_trumpet",
+      "category": "scat",
+      "section": "melody"
+    },
+    {
+      "time": 23.1075,
+      "pc": 6,
+      "octave": 4,
+      "duration": 0.10633435020922871,
+      "amplitude": 0.42523746864139134,
+      "type": "fm_muted_trumpet",
+      "category": "scat",
+      "section": "melody"
+    },
+    {
+      "time": 23.25,
+      "pc": 8,
+      "octave": 4,
+      "duration": 0.1726695260546179,
+      "amplitude": 0.4305623074341345,
+      "type": "fm_muted_trumpet",
+      "category": "scat",
+      "section": "melody"
+    },
+    {
+      "time": 23.4825,
+      "pc": 2,
+      "octave": 5,
+      "duration": 0.10063076456516735,
+      "amplitude": 0.5082352139414489,
+      "type": "fm_muted_trumpet",
+      "category": "scat",
+      "section": "melody"
+    },
+    {
+      "time": 23.625,
+      "pc": 3,
+      "octave": 4,
+      "duration": 0.12995391848885685,
+      "amplitude": 0.3615534295231896,
+      "type": "fm_muted_trumpet",
+      "category": "scat",
+      "section": "melody"
+    },
+    {
+      "time": 23.8575,
+      "pc": 7,
+      "octave": 4,
+      "duration": 0.11219571718344236,
+      "amplitude": 0.4459946168481878,
+      "type": "fm_muted_trumpet",
+      "category": "scat",
+      "section": "melody"
+    },
+    {
+      "time": 24.0,
+      "pc": 3,
+      "octave": 4,
+      "duration": 0.3271676783882114,
+      "amplitude": 0.43282617052184796,
+      "type": "fm_muted_trumpet",
+      "category": "scat",
+      "section": "melody"
+    },
+    {
+      "time": 24.75,
+      "pc": 1,
+      "octave": 4,
+      "duration": 0.2981595104668831,
+      "amplitude": 0.537620502168316,
+      "type": "fm_muted_trumpet",
+      "category": "scat",
+      "section": "melody"
+    },
+    {
+      "time": 25.125,
+      "pc": 5,
+      "octave": 5,
+      "duration": 0.31261957740195884,
+      "amplitude": 0.5481838679599672,
+      "type": "fm_muted_trumpet",
+      "category": "scat",
+      "section": "melody"
+    },
+    {
+      "time": 25.875,
+      "pc": 9,
+      "octave": 5,
+      "duration": 0.1996903536006934,
+      "amplitude": 0.5359138605398962,
+      "type": "fm_muted_trumpet",
+      "category": "scat",
+      "section": "melody"
+    },
+    {
+      "time": 26.1075,
+      "pc": 8,
+      "octave": 4,
+      "duration": 0.100964089331195,
+      "amplitude": 0.5066871092454452,
+      "type": "fm_muted_trumpet",
+      "category": "scat",
+      "section": "melody"
+    },
+    {
+      "time": 26.25,
+      "pc": 8,
+      "octave": 4,
+      "duration": 0.12911878772100246,
+      "amplitude": 0.4078153699320467,
+      "type": "fm_muted_trumpet",
+      "category": "scat",
+      "section": "melody"
+    },
+    {
+      "time": 26.4825,
+      "pc": 1,
+      "octave": 5,
+      "duration": 0.0949491313438799,
+      "amplitude": 0.40170859737860254,
+      "type": "fm_muted_trumpet",
+      "category": "scat",
+      "section": "melody"
+    },
+    {
+      "time": 26.8575,
+      "pc": 6,
+      "octave": 5,
+      "duration": 0.08827092118522586,
+      "amplitude": 0.4474966620159297,
+      "type": "fm_muted_trumpet",
+      "category": "scat",
+      "section": "melody"
+    },
+    {
+      "time": 27.0,
+      "pc": 2,
+      "octave": 5,
+      "duration": 0.1567827457723372,
+      "amplitude": 0.35725620498667876,
+      "type": "fm_muted_trumpet",
+      "category": "scat",
+      "section": "melody"
+    },
+    {
+      "time": 27.2325,
+      "pc": 2,
+      "octave": 4,
+      "duration": 0.12366387237813165,
+      "amplitude": 0.5951804943797308,
+      "type": "fm_muted_trumpet",
+      "category": "scat",
+      "section": "melody"
+    },
+    {
+      "time": 27.6075,
+      "pc": 0,
+      "octave": 4,
+      "duration": 0.12066052726892243,
+      "amplitude": 0.395432256628358,
+      "type": "fm_muted_trumpet",
+      "category": "scat",
+      "section": "melody"
+    },
+    {
+      "time": 27.75,
+      "pc": 5,
+      "octave": 4,
+      "duration": 0.15150873804746465,
+      "amplitude": 0.5380024558886962,
+      "type": "fm_muted_trumpet",
+      "category": "scat",
+      "section": "melody"
+    },
+    {
+      "time": 27.9825,
+      "pc": 10,
+      "octave": 4,
+      "duration": 0.07421887966986557,
+      "amplitude": 0.5879799230954802,
+      "type": "fm_muted_trumpet",
+      "category": "scat",
+      "section": "melody"
+    },
+    {
+      "time": 28.125,
+      "pc": 10,
+      "octave": 4,
+      "duration": 0.20456389114258697,
+      "amplitude": 0.15993606823625328,
+      "type": "fm_muted_trumpet",
+      "category": "scat",
+      "section": "melody"
+    },
+    {
+      "time": 28.3575,
+      "pc": 10,
+      "octave": 4,
+      "duration": 0.0977569370558076,
+      "amplitude": 0.4140609241405466,
+      "type": "fm_muted_trumpet",
+      "category": "scat",
+      "section": "melody"
+    },
+    {
+      "time": 28.7325,
+      "pc": 1,
+      "octave": 4,
+      "duration": 0.07741162873048359,
+      "amplitude": 0.3564196063743665,
+      "type": "fm_muted_trumpet",
+      "category": "scat",
+      "section": "melody"
+    },
+    {
+      "time": 28.875,
+      "pc": 6,
+      "octave": 4,
+      "duration": 0.1346946692695295,
+      "amplitude": 0.498024465312463,
+      "type": "fm_muted_trumpet",
+      "category": "scat",
+      "section": "melody"
+    },
+    {
+      "time": 29.1075,
+      "pc": 3,
+      "octave": 4,
+      "duration": 0.10547346204456014,
+      "amplitude": 0.3802637662668288,
+      "type": "fm_muted_trumpet",
+      "category": "scat",
+      "section": "melody"
+    },
+    {
+      "time": 29.25,
+      "pc": 5,
+      "octave": 4,
+      "duration": 0.16330435343996824,
+      "amplitude": 0.4353077937153208,
+      "type": "fm_muted_trumpet",
+      "category": "scat",
+      "section": "melody"
+    },
+    {
+      "time": 29.4825,
+      "pc": 2,
+      "octave": 5,
+      "duration": 0.11156659269124641,
+      "amplitude": 0.45887178625191927,
+      "type": "fm_muted_trumpet",
+      "category": "scat",
+      "section": "melody"
+    },
+    {
+      "time": 29.8575,
+      "pc": 9,
+      "octave": 4,
+      "duration": 0.09774780498316696,
+      "amplitude": 0.5564336496051889,
+      "type": "fm_muted_trumpet",
+      "category": "scat",
+      "section": "melody"
+    },
+    {
+      "time": 30.0,
+      "pc": 0,
+      "octave": 4,
+      "duration": 0.26160933270651165,
+      "amplitude": 0.4676203000290656,
+      "type": "fm_muted_trumpet",
+      "category": "scat",
+      "section": "melody"
+    },
+    {
+      "time": 30.75,
+      "pc": 10,
+      "octave": 5,
+      "duration": 0.22876687470732426,
+      "amplitude": 0.5276429254468689,
+      "type": "fm_muted_trumpet",
+      "category": "scat",
+      "section": "melody"
+    },
+    {
+      "time": 31.125,
+      "pc": 3,
+      "octave": 5,
+      "duration": 0.32971549683368767,
+      "amplitude": 0.45105082647464256,
+      "type": "fm_muted_trumpet",
+      "category": "scat",
+      "section": "melody"
+    },
+    {
+      "time": 31.5,
+      "pc": 5,
+      "octave": 4,
+      "duration": 0.12421200546209596,
+      "amplitude": 0.5300186660260485,
+      "type": "fm_muted_trumpet",
+      "category": "scat",
+      "section": "melody"
+    },
+    {
+      "time": 31.7325,
+      "pc": 7,
+      "octave": 4,
+      "duration": 0.07655404098161629,
+      "amplitude": 0.4053991001181325,
+      "type": "fm_muted_trumpet",
+      "category": "scat",
+      "section": "melody"
+    },
+    {
+      "time": 31.875,
+      "pc": 3,
+      "octave": 5,
+      "duration": 0.15582185458158496,
+      "amplitude": 0.5364838591784024,
+      "type": "fm_muted_trumpet",
+      "category": "scat",
+      "section": "melody"
+    },
+    {
+      "time": 32.1075,
+      "pc": 0,
+      "octave": 4,
+      "duration": 0.08923623280834125,
+      "amplitude": 0.535720265909776,
+      "type": "fm_muted_trumpet",
+      "category": "scat",
+      "section": "melody"
+    },
+    {
+      "time": 32.25,
+      "pc": 3,
+      "octave": 5,
+      "duration": 0.20743748863301373,
+      "amplitude": 0.558157090831767,
+      "type": "fm_muted_trumpet",
+      "category": "scat",
+      "section": "melody"
+    },
+    {
+      "time": 32.4825,
+      "pc": 9,
+      "octave": 4,
+      "duration": 0.10279146110752069,
+      "amplitude": 0.20974173929101944,
+      "type": "fm_muted_trumpet",
+      "category": "scat",
+      "section": "melody"
+    },
+    {
+      "time": 32.8575,
+      "pc": 3,
+      "octave": 5,
+      "duration": 0.09067023815593668,
+      "amplitude": 0.5913744107845736,
+      "type": "fm_muted_trumpet",
+      "category": "scat",
+      "section": "melody"
+    },
+    {
+      "time": 33.0,
+      "pc": 8,
+      "octave": 4,
+      "duration": 0.13036061164643892,
+      "amplitude": 0.5527855190687618,
+      "type": "fm_muted_trumpet",
+      "category": "scat",
+      "section": "melody"
+    },
+    {
+      "time": 33.2325,
+      "pc": 8,
+      "octave": 4,
+      "duration": 0.1154645317627984,
+      "amplitude": 0.4450945065366373,
+      "type": "fm_muted_trumpet",
+      "category": "scat",
+      "section": "melody"
+    },
+    {
+      "time": 33.375,
+      "pc": 8,
+      "octave": 4,
+      "duration": 0.1729456748387971,
+      "amplitude": 0.5350223263711362,
+      "type": "fm_muted_trumpet",
+      "category": "scat",
+      "section": "melody"
+    },
+    {
+      "time": 33.6075,
+      "pc": 10,
+      "octave": 4,
+      "duration": 0.10271355799793228,
+      "amplitude": 0.3891331538607845,
+      "type": "fm_muted_trumpet",
+      "category": "scat",
+      "section": "melody"
+    },
+    {
+      "time": 33.75,
+      "pc": 10,
+      "octave": 5,
+      "duration": 0.1816278429027157,
+      "amplitude": 0.4635078316017608,
+      "type": "fm_muted_trumpet",
+      "category": "scat",
+      "section": "melody"
+    },
+    {
+      "time": 34.125,
+      "pc": 2,
+      "octave": 4,
+      "duration": 0.17648002927643072,
+      "amplitude": 0.5771028613031515,
+      "type": "fm_muted_trumpet",
+      "category": "scat",
+      "section": "melody"
+    },
+    {
+      "time": 34.3575,
+      "pc": 5,
+      "octave": 5,
+      "duration": 0.09628174657440305,
+      "amplitude": 0.4671744925690404,
+      "type": "fm_muted_trumpet",
+      "category": "scat",
+      "section": "melody"
+    },
+    {
+      "time": 34.5,
+      "pc": 3,
+      "octave": 4,
+      "duration": 0.2824558508437722,
+      "amplitude": 0.4897054993061656,
+      "type": "fm_muted_trumpet",
+      "category": "scat",
+      "section": "melody"
+    },
+    {
+      "time": 35.625,
+      "pc": 5,
+      "octave": 4,
+      "duration": 0.25504632956348977,
+      "amplitude": 0.5011447550758257,
+      "type": "fm_muted_trumpet",
+      "category": "scat",
+      "section": "melody"
+    },
+    {
+      "time": 0.0,
+      "pc": 10,
+      "octave": 2,
+      "duration": 0.34317345682661915,
+      "amplitude": 0.45,
+      "type": "fm_tuba",
+      "category": "bass",
+      "section": "walking_bass"
+    },
+    {
+      "time": 0.375,
+      "pc": 10,
+      "octave": 2,
+      "duration": 0.35620991408226105,
+      "amplitude": 0.35,
+      "type": "fm_tuba",
+      "category": "bass",
+      "section": "walking_bass"
+    },
+    {
+      "time": 0.75,
+      "pc": 5,
+      "octave": 2,
+      "duration": 0.3255263985284287,
+      "amplitude": 0.45,
+      "type": "fm_tuba",
+      "category": "bass",
+      "section": "walking_bass"
+    },
+    {
+      "time": 1.125,
+      "pc": 10,
+      "octave": 2,
+      "duration": 0.3340414691410974,
+      "amplitude": 0.35,
+      "type": "fm_tuba",
+      "category": "bass",
+      "section": "walking_bass"
+    },
+    {
+      "time": 1.5,
+      "pc": 3,
+      "octave": 2,
+      "duration": 0.27892413074418493,
+      "amplitude": 0.45,
+      "type": "fm_tuba",
+      "category": "bass",
+      "section": "walking_bass"
+    },
+    {
+      "time": 1.875,
+      "pc": 2,
+      "octave": 2,
+      "duration": 0.34838182386813443,
+      "amplitude": 0.35,
+      "type": "fm_tuba",
+      "category": "bass",
+      "section": "walking_bass"
+    },
+    {
+      "time": 2.25,
+      "pc": 8,
+      "octave": 2,
+      "duration": 0.27951460755216806,
+      "amplitude": 0.45,
+      "type": "fm_tuba",
+      "category": "bass",
+      "section": "walking_bass"
+    },
+    {
+      "time": 2.625,
+      "pc": 6,
+      "octave": 2,
+      "duration": 0.33883546355068156,
+      "amplitude": 0.35,
+      "type": "fm_tuba",
+      "category": "bass",
+      "section": "walking_bass"
+    },
+    {
+      "time": 3.0,
+      "pc": 10,
+      "octave": 2,
+      "duration": 0.3533489283811597,
+      "amplitude": 0.45,
+      "type": "fm_tuba",
+      "category": "bass",
+      "section": "walking_bass"
+    },
+    {
+      "time": 3.375,
+      "pc": 8,
+      "octave": 2,
+      "duration": 0.29374766190610235,
+      "amplitude": 0.35,
+      "type": "fm_tuba",
+      "category": "bass",
+      "section": "walking_bass"
+    },
+    {
+      "time": 3.75,
+      "pc": 5,
+      "octave": 2,
+      "duration": 0.32532501651761114,
+      "amplitude": 0.45,
+      "type": "fm_tuba",
+      "category": "bass",
+      "section": "walking_bass"
+    },
+    {
+      "time": 4.125,
+      "pc": 1,
+      "octave": 2,
+      "duration": 0.3010917271676056,
+      "amplitude": 0.35,
+      "type": "fm_tuba",
+      "category": "bass",
+      "section": "walking_bass"
+    },
+    {
+      "time": 4.5,
+      "pc": 10,
+      "octave": 2,
+      "duration": 0.3089502207154067,
+      "amplitude": 0.45,
+      "type": "fm_tuba",
+      "category": "bass",
+      "section": "walking_bass"
+    },
+    {
+      "time": 4.875,
+      "pc": 2,
+      "octave": 2,
+      "duration": 0.3387718157566849,
+      "amplitude": 0.35,
+      "type": "fm_tuba",
+      "category": "bass",
+      "section": "walking_bass"
+    },
+    {
+      "time": 5.25,
+      "pc": 5,
+      "octave": 2,
+      "duration": 0.3140715570911047,
+      "amplitude": 0.45,
+      "type": "fm_tuba",
+      "category": "bass",
+      "section": "walking_bass"
+    },
+    {
+      "time": 5.625,
+      "pc": 5,
+      "octave": 2,
+      "duration": 0.28616239227583196,
+      "amplitude": 0.35,
+      "type": "fm_tuba",
+      "category": "bass",
+      "section": "walking_bass"
+    },
+    {
+      "time": 6.0,
+      "pc": 3,
+      "octave": 2,
+      "duration": 0.27336765013415226,
+      "amplitude": 0.45,
+      "type": "fm_tuba",
+      "category": "bass",
+      "section": "walking_bass"
+    },
+    {
+      "time": 6.375,
+      "pc": 5,
+      "octave": 2,
+      "duration": 0.3398369253064407,
+      "amplitude": 0.35,
+      "type": "fm_tuba",
+      "category": "bass",
+      "section": "walking_bass"
+    },
+    {
+      "time": 6.75,
+      "pc": 8,
+      "octave": 2,
+      "duration": 0.2626079125732605,
+      "amplitude": 0.45,
+      "type": "fm_tuba",
+      "category": "bass",
+      "section": "walking_bass"
+    },
+    {
+      "time": 7.125,
+      "pc": 2,
+      "octave": 2,
+      "duration": 0.3012419597624364,
+      "amplitude": 0.35,
+      "type": "fm_tuba",
+      "category": "bass",
+      "section": "walking_bass"
+    },
+    {
+      "time": 7.5,
+      "pc": 3,
+      "octave": 2,
+      "duration": 0.2800858632557369,
+      "amplitude": 0.45,
+      "type": "fm_tuba",
+      "category": "bass",
+      "section": "walking_bass"
+    },
+    {
+      "time": 7.875,
+      "pc": 1,
+      "octave": 2,
+      "duration": 0.3211320695760945,
+      "amplitude": 0.35,
+      "type": "fm_tuba",
+      "category": "bass",
+      "section": "walking_bass"
+    },
+    {
+      "time": 8.25,
+      "pc": 8,
+      "octave": 2,
+      "duration": 0.33374911275572033,
+      "amplitude": 0.45,
+      "type": "fm_tuba",
+      "category": "bass",
+      "section": "walking_bass"
+    },
+    {
+      "time": 8.625,
+      "pc": 5,
+      "octave": 2,
+      "duration": 0.34946932132916697,
+      "amplitude": 0.35,
+      "type": "fm_tuba",
+      "category": "bass",
+      "section": "walking_bass"
+    },
+    {
+      "time": 9.0,
+      "pc": 10,
+      "octave": 2,
+      "duration": 0.30357338391303545,
+      "amplitude": 0.45,
+      "type": "fm_tuba",
+      "category": "bass",
+      "section": "walking_bass"
+    },
+    {
+      "time": 9.375,
+      "pc": 10,
+      "octave": 2,
+      "duration": 0.2652065102289059,
+      "amplitude": 0.35,
+      "type": "fm_tuba",
+      "category": "bass",
+      "section": "walking_bass"
+    },
+    {
+      "time": 9.75,
+      "pc": 5,
+      "octave": 2,
+      "duration": 0.32156458846913066,
+      "amplitude": 0.45,
+      "type": "fm_tuba",
+      "category": "bass",
+      "section": "walking_bass"
+    },
+    {
+      "time": 10.125,
+      "pc": 6,
+      "octave": 2,
+      "duration": 0.2773479528567405,
+      "amplitude": 0.35,
+      "type": "fm_tuba",
+      "category": "bass",
+      "section": "walking_bass"
+    },
+    {
+      "time": 10.5,
+      "pc": 7,
+      "octave": 2,
+      "duration": 0.3141411569065003,
+      "amplitude": 0.45,
+      "type": "fm_tuba",
+      "category": "bass",
+      "section": "walking_bass"
+    },
+    {
+      "time": 10.875,
+      "pc": 10,
+      "octave": 2,
+      "duration": 0.28356568682397976,
+      "amplitude": 0.35,
+      "type": "fm_tuba",
+      "category": "bass",
+      "section": "walking_bass"
+    },
+    {
+      "time": 11.25,
+      "pc": 2,
+      "octave": 2,
+      "duration": 0.3413817826515971,
+      "amplitude": 0.45,
+      "type": "fm_tuba",
+      "category": "bass",
+      "section": "walking_bass"
+    },
+    {
+      "time": 11.625,
+      "pc": 7,
+      "octave": 2,
+      "duration": 0.32322278332347737,
+      "amplitude": 0.35,
+      "type": "fm_tuba",
+      "category": "bass",
+      "section": "walking_bass"
+    },
+    {
+      "time": 12.0,
+      "pc": 0,
+      "octave": 2,
+      "duration": 0.2769347929151557,
+      "amplitude": 0.45,
+      "type": "fm_tuba",
+      "category": "bass",
+      "section": "walking_bass"
+    },
+    {
+      "time": 12.375,
+      "pc": 1,
+      "octave": 2,
+      "duration": 0.3102067514127667,
+      "amplitude": 0.35,
+      "type": "fm_tuba",
+      "category": "bass",
+      "section": "walking_bass"
+    },
+    {
+      "time": 12.75,
+      "pc": 7,
+      "octave": 2,
+      "duration": 0.28813358406686945,
+      "amplitude": 0.45,
+      "type": "fm_tuba",
+      "category": "bass",
+      "section": "walking_bass"
+    },
+    {
+      "time": 13.125,
+      "pc": 2,
+      "octave": 2,
+      "duration": 0.2853497724445442,
+      "amplitude": 0.35,
+      "type": "fm_tuba",
+      "category": "bass",
+      "section": "walking_bass"
+    },
+    {
+      "time": 13.5,
+      "pc": 5,
+      "octave": 2,
+      "duration": 0.31418110095754403,
+      "amplitude": 0.45,
+      "type": "fm_tuba",
+      "category": "bass",
+      "section": "walking_bass"
+    },
+    {
+      "time": 13.875,
+      "pc": 9,
+      "octave": 2,
+      "duration": 0.34350252510268015,
+      "amplitude": 0.35,
+      "type": "fm_tuba",
+      "category": "bass",
+      "section": "walking_bass"
+    },
+    {
+      "time": 14.25,
+      "pc": 0,
+      "octave": 2,
+      "duration": 0.28839819401456634,
+      "amplitude": 0.45,
+      "type": "fm_tuba",
+      "category": "bass",
+      "section": "walking_bass"
+    },
+    {
+      "time": 14.625,
+      "pc": 2,
+      "octave": 2,
+      "duration": 0.2943633040419652,
+      "amplitude": 0.35,
+      "type": "fm_tuba",
+      "category": "bass",
+      "section": "walking_bass"
+    },
+    {
+      "time": 15.0,
+      "pc": 10,
+      "octave": 2,
+      "duration": 0.3363485067904025,
+      "amplitude": 0.45,
+      "type": "fm_tuba",
+      "category": "bass",
+      "section": "walking_bass"
+    },
+    {
+      "time": 15.375,
+      "pc": 10,
+      "octave": 2,
+      "duration": 0.289016154682765,
+      "amplitude": 0.35,
+      "type": "fm_tuba",
+      "category": "bass",
+      "section": "walking_bass"
+    },
+    {
+      "time": 15.75,
+      "pc": 5,
+      "octave": 2,
+      "duration": 0.29048961091610315,
+      "amplitude": 0.45,
+      "type": "fm_tuba",
+      "category": "bass",
+      "section": "walking_bass"
+    },
+    {
+      "time": 16.125,
+      "pc": 6,
+      "octave": 2,
+      "duration": 0.30840378249897193,
+      "amplitude": 0.35,
+      "type": "fm_tuba",
+      "category": "bass",
+      "section": "walking_bass"
+    },
+    {
+      "time": 16.5,
+      "pc": 5,
+      "octave": 2,
+      "duration": 0.27643082047338646,
+      "amplitude": 0.45,
+      "type": "fm_tuba",
+      "category": "bass",
+      "section": "walking_bass"
+    },
+    {
+      "time": 16.875,
+      "pc": 1,
+      "octave": 2,
+      "duration": 0.29366624584788276,
+      "amplitude": 0.35,
+      "type": "fm_tuba",
+      "category": "bass",
+      "section": "walking_bass"
+    },
+    {
+      "time": 17.25,
+      "pc": 0,
+      "octave": 2,
+      "duration": 0.3340193135268731,
+      "amplitude": 0.45,
+      "type": "fm_tuba",
+      "category": "bass",
+      "section": "walking_bass"
+    },
+    {
+      "time": 17.625,
+      "pc": 0,
+      "octave": 2,
+      "duration": 0.3440251578031939,
+      "amplitude": 0.35,
+      "type": "fm_tuba",
+      "category": "bass",
+      "section": "walking_bass"
+    },
+    {
+      "time": 18.0,
+      "pc": 10,
+      "octave": 2,
+      "duration": 0.3544476216874307,
+      "amplitude": 0.45,
+      "type": "fm_tuba",
+      "category": "bass",
+      "section": "walking_bass"
+    },
+    {
+      "time": 18.375,
+      "pc": 8,
+      "octave": 2,
+      "duration": 0.28439647931792744,
+      "amplitude": 0.35,
+      "type": "fm_tuba",
+      "category": "bass",
+      "section": "walking_bass"
+    },
+    {
+      "time": 18.75,
+      "pc": 5,
+      "octave": 2,
+      "duration": 0.3352072945405555,
+      "amplitude": 0.45,
+      "type": "fm_tuba",
+      "category": "bass",
+      "section": "walking_bass"
+    },
+    {
+      "time": 19.125,
+      "pc": 8,
+      "octave": 2,
+      "duration": 0.328615113846094,
+      "amplitude": 0.35,
+      "type": "fm_tuba",
+      "category": "bass",
+      "section": "walking_bass"
+    },
+    {
+      "time": 19.5,
+      "pc": 3,
+      "octave": 2,
+      "duration": 0.33856958461545716,
+      "amplitude": 0.45,
+      "type": "fm_tuba",
+      "category": "bass",
+      "section": "walking_bass"
+    },
+    {
+      "time": 19.875,
+      "pc": 5,
+      "octave": 2,
+      "duration": 0.3089370609015397,
+      "amplitude": 0.35,
+      "type": "fm_tuba",
+      "category": "bass",
+      "section": "walking_bass"
+    },
+    {
+      "time": 20.25,
+      "pc": 8,
+      "octave": 2,
+      "duration": 0.26597058856364775,
+      "amplitude": 0.45,
+      "type": "fm_tuba",
+      "category": "bass",
+      "section": "walking_bass"
+    },
+    {
+      "time": 20.625,
+      "pc": 5,
+      "octave": 2,
+      "duration": 0.29362450349356534,
+      "amplitude": 0.35,
+      "type": "fm_tuba",
+      "category": "bass",
+      "section": "walking_bass"
+    },
+    {
+      "time": 21.0,
+      "pc": 10,
+      "octave": 2,
+      "duration": 0.27190918145295484,
+      "amplitude": 0.45,
+      "type": "fm_tuba",
+      "category": "bass",
+      "section": "walking_bass"
+    },
+    {
+      "time": 21.375,
+      "pc": 10,
+      "octave": 2,
+      "duration": 0.3118079143882089,
+      "amplitude": 0.35,
+      "type": "fm_tuba",
+      "category": "bass",
+      "section": "walking_bass"
+    },
+    {
+      "time": 21.75,
+      "pc": 5,
+      "octave": 2,
+      "duration": 0.3053370069819602,
+      "amplitude": 0.45,
+      "type": "fm_tuba",
+      "category": "bass",
+      "section": "walking_bass"
+    },
+    {
+      "time": 22.125,
+      "pc": 2,
+      "octave": 2,
+      "duration": 0.3441499660639893,
+      "amplitude": 0.35,
+      "type": "fm_tuba",
+      "category": "bass",
+      "section": "walking_bass"
+    },
+    {
+      "time": 22.5,
+      "pc": 10,
+      "octave": 2,
+      "duration": 0.3534334494413537,
+      "amplitude": 0.45,
+      "type": "fm_tuba",
+      "category": "bass",
+      "section": "walking_bass"
+    },
+    {
+      "time": 22.875,
+      "pc": 5,
+      "octave": 2,
+      "duration": 0.2942401156923217,
+      "amplitude": 0.35,
+      "type": "fm_tuba",
+      "category": "bass",
+      "section": "walking_bass"
+    },
+    {
+      "time": 23.25,
+      "pc": 5,
+      "octave": 2,
+      "duration": 0.32744105611752017,
+      "amplitude": 0.45,
+      "type": "fm_tuba",
+      "category": "bass",
+      "section": "walking_bass"
+    },
+    {
+      "time": 23.625,
+      "pc": 1,
+      "octave": 2,
+      "duration": 0.34240700030305243,
+      "amplitude": 0.35,
+      "type": "fm_tuba",
+      "category": "bass",
+      "section": "walking_bass"
+    },
+    {
+      "time": 24.0,
+      "pc": 3,
+      "octave": 2,
+      "duration": 0.34306332976577497,
+      "amplitude": 0.45,
+      "type": "fm_tuba",
+      "category": "bass",
+      "section": "walking_bass"
+    },
+    {
+      "time": 24.375,
+      "pc": 8,
+      "octave": 2,
+      "duration": 0.3212624230319988,
+      "amplitude": 0.35,
+      "type": "fm_tuba",
+      "category": "bass",
+      "section": "walking_bass"
+    },
+    {
+      "time": 24.75,
+      "pc": 8,
+      "octave": 2,
+      "duration": 0.345697376522749,
+      "amplitude": 0.45,
+      "type": "fm_tuba",
+      "category": "bass",
+      "section": "walking_bass"
+    },
+    {
+      "time": 25.125,
+      "pc": 3,
+      "octave": 2,
+      "duration": 0.3203868245252553,
+      "amplitude": 0.35,
+      "type": "fm_tuba",
+      "category": "bass",
+      "section": "walking_bass"
+    },
+    {
+      "time": 25.5,
+      "pc": 3,
+      "octave": 2,
+      "duration": 0.2845097102908145,
+      "amplitude": 0.45,
+      "type": "fm_tuba",
+      "category": "bass",
+      "section": "walking_bass"
+    },
+    {
+      "time": 25.875,
+      "pc": 1,
+      "octave": 2,
+      "duration": 0.35600868027714516,
+      "amplitude": 0.35,
+      "type": "fm_tuba",
+      "category": "bass",
+      "section": "walking_bass"
+    },
+    {
+      "time": 26.25,
+      "pc": 8,
+      "octave": 2,
+      "duration": 0.33250934688168066,
+      "amplitude": 0.45,
+      "type": "fm_tuba",
+      "category": "bass",
+      "section": "walking_bass"
+    },
+    {
+      "time": 26.625,
+      "pc": 3,
+      "octave": 2,
+      "duration": 0.3337846587182124,
+      "amplitude": 0.35,
+      "type": "fm_tuba",
+      "category": "bass",
+      "section": "walking_bass"
+    },
+    {
+      "time": 27.0,
+      "pc": 10,
+      "octave": 2,
+      "duration": 0.3284897652495973,
+      "amplitude": 0.45,
+      "type": "fm_tuba",
+      "category": "bass",
+      "section": "walking_bass"
+    },
+    {
+      "time": 27.375,
+      "pc": 2,
+      "octave": 2,
+      "duration": 0.32756260901186574,
+      "amplitude": 0.35,
+      "type": "fm_tuba",
+      "category": "bass",
+      "section": "walking_bass"
+    },
+    {
+      "time": 27.75,
+      "pc": 5,
+      "octave": 2,
+      "duration": 0.34719600581723303,
+      "amplitude": 0.45,
+      "type": "fm_tuba",
+      "category": "bass",
+      "section": "walking_bass"
+    },
+    {
+      "time": 28.125,
+      "pc": 10,
+      "octave": 2,
+      "duration": 0.2900032289967383,
+      "amplitude": 0.35,
+      "type": "fm_tuba",
+      "category": "bass",
+      "section": "walking_bass"
+    },
+    {
+      "time": 28.5,
+      "pc": 7,
+      "octave": 2,
+      "duration": 0.2976413521664357,
+      "amplitude": 0.45,
+      "type": "fm_tuba",
+      "category": "bass",
+      "section": "walking_bass"
+    },
+    {
+      "time": 28.875,
+      "pc": 5,
+      "octave": 2,
+      "duration": 0.31555575580461903,
+      "amplitude": 0.35,
+      "type": "fm_tuba",
+      "category": "bass",
+      "section": "walking_bass"
+    },
+    {
+      "time": 29.25,
+      "pc": 2,
+      "octave": 2,
+      "duration": 0.3367987006763393,
+      "amplitude": 0.45,
+      "type": "fm_tuba",
+      "category": "bass",
+      "section": "walking_bass"
+    },
+    {
+      "time": 29.625,
+      "pc": 7,
+      "octave": 2,
+      "duration": 0.3196398550208003,
+      "amplitude": 0.35,
+      "type": "fm_tuba",
+      "category": "bass",
+      "section": "walking_bass"
+    },
+    {
+      "time": 30.0,
+      "pc": 0,
+      "octave": 2,
+      "duration": 0.2983635279953319,
+      "amplitude": 0.45,
+      "type": "fm_tuba",
+      "category": "bass",
+      "section": "walking_bass"
+    },
+    {
+      "time": 30.375,
+      "pc": 2,
+      "octave": 2,
+      "duration": 0.34807772025220823,
+      "amplitude": 0.35,
+      "type": "fm_tuba",
+      "category": "bass",
+      "section": "walking_bass"
+    },
+    {
+      "time": 30.75,
+      "pc": 7,
+      "octave": 2,
+      "duration": 0.2759172862620478,
+      "amplitude": 0.45,
+      "type": "fm_tuba",
+      "category": "bass",
+      "section": "walking_bass"
+    },
+    {
+      "time": 31.125,
+      "pc": 7,
+      "octave": 2,
+      "duration": 0.3055847342978185,
+      "amplitude": 0.35,
+      "type": "fm_tuba",
+      "category": "bass",
+      "section": "walking_bass"
+    },
+    {
+      "time": 31.5,
+      "pc": 5,
+      "octave": 2,
+      "duration": 0.32501631724373253,
+      "amplitude": 0.45,
+      "type": "fm_tuba",
+      "category": "bass",
+      "section": "walking_bass"
+    },
+    {
+      "time": 31.875,
+      "pc": 2,
+      "octave": 2,
+      "duration": 0.34698838346239524,
+      "amplitude": 0.35,
+      "type": "fm_tuba",
+      "category": "bass",
+      "section": "walking_bass"
+    },
+    {
+      "time": 32.25,
+      "pc": 0,
+      "octave": 2,
+      "duration": 0.3260260205342887,
+      "amplitude": 0.45,
+      "type": "fm_tuba",
+      "category": "bass",
+      "section": "walking_bass"
+    },
+    {
+      "time": 32.625,
+      "pc": 3,
+      "octave": 2,
+      "duration": 0.35111584077512303,
+      "amplitude": 0.35,
+      "type": "fm_tuba",
+      "category": "bass",
+      "section": "walking_bass"
+    },
+    {
+      "time": 33.0,
+      "pc": 10,
+      "octave": 2,
+      "duration": 0.35509234642673165,
+      "amplitude": 0.45,
+      "type": "fm_tuba",
+      "category": "bass",
+      "section": "walking_bass"
+    },
+    {
+      "time": 33.375,
+      "pc": 8,
+      "octave": 2,
+      "duration": 0.32721689179313707,
+      "amplitude": 0.35,
+      "type": "fm_tuba",
+      "category": "bass",
+      "section": "walking_bass"
+    },
+    {
+      "time": 33.75,
+      "pc": 5,
+      "octave": 2,
+      "duration": 0.30532835743760495,
+      "amplitude": 0.45,
+      "type": "fm_tuba",
+      "category": "bass",
+      "section": "walking_bass"
+    },
+    {
+      "time": 34.125,
+      "pc": 8,
+      "octave": 2,
+      "duration": 0.3425001992493924,
+      "amplitude": 0.35,
+      "type": "fm_tuba",
+      "category": "bass",
+      "section": "walking_bass"
+    },
+    {
+      "time": 34.5,
+      "pc": 5,
+      "octave": 2,
+      "duration": 0.2724987438208463,
+      "amplitude": 0.45,
+      "type": "fm_tuba",
+      "category": "bass",
+      "section": "walking_bass"
+    },
+    {
+      "time": 34.875,
+      "pc": 0,
+      "octave": 2,
+      "duration": 0.316388618454248,
+      "amplitude": 0.35,
+      "type": "fm_tuba",
+      "category": "bass",
+      "section": "walking_bass"
+    },
+    {
+      "time": 35.25,
+      "pc": 0,
+      "octave": 2,
+      "duration": 0.35556487909002166,
+      "amplitude": 0.45,
+      "type": "fm_tuba",
+      "category": "bass",
+      "section": "walking_bass"
+    },
+    {
+      "time": 35.625,
+      "pc": 3,
+      "octave": 2,
+      "duration": 0.2882325356417088,
+      "amplitude": 0.35,
+      "type": "fm_tuba",
+      "category": "bass",
+      "section": "walking_bass"
+    },
+    {
+      "time": 0.3805148195920676,
+      "pc": 10,
+      "octave": 3,
+      "duration": 0.20619437621323367,
+      "amplitude": 0.33544023776746634,
+      "type": "fm_horn",
+      "category": "comp",
+      "section": "chords"
+    },
+    {
+      "time": 0.3693800907785621,
+      "pc": 2,
+      "octave": 4,
+      "duration": 0.13838831898417184,
+      "amplitude": 0.3202897936317931,
+      "type": "fm_horn",
+      "category": "comp",
+      "section": "chords"
+    },
+    {
+      "time": 1.128183630806335,
+      "pc": 10,
+      "octave": 3,
+      "duration": 0.18874850159512793,
+      "amplitude": 0.30813925650060636,
+      "type": "fm_horn",
+      "category": "comp",
+      "section": "chords"
+    },
+    {
+      "time": 1.1330680740814594,
+      "pc": 2,
+      "octave": 4,
+      "duration": 0.20681292565828308,
+      "amplitude": 0.2942372155530347,
+      "type": "fm_horn",
+      "category": "comp",
+      "section": "chords"
+    },
+    {
+      "time": 1.8722972246605694,
+      "pc": 3,
+      "octave": 3,
+      "duration": 0.2012186794511423,
+      "amplitude": 0.20500467968684488,
+      "type": "fm_horn",
+      "category": "comp",
+      "section": "chords"
+    },
+    {
+      "time": 1.8715343825142803,
+      "pc": 5,
+      "octave": 4,
+      "duration": 0.1272838282223046,
+      "amplitude": 0.336444171847899,
+      "type": "fm_horn",
+      "category": "comp",
+      "section": "chords"
+    },
+    {
+      "time": 2.632529211934133,
+      "pc": 3,
+      "octave": 3,
+      "duration": 0.13508941439813357,
+      "amplitude": 0.31797692165457575,
+      "type": "fm_horn",
+      "category": "comp",
+      "section": "chords"
+    },
+    {
+      "time": 2.620450547014247,
+      "pc": 5,
+      "octave": 4,
+      "duration": 0.15365897219420144,
+      "amplitude": 0.275269214339726,
+      "type": "fm_horn",
+      "category": "comp",
+      "section": "chords"
+    },
+    {
+      "time": 2.633883756321944,
+      "pc": 8,
+      "octave": 4,
+      "duration": 0.13101124729148397,
+      "amplitude": 0.3371073430307468,
+      "type": "fm_horn",
+      "category": "comp",
+      "section": "chords"
+    },
+    {
+      "time": 3.3665059872181353,
+      "pc": 10,
+      "octave": 3,
+      "duration": 0.2029761605930074,
+      "amplitude": 0.2702497083279043,
+      "type": "fm_horn",
+      "category": "comp",
+      "section": "chords"
+    },
+    {
+      "time": 3.3785264744943704,
+      "pc": 2,
+      "octave": 4,
+      "duration": 0.19734204296940025,
+      "amplitude": 0.23384220435486056,
+      "type": "fm_horn",
+      "category": "comp",
+      "section": "chords"
+    },
+    {
+      "time": 3.381914889634339,
+      "pc": 5,
+      "octave": 4,
+      "duration": 0.1883707009087764,
+      "amplitude": 0.2596117242804949,
+      "type": "fm_horn",
+      "category": "comp",
+      "section": "chords"
+    },
+    {
+      "time": 4.125731446165381,
+      "pc": 10,
+      "octave": 3,
+      "duration": 0.20145172146625545,
+      "amplitude": 0.20208779826513518,
+      "type": "fm_horn",
+      "category": "comp",
+      "section": "chords"
+    },
+    {
+      "time": 4.1284468159470205,
+      "pc": 2,
+      "octave": 4,
+      "duration": 0.1636634281200609,
+      "amplitude": 0.30092425728106303,
+      "type": "fm_horn",
+      "category": "comp",
+      "section": "chords"
+    },
+    {
+      "time": 4.133805837835591,
+      "pc": 5,
+      "octave": 4,
+      "duration": 0.17826301031086866,
+      "amplitude": 0.3233625951840161,
+      "type": "fm_horn",
+      "category": "comp",
+      "section": "chords"
+    },
+    {
+      "time": 4.883863382721157,
+      "pc": 10,
+      "octave": 3,
+      "duration": 0.16554114764791183,
+      "amplitude": 0.29293203005667945,
+      "type": "fm_horn",
+      "category": "comp",
+      "section": "chords"
+    },
+    {
+      "time": 4.877953047612789,
+      "pc": 2,
+      "octave": 4,
+      "duration": 0.14940070670445477,
+      "amplitude": 0.2915123293787619,
+      "type": "fm_horn",
+      "category": "comp",
+      "section": "chords"
+    },
+    {
+      "time": 5.615906936220267,
+      "pc": 10,
+      "octave": 3,
+      "duration": 0.18553943770701647,
+      "amplitude": 0.21750139050905817,
+      "type": "fm_horn",
+      "category": "comp",
+      "section": "chords"
+    },
+    {
+      "time": 5.617322409614502,
+      "pc": 2,
+      "octave": 4,
+      "duration": 0.1166863644252793,
+      "amplitude": 0.34938910621325436,
+      "type": "fm_horn",
+      "category": "comp",
+      "section": "chords"
+    },
+    {
+      "time": 5.622772916623003,
+      "pc": 5,
+      "octave": 4,
+      "duration": 0.13891500364852452,
+      "amplitude": 0.2806319908823789,
+      "type": "fm_horn",
+      "category": "comp",
+      "section": "chords"
+    },
+    {
+      "time": 6.382708275677992,
+      "pc": 3,
+      "octave": 3,
+      "duration": 0.17857578887421835,
+      "amplitude": 0.30898987258358623,
+      "type": "fm_horn",
+      "category": "comp",
+      "section": "chords"
+    },
+    {
+      "time": 6.377313044281023,
+      "pc": 5,
+      "octave": 4,
+      "duration": 0.18617871346801468,
+      "amplitude": 0.3250539624944482,
+      "type": "fm_horn",
+      "category": "comp",
+      "section": "chords"
+    },
+    {
+      "time": 6.3788056132749515,
+      "pc": 8,
+      "octave": 4,
+      "duration": 0.21814346989278624,
+      "amplitude": 0.2419610210128683,
+      "type": "fm_horn",
+      "category": "comp",
+      "section": "chords"
+    },
+    {
+      "time": 7.12225372077515,
+      "pc": 3,
+      "octave": 3,
+      "duration": 0.16252828422514687,
+      "amplitude": 0.23541689573464936,
+      "type": "fm_horn",
+      "category": "comp",
+      "section": "chords"
+    },
+    {
+      "time": 7.133033924248493,
+      "pc": 5,
+      "octave": 4,
+      "duration": 0.22285436831145755,
+      "amplitude": 0.2551002437745771,
+      "type": "fm_horn",
+      "category": "comp",
+      "section": "chords"
+    },
+    {
+      "time": 7.867443194381745,
+      "pc": 3,
+      "octave": 3,
+      "duration": 0.15729070980874196,
+      "amplitude": 0.22847128432416194,
+      "type": "fm_horn",
+      "category": "comp",
+      "section": "chords"
+    },
+    {
+      "time": 7.878255374761239,
+      "pc": 5,
+      "octave": 4,
+      "duration": 0.2079037337021641,
+      "amplitude": 0.2682076052855776,
+      "type": "fm_horn",
+      "category": "comp",
+      "section": "chords"
+    },
+    {
+      "time": 7.865427149094727,
+      "pc": 8,
+      "octave": 4,
+      "duration": 0.18469175256373696,
+      "amplitude": 0.28957189392793176,
+      "type": "fm_horn",
+      "category": "comp",
+      "section": "chords"
+    },
+    {
+      "time": 8.619104111502857,
+      "pc": 3,
+      "octave": 3,
+      "duration": 0.22374235169340995,
+      "amplitude": 0.3180467149964474,
+      "type": "fm_horn",
+      "category": "comp",
+      "section": "chords"
+    },
+    {
+      "time": 8.626727661671632,
+      "pc": 5,
+      "octave": 4,
+      "duration": 0.2058545066869274,
+      "amplitude": 0.28313116826916934,
+      "type": "fm_horn",
+      "category": "comp",
+      "section": "chords"
+    },
+    {
+      "time": 8.630487371556097,
+      "pc": 8,
+      "octave": 4,
+      "duration": 0.2039684603761191,
+      "amplitude": 0.23494980185690473,
+      "type": "fm_horn",
+      "category": "comp",
+      "section": "chords"
+    },
+    {
+      "time": 9.367599842628868,
+      "pc": 10,
+      "octave": 3,
+      "duration": 0.20907068921776983,
+      "amplitude": 0.2217031970480762,
+      "type": "fm_horn",
+      "category": "comp",
+      "section": "chords"
+    },
+    {
+      "time": 9.378221152851946,
+      "pc": 2,
+      "octave": 4,
+      "duration": 0.1406985971319139,
+      "amplitude": 0.22617456813520903,
+      "type": "fm_horn",
+      "category": "comp",
+      "section": "chords"
+    },
+    {
+      "time": 10.11975863212181,
+      "pc": 10,
+      "octave": 3,
+      "duration": 0.11417178681345475,
+      "amplitude": 0.31849769963521307,
+      "type": "fm_horn",
+      "category": "comp",
+      "section": "chords"
+    },
+    {
+      "time": 10.116047980357223,
+      "pc": 2,
+      "octave": 4,
+      "duration": 0.14892428947072753,
+      "amplitude": 0.2261369302109266,
+      "type": "fm_horn",
+      "category": "comp",
+      "section": "chords"
+    },
+    {
+      "time": 10.880560340786284,
+      "pc": 7,
+      "octave": 3,
+      "duration": 0.1963873434413245,
+      "amplitude": 0.27143689481348754,
+      "type": "fm_horn",
+      "category": "comp",
+      "section": "chords"
+    },
+    {
+      "time": 10.875076773795717,
+      "pc": 11,
+      "octave": 4,
+      "duration": 0.17023927023103405,
+      "amplitude": 0.21635810150057683,
+      "type": "fm_horn",
+      "category": "comp",
+      "section": "chords"
+    },
+    {
+      "time": 10.880664539919607,
+      "pc": 2,
+      "octave": 4,
+      "duration": 0.21885925983413693,
+      "amplitude": 0.20650475553487577,
+      "type": "fm_horn",
+      "category": "comp",
+      "section": "chords"
+    },
+    {
+      "time": 11.634971735101786,
+      "pc": 7,
+      "octave": 3,
+      "duration": 0.1848758269731175,
+      "amplitude": 0.2046725959265516,
+      "type": "fm_horn",
+      "category": "comp",
+      "section": "chords"
+    },
+    {
+      "time": 11.617159236593585,
+      "pc": 11,
+      "octave": 4,
+      "duration": 0.20782108610631478,
+      "amplitude": 0.26394104289199877,
+      "type": "fm_horn",
+      "category": "comp",
+      "section": "chords"
+    },
+    {
+      "time": 11.63298533530247,
+      "pc": 2,
+      "octave": 4,
+      "duration": 0.19264514792592333,
+      "amplitude": 0.2665343494044513,
+      "type": "fm_horn",
+      "category": "comp",
+      "section": "chords"
+    },
+    {
+      "time": 12.37766153448602,
+      "pc": 0,
+      "octave": 3,
+      "duration": 0.1198892512485128,
+      "amplitude": 0.241252399933693,
+      "type": "fm_horn",
+      "category": "comp",
+      "section": "chords"
+    },
+    {
+      "time": 12.384892555117219,
+      "pc": 3,
+      "octave": 4,
+      "duration": 0.17419009883044057,
+      "amplitude": 0.24877781649780017,
+      "type": "fm_horn",
+      "category": "comp",
+      "section": "chords"
+    },
+    {
+      "time": 12.377108535830706,
+      "pc": 7,
+      "octave": 4,
+      "duration": 0.172187644211024,
+      "amplitude": 0.2680573126363207,
+      "type": "fm_horn",
+      "category": "comp",
+      "section": "chords"
+    },
+    {
+      "time": 13.130379254602095,
+      "pc": 0,
+      "octave": 3,
+      "duration": 0.2084391829457522,
+      "amplitude": 0.2976374997321958,
+      "type": "fm_horn",
+      "category": "comp",
+      "section": "chords"
+    },
+    {
+      "time": 13.124031098319305,
+      "pc": 3,
+      "octave": 4,
+      "duration": 0.19359449062397988,
+      "amplitude": 0.23225345994912455,
+      "type": "fm_horn",
+      "category": "comp",
+      "section": "chords"
+    },
+    {
+      "time": 13.87331979300523,
+      "pc": 5,
+      "octave": 3,
+      "duration": 0.1506298071189572,
+      "amplitude": 0.2680248354361171,
+      "type": "fm_horn",
+      "category": "comp",
+      "section": "chords"
+    },
+    {
+      "time": 13.878302157261206,
+      "pc": 9,
+      "octave": 4,
+      "duration": 0.12319715691850847,
+      "amplitude": 0.2640146009391437,
+      "type": "fm_horn",
+      "category": "comp",
+      "section": "chords"
+    },
+    {
+      "time": 14.616824495767322,
+      "pc": 5,
+      "octave": 3,
+      "duration": 0.18976736649003487,
+      "amplitude": 0.2711401828383654,
+      "type": "fm_horn",
+      "category": "comp",
+      "section": "chords"
+    },
+    {
+      "time": 14.629891779383838,
+      "pc": 9,
+      "octave": 4,
+      "duration": 0.12210349019980718,
+      "amplitude": 0.26478147778276107,
+      "type": "fm_horn",
+      "category": "comp",
+      "section": "chords"
+    },
+    {
+      "time": 14.616199619559417,
+      "pc": 0,
+      "octave": 4,
+      "duration": 0.15442277167978916,
+      "amplitude": 0.21951731803607652,
+      "type": "fm_horn",
+      "category": "comp",
+      "section": "chords"
+    },
+    {
+      "time": 15.383822597377044,
+      "pc": 10,
+      "octave": 3,
+      "duration": 0.15871597120374278,
+      "amplitude": 0.3310411058351478,
+      "type": "fm_horn",
+      "category": "comp",
+      "section": "chords"
+    },
+    {
+      "time": 15.366028921599447,
+      "pc": 2,
+      "octave": 4,
+      "duration": 0.16008039627343687,
+      "amplitude": 0.3373765506458215,
+      "type": "fm_horn",
+      "category": "comp",
+      "section": "chords"
+    },
+    {
+      "time": 15.367072011318493,
+      "pc": 5,
+      "octave": 4,
+      "duration": 0.14485830836032432,
+      "amplitude": 0.2468673348631481,
+      "type": "fm_horn",
+      "category": "comp",
+      "section": "chords"
+    },
+    {
+      "time": 16.117164367638544,
+      "pc": 10,
+      "octave": 3,
+      "duration": 0.18638283408616713,
+      "amplitude": 0.23363673036613483,
+      "type": "fm_horn",
+      "category": "comp",
+      "section": "chords"
+    },
+    {
+      "time": 16.130252112638736,
+      "pc": 2,
+      "octave": 4,
+      "duration": 0.20760450959265134,
+      "amplitude": 0.2551341575923025,
+      "type": "fm_horn",
+      "category": "comp",
+      "section": "chords"
+    },
+    {
+      "time": 16.881368537190813,
+      "pc": 5,
+      "octave": 3,
+      "duration": 0.20757995564944026,
+      "amplitude": 0.3461819903188562,
+      "type": "fm_horn",
+      "category": "comp",
+      "section": "chords"
+    },
+    {
+      "time": 16.865525076629073,
+      "pc": 9,
+      "octave": 4,
+      "duration": 0.1815269940602398,
+      "amplitude": 0.29640487457447473,
+      "type": "fm_horn",
+      "category": "comp",
+      "section": "chords"
+    },
+    {
+      "time": 17.621179693776597,
+      "pc": 5,
+      "octave": 3,
+      "duration": 0.13279680809559613,
+      "amplitude": 0.3054048159298407,
+      "type": "fm_horn",
+      "category": "comp",
+      "section": "chords"
+    },
+    {
+      "time": 17.63239725413073,
+      "pc": 9,
+      "octave": 4,
+      "duration": 0.15073027388744156,
+      "amplitude": 0.20091586841054881,
+      "type": "fm_horn",
+      "category": "comp",
+      "section": "chords"
+    },
+    {
+      "time": 17.617837493083027,
+      "pc": 0,
+      "octave": 4,
+      "duration": 0.17621112316065485,
+      "amplitude": 0.26011765159992734,
+      "type": "fm_horn",
+      "category": "comp",
+      "section": "chords"
+    },
+    {
+      "time": 18.37339664987529,
+      "pc": 10,
+      "octave": 3,
+      "duration": 0.19643757322564198,
+      "amplitude": 0.23226993200502666,
+      "type": "fm_horn",
+      "category": "comp",
+      "section": "chords"
+    },
+    {
+      "time": 18.379431919354854,
+      "pc": 2,
+      "octave": 4,
+      "duration": 0.15085079794904993,
+      "amplitude": 0.2555079638715506,
+      "type": "fm_horn",
+      "category": "comp",
+      "section": "chords"
+    },
+    {
+      "time": 19.11599524984866,
+      "pc": 10,
+      "octave": 3,
+      "duration": 0.13000273913300495,
+      "amplitude": 0.3131653818687478,
+      "type": "fm_horn",
+      "category": "comp",
+      "section": "chords"
+    },
+    {
+      "time": 19.12348029546226,
+      "pc": 2,
+      "octave": 4,
+      "duration": 0.12167792184734022,
+      "amplitude": 0.2664669461495489,
+      "type": "fm_horn",
+      "category": "comp",
+      "section": "chords"
+    },
+    {
+      "time": 19.867276350162204,
+      "pc": 3,
+      "octave": 3,
+      "duration": 0.14323126999103655,
+      "amplitude": 0.3132414715502556,
+      "type": "fm_horn",
+      "category": "comp",
+      "section": "chords"
+    },
+    {
+      "time": 19.878569725095204,
+      "pc": 5,
+      "octave": 4,
+      "duration": 0.16086528375726267,
+      "amplitude": 0.2424869705120674,
+      "type": "fm_horn",
+      "category": "comp",
+      "section": "chords"
+    },
+    {
+      "time": 19.865908347252088,
+      "pc": 8,
+      "octave": 4,
+      "duration": 0.16724618475347822,
+      "amplitude": 0.3000698838104524,
+      "type": "fm_horn",
+      "category": "comp",
+      "section": "chords"
+    },
+    {
+      "time": 20.619224679584406,
+      "pc": 3,
+      "octave": 3,
+      "duration": 0.11336479716373682,
+      "amplitude": 0.24521290430276552,
+      "type": "fm_horn",
+      "category": "comp",
+      "section": "chords"
+    },
+    {
+      "time": 20.621562447118755,
+      "pc": 5,
+      "octave": 4,
+      "duration": 0.1279389155914493,
+      "amplitude": 0.2383279256032189,
+      "type": "fm_horn",
+      "category": "comp",
+      "section": "chords"
+    },
+    {
+      "time": 20.618513896037516,
+      "pc": 8,
+      "octave": 4,
+      "duration": 0.11336961448904759,
+      "amplitude": 0.3120521185144651,
+      "type": "fm_horn",
+      "category": "comp",
+      "section": "chords"
+    },
+    {
+      "time": 21.381124003731337,
+      "pc": 10,
+      "octave": 3,
+      "duration": 0.16877951398757396,
+      "amplitude": 0.32500313036298173,
+      "type": "fm_horn",
+      "category": "comp",
+      "section": "chords"
+    },
+    {
+      "time": 21.365846045231255,
+      "pc": 2,
+      "octave": 4,
+      "duration": 0.12060849336661776,
+      "amplitude": 0.32926465430338825,
+      "type": "fm_horn",
+      "category": "comp",
+      "section": "chords"
+    },
+    {
+      "time": 21.38224220027224,
+      "pc": 5,
+      "octave": 4,
+      "duration": 0.11460842286588513,
+      "amplitude": 0.3381743651753618,
+      "type": "fm_horn",
+      "category": "comp",
+      "section": "chords"
+    },
+    {
+      "time": 22.117303467453276,
+      "pc": 10,
+      "octave": 3,
+      "duration": 0.1923186331765051,
+      "amplitude": 0.26265409397652206,
+      "type": "fm_horn",
+      "category": "comp",
+      "section": "chords"
+    },
+    {
+      "time": 22.13102644308621,
+      "pc": 2,
+      "octave": 4,
+      "duration": 0.11484636289028423,
+      "amplitude": 0.24871522691682707,
+      "type": "fm_horn",
+      "category": "comp",
+      "section": "chords"
+    },
+    {
+      "time": 22.133395395034828,
+      "pc": 5,
+      "octave": 4,
+      "duration": 0.18203909212172703,
+      "amplitude": 0.32480388696075607,
+      "type": "fm_horn",
+      "category": "comp",
+      "section": "chords"
+    },
+    {
+      "time": 22.876777425766058,
+      "pc": 10,
+      "octave": 3,
+      "duration": 0.2075044904791534,
+      "amplitude": 0.23649747122341006,
+      "type": "fm_horn",
+      "category": "comp",
+      "section": "chords"
+    },
+    {
+      "time": 22.87120549123672,
+      "pc": 2,
+      "octave": 4,
+      "duration": 0.17144578608757105,
+      "amplitude": 0.25936500452889993,
+      "type": "fm_horn",
+      "category": "comp",
+      "section": "chords"
+    },
+    {
+      "time": 23.625209665690843,
+      "pc": 10,
+      "octave": 3,
+      "duration": 0.14997022003047733,
+      "amplitude": 0.225219906206853,
+      "type": "fm_horn",
+      "category": "comp",
+      "section": "chords"
+    },
+    {
+      "time": 23.6331184546316,
+      "pc": 2,
+      "octave": 4,
+      "duration": 0.12532799698183716,
+      "amplitude": 0.2764928093484458,
+      "type": "fm_horn",
+      "category": "comp",
+      "section": "chords"
+    },
+    {
+      "time": 23.631378972030497,
+      "pc": 5,
+      "octave": 4,
+      "duration": 0.15180471736564277,
+      "amplitude": 0.3091068658510856,
+      "type": "fm_horn",
+      "category": "comp",
+      "section": "chords"
+    },
+    {
+      "time": 24.368469980448843,
+      "pc": 3,
+      "octave": 3,
+      "duration": 0.12406550937499831,
+      "amplitude": 0.23839523330025947,
+      "type": "fm_horn",
+      "category": "comp",
+      "section": "chords"
+    },
+    {
+      "time": 24.36650706547158,
+      "pc": 5,
+      "octave": 4,
+      "duration": 0.1296978512631671,
+      "amplitude": 0.31387285700683554,
+      "type": "fm_horn",
+      "category": "comp",
+      "section": "chords"
+    },
+    {
+      "time": 25.1239781051399,
+      "pc": 3,
+      "octave": 3,
+      "duration": 0.19737515534028588,
+      "amplitude": 0.31398157244116226,
+      "type": "fm_horn",
+      "category": "comp",
+      "section": "chords"
+    },
+    {
+      "time": 25.12770596638121,
+      "pc": 5,
+      "octave": 4,
+      "duration": 0.21646735406838669,
+      "amplitude": 0.2846737675104199,
+      "type": "fm_horn",
+      "category": "comp",
+      "section": "chords"
+    },
+    {
+      "time": 25.127544348137995,
+      "pc": 8,
+      "octave": 4,
+      "duration": 0.18275870018721313,
+      "amplitude": 0.32963703122471244,
+      "type": "fm_horn",
+      "category": "comp",
+      "section": "chords"
+    },
+    {
+      "time": 25.87105640870278,
+      "pc": 3,
+      "octave": 3,
+      "duration": 0.12018220408077256,
+      "amplitude": 0.2663312095754427,
+      "type": "fm_horn",
+      "category": "comp",
+      "section": "chords"
+    },
+    {
+      "time": 25.875146737705794,
+      "pc": 5,
+      "octave": 4,
+      "duration": 0.1434007875921929,
+      "amplitude": 0.20842581803196172,
+      "type": "fm_horn",
+      "category": "comp",
+      "section": "chords"
+    },
+    {
+      "time": 26.631633932633264,
+      "pc": 3,
+      "octave": 3,
+      "duration": 0.16334030966632673,
+      "amplitude": 0.20853350762509287,
+      "type": "fm_horn",
+      "category": "comp",
+      "section": "chords"
+    },
+    {
+      "time": 26.63210586742912,
+      "pc": 5,
+      "octave": 4,
+      "duration": 0.12113223763201367,
+      "amplitude": 0.32963750508878586,
+      "type": "fm_horn",
+      "category": "comp",
+      "section": "chords"
+    },
+    {
+      "time": 26.624254233178544,
+      "pc": 8,
+      "octave": 4,
+      "duration": 0.18168844369675202,
+      "amplitude": 0.27606017260009325,
+      "type": "fm_horn",
+      "category": "comp",
+      "section": "chords"
+    },
+    {
+      "time": 27.368764789301384,
+      "pc": 10,
+      "octave": 3,
+      "duration": 0.21476812011453725,
+      "amplitude": 0.28574850296807003,
+      "type": "fm_horn",
+      "category": "comp",
+      "section": "chords"
+    },
+    {
+      "time": 27.38415444717733,
+      "pc": 2,
+      "octave": 4,
+      "duration": 0.18056315633288222,
+      "amplitude": 0.27520509528092413,
+      "type": "fm_horn",
+      "category": "comp",
+      "section": "chords"
+    },
+    {
+      "time": 28.134647711621867,
+      "pc": 10,
+      "octave": 3,
+      "duration": 0.20373376627379483,
+      "amplitude": 0.3256065767371331,
+      "type": "fm_horn",
+      "category": "comp",
+      "section": "chords"
+    },
+    {
+      "time": 28.115782842524013,
+      "pc": 2,
+      "octave": 4,
+      "duration": 0.12198702735276343,
+      "amplitude": 0.29691906367155785,
+      "type": "fm_horn",
+      "category": "comp",
+      "section": "chords"
+    },
+    {
+      "time": 28.125481371063405,
+      "pc": 5,
+      "octave": 4,
+      "duration": 0.19210744173636887,
+      "amplitude": 0.3486479033970331,
+      "type": "fm_horn",
+      "category": "comp",
+      "section": "chords"
+    },
+    {
+      "time": 28.873175387944947,
+      "pc": 7,
+      "octave": 3,
+      "duration": 0.1544458479863993,
+      "amplitude": 0.2424340367921627,
+      "type": "fm_horn",
+      "category": "comp",
+      "section": "chords"
+    },
+    {
+      "time": 28.880784538631275,
+      "pc": 11,
+      "octave": 4,
+      "duration": 0.1505663040196597,
+      "amplitude": 0.2896828793574484,
+      "type": "fm_horn",
+      "category": "comp",
+      "section": "chords"
+    },
+    {
+      "time": 29.622731284094474,
+      "pc": 7,
+      "octave": 3,
+      "duration": 0.14959020995074448,
+      "amplitude": 0.28369448186276036,
+      "type": "fm_horn",
+      "category": "comp",
+      "section": "chords"
+    },
+    {
+      "time": 29.634288200573078,
+      "pc": 11,
+      "octave": 4,
+      "duration": 0.14084952580869223,
+      "amplitude": 0.32773493899766065,
+      "type": "fm_horn",
+      "category": "comp",
+      "section": "chords"
+    },
+    {
+      "time": 29.61663003974896,
+      "pc": 2,
+      "octave": 4,
+      "duration": 0.18030384153681966,
+      "amplitude": 0.22255599908533918,
+      "type": "fm_horn",
+      "category": "comp",
+      "section": "chords"
+    },
+    {
+      "time": 30.378242703138582,
+      "pc": 0,
+      "octave": 3,
+      "duration": 0.14740107047457884,
+      "amplitude": 0.29840820770540827,
+      "type": "fm_horn",
+      "category": "comp",
+      "section": "chords"
+    },
+    {
+      "time": 30.36669438024008,
+      "pc": 3,
+      "octave": 4,
+      "duration": 0.12700706155555053,
+      "amplitude": 0.30632510215565806,
+      "type": "fm_horn",
+      "category": "comp",
+      "section": "chords"
+    },
+    {
+      "time": 31.13157917945789,
+      "pc": 0,
+      "octave": 3,
+      "duration": 0.20398328817916508,
+      "amplitude": 0.30051745999920837,
+      "type": "fm_horn",
+      "category": "comp",
+      "section": "chords"
+    },
+    {
+      "time": 31.125527866794684,
+      "pc": 3,
+      "octave": 4,
+      "duration": 0.19561215061456683,
+      "amplitude": 0.3028121660416364,
+      "type": "fm_horn",
+      "category": "comp",
+      "section": "chords"
+    },
+    {
+      "time": 31.122236561926936,
+      "pc": 7,
+      "octave": 4,
+      "duration": 0.18517779233251738,
+      "amplitude": 0.26351095494831556,
+      "type": "fm_horn",
+      "category": "comp",
+      "section": "chords"
+    },
+    {
+      "time": 31.88395336535069,
+      "pc": 5,
+      "octave": 3,
+      "duration": 0.13277957882364502,
+      "amplitude": 0.23212889918133506,
+      "type": "fm_horn",
+      "category": "comp",
+      "section": "chords"
+    },
+    {
+      "time": 31.867751307063543,
+      "pc": 9,
+      "octave": 4,
+      "duration": 0.1672054785981818,
+      "amplitude": 0.2339814569800831,
+      "type": "fm_horn",
+      "category": "comp",
+      "section": "chords"
+    },
+    {
+      "time": 31.86702281527336,
+      "pc": 0,
+      "octave": 4,
+      "duration": 0.12118107198384857,
+      "amplitude": 0.3266642583028825,
+      "type": "fm_horn",
+      "category": "comp",
+      "section": "chords"
+    },
+    {
+      "time": 32.62694492882143,
+      "pc": 5,
+      "octave": 3,
+      "duration": 0.21109418691105844,
+      "amplitude": 0.2927047198240262,
+      "type": "fm_horn",
+      "category": "comp",
+      "section": "chords"
+    },
+    {
+      "time": 32.62885691281723,
+      "pc": 9,
+      "octave": 4,
+      "duration": 0.12985343564862617,
+      "amplitude": 0.2271268950753045,
+      "type": "fm_horn",
+      "category": "comp",
+      "section": "chords"
+    },
+    {
+      "time": 33.37939171347581,
+      "pc": 10,
+      "octave": 3,
+      "duration": 0.11741539814488286,
+      "amplitude": 0.2546449121196154,
+      "type": "fm_horn",
+      "category": "comp",
+      "section": "chords"
+    },
+    {
+      "time": 33.38004782330223,
+      "pc": 2,
+      "octave": 4,
+      "duration": 0.22157871788347028,
+      "amplitude": 0.29158931331887233,
+      "type": "fm_horn",
+      "category": "comp",
+      "section": "chords"
+    },
+    {
+      "time": 34.13117247742181,
+      "pc": 10,
+      "octave": 3,
+      "duration": 0.1725762543410544,
+      "amplitude": 0.24642018448441844,
+      "type": "fm_horn",
+      "category": "comp",
+      "section": "chords"
+    },
+    {
+      "time": 34.1223568191645,
+      "pc": 2,
+      "octave": 4,
+      "duration": 0.16526425556612842,
+      "amplitude": 0.32526700890885607,
+      "type": "fm_horn",
+      "category": "comp",
+      "section": "chords"
+    },
+    {
+      "time": 34.12423359956882,
+      "pc": 5,
+      "octave": 4,
+      "duration": 0.21905214415246385,
+      "amplitude": 0.34766596902973657,
+      "type": "fm_horn",
+      "category": "comp",
+      "section": "chords"
+    },
+    {
+      "time": 34.868241163464916,
+      "pc": 5,
+      "octave": 3,
+      "duration": 0.1690770027923526,
+      "amplitude": 0.26279912400946187,
+      "type": "fm_horn",
+      "category": "comp",
+      "section": "chords"
+    },
+    {
+      "time": 34.882460038401184,
+      "pc": 9,
+      "octave": 4,
+      "duration": 0.13496599478752658,
+      "amplitude": 0.29069951713651254,
+      "type": "fm_horn",
+      "category": "comp",
+      "section": "chords"
+    },
+    {
+      "time": 34.87242424213209,
+      "pc": 0,
+      "octave": 4,
+      "duration": 0.118370227866863,
+      "amplitude": 0.27208859831927373,
+      "type": "fm_horn",
+      "category": "comp",
+      "section": "chords"
+    },
+    {
+      "time": 35.620455825991826,
+      "pc": 5,
+      "octave": 3,
+      "duration": 0.14456958908167444,
+      "amplitude": 0.3144675245437536,
+      "type": "fm_horn",
+      "category": "comp",
+      "section": "chords"
+    },
+    {
+      "time": 35.6237494512039,
+      "pc": 9,
+      "octave": 4,
+      "duration": 0.21434694851005215,
+      "amplitude": 0.22210229839874066,
+      "type": "fm_horn",
+      "category": "comp",
+      "section": "chords"
+    },
+    {
+      "time": 19.94125949449915,
+      "pc": 8,
+      "octave": 4,
+      "duration": 1.0858904590085297,
+      "amplitude": 0.3,
+      "type": "fm_flugelhorn",
+      "category": "counter",
+      "section": "flugelhorn"
+    },
+    {
+      "time": 21.410505355577016,
+      "pc": 5,
+      "octave": 4,
+      "duration": 0.6951251665481809,
+      "amplitude": 0.3,
+      "type": "fm_flugelhorn",
+      "category": "counter",
+      "section": "flugelhorn"
+    },
+    {
+      "time": 24.203355494359585,
+      "pc": 3,
+      "octave": 4,
+      "duration": 1.0345366617815284,
+      "amplitude": 0.3,
+      "type": "fm_flugelhorn",
+      "category": "counter",
+      "section": "flugelhorn"
+    },
+    {
+      "time": 28.848869660988715,
+      "pc": 5,
+      "octave": 4,
+      "duration": 0.9540404935739908,
+      "amplitude": 0.3,
+      "type": "fm_flugelhorn",
+      "category": "counter",
+      "section": "flugelhorn"
+    },
+    {
+      "time": 30.58436409860011,
+      "pc": 10,
+      "octave": 4,
+      "duration": 0.9086333946544959,
+      "amplitude": 0.3,
+      "type": "fm_flugelhorn",
+      "category": "counter",
+      "section": "flugelhorn"
+    },
+    {
+      "time": 33.30880579376345,
+      "pc": 2,
+      "octave": 4,
+      "duration": 0.8712023880621573,
+      "amplitude": 0.3,
+      "type": "fm_flugelhorn",
+      "category": "counter",
+      "section": "flugelhorn"
+    },
+    {
+      "time": 15.0,
+      "pc": 8,
+      "octave": 3,
+      "duration": 0.5625,
+      "amplitude": 0.5166780290486358,
+      "type": "fm_trombone",
+      "category": "hits",
+      "section": "trombone"
+    },
+    {
+      "time": 15.5625,
+      "pc": 5,
+      "octave": 3,
+      "duration": 0.30000000000000004,
+      "amplitude": 0.5356460339961401,
+      "type": "fm_trombone",
+      "category": "hits",
+      "section": "trombone"
+    },
+    {
+      "time": 16.5,
+      "pc": 5,
+      "octave": 3,
+      "duration": 0.5625,
+      "amplitude": 0.5071624169928277,
+      "type": "fm_trombone",
+      "category": "hits",
+      "section": "trombone"
+    },
+    {
+      "time": 17.0625,
+      "pc": 3,
+      "octave": 3,
+      "duration": 0.30000000000000004,
+      "amplitude": 0.5958427598259216,
+      "type": "fm_trombone",
+      "category": "hits",
+      "section": "trombone"
+    },
+    {
+      "time": 10.5,
+      "pc": 7,
+      "octave": 3,
+      "duration": 0.15000000000000002,
+      "amplitude": 0.45,
+      "type": "fm_trombone",
+      "category": "riff",
+      "section": "trombone"
+    },
+    {
+      "time": 10.7325,
+      "pc": 11,
+      "octave": 3,
+      "duration": 0.15000000000000002,
+      "amplitude": 0.45,
+      "type": "fm_trombone",
+      "category": "riff",
+      "section": "trombone"
+    },
+    {
+      "time": 10.965,
+      "pc": 2,
+      "octave": 4,
+      "duration": 0.15000000000000002,
+      "amplitude": 0.45,
+      "type": "fm_trombone",
+      "category": "riff",
+      "section": "trombone"
+    },
+    {
+      "time": 11.1975,
+      "pc": 5,
+      "octave": 3,
+      "duration": 0.15000000000000002,
+      "amplitude": 0.45,
+      "type": "fm_trombone",
+      "category": "riff",
+      "section": "trombone"
+    },
+    {
+      "time": 33.0,
+      "pc": 8,
+      "octave": 3,
+      "duration": 0.5625,
+      "amplitude": 0.5094210726516596,
+      "type": "fm_trombone",
+      "category": "hits",
+      "section": "trombone"
+    },
+    {
+      "time": 33.5625,
+      "pc": 8,
+      "octave": 3,
+      "duration": 0.30000000000000004,
+      "amplitude": 0.5895108564228421,
+      "type": "fm_trombone",
+      "category": "hits",
+      "section": "trombone"
+    },
+    {
+      "time": 34.5,
+      "pc": 5,
+      "octave": 3,
+      "duration": 0.5625,
+      "amplitude": 0.5947932413019714,
+      "type": "fm_trombone",
+      "category": "hits",
+      "section": "trombone"
+    },
+    {
+      "time": 35.0625,
+      "pc": 9,
+      "octave": 3,
+      "duration": 0.30000000000000004,
+      "amplitude": 0.6077816491688529,
+      "type": "fm_trombone",
+      "category": "hits",
+      "section": "trombone"
+    },
+    {
+      "time": 28.5,
+      "pc": 7,
+      "octave": 3,
+      "duration": 0.15000000000000002,
+      "amplitude": 0.45,
+      "type": "fm_trombone",
+      "category": "riff",
+      "section": "trombone"
+    },
+    {
+      "time": 28.7325,
+      "pc": 11,
+      "octave": 3,
+      "duration": 0.15000000000000002,
+      "amplitude": 0.45,
+      "type": "fm_trombone",
+      "category": "riff",
+      "section": "trombone"
+    },
+    {
+      "time": 28.965000000000003,
+      "pc": 2,
+      "octave": 4,
+      "duration": 0.15000000000000002,
+      "amplitude": 0.45,
+      "type": "fm_trombone",
+      "category": "riff",
+      "section": "trombone"
+    },
+    {
+      "time": 29.197500000000005,
+      "pc": 5,
+      "octave": 3,
+      "duration": 0.15000000000000002,
+      "amplitude": 0.45,
+      "type": "fm_trombone",
+      "category": "riff",
+      "section": "trombone"
+    },
+    {
+      "time": 30.0,
+      "pc": 7,
+      "octave": 4,
+      "duration": 0.1527056912888466,
+      "amplitude": 0.4968284779495956,
+      "type": "fm_trumpet",
+      "category": "solo",
+      "section": "trumpet_solo"
+    },
+    {
+      "time": 30.2325,
+      "pc": 5,
+      "octave": 4,
+      "duration": 0.11813701085082116,
+      "amplitude": 0.5860204899820083,
+      "type": "fm_trumpet",
+      "category": "solo",
+      "section": "trumpet_solo"
+    },
+    {
+      "time": 30.375,
+      "pc": 10,
+      "octave": 5,
+      "duration": 0.18437230175594152,
+      "amplitude": 0.46088360629169417,
+      "type": "fm_trumpet",
+      "category": "solo",
+      "section": "trumpet_solo"
+    },
+    {
+      "time": 30.6075,
+      "pc": 0,
+      "octave": 5,
+      "duration": 0.10756384604392392,
+      "amplitude": 0.5362006232908478,
+      "type": "fm_trumpet",
+      "category": "solo",
+      "section": "trumpet_solo"
+    },
+    {
+      "time": 30.75,
+      "pc": 5,
+      "octave": 4,
+      "duration": 0.09763862138788615,
+      "amplitude": 0.5865034363019228,
+      "type": "fm_trumpet",
+      "category": "solo",
+      "section": "trumpet_solo"
+    },
+    {
+      "time": 30.9825,
+      "pc": 10,
+      "octave": 5,
+      "duration": 0.08768581137999938,
+      "amplitude": 0.4955694996034683,
+      "type": "fm_trumpet",
+      "category": "solo",
+      "section": "trumpet_solo"
+    },
+    {
+      "time": 31.125,
+      "pc": 7,
+      "octave": 4,
+      "duration": 0.12370142900918764,
+      "amplitude": 0.4609515689147808,
+      "type": "fm_trumpet",
+      "category": "solo",
+      "section": "trumpet_solo"
+    },
+    {
+      "time": 31.3575,
+      "pc": 7,
+      "octave": 5,
+      "duration": 0.08253611757086586,
+      "amplitude": 0.6538515201639955,
+      "type": "fm_trumpet",
+      "category": "solo",
+      "section": "trumpet_solo"
+    },
+    {
+      "time": 31.5,
+      "pc": 9,
+      "octave": 5,
+      "duration": 0.1303484231676999,
+      "amplitude": 0.6452103917446061,
+      "type": "fm_trumpet",
+      "category": "solo",
+      "section": "trumpet_solo"
+    },
+    {
+      "time": 31.7325,
+      "pc": 5,
+      "octave": 5,
+      "duration": 0.08501950744288657,
+      "amplitude": 0.5500054436611155,
+      "type": "fm_trumpet",
+      "category": "solo",
+      "section": "trumpet_solo"
+    },
+    {
+      "time": 31.875,
+      "pc": 5,
+      "octave": 4,
+      "duration": 0.14491526257643597,
+      "amplitude": 0.5743808481234068,
+      "type": "fm_trumpet",
+      "category": "solo",
+      "section": "trumpet_solo"
+    },
+    {
+      "time": 32.25,
+      "pc": 6,
+      "octave": 4,
+      "duration": 0.13805227327836064,
+      "amplitude": 0.6987745412110188,
+      "type": "fm_trumpet",
+      "category": "solo",
+      "section": "trumpet_solo"
+    },
+    {
+      "time": 32.4825,
+      "pc": 5,
+      "octave": 4,
+      "duration": 0.07802786393002753,
+      "amplitude": 0.5239099873350855,
+      "type": "fm_trumpet",
+      "category": "solo",
+      "section": "trumpet_solo"
+    },
+    {
+      "time": 32.625,
+      "pc": 1,
+      "octave": 5,
+      "duration": 0.13944391437270195,
+      "amplitude": 0.5617824149175643,
+      "type": "fm_trumpet",
+      "category": "solo",
+      "section": "trumpet_solo"
+    },
+    {
+      "time": 32.8575,
+      "pc": 6,
+      "octave": 5,
+      "duration": 0.0980059695353303,
+      "amplitude": 0.6478694572074419,
+      "type": "fm_trumpet",
+      "category": "solo",
+      "section": "trumpet_solo"
+    },
+    {
+      "time": 33.0,
+      "pc": 6,
+      "octave": 5,
+      "duration": 0.14668162478647875,
+      "amplitude": 0.6374744960654725,
+      "type": "fm_trumpet",
+      "category": "solo",
+      "section": "trumpet_solo"
+    },
+    {
+      "time": 33.2325,
+      "pc": 8,
+      "octave": 4,
+      "duration": 0.06509450030838207,
+      "amplitude": 0.5089988451050881,
+      "type": "fm_trumpet",
+      "category": "solo",
+      "section": "trumpet_solo"
+    },
+    {
+      "time": 33.375,
+      "pc": 10,
+      "octave": 5,
+      "duration": 0.10905346784496207,
+      "amplitude": 0.5624806421786985,
+      "type": "fm_trumpet",
+      "category": "solo",
+      "section": "trumpet_solo"
+    },
+    {
+      "time": 33.6075,
+      "pc": 0,
+      "octave": 5,
+      "duration": 0.06582969878950429,
+      "amplitude": 0.541737487163458,
+      "type": "fm_trumpet",
+      "category": "solo",
+      "section": "trumpet_solo"
+    },
+    {
+      "time": 33.75,
+      "pc": 10,
+      "octave": 4,
+      "duration": 0.1699699821730351,
+      "amplitude": 0.5747609900641166,
+      "type": "fm_trumpet",
+      "category": "solo",
+      "section": "trumpet_solo"
+    },
+    {
+      "time": 33.9825,
+      "pc": 3,
+      "octave": 5,
+      "duration": 0.10214642464363771,
+      "amplitude": 0.50364260635593,
+      "type": "fm_trumpet",
+      "category": "solo",
+      "section": "trumpet_solo"
+    },
+    {
+      "time": 34.125,
+      "pc": 7,
+      "octave": 4,
+      "duration": 0.10583094026670295,
+      "amplitude": 0.6632065725960806,
+      "type": "fm_trumpet",
+      "category": "solo",
+      "section": "trumpet_solo"
+    },
+    {
+      "time": 34.3575,
+      "pc": 7,
+      "octave": 4,
+      "duration": 0.10897416012718315,
+      "amplitude": 0.6918903090907655,
+      "type": "fm_trumpet",
+      "category": "solo",
+      "section": "trumpet_solo"
+    },
+    {
+      "time": 34.7325,
+      "pc": 9,
+      "octave": 5,
+      "duration": 0.07561948138312731,
+      "amplitude": 0.5249891695591845,
+      "type": "fm_trumpet",
+      "category": "solo",
+      "section": "trumpet_solo"
+    },
+    {
+      "time": 34.875,
+      "pc": 1,
+      "octave": 5,
+      "duration": 0.1462285698388612,
+      "amplitude": 0.48034061376961423,
+      "type": "fm_trumpet",
+      "category": "solo",
+      "section": "trumpet_solo"
+    },
+    {
+      "time": 35.1075,
+      "pc": 3,
+      "octave": 4,
+      "duration": 0.08014248962999602,
+      "amplitude": 0.5930693517791314,
+      "type": "fm_trumpet",
+      "category": "solo",
+      "section": "trumpet_solo"
+    },
+    {
+      "time": 35.25,
+      "pc": 1,
+      "octave": 5,
+      "duration": 0.1855142845000721,
+      "amplitude": 0.46643702631684153,
+      "type": "fm_trumpet",
+      "category": "solo",
+      "section": "trumpet_solo"
+    },
+    {
+      "time": 35.4825,
+      "pc": 7,
+      "octave": 5,
+      "duration": 0.08334223711265383,
+      "amplitude": 0.5523583818661782,
+      "type": "fm_trumpet",
+      "category": "solo",
+      "section": "trumpet_solo"
+    },
+    {
+      "time": 35.625,
+      "pc": 0,
+      "octave": 5,
+      "duration": 0.10075951519294515,
+      "amplitude": 0.5664582999052648,
+      "type": "fm_trumpet",
+      "category": "solo",
+      "section": "trumpet_solo"
+    },
+    {
+      "time": 35.8575,
+      "pc": 9,
+      "octave": 4,
+      "duration": 0.08474164762065665,
+      "amplitude": 0.6776780677367218,
+      "type": "fm_trumpet",
+      "category": "solo",
+      "section": "trumpet_solo"
+    }
+  ],
+  "audio_file": "jazz_scat_brass.mp3",
+  "seed": 42
+}

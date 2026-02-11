@@ -1,0 +1,2918 @@
+{
+  "title": "Spanish Guitar \u2014 E Phrygian",
+  "duration": 32.0,
+  "events": [
+    {
+      "time": 0.10139426798457885,
+      "pc": 9,
+      "octave": 2,
+      "duration": 1.5,
+      "amplitude": 0.4525010755222667,
+      "type": "guitar_nylon",
+      "category": "rasgueado",
+      "section": "strum"
+    },
+    {
+      "time": 0.1227502931836912,
+      "pc": 4,
+      "octave": 3,
+      "duration": 1.475,
+      "amplitude": 0.5101067597200729,
+      "type": "guitar_nylon",
+      "category": "rasgueado",
+      "section": "strum"
+    },
+    {
+      "time": 0.15236471214164016,
+      "pc": 9,
+      "octave": 3,
+      "duration": 1.45,
+      "amplitude": 0.6004971405410577,
+      "type": "guitar_nylon",
+      "category": "rasgueado",
+      "section": "strum"
+    },
+    {
+      "time": 0.17892179567704847,
+      "pc": 0,
+      "octave": 4,
+      "duration": 1.425,
+      "amplitude": 0.5320849045850123,
+      "type": "guitar_nylon",
+      "category": "rasgueado",
+      "section": "strum"
+    },
+    {
+      "time": 0.1992192181968527,
+      "pc": 4,
+      "octave": 4,
+      "duration": 1.4,
+      "amplitude": 0.4892180996993116,
+      "type": "guitar_nylon",
+      "category": "rasgueado",
+      "section": "strum"
+    },
+    {
+      "time": 1.297186379748036,
+      "pc": 7,
+      "octave": 2,
+      "duration": 1.5,
+      "amplitude": 0.5005355288103362,
+      "type": "guitar_nylon",
+      "category": "rasgueado",
+      "section": "strum"
+    },
+    {
+      "time": 1.3202653596968386,
+      "pc": 11,
+      "octave": 2,
+      "duration": 1.475,
+      "amplitude": 0.5012093494065759,
+      "type": "guitar_nylon",
+      "category": "rasgueado",
+      "section": "strum"
+    },
+    {
+      "time": 1.3514988443777953,
+      "pc": 2,
+      "octave": 3,
+      "duration": 1.45,
+      "amplitude": 0.5717600344683645,
+      "type": "guitar_nylon",
+      "category": "rasgueado",
+      "section": "strum"
+    },
+    {
+      "time": 1.372204406220407,
+      "pc": 7,
+      "octave": 3,
+      "duration": 1.425,
+      "amplitude": 0.6107118820651092,
+      "type": "guitar_nylon",
+      "category": "rasgueado",
+      "section": "strum"
+    },
+    {
+      "time": 1.4030943045667783,
+      "pc": 11,
+      "octave": 3,
+      "duration": 1.4,
+      "amplitude": 0.5107365260968469,
+      "type": "guitar_nylon",
+      "category": "rasgueado",
+      "section": "strum"
+    },
+    {
+      "time": 1.4280581925183282,
+      "pc": 2,
+      "octave": 4,
+      "duration": 1.375,
+      "amplitude": 0.5544682021320777,
+      "type": "guitar_nylon",
+      "category": "rasgueado",
+      "section": "strum"
+    },
+    {
+      "time": 2.49840250516518,
+      "pc": 5,
+      "octave": 2,
+      "duration": 1.5,
+      "amplitude": 0.46554794998117816,
+      "type": "guitar_nylon",
+      "category": "rasgueado",
+      "section": "strum"
+    },
+    {
+      "time": 2.5295721307220678,
+      "pc": 0,
+      "octave": 3,
+      "duration": 1.475,
+      "amplitude": 0.5223522108721638,
+      "type": "guitar_nylon",
+      "category": "rasgueado",
+      "section": "strum"
+    },
+    {
+      "time": 2.5459274584338014,
+      "pc": 5,
+      "octave": 3,
+      "duration": 1.45,
+      "amplitude": 0.5332190997126819,
+      "type": "guitar_nylon",
+      "category": "rasgueado",
+      "section": "strum"
+    },
+    {
+      "time": 2.578474943663475,
+      "pc": 9,
+      "octave": 3,
+      "duration": 1.425,
+      "amplitude": 0.5920322196385595,
+      "type": "guitar_nylon",
+      "category": "rasgueado",
+      "section": "strum"
+    },
+    {
+      "time": 2.603071282732744,
+      "pc": 0,
+      "octave": 4,
+      "duration": 1.4,
+      "amplitude": 0.5648110329629324,
+      "type": "guitar_nylon",
+      "category": "rasgueado",
+      "section": "strum"
+    },
+    {
+      "time": 3.7003622809145473,
+      "pc": 4,
+      "octave": 2,
+      "duration": 1.5,
+      "amplitude": 0.5473115763979371,
+      "type": "guitar_nylon",
+      "category": "rasgueado",
+      "section": "strum"
+    },
+    {
+      "time": 3.7237853437720836,
+      "pc": 11,
+      "octave": 2,
+      "duration": 1.475,
+      "amplitude": 0.5388843340024776,
+      "type": "guitar_nylon",
+      "category": "rasgueado",
+      "section": "strum"
+    },
+    {
+      "time": 3.7532940466425297,
+      "pc": 4,
+      "octave": 3,
+      "duration": 1.45,
+      "amplitude": 0.5800989052679479,
+      "type": "guitar_nylon",
+      "category": "rasgueado",
+      "section": "strum"
+    },
+    {
+      "time": 3.7786170690031082,
+      "pc": 8,
+      "octave": 3,
+      "duration": 1.425,
+      "amplitude": 0.6092822574308117,
+      "type": "guitar_nylon",
+      "category": "rasgueado",
+      "section": "strum"
+    },
+    {
+      "time": 3.8020457183621494,
+      "pc": 11,
+      "octave": 3,
+      "duration": 1.4,
+      "amplitude": 0.5151934301476417,
+      "type": "guitar_nylon",
+      "category": "rasgueado",
+      "section": "strum"
+    },
+    {
+      "time": 3.8222789827565156,
+      "pc": 4,
+      "octave": 4,
+      "duration": 1.375,
+      "amplitude": 0.5108680494508916,
+      "type": "guitar_nylon",
+      "category": "rasgueado",
+      "section": "strum"
+    },
+    {
+      "time": 4.895797919769237,
+      "pc": 9,
+      "octave": 2,
+      "duration": 1.5,
+      "amplitude": 0.473279088636103,
+      "type": "guitar_nylon",
+      "category": "rasgueado",
+      "section": "strum"
+    },
+    {
+      "time": 4.921010014294098,
+      "pc": 4,
+      "octave": 3,
+      "duration": 1.475,
+      "amplitude": 0.51602114913589,
+      "type": "guitar_nylon",
+      "category": "rasgueado",
+      "section": "strum"
+    },
+    {
+      "time": 4.951356844442644,
+      "pc": 9,
+      "octave": 3,
+      "duration": 1.45,
+      "amplitude": 0.5643205327605298,
+      "type": "guitar_nylon",
+      "category": "rasgueado",
+      "section": "strum"
+    },
+    {
+      "time": 4.973701809671169,
+      "pc": 0,
+      "octave": 4,
+      "duration": 1.425,
+      "amplitude": 0.5463028155694927,
+      "type": "guitar_nylon",
+      "category": "rasgueado",
+      "section": "strum"
+    },
+    {
+      "time": 4.997669778220491,
+      "pc": 4,
+      "octave": 4,
+      "duration": 1.4,
+      "amplitude": 0.5871586954729495,
+      "type": "guitar_nylon",
+      "category": "rasgueado",
+      "section": "strum"
+    },
+    {
+      "time": 6.101480353852467,
+      "pc": 7,
+      "octave": 2,
+      "duration": 1.5,
+      "amplitude": 0.5109131005666988,
+      "type": "guitar_nylon",
+      "category": "rasgueado",
+      "section": "strum"
+    },
+    {
+      "time": 6.121711386481982,
+      "pc": 11,
+      "octave": 2,
+      "duration": 1.475,
+      "amplitude": 0.5577735251147041,
+      "type": "guitar_nylon",
+      "category": "rasgueado",
+      "section": "strum"
+    },
+    {
+      "time": 6.14663402493762,
+      "pc": 2,
+      "octave": 3,
+      "duration": 1.45,
+      "amplitude": 0.5530049500658668,
+      "type": "guitar_nylon",
+      "category": "rasgueado",
+      "section": "strum"
+    },
+    {
+      "time": 6.179895233506366,
+      "pc": 7,
+      "octave": 3,
+      "duration": 1.425,
+      "amplitude": 0.6167999711824913,
+      "type": "guitar_nylon",
+      "category": "rasgueado",
+      "section": "strum"
+    },
+    {
+      "time": 6.200569497437747,
+      "pc": 11,
+      "octave": 3,
+      "duration": 1.4,
+      "amplitude": 0.5875896151121859,
+      "type": "guitar_nylon",
+      "category": "rasgueado",
+      "section": "strum"
+    },
+    {
+      "time": 6.228428519201898,
+      "pc": 2,
+      "octave": 4,
+      "duration": 1.375,
+      "amplitude": 0.5627733238982663,
+      "type": "guitar_nylon",
+      "category": "rasgueado",
+      "section": "strum"
+    },
+    {
+      "time": 7.297290480719642,
+      "pc": 5,
+      "octave": 2,
+      "duration": 1.5,
+      "amplitude": 0.4532100243904038,
+      "type": "guitar_nylon",
+      "category": "rasgueado",
+      "section": "strum"
+    },
+    {
+      "time": 7.323154530480592,
+      "pc": 0,
+      "octave": 3,
+      "duration": 1.475,
+      "amplitude": 0.514916014605376,
+      "type": "guitar_nylon",
+      "category": "rasgueado",
+      "section": "strum"
+    },
+    {
+      "time": 7.347109828435864,
+      "pc": 5,
+      "octave": 3,
+      "duration": 1.45,
+      "amplitude": 0.6313775268628664,
+      "type": "guitar_nylon",
+      "category": "rasgueado",
+      "section": "strum"
+    },
+    {
+      "time": 7.378763676264728,
+      "pc": 9,
+      "octave": 3,
+      "duration": 1.425,
+      "amplitude": 0.5585026341726235,
+      "type": "guitar_nylon",
+      "category": "rasgueado",
+      "section": "strum"
+    },
+    {
+      "time": 7.401554386652949,
+      "pc": 0,
+      "octave": 4,
+      "duration": 1.4,
+      "amplitude": 0.5287282453145519,
+      "type": "guitar_nylon",
+      "category": "rasgueado",
+      "section": "strum"
+    },
+    {
+      "time": 8.504145475897406,
+      "pc": 4,
+      "octave": 2,
+      "duration": 1.5,
+      "amplitude": 0.4958851852587399,
+      "type": "guitar_nylon",
+      "category": "rasgueado",
+      "section": "strum"
+    },
+    {
+      "time": 8.522648801664982,
+      "pc": 11,
+      "octave": 2,
+      "duration": 1.475,
+      "amplitude": 0.506306934154025,
+      "type": "guitar_nylon",
+      "category": "rasgueado",
+      "section": "strum"
+    },
+    {
+      "time": 8.550613681341632,
+      "pc": 4,
+      "octave": 3,
+      "duration": 1.45,
+      "amplitude": 0.5397773822992661,
+      "type": "guitar_nylon",
+      "category": "rasgueado",
+      "section": "strum"
+    },
+    {
+      "time": 8.575845859902234,
+      "pc": 8,
+      "octave": 3,
+      "duration": 1.425,
+      "amplitude": 0.6477387460322974,
+      "type": "guitar_nylon",
+      "category": "rasgueado",
+      "section": "strum"
+    },
+    {
+      "time": 8.598994005051404,
+      "pc": 11,
+      "octave": 3,
+      "duration": 1.4,
+      "amplitude": 0.534856352704492,
+      "type": "guitar_nylon",
+      "category": "rasgueado",
+      "section": "strum"
+    },
+    {
+      "time": 8.629975376064952,
+      "pc": 4,
+      "octave": 4,
+      "duration": 1.375,
+      "amplitude": 0.5343494713254897,
+      "type": "guitar_nylon",
+      "category": "rasgueado",
+      "section": "strum"
+    },
+    {
+      "time": 7.995909094121738,
+      "pc": 9,
+      "octave": 2,
+      "duration": 1.5,
+      "amplitude": 0.22735581877123673,
+      "type": "guitar_nylon",
+      "category": "rasgueado",
+      "section": "strum"
+    },
+    {
+      "time": 8.026096491303505,
+      "pc": 4,
+      "octave": 3,
+      "duration": 1.47,
+      "amplitude": 0.27688208625196686,
+      "type": "guitar_nylon",
+      "category": "rasgueado",
+      "section": "strum"
+    },
+    {
+      "time": 8.062920793643631,
+      "pc": 9,
+      "octave": 3,
+      "duration": 1.44,
+      "amplitude": 0.28548527807438173,
+      "type": "guitar_nylon",
+      "category": "rasgueado",
+      "section": "strum"
+    },
+    {
+      "time": 8.08563527706152,
+      "pc": 0,
+      "octave": 4,
+      "duration": 1.41,
+      "amplitude": 0.2831339186173792,
+      "type": "guitar_nylon",
+      "category": "rasgueado",
+      "section": "strum"
+    },
+    {
+      "time": 8.1249612138024,
+      "pc": 4,
+      "octave": 4,
+      "duration": 1.38,
+      "amplitude": 0.27157217463535344,
+      "type": "guitar_nylon",
+      "category": "rasgueado",
+      "section": "strum"
+    },
+    {
+      "time": 8.904710783776137,
+      "pc": 7,
+      "octave": 2,
+      "duration": 1.5,
+      "amplitude": 0.2680389851117249,
+      "type": "guitar_nylon",
+      "category": "rasgueado",
+      "section": "strum"
+    },
+    {
+      "time": 8.925114810219428,
+      "pc": 11,
+      "octave": 2,
+      "duration": 1.47,
+      "amplitude": 0.27843849703254375,
+      "type": "guitar_nylon",
+      "category": "rasgueado",
+      "section": "strum"
+    },
+    {
+      "time": 8.961817103690267,
+      "pc": 2,
+      "octave": 3,
+      "duration": 1.44,
+      "amplitude": 0.28542831872316504,
+      "type": "guitar_nylon",
+      "category": "rasgueado",
+      "section": "strum"
+    },
+    {
+      "time": 8.987668251899526,
+      "pc": 7,
+      "octave": 3,
+      "duration": 1.41,
+      "amplitude": 0.30845770791478855,
+      "type": "guitar_nylon",
+      "category": "rasgueado",
+      "section": "strum"
+    },
+    {
+      "time": 9.016115521735959,
+      "pc": 11,
+      "octave": 3,
+      "duration": 1.38,
+      "amplitude": 0.279636697537916,
+      "type": "guitar_nylon",
+      "category": "rasgueado",
+      "section": "strum"
+    },
+    {
+      "time": 9.049537237063292,
+      "pc": 2,
+      "octave": 4,
+      "duration": 1.35,
+      "amplitude": 0.29087018280112437,
+      "type": "guitar_nylon",
+      "category": "rasgueado",
+      "section": "strum"
+    },
+    {
+      "time": 9.803758529403783,
+      "pc": 5,
+      "octave": 2,
+      "duration": 1.5,
+      "amplitude": 0.23816945253755456,
+      "type": "guitar_nylon",
+      "category": "rasgueado",
+      "section": "strum"
+    },
+    {
+      "time": 9.830005861130504,
+      "pc": 0,
+      "octave": 3,
+      "duration": 1.47,
+      "amplitude": 0.25264720154862713,
+      "type": "guitar_nylon",
+      "category": "rasgueado",
+      "section": "strum"
+    },
+    {
+      "time": 9.86412627839345,
+      "pc": 5,
+      "octave": 3,
+      "duration": 1.44,
+      "amplitude": 0.31149007705053255,
+      "type": "guitar_nylon",
+      "category": "rasgueado",
+      "section": "strum"
+    },
+    {
+      "time": 9.887984447914487,
+      "pc": 9,
+      "octave": 3,
+      "duration": 1.41,
+      "amplitude": 0.29805907070222837,
+      "type": "guitar_nylon",
+      "category": "rasgueado",
+      "section": "strum"
+    },
+    {
+      "time": 9.921089702114381,
+      "pc": 0,
+      "octave": 4,
+      "duration": 1.38,
+      "amplitude": 0.2512533205016803,
+      "type": "guitar_nylon",
+      "category": "rasgueado",
+      "section": "strum"
+    },
+    {
+      "time": 10.702625108000753,
+      "pc": 4,
+      "octave": 2,
+      "duration": 1.5,
+      "amplitude": 0.2519689515059813,
+      "type": "guitar_nylon",
+      "category": "rasgueado",
+      "section": "strum"
+    },
+    {
+      "time": 10.732786264786306,
+      "pc": 11,
+      "octave": 2,
+      "duration": 1.47,
+      "amplitude": 0.2682855291837429,
+      "type": "guitar_nylon",
+      "category": "rasgueado",
+      "section": "strum"
+    },
+    {
+      "time": 10.75500571896128,
+      "pc": 4,
+      "octave": 3,
+      "duration": 1.44,
+      "amplitude": 0.27336884323026484,
+      "type": "guitar_nylon",
+      "category": "rasgueado",
+      "section": "strum"
+    },
+    {
+      "time": 10.785194767423858,
+      "pc": 8,
+      "octave": 3,
+      "duration": 1.41,
+      "amplitude": 0.32574591697587707,
+      "type": "guitar_nylon",
+      "category": "rasgueado",
+      "section": "strum"
+    },
+    {
+      "time": 10.823787218778232,
+      "pc": 11,
+      "octave": 3,
+      "duration": 1.38,
+      "amplitude": 0.3021277133304669,
+      "type": "guitar_nylon",
+      "category": "rasgueado",
+      "section": "strum"
+    },
+    {
+      "time": 10.848075141254029,
+      "pc": 4,
+      "octave": 4,
+      "duration": 1.35,
+      "amplitude": 0.2430893422130234,
+      "type": "guitar_nylon",
+      "category": "rasgueado",
+      "section": "strum"
+    },
+    {
+      "time": 11.603780095992041,
+      "pc": 9,
+      "octave": 2,
+      "duration": 1.5,
+      "amplitude": 0.27234747226489975,
+      "type": "guitar_nylon",
+      "category": "rasgueado",
+      "section": "strum"
+    },
+    {
+      "time": 11.625856534520679,
+      "pc": 4,
+      "octave": 3,
+      "duration": 1.47,
+      "amplitude": 0.2692434850190972,
+      "type": "guitar_nylon",
+      "category": "rasgueado",
+      "section": "strum"
+    },
+    {
+      "time": 11.655692125184686,
+      "pc": 9,
+      "octave": 3,
+      "duration": 1.44,
+      "amplitude": 0.3051149255849195,
+      "type": "guitar_nylon",
+      "category": "rasgueado",
+      "section": "strum"
+    },
+    {
+      "time": 11.69265834429307,
+      "pc": 0,
+      "octave": 4,
+      "duration": 1.41,
+      "amplitude": 0.26844670494098627,
+      "type": "guitar_nylon",
+      "category": "rasgueado",
+      "section": "strum"
+    },
+    {
+      "time": 11.719752823780988,
+      "pc": 4,
+      "octave": 4,
+      "duration": 1.38,
+      "amplitude": 0.272689394048727,
+      "type": "guitar_nylon",
+      "category": "rasgueado",
+      "section": "strum"
+    },
+    {
+      "time": 12.497650566289403,
+      "pc": 7,
+      "octave": 2,
+      "duration": 1.5,
+      "amplitude": 0.2686216520542629,
+      "type": "guitar_nylon",
+      "category": "rasgueado",
+      "section": "strum"
+    },
+    {
+      "time": 12.52923137940201,
+      "pc": 11,
+      "octave": 2,
+      "duration": 1.47,
+      "amplitude": 0.2512959042902444,
+      "type": "guitar_nylon",
+      "category": "rasgueado",
+      "section": "strum"
+    },
+    {
+      "time": 12.560392960887796,
+      "pc": 2,
+      "octave": 3,
+      "duration": 1.44,
+      "amplitude": 0.29636276058176536,
+      "type": "guitar_nylon",
+      "category": "rasgueado",
+      "section": "strum"
+    },
+    {
+      "time": 12.587011510633898,
+      "pc": 7,
+      "octave": 3,
+      "duration": 1.41,
+      "amplitude": 0.2887029774780538,
+      "type": "guitar_nylon",
+      "category": "rasgueado",
+      "section": "strum"
+    },
+    {
+      "time": 12.62495149356661,
+      "pc": 11,
+      "octave": 3,
+      "duration": 1.38,
+      "amplitude": 0.29182642326623576,
+      "type": "guitar_nylon",
+      "category": "rasgueado",
+      "section": "strum"
+    },
+    {
+      "time": 12.649381000839147,
+      "pc": 2,
+      "octave": 4,
+      "duration": 1.35,
+      "amplitude": 0.26760404485523154,
+      "type": "guitar_nylon",
+      "category": "rasgueado",
+      "section": "strum"
+    },
+    {
+      "time": 13.396210041958685,
+      "pc": 5,
+      "octave": 2,
+      "duration": 1.5,
+      "amplitude": 0.23623486685157788,
+      "type": "guitar_nylon",
+      "category": "rasgueado",
+      "section": "strum"
+    },
+    {
+      "time": 13.428380855621477,
+      "pc": 0,
+      "octave": 3,
+      "duration": 1.47,
+      "amplitude": 0.27476867079669065,
+      "type": "guitar_nylon",
+      "category": "rasgueado",
+      "section": "strum"
+    },
+    {
+      "time": 13.457301147325968,
+      "pc": 5,
+      "octave": 3,
+      "duration": 1.44,
+      "amplitude": 0.2737726082981905,
+      "type": "guitar_nylon",
+      "category": "rasgueado",
+      "section": "strum"
+    },
+    {
+      "time": 13.485709930860093,
+      "pc": 9,
+      "octave": 3,
+      "duration": 1.41,
+      "amplitude": 0.2976039715216658,
+      "type": "guitar_nylon",
+      "category": "rasgueado",
+      "section": "strum"
+    },
+    {
+      "time": 13.517289417838112,
+      "pc": 0,
+      "octave": 4,
+      "duration": 1.38,
+      "amplitude": 0.29189268070233093,
+      "type": "guitar_nylon",
+      "category": "rasgueado",
+      "section": "strum"
+    },
+    {
+      "time": 14.30359635400254,
+      "pc": 4,
+      "octave": 2,
+      "duration": 1.5,
+      "amplitude": 0.22854286749443267,
+      "type": "guitar_nylon",
+      "category": "rasgueado",
+      "section": "strum"
+    },
+    {
+      "time": 14.327380046343691,
+      "pc": 11,
+      "octave": 2,
+      "duration": 1.47,
+      "amplitude": 0.27567881484246837,
+      "type": "guitar_nylon",
+      "category": "rasgueado",
+      "section": "strum"
+    },
+    {
+      "time": 14.357142368073708,
+      "pc": 4,
+      "octave": 3,
+      "duration": 1.44,
+      "amplitude": 0.26249767142775143,
+      "type": "guitar_nylon",
+      "category": "rasgueado",
+      "section": "strum"
+    },
+    {
+      "time": 14.394355142405809,
+      "pc": 8,
+      "octave": 3,
+      "duration": 1.41,
+      "amplitude": 0.30426258559951713,
+      "type": "guitar_nylon",
+      "category": "rasgueado",
+      "section": "strum"
+    },
+    {
+      "time": 14.41972671026312,
+      "pc": 11,
+      "octave": 3,
+      "duration": 1.38,
+      "amplitude": 0.29946176737647606,
+      "type": "guitar_nylon",
+      "category": "rasgueado",
+      "section": "strum"
+    },
+    {
+      "time": 14.453074969977669,
+      "pc": 4,
+      "octave": 4,
+      "duration": 1.35,
+      "amplitude": 0.25015519543263354,
+      "type": "guitar_nylon",
+      "category": "rasgueado",
+      "section": "strum"
+    },
+    {
+      "time": 15.19596930814229,
+      "pc": 9,
+      "octave": 2,
+      "duration": 1.5,
+      "amplitude": 0.2465525591203189,
+      "type": "guitar_nylon",
+      "category": "rasgueado",
+      "section": "strum"
+    },
+    {
+      "time": 15.229235786230202,
+      "pc": 4,
+      "octave": 3,
+      "duration": 1.47,
+      "amplitude": 0.26821933207398047,
+      "type": "guitar_nylon",
+      "category": "rasgueado",
+      "section": "strum"
+    },
+    {
+      "time": 15.262290758494602,
+      "pc": 9,
+      "octave": 3,
+      "duration": 1.44,
+      "amplitude": 0.30005514374301157,
+      "type": "guitar_nylon",
+      "category": "rasgueado",
+      "section": "strum"
+    },
+    {
+      "time": 15.294841652113663,
+      "pc": 0,
+      "octave": 4,
+      "duration": 1.41,
+      "amplitude": 0.26670823652681364,
+      "type": "guitar_nylon",
+      "category": "rasgueado",
+      "section": "strum"
+    },
+    {
+      "time": 15.319026212821024,
+      "pc": 4,
+      "octave": 4,
+      "duration": 1.38,
+      "amplitude": 0.26132234069132804,
+      "type": "guitar_nylon",
+      "category": "rasgueado",
+      "section": "strum"
+    },
+    {
+      "time": 16.10361672536353,
+      "pc": 7,
+      "octave": 2,
+      "duration": 1.5,
+      "amplitude": 0.2374328166960143,
+      "type": "guitar_nylon",
+      "category": "rasgueado",
+      "section": "strum"
+    },
+    {
+      "time": 16.12690208908441,
+      "pc": 11,
+      "octave": 2,
+      "duration": 1.47,
+      "amplitude": 0.2639260558844338,
+      "type": "guitar_nylon",
+      "category": "rasgueado",
+      "section": "strum"
+    },
+    {
+      "time": 16.159218816398344,
+      "pc": 2,
+      "octave": 3,
+      "duration": 1.44,
+      "amplitude": 0.27078422486445997,
+      "type": "guitar_nylon",
+      "category": "rasgueado",
+      "section": "strum"
+    },
+    {
+      "time": 16.187498064478824,
+      "pc": 7,
+      "octave": 3,
+      "duration": 1.41,
+      "amplitude": 0.32539593595656086,
+      "type": "guitar_nylon",
+      "category": "rasgueado",
+      "section": "strum"
+    },
+    {
+      "time": 16.219431307450538,
+      "pc": 11,
+      "octave": 3,
+      "duration": 1.38,
+      "amplitude": 0.30380978260317043,
+      "type": "guitar_nylon",
+      "category": "rasgueado",
+      "section": "strum"
+    },
+    {
+      "time": 16.2505032531245,
+      "pc": 2,
+      "octave": 4,
+      "duration": 1.35,
+      "amplitude": 0.24269804424132704,
+      "type": "guitar_nylon",
+      "category": "rasgueado",
+      "section": "strum"
+    },
+    {
+      "time": 8.2,
+      "pc": 4,
+      "octave": 3,
+      "duration": 0.12748170294452452,
+      "amplitude": 0.5869630343587948,
+      "type": "guitar_nylon",
+      "category": "picado",
+      "section": "melody"
+    },
+    {
+      "time": 8.349978474052381,
+      "pc": 5,
+      "octave": 3,
+      "duration": 0.12670940456076116,
+      "amplitude": 0.48837302847073155,
+      "type": "guitar_nylon",
+      "category": "picado",
+      "section": "melody"
+    },
+    {
+      "time": 8.499048361770924,
+      "pc": 7,
+      "octave": 3,
+      "duration": 0.12364174122756479,
+      "amplitude": 0.5132942221664306,
+      "type": "guitar_nylon",
+      "category": "picado",
+      "section": "melody"
+    },
+    {
+      "time": 8.644509233803353,
+      "pc": 9,
+      "octave": 3,
+      "duration": 0.1143838486989933,
+      "amplitude": 0.42423725692792635,
+      "type": "guitar_nylon",
+      "category": "picado",
+      "section": "melody"
+    },
+    {
+      "time": 8.779078467566874,
+      "pc": 11,
+      "octave": 3,
+      "duration": 0.11222652746001104,
+      "amplitude": 0.5014498939969397,
+      "type": "guitar_nylon",
+      "category": "picado",
+      "section": "melody"
+    },
+    {
+      "time": 8.911109676343358,
+      "pc": 0,
+      "octave": 4,
+      "duration": 0.11166381453391136,
+      "amplitude": 0.49367779594017536,
+      "type": "guitar_nylon",
+      "category": "picado",
+      "section": "melody"
+    },
+    {
+      "time": 9.042478869912665,
+      "pc": 2,
+      "octave": 4,
+      "duration": 0.10876267798338987,
+      "amplitude": 0.5812477662143427,
+      "type": "guitar_nylon",
+      "category": "picado",
+      "section": "melody"
+    },
+    {
+      "time": 9.170434961657831,
+      "pc": 4,
+      "octave": 4,
+      "duration": 0.11360271336714815,
+      "amplitude": 0.4430706737391147,
+      "type": "guitar_nylon",
+      "category": "picado",
+      "section": "melody"
+    },
+    {
+      "time": 9.604085212678006,
+      "pc": 4,
+      "octave": 4,
+      "duration": 0.10112927987353733,
+      "amplitude": 0.6044964958441986,
+      "type": "guitar_nylon",
+      "category": "picado",
+      "section": "melody"
+    },
+    {
+      "time": 9.723060836058638,
+      "pc": 2,
+      "octave": 4,
+      "duration": 0.09293767379747461,
+      "amplitude": 0.4696567447766694,
+      "type": "guitar_nylon",
+      "category": "picado",
+      "section": "melody"
+    },
+    {
+      "time": 9.832399275820373,
+      "pc": 0,
+      "octave": 4,
+      "duration": 0.0847578552355909,
+      "amplitude": 0.5276378608044021,
+      "type": "guitar_nylon",
+      "category": "picado",
+      "section": "melody"
+    },
+    {
+      "time": 9.93211439962695,
+      "pc": 11,
+      "octave": 3,
+      "duration": 0.10136167104537083,
+      "amplitude": 0.4571262261734631,
+      "type": "guitar_nylon",
+      "category": "picado",
+      "section": "melody"
+    },
+    {
+      "time": 10.05136342438621,
+      "pc": 9,
+      "octave": 3,
+      "duration": 0.09266078210803519,
+      "amplitude": 0.5772773116416972,
+      "type": "guitar_nylon",
+      "category": "picado",
+      "section": "melody"
+    },
+    {
+      "time": 10.160376109219193,
+      "pc": 7,
+      "octave": 3,
+      "duration": 0.08276617156731264,
+      "amplitude": 0.45757598350130746,
+      "type": "guitar_nylon",
+      "category": "picado",
+      "section": "melody"
+    },
+    {
+      "time": 10.257748075768973,
+      "pc": 5,
+      "octave": 3,
+      "duration": 0.09185814781155807,
+      "amplitude": 0.5887991881253114,
+      "type": "guitar_nylon",
+      "category": "picado",
+      "section": "melody"
+    },
+    {
+      "time": 10.36581648495904,
+      "pc": 4,
+      "octave": 3,
+      "duration": 0.08481162764996546,
+      "amplitude": 0.49147010129470053,
+      "type": "guitar_nylon",
+      "category": "picado",
+      "section": "melody"
+    },
+    {
+      "time": 10.765594870429588,
+      "pc": 4,
+      "octave": 4,
+      "duration": 0.07282998965454449,
+      "amplitude": 0.5669848202786676,
+      "type": "guitar_nylon",
+      "category": "picado",
+      "section": "melody"
+    },
+    {
+      "time": 10.85127721119964,
+      "pc": 5,
+      "octave": 4,
+      "duration": 0.08202137665013298,
+      "amplitude": 0.512346042806805,
+      "type": "guitar_nylon",
+      "category": "picado",
+      "section": "melody"
+    },
+    {
+      "time": 10.947772948435091,
+      "pc": 4,
+      "octave": 4,
+      "duration": 0.07559838952576663,
+      "amplitude": 0.5590062802876021,
+      "type": "guitar_nylon",
+      "category": "picado",
+      "section": "melody"
+    },
+    {
+      "time": 11.03671223023011,
+      "pc": 2,
+      "octave": 4,
+      "duration": 0.08729162855721047,
+      "amplitude": 0.4698753194310739,
+      "type": "guitar_nylon",
+      "category": "picado",
+      "section": "melody"
+    },
+    {
+      "time": 11.139408263826828,
+      "pc": 4,
+      "octave": 4,
+      "duration": 0.08201216689057192,
+      "amplitude": 0.6194451627501847,
+      "type": "guitar_nylon",
+      "category": "picado",
+      "section": "melody"
+    },
+    {
+      "time": 11.535893166051032,
+      "pc": 4,
+      "octave": 3,
+      "duration": 0.08451767650579854,
+      "amplitude": 0.5592039518220349,
+      "type": "guitar_nylon",
+      "category": "picado",
+      "section": "melody"
+    },
+    {
+      "time": 11.635325726646089,
+      "pc": 5,
+      "octave": 3,
+      "duration": 0.0864982194345487,
+      "amplitude": 0.48912356319627853,
+      "type": "guitar_nylon",
+      "category": "picado",
+      "section": "melody"
+    },
+    {
+      "time": 11.737088337745558,
+      "pc": 6,
+      "octave": 3,
+      "duration": 0.08040645718897514,
+      "amplitude": 0.5737810980868356,
+      "type": "guitar_nylon",
+      "category": "picado",
+      "section": "melody"
+    },
+    {
+      "time": 11.831684169732588,
+      "pc": 7,
+      "octave": 3,
+      "duration": 0.08106486884377805,
+      "amplitude": 0.4406207262112129,
+      "type": "guitar_nylon",
+      "category": "picado",
+      "section": "melody"
+    },
+    {
+      "time": 11.927054603666445,
+      "pc": 9,
+      "octave": 3,
+      "duration": 0.08934607551410943,
+      "amplitude": 0.5279996787778639,
+      "type": "guitar_nylon",
+      "category": "picado",
+      "section": "melody"
+    },
+    {
+      "time": 12.032167633683045,
+      "pc": 10,
+      "octave": 3,
+      "duration": 0.0825468888786992,
+      "amplitude": 0.4726678043172962,
+      "type": "guitar_nylon",
+      "category": "picado",
+      "section": "melody"
+    },
+    {
+      "time": 12.129281620599162,
+      "pc": 11,
+      "octave": 3,
+      "duration": 0.07788738706468162,
+      "amplitude": 0.5454114074880445,
+      "type": "guitar_nylon",
+      "category": "picado",
+      "section": "melody"
+    },
+    {
+      "time": 12.220913840675259,
+      "pc": 0,
+      "octave": 4,
+      "duration": 0.09559544118134121,
+      "amplitude": 0.4946486803069585,
+      "type": "guitar_nylon",
+      "category": "picado",
+      "section": "melody"
+    },
+    {
+      "time": 12.333379065594483,
+      "pc": 1,
+      "octave": 4,
+      "duration": 0.07790111129103047,
+      "amplitude": 0.5184469743493745,
+      "type": "guitar_nylon",
+      "category": "picado",
+      "section": "melody"
+    },
+    {
+      "time": 12.425027431819226,
+      "pc": 2,
+      "octave": 4,
+      "duration": 0.08157195793210142,
+      "amplitude": 0.4889933440194339,
+      "type": "guitar_nylon",
+      "category": "picado",
+      "section": "melody"
+    },
+    {
+      "time": 12.52099444115111,
+      "pc": 4,
+      "octave": 4,
+      "duration": 0.09334652732175314,
+      "amplitude": 0.5917197266732998,
+      "type": "guitar_nylon",
+      "category": "picado",
+      "section": "melody"
+    },
+    {
+      "time": 12.630813885059055,
+      "pc": 5,
+      "octave": 4,
+      "duration": 0.08356720557213115,
+      "amplitude": 0.41919721491215095,
+      "type": "guitar_nylon",
+      "category": "picado",
+      "section": "melody"
+    },
+    {
+      "time": 12.72912824455568,
+      "pc": 7,
+      "octave": 4,
+      "duration": 0.0924453722574863,
+      "amplitude": 0.5723893917596109,
+      "type": "guitar_nylon",
+      "category": "picado",
+      "section": "melody"
+    },
+    {
+      "time": 13.017887506035075,
+      "pc": 7,
+      "octave": 4,
+      "duration": 0.07643855896690763,
+      "amplitude": 0.6035956369994656,
+      "type": "guitar_nylon",
+      "category": "picado",
+      "section": "melody"
+    },
+    {
+      "time": 13.107815222466732,
+      "pc": 5,
+      "octave": 4,
+      "duration": 0.0771396574660554,
+      "amplitude": 0.4057040796436942,
+      "type": "guitar_nylon",
+      "category": "picado",
+      "section": "melody"
+    },
+    {
+      "time": 13.19856776066209,
+      "pc": 4,
+      "octave": 4,
+      "duration": 0.07984350103953879,
+      "amplitude": 0.5279316627419977,
+      "type": "guitar_nylon",
+      "category": "picado",
+      "section": "melody"
+    },
+    {
+      "time": 13.292501291296842,
+      "pc": 2,
+      "octave": 4,
+      "duration": 0.07729566795056274,
+      "amplitude": 0.48950370035343943,
+      "type": "guitar_nylon",
+      "category": "picado",
+      "section": "melody"
+    },
+    {
+      "time": 13.383437371238681,
+      "pc": 0,
+      "octave": 4,
+      "duration": 0.06852587522107008,
+      "amplitude": 0.5076971537461012,
+      "type": "guitar_nylon",
+      "category": "picado",
+      "section": "melody"
+    },
+    {
+      "time": 13.464056047969352,
+      "pc": 11,
+      "octave": 3,
+      "duration": 0.0680741213305336,
+      "amplitude": 0.4547901276796335,
+      "type": "guitar_nylon",
+      "category": "picado",
+      "section": "melody"
+    },
+    {
+      "time": 13.544143249534686,
+      "pc": 9,
+      "octave": 3,
+      "duration": 0.07081417161911809,
+      "amplitude": 0.5615312809733247,
+      "type": "guitar_nylon",
+      "category": "picado",
+      "section": "melody"
+    },
+    {
+      "time": 13.627454039674825,
+      "pc": 7,
+      "octave": 3,
+      "duration": 0.07819442200182558,
+      "amplitude": 0.4233237581094708,
+      "type": "guitar_nylon",
+      "category": "picado",
+      "section": "melody"
+    },
+    {
+      "time": 13.719447477324032,
+      "pc": 5,
+      "octave": 3,
+      "duration": 0.0768124941685202,
+      "amplitude": 0.5240382291793451,
+      "type": "guitar_nylon",
+      "category": "picado",
+      "section": "melody"
+    },
+    {
+      "time": 13.809815117522291,
+      "pc": 4,
+      "octave": 3,
+      "duration": 0.07439741544937592,
+      "amplitude": 0.4864802841971391,
+      "type": "guitar_nylon",
+      "category": "picado",
+      "section": "melody"
+    },
+    {
+      "time": 14.197341488639205,
+      "pc": 4,
+      "octave": 4,
+      "duration": 0.07414538681341128,
+      "amplitude": 0.5051528314484007,
+      "type": "guitar_nylon",
+      "category": "picado",
+      "section": "melody"
+    },
+    {
+      "time": 14.284571355478512,
+      "pc": 4,
+      "octave": 4,
+      "duration": 0.06768070932022502,
+      "amplitude": 0.42990122015750265,
+      "type": "guitar_nylon",
+      "category": "picado",
+      "section": "melody"
+    },
+    {
+      "time": 14.364195719384659,
+      "pc": 5,
+      "octave": 4,
+      "duration": 0.06125424904304307,
+      "amplitude": 0.579823114532159,
+      "type": "guitar_nylon",
+      "category": "picado",
+      "section": "melody"
+    },
+    {
+      "time": 14.436259541788239,
+      "pc": 4,
+      "octave": 4,
+      "duration": 0.0709478346727111,
+      "amplitude": 0.4285759736190914,
+      "type": "guitar_nylon",
+      "category": "picado",
+      "section": "melody"
+    },
+    {
+      "time": 14.669727582579664,
+      "pc": 4,
+      "octave": 4,
+      "duration": 0.07254083289772334,
+      "amplitude": 0.555684846323903,
+      "type": "guitar_nylon",
+      "category": "picado",
+      "section": "melody"
+    },
+    {
+      "time": 14.755069738929928,
+      "pc": 4,
+      "octave": 4,
+      "duration": 0.0677436098604044,
+      "amplitude": 0.40587027296475064,
+      "type": "guitar_nylon",
+      "category": "picado",
+      "section": "melody"
+    },
+    {
+      "time": 14.83476810347158,
+      "pc": 5,
+      "octave": 4,
+      "duration": 0.06235123105912863,
+      "amplitude": 0.5921417032630159,
+      "type": "guitar_nylon",
+      "category": "picado",
+      "section": "melody"
+    },
+    {
+      "time": 14.908122492952907,
+      "pc": 4,
+      "octave": 4,
+      "duration": 0.07503010714486637,
+      "amplitude": 0.45410312602849706,
+      "type": "guitar_nylon",
+      "category": "picado",
+      "section": "melody"
+    },
+    {
+      "time": 15.146393207240985,
+      "pc": 4,
+      "octave": 4,
+      "duration": 0.07396930380425605,
+      "amplitude": 0.5590760523138775,
+      "type": "guitar_nylon",
+      "category": "picado",
+      "section": "melody"
+    },
+    {
+      "time": 15.233415917598933,
+      "pc": 4,
+      "octave": 4,
+      "duration": 0.06346583491918248,
+      "amplitude": 0.41647009673539254,
+      "type": "guitar_nylon",
+      "category": "picado",
+      "section": "melody"
+    },
+    {
+      "time": 15.308081605739147,
+      "pc": 5,
+      "octave": 4,
+      "duration": 0.06591635275393105,
+      "amplitude": 0.593887963761685,
+      "type": "guitar_nylon",
+      "category": "picado",
+      "section": "melody"
+    },
+    {
+      "time": 15.38563025603789,
+      "pc": 4,
+      "octave": 4,
+      "duration": 0.07338067126478703,
+      "amplitude": 0.4824632323800813,
+      "type": "guitar_nylon",
+      "category": "picado",
+      "section": "melody"
+    },
+    {
+      "time": 18.003989246365265,
+      "pc": 9,
+      "octave": 2,
+      "duration": 1.5,
+      "amplitude": 0.16956275538023113,
+      "type": "guitar_nylon",
+      "category": "rasgueado",
+      "section": "strum"
+    },
+    {
+      "time": 18.03749529739223,
+      "pc": 4,
+      "octave": 3,
+      "duration": 1.46,
+      "amplitude": 0.17895661601059903,
+      "type": "guitar_nylon",
+      "category": "rasgueado",
+      "section": "strum"
+    },
+    {
+      "time": 18.08280116241871,
+      "pc": 9,
+      "octave": 3,
+      "duration": 1.42,
+      "amplitude": 0.22484146513259415,
+      "type": "guitar_nylon",
+      "category": "rasgueado",
+      "section": "strum"
+    },
+    {
+      "time": 18.119063773898322,
+      "pc": 0,
+      "octave": 4,
+      "duration": 1.38,
+      "amplitude": 0.2138388246638938,
+      "type": "guitar_nylon",
+      "category": "rasgueado",
+      "section": "strum"
+    },
+    {
+      "time": 18.156545533383323,
+      "pc": 4,
+      "octave": 4,
+      "duration": 1.34,
+      "amplitude": 0.2111137738901701,
+      "type": "guitar_nylon",
+      "category": "rasgueado",
+      "section": "strum"
+    },
+    {
+      "time": 19.5036460569622,
+      "pc": 2,
+      "octave": 2,
+      "duration": 1.5,
+      "amplitude": 0.19714341718551467,
+      "type": "guitar_nylon",
+      "category": "rasgueado",
+      "section": "strum"
+    },
+    {
+      "time": 19.543107717199405,
+      "pc": 9,
+      "octave": 2,
+      "duration": 1.46,
+      "amplitude": 0.2092294620373101,
+      "type": "guitar_nylon",
+      "category": "rasgueado",
+      "section": "strum"
+    },
+    {
+      "time": 19.57524786361898,
+      "pc": 2,
+      "octave": 3,
+      "duration": 1.42,
+      "amplitude": 0.2186789323404923,
+      "type": "guitar_nylon",
+      "category": "rasgueado",
+      "section": "strum"
+    },
+    {
+      "time": 19.618321854679465,
+      "pc": 5,
+      "octave": 3,
+      "duration": 1.38,
+      "amplitude": 0.2267908714013781,
+      "type": "guitar_nylon",
+      "category": "rasgueado",
+      "section": "strum"
+    },
+    {
+      "time": 19.663022351389372,
+      "pc": 9,
+      "octave": 3,
+      "duration": 1.34,
+      "amplitude": 0.20855480942323087,
+      "type": "guitar_nylon",
+      "category": "rasgueado",
+      "section": "strum"
+    },
+    {
+      "time": 21.003107493165743,
+      "pc": 10,
+      "octave": 2,
+      "duration": 1.5,
+      "amplitude": 0.17160500554540098,
+      "type": "guitar_nylon",
+      "category": "rasgueado",
+      "section": "strum"
+    },
+    {
+      "time": 21.042873745091352,
+      "pc": 5,
+      "octave": 3,
+      "duration": 1.46,
+      "amplitude": 0.18248058680555712,
+      "type": "guitar_nylon",
+      "category": "rasgueado",
+      "section": "strum"
+    },
+    {
+      "time": 21.08372166782906,
+      "pc": 10,
+      "octave": 3,
+      "duration": 1.42,
+      "amplitude": 0.23149122845779221,
+      "type": "guitar_nylon",
+      "category": "rasgueado",
+      "section": "strum"
+    },
+    {
+      "time": 21.117224337175458,
+      "pc": 2,
+      "octave": 4,
+      "duration": 1.38,
+      "amplitude": 0.2105368295816384,
+      "type": "guitar_nylon",
+      "category": "rasgueado",
+      "section": "strum"
+    },
+    {
+      "time": 22.49960303234679,
+      "pc": 4,
+      "octave": 2,
+      "duration": 1.5,
+      "amplitude": 0.17298687122418963,
+      "type": "guitar_nylon",
+      "category": "rasgueado",
+      "section": "strum"
+    },
+    {
+      "time": 22.542953454991526,
+      "pc": 11,
+      "octave": 2,
+      "duration": 1.46,
+      "amplitude": 0.18153966671645844,
+      "type": "guitar_nylon",
+      "category": "rasgueado",
+      "section": "strum"
+    },
+    {
+      "time": 22.57523664434701,
+      "pc": 4,
+      "octave": 3,
+      "duration": 1.42,
+      "amplitude": 0.19147969536377052,
+      "type": "guitar_nylon",
+      "category": "rasgueado",
+      "section": "strum"
+    },
+    {
+      "time": 22.618282619511977,
+      "pc": 8,
+      "octave": 3,
+      "duration": 1.38,
+      "amplitude": 0.23174004709570842,
+      "type": "guitar_nylon",
+      "category": "rasgueado",
+      "section": "strum"
+    },
+    {
+      "time": 22.664668891040485,
+      "pc": 11,
+      "octave": 3,
+      "duration": 1.34,
+      "amplitude": 0.19498829970305234,
+      "type": "guitar_nylon",
+      "category": "rasgueado",
+      "section": "strum"
+    },
+    {
+      "time": 22.701414817386077,
+      "pc": 4,
+      "octave": 4,
+      "duration": 1.3,
+      "amplitude": 0.18814764995942637,
+      "type": "guitar_nylon",
+      "category": "rasgueado",
+      "section": "strum"
+    },
+    {
+      "time": 18.2,
+      "pc": 11,
+      "octave": 4,
+      "duration": 0.06906248605869808,
+      "amplitude": 0.45999999999999996,
+      "type": "guitar_nylon",
+      "category": "tremolo",
+      "section": "tremolo"
+    },
+    {
+      "time": 18.276736095620773,
+      "pc": 11,
+      "octave": 4,
+      "duration": 0.06853438796809143,
+      "amplitude": 0.37217294394872336,
+      "type": "guitar_nylon",
+      "category": "tremolo",
+      "section": "tremolo"
+    },
+    {
+      "time": 18.35288541558532,
+      "pc": 11,
+      "octave": 4,
+      "duration": 0.06892704769888007,
+      "amplitude": 0.3469205051110857,
+      "type": "guitar_nylon",
+      "category": "tremolo",
+      "section": "tremolo"
+    },
+    {
+      "time": 18.42947102413963,
+      "pc": 11,
+      "octave": 4,
+      "duration": 0.06882793237859561,
+      "amplitude": 0.35071406897034785,
+      "type": "guitar_nylon",
+      "category": "tremolo",
+      "section": "tremolo"
+    },
+    {
+      "time": 18.505946504560292,
+      "pc": 11,
+      "octave": 4,
+      "duration": 0.06004487616778941,
+      "amplitude": 0.45999999999999996,
+      "type": "guitar_nylon",
+      "category": "tremolo",
+      "section": "tremolo"
+    },
+    {
+      "time": 18.572663033635614,
+      "pc": 11,
+      "octave": 4,
+      "duration": 0.062175503357914524,
+      "amplitude": 0.3465041528328827,
+      "type": "guitar_nylon",
+      "category": "tremolo",
+      "section": "tremolo"
+    },
+    {
+      "time": 18.641746926255518,
+      "pc": 11,
+      "octave": 4,
+      "duration": 0.060652334158856895,
+      "amplitude": 0.3837127036391623,
+      "type": "guitar_nylon",
+      "category": "tremolo",
+      "section": "tremolo"
+    },
+    {
+      "time": 18.709138408654248,
+      "pc": 11,
+      "octave": 4,
+      "duration": 0.06314393055183544,
+      "amplitude": 0.3763725311983686,
+      "type": "guitar_nylon",
+      "category": "tremolo",
+      "section": "tremolo"
+    },
+    {
+      "time": 18.77929833148962,
+      "pc": 11,
+      "octave": 4,
+      "duration": 0.06155346246014357,
+      "amplitude": 0.45999999999999996,
+      "type": "guitar_nylon",
+      "category": "tremolo",
+      "section": "tremolo"
+    },
+    {
+      "time": 18.847691067556447,
+      "pc": 11,
+      "octave": 4,
+      "duration": 0.05990950357734614,
+      "amplitude": 0.374595282609796,
+      "type": "guitar_nylon",
+      "category": "tremolo",
+      "section": "tremolo"
+    },
+    {
+      "time": 18.914257182642388,
+      "pc": 11,
+      "octave": 4,
+      "duration": 0.056721310105554736,
+      "amplitude": 0.38252711703005027,
+      "type": "guitar_nylon",
+      "category": "tremolo",
+      "section": "tremolo"
+    },
+    {
+      "time": 18.977280860537448,
+      "pc": 11,
+      "octave": 4,
+      "duration": 0.0634844951633692,
+      "amplitude": 0.395534509929945,
+      "type": "guitar_nylon",
+      "category": "tremolo",
+      "section": "tremolo"
+    },
+    {
+      "time": 19.047819188496746,
+      "pc": 11,
+      "octave": 4,
+      "duration": 0.06576481798922507,
+      "amplitude": 0.45999999999999996,
+      "type": "guitar_nylon",
+      "category": "tremolo",
+      "section": "tremolo"
+    },
+    {
+      "time": 19.120891208484775,
+      "pc": 11,
+      "octave": 4,
+      "duration": 0.06514991915585581,
+      "amplitude": 0.3845170046703686,
+      "type": "guitar_nylon",
+      "category": "tremolo",
+      "section": "tremolo"
+    },
+    {
+      "time": 19.193280007546836,
+      "pc": 11,
+      "octave": 4,
+      "duration": 0.05758167002019152,
+      "amplitude": 0.3618532883068759,
+      "type": "guitar_nylon",
+      "category": "tremolo",
+      "section": "tremolo"
+    },
+    {
+      "time": 19.257259640902603,
+      "pc": 11,
+      "octave": 4,
+      "duration": 0.06086052045413673,
+      "amplitude": 0.37985426109467635,
+      "type": "guitar_nylon",
+      "category": "tremolo",
+      "section": "tremolo"
+    },
+    {
+      "time": 19.3248824414072,
+      "pc": 11,
+      "octave": 4,
+      "duration": 0.06065533712773533,
+      "amplitude": 0.45999999999999996,
+      "type": "guitar_nylon",
+      "category": "tremolo",
+      "section": "tremolo"
+    },
+    {
+      "time": 19.392277260438018,
+      "pc": 11,
+      "octave": 4,
+      "duration": 0.06576890371397578,
+      "amplitude": 0.39088091677038017,
+      "type": "guitar_nylon",
+      "category": "tremolo",
+      "section": "tremolo"
+    },
+    {
+      "time": 19.465353820120214,
+      "pc": 11,
+      "octave": 4,
+      "duration": 0.06059698674382904,
+      "amplitude": 0.35801933609267583,
+      "type": "guitar_nylon",
+      "category": "tremolo",
+      "section": "tremolo"
+    },
+    {
+      "time": 19.532683805391134,
+      "pc": 11,
+      "octave": 4,
+      "duration": 0.06177024487692734,
+      "amplitude": 0.364503574517153,
+      "type": "guitar_nylon",
+      "category": "tremolo",
+      "section": "tremolo"
+    },
+    {
+      "time": 19.60131741080994,
+      "pc": 11,
+      "octave": 4,
+      "duration": 0.06042525555182695,
+      "amplitude": 0.45999999999999996,
+      "type": "guitar_nylon",
+      "category": "tremolo",
+      "section": "tremolo"
+    },
+    {
+      "time": 19.668456583645305,
+      "pc": 11,
+      "octave": 4,
+      "duration": 0.06199762380553866,
+      "amplitude": 0.3476372679435492,
+      "type": "guitar_nylon",
+      "category": "tremolo",
+      "section": "tremolo"
+    },
+    {
+      "time": 19.737342832318127,
+      "pc": 11,
+      "octave": 4,
+      "duration": 0.06523420611043645,
+      "amplitude": 0.396421820243811,
+      "type": "guitar_nylon",
+      "category": "tremolo",
+      "section": "tremolo"
+    },
+    {
+      "time": 19.809825283551945,
+      "pc": 11,
+      "octave": 4,
+      "duration": 0.06445548794098742,
+      "amplitude": 0.39416833274395496,
+      "type": "guitar_nylon",
+      "category": "tremolo",
+      "section": "tremolo"
+    },
+    {
+      "time": 19.881442492375264,
+      "pc": 11,
+      "octave": 4,
+      "duration": 0.06049196841952613,
+      "amplitude": 0.45999999999999996,
+      "type": "guitar_nylon",
+      "category": "tremolo",
+      "section": "tremolo"
+    },
+    {
+      "time": 19.94865579061918,
+      "pc": 11,
+      "octave": 4,
+      "duration": 0.05670511484018583,
+      "amplitude": 0.3728762327881419,
+      "type": "guitar_nylon",
+      "category": "tremolo",
+      "section": "tremolo"
+    },
+    {
+      "time": 20.0,
+      "pc": 0,
+      "octave": 5,
+      "duration": 0.06031511283254849,
+      "amplitude": 0.43699999999999994,
+      "type": "guitar_nylon",
+      "category": "tremolo",
+      "section": "tremolo"
+    },
+    {
+      "time": 20.067016792036164,
+      "pc": 0,
+      "octave": 5,
+      "duration": 0.0640078082430656,
+      "amplitude": 0.3475036245494206,
+      "type": "guitar_nylon",
+      "category": "tremolo",
+      "section": "tremolo"
+    },
+    {
+      "time": 20.138136578972905,
+      "pc": 0,
+      "octave": 5,
+      "duration": 0.0625588511971124,
+      "amplitude": 0.3603182205510751,
+      "type": "guitar_nylon",
+      "category": "tremolo",
+      "section": "tremolo"
+    },
+    {
+      "time": 20.20764641363636,
+      "pc": 0,
+      "octave": 5,
+      "duration": 0.05939263765246267,
+      "amplitude": 0.348203108560374,
+      "type": "guitar_nylon",
+      "category": "tremolo",
+      "section": "tremolo"
+    },
+    {
+      "time": 20.27363823325021,
+      "pc": 0,
+      "octave": 5,
+      "duration": 0.06266214594245752,
+      "amplitude": 0.43699999999999994,
+      "type": "guitar_nylon",
+      "category": "tremolo",
+      "section": "tremolo"
+    },
+    {
+      "time": 20.34326283985294,
+      "pc": 0,
+      "octave": 5,
+      "duration": 0.06672991197759745,
+      "amplitude": 0.3743673070722105,
+      "type": "guitar_nylon",
+      "category": "tremolo",
+      "section": "tremolo"
+    },
+    {
+      "time": 20.417407186494714,
+      "pc": 0,
+      "octave": 5,
+      "duration": 0.05776842376273654,
+      "amplitude": 0.33267240958328914,
+      "type": "guitar_nylon",
+      "category": "tremolo",
+      "section": "tremolo"
+    },
+    {
+      "time": 20.481594324008867,
+      "pc": 0,
+      "octave": 5,
+      "duration": 0.06467505478264904,
+      "amplitude": 0.35238076456516737,
+      "type": "guitar_nylon",
+      "category": "tremolo",
+      "section": "tremolo"
+    },
+    {
+      "time": 20.55345549598959,
+      "pc": 0,
+      "octave": 5,
+      "duration": 0.0609233720181635,
+      "amplitude": 0.43699999999999994,
+      "type": "guitar_nylon",
+      "category": "tremolo",
+      "section": "tremolo"
+    },
+    {
+      "time": 20.621148131565327,
+      "pc": 0,
+      "octave": 5,
+      "duration": 0.06616434053301325,
+      "amplitude": 0.3696501374785899,
+      "type": "guitar_nylon",
+      "category": "tremolo",
+      "section": "tremolo"
+    },
+    {
+      "time": 20.694664065490898,
+      "pc": 0,
+      "octave": 5,
+      "duration": 0.05953047239156584,
+      "amplitude": 0.3613493532217585,
+      "type": "guitar_nylon",
+      "category": "tremolo",
+      "section": "tremolo"
+    },
+    {
+      "time": 20.76080903481486,
+      "pc": 0,
+      "octave": 5,
+      "duration": 0.057007759885358014,
+      "amplitude": 0.3343504061654149,
+      "type": "guitar_nylon",
+      "category": "tremolo",
+      "section": "tremolo"
+    },
+    {
+      "time": 20.824150990243034,
+      "pc": 0,
+      "octave": 5,
+      "duration": 0.059785016055387226,
+      "amplitude": 0.43699999999999994,
+      "type": "guitar_nylon",
+      "category": "tremolo",
+      "section": "tremolo"
+    },
+    {
+      "time": 20.890578785860132,
+      "pc": 0,
+      "octave": 5,
+      "duration": 0.06740669495227164,
+      "amplitude": 0.35008277162047186,
+      "type": "guitar_nylon",
+      "category": "tremolo",
+      "section": "tremolo"
+    },
+    {
+      "time": 20.96547511358488,
+      "pc": 0,
+      "octave": 5,
+      "duration": 0.061921956738571274,
+      "amplitude": 0.32715120906352047,
+      "type": "guitar_nylon",
+      "category": "tremolo",
+      "section": "tremolo"
+    },
+    {
+      "time": 21.03427728773885,
+      "pc": 0,
+      "octave": 5,
+      "duration": 0.05914988398292035,
+      "amplitude": 0.3588966267020497,
+      "type": "guitar_nylon",
+      "category": "tremolo",
+      "section": "tremolo"
+    },
+    {
+      "time": 21.099999381053205,
+      "pc": 0,
+      "octave": 5,
+      "duration": 0.06547406355618038,
+      "amplitude": 0.43699999999999994,
+      "type": "guitar_nylon",
+      "category": "tremolo",
+      "section": "tremolo"
+    },
+    {
+      "time": 21.172748340560073,
+      "pc": 0,
+      "octave": 5,
+      "duration": 0.05977420393868834,
+      "amplitude": 0.3511794986335949,
+      "type": "guitar_nylon",
+      "category": "tremolo",
+      "section": "tremolo"
+    },
+    {
+      "time": 21.5,
+      "pc": 9,
+      "octave": 4,
+      "duration": 0.06496633094000849,
+      "amplitude": 0.48299999999999993,
+      "type": "guitar_nylon",
+      "category": "tremolo",
+      "section": "tremolo"
+    },
+    {
+      "time": 21.572184812155566,
+      "pc": 9,
+      "octave": 4,
+      "duration": 0.06616215240539278,
+      "amplitude": 0.357349323542696,
+      "type": "guitar_nylon",
+      "category": "tremolo",
+      "section": "tremolo"
+    },
+    {
+      "time": 21.645698314828223,
+      "pc": 9,
+      "octave": 4,
+      "duration": 0.058042999936700604,
+      "amplitude": 0.40551290988016353,
+      "type": "guitar_nylon",
+      "category": "tremolo",
+      "section": "tremolo"
+    },
+    {
+      "time": 21.710190536980114,
+      "pc": 9,
+      "octave": 4,
+      "duration": 0.05891617218950231,
+      "amplitude": 0.38378421021839226,
+      "type": "guitar_nylon",
+      "category": "tremolo",
+      "section": "tremolo"
+    },
+    {
+      "time": 21.775652950524005,
+      "pc": 9,
+      "octave": 4,
+      "duration": 0.06877037213272223,
+      "amplitude": 0.48299999999999993,
+      "type": "guitar_nylon",
+      "category": "tremolo",
+      "section": "tremolo"
+    },
+    {
+      "time": 21.85206447511592,
+      "pc": 9,
+      "octave": 4,
+      "duration": 0.05733275165277208,
+      "amplitude": 0.38963133827795565,
+      "type": "guitar_nylon",
+      "category": "tremolo",
+      "section": "tremolo"
+    },
+    {
+      "time": 21.91576753250789,
+      "pc": 9,
+      "octave": 4,
+      "duration": 0.06738903797663093,
+      "amplitude": 0.3726994916185782,
+      "type": "guitar_nylon",
+      "category": "tremolo",
+      "section": "tremolo"
+    },
+    {
+      "time": 21.990644241370813,
+      "pc": 9,
+      "octave": 4,
+      "duration": 0.06679784918170055,
+      "amplitude": 0.38575709500462085,
+      "type": "guitar_nylon",
+      "category": "tremolo",
+      "section": "tremolo"
+    },
+    {
+      "time": 22.064864073794926,
+      "pc": 9,
+      "octave": 4,
+      "duration": 0.06511147943058807,
+      "amplitude": 0.48299999999999993,
+      "type": "guitar_nylon",
+      "category": "tremolo",
+      "section": "tremolo"
+    },
+    {
+      "time": 22.137210162051133,
+      "pc": 9,
+      "octave": 4,
+      "duration": 0.06420269921271471,
+      "amplitude": 0.4192372245431862,
+      "type": "guitar_nylon",
+      "category": "tremolo",
+      "section": "tremolo"
+    },
+    {
+      "time": 22.208546494509704,
+      "pc": 9,
+      "octave": 4,
+      "duration": 0.06793196666521152,
+      "amplitude": 0.4168524953319188,
+      "type": "guitar_nylon",
+      "category": "tremolo",
+      "section": "tremolo"
+    },
+    {
+      "time": 22.28402645747105,
+      "pc": 9,
+      "octave": 4,
+      "duration": 0.0657628519120772,
+      "amplitude": 0.39559709633399104,
+      "type": "guitar_nylon",
+      "category": "tremolo",
+      "section": "tremolo"
+    },
+    {
+      "time": 22.357096292928915,
+      "pc": 9,
+      "octave": 4,
+      "duration": 0.06306020487678748,
+      "amplitude": 0.48299999999999993,
+      "type": "guitar_nylon",
+      "category": "tremolo",
+      "section": "tremolo"
+    },
+    {
+      "time": 22.427163187236456,
+      "pc": 9,
+      "octave": 4,
+      "duration": 0.06360318657769644,
+      "amplitude": 0.4093258576924491,
+      "type": "guitar_nylon",
+      "category": "tremolo",
+      "section": "tremolo"
+    },
+    {
+      "time": 22.497833394545008,
+      "pc": 9,
+      "octave": 4,
+      "duration": 0.06607005857121077,
+      "amplitude": 0.41352411050369553,
+      "type": "guitar_nylon",
+      "category": "tremolo",
+      "section": "tremolo"
+    },
+    {
+      "time": 22.571244570735242,
+      "pc": 9,
+      "octave": 4,
+      "duration": 0.059965813510659244,
+      "amplitude": 0.38690448951985235,
+      "type": "guitar_nylon",
+      "category": "tremolo",
+      "section": "tremolo"
+    },
+    {
+      "time": 22.63787325241375,
+      "pc": 9,
+      "octave": 4,
+      "duration": 0.05981522069262171,
+      "amplitude": 0.48299999999999993,
+      "type": "guitar_nylon",
+      "category": "tremolo",
+      "section": "tremolo"
+    },
+    {
+      "time": 22.704334608738886,
+      "pc": 9,
+      "octave": 4,
+      "duration": 0.0663492524221443,
+      "amplitude": 0.3971726705168978,
+      "type": "guitar_nylon",
+      "category": "tremolo",
+      "section": "tremolo"
+    },
+    {
+      "time": 22.778056000319047,
+      "pc": 9,
+      "octave": 4,
+      "duration": 0.06459703030597046,
+      "amplitude": 0.38984188820816285,
+      "type": "guitar_nylon",
+      "category": "tremolo",
+      "section": "tremolo"
+    },
+    {
+      "time": 22.849830478436793,
+      "pc": 9,
+      "octave": 4,
+      "duration": 0.05767629025869568,
+      "amplitude": 0.3742996391558049,
+      "type": "guitar_nylon",
+      "category": "tremolo",
+      "section": "tremolo"
+    },
+    {
+      "time": 22.9139152453909,
+      "pc": 9,
+      "octave": 4,
+      "duration": 0.06030017470087573,
+      "amplitude": 0.48299999999999993,
+      "type": "guitar_nylon",
+      "category": "tremolo",
+      "section": "tremolo"
+    },
+    {
+      "time": 22.980915439502983,
+      "pc": 9,
+      "octave": 4,
+      "duration": 0.06072834056207641,
+      "amplitude": 0.37411805174617757,
+      "type": "guitar_nylon",
+      "category": "tremolo",
+      "section": "tremolo"
+    },
+    {
+      "time": 23.0,
+      "pc": 4,
+      "octave": 4,
+      "duration": 0.06804205500399917,
+      "amplitude": 0.40249999999999997,
+      "type": "guitar_nylon",
+      "category": "tremolo",
+      "section": "tremolo"
+    },
+    {
+      "time": 23.075602283337776,
+      "pc": 4,
+      "octave": 4,
+      "duration": 0.06387202997633053,
+      "amplitude": 0.30476463822959815,
+      "type": "guitar_nylon",
+      "category": "tremolo",
+      "section": "tremolo"
+    },
+    {
+      "time": 23.1465712055337,
+      "pc": 4,
+      "octave": 4,
+      "duration": 0.07028665841287646,
+      "amplitude": 0.3339323651457002,
+      "type": "guitar_nylon",
+      "category": "tremolo",
+      "section": "tremolo"
+    },
+    {
+      "time": 23.22466749265912,
+      "pc": 4,
+      "octave": 4,
+      "duration": 0.06625259149049892,
+      "amplitude": 0.3008720146624786,
+      "type": "guitar_nylon",
+      "category": "tremolo",
+      "section": "tremolo"
+    },
+    {
+      "time": 23.298281483204118,
+      "pc": 4,
+      "octave": 4,
+      "duration": 0.06807525039680286,
+      "amplitude": 0.40249999999999997,
+      "type": "guitar_nylon",
+      "category": "tremolo",
+      "section": "tremolo"
+    },
+    {
+      "time": 23.37392065031168,
+      "pc": 4,
+      "octave": 4,
+      "duration": 0.06354226425844454,
+      "amplitude": 0.31932814729041564,
+      "type": "guitar_nylon",
+      "category": "tremolo",
+      "section": "tremolo"
+    },
+    {
+      "time": 23.444523166154394,
+      "pc": 4,
+      "octave": 4,
+      "duration": 0.07296531945759238,
+      "amplitude": 0.3195575346831048,
+      "type": "guitar_nylon",
+      "category": "tremolo",
+      "section": "tremolo"
+    },
+    {
+      "time": 23.525595743329497,
+      "pc": 4,
+      "octave": 4,
+      "duration": 0.07013956031772257,
+      "amplitude": 0.3281641692457218,
+      "type": "guitar_nylon",
+      "category": "tremolo",
+      "section": "tremolo"
+    },
+    {
+      "time": 23.603528588126967,
+      "pc": 4,
+      "octave": 4,
+      "duration": 0.07231588243610312,
+      "amplitude": 0.40249999999999997,
+      "type": "guitar_nylon",
+      "category": "tremolo",
+      "section": "tremolo"
+    },
+    {
+      "time": 23.683879568611527,
+      "pc": 4,
+      "octave": 4,
+      "duration": 0.0658851438905241,
+      "amplitude": 0.3376937152461986,
+      "type": "guitar_nylon",
+      "category": "tremolo",
+      "section": "tremolo"
+    },
+    {
+      "time": 23.75708528404544,
+      "pc": 4,
+      "octave": 4,
+      "duration": 0.06549874383606964,
+      "amplitude": 0.2978095443881596,
+      "type": "guitar_nylon",
+      "category": "tremolo",
+      "section": "tremolo"
+    },
+    {
+      "time": 23.82986166608552,
+      "pc": 4,
+      "octave": 4,
+      "duration": 0.0722715473326829,
+      "amplitude": 0.3370574440656178,
+      "type": "guitar_nylon",
+      "category": "tremolo",
+      "section": "tremolo"
+    },
+    {
+      "time": 23.910163385344056,
+      "pc": 4,
+      "octave": 4,
+      "duration": 0.07362130956934644,
+      "amplitude": 0.40249999999999997,
+      "type": "guitar_nylon",
+      "category": "tremolo",
+      "section": "tremolo"
+    },
+    {
+      "time": 23.991964840421108,
+      "pc": 4,
+      "octave": 4,
+      "duration": 0.07084146153120369,
+      "amplitude": 0.3194986173380656,
+      "type": "guitar_nylon",
+      "category": "tremolo",
+      "section": "tremolo"
+    },
+    {
+      "time": 24.07067757545578,
+      "pc": 4,
+      "octave": 4,
+      "duration": 0.06889390995070677,
+      "amplitude": 0.3261719462610265,
+      "type": "guitar_nylon",
+      "category": "tremolo",
+      "section": "tremolo"
+    },
+    {
+      "time": 24.147226364289896,
+      "pc": 4,
+      "octave": 4,
+      "duration": 0.0637121920673894,
+      "amplitude": 0.30907828145200045,
+      "type": "guitar_nylon",
+      "category": "tremolo",
+      "section": "tremolo"
+    },
+    {
+      "time": 24.2,
+      "pc": 4,
+      "octave": 4,
+      "duration": 0.062212599564054075,
+      "amplitude": 0.5480120032135526,
+      "type": "guitar_nylon",
+      "category": "picado",
+      "section": "melody"
+    },
+    {
+      "time": 24.273191293604768,
+      "pc": 2,
+      "octave": 4,
+      "duration": 0.060814216850369814,
+      "amplitude": 0.5127350466178067,
+      "type": "guitar_nylon",
+      "category": "picado",
+      "section": "melody"
+    },
+    {
+      "time": 24.344737431075792,
+      "pc": 0,
+      "octave": 4,
+      "duration": 0.06177054128465536,
+      "amplitude": 0.5644704124756247,
+      "type": "guitar_nylon",
+      "category": "picado",
+      "section": "melody"
+    },
+    {
+      "time": 24.417408656116564,
+      "pc": 11,
+      "octave": 3,
+      "duration": 0.06265514684298315,
+      "amplitude": 0.458135151930835,
+      "type": "guitar_nylon",
+      "category": "picado",
+      "section": "melody"
+    },
+    {
+      "time": 24.4911205935789,
+      "pc": 9,
+      "octave": 3,
+      "duration": 0.06482715387766126,
+      "amplitude": 0.5477629406805218,
+      "type": "guitar_nylon",
+      "category": "picado",
+      "section": "melody"
+    },
+    {
+      "time": 24.56738783343497,
+      "pc": 7,
+      "octave": 3,
+      "duration": 0.061626134095164355,
+      "amplitude": 0.5013748063194526,
+      "type": "guitar_nylon",
+      "category": "picado",
+      "section": "melody"
+    },
+    {
+      "time": 24.639889167664577,
+      "pc": 5,
+      "octave": 3,
+      "duration": 0.05648010619992289,
+      "amplitude": 0.6222727074091298,
+      "type": "guitar_nylon",
+      "category": "picado",
+      "section": "melody"
+    },
+    {
+      "time": 24.706336351429194,
+      "pc": 4,
+      "octave": 3,
+      "duration": 0.05800318530840867,
+      "amplitude": 0.49120814596109974,
+      "type": "guitar_nylon",
+      "category": "picado",
+      "section": "melody"
+    },
+    {
+      "time": 24.774575392968497,
+      "pc": 2,
+      "octave": 3,
+      "duration": 0.056805241984678,
+      "amplitude": 0.590371567566765,
+      "type": "guitar_nylon",
+      "category": "picado",
+      "section": "melody"
+    },
+    {
+      "time": 24.84140508942106,
+      "pc": 0,
+      "octave": 3,
+      "duration": 0.05906853548606603,
+      "amplitude": 0.47785773468324966,
+      "type": "guitar_nylon",
+      "category": "picado",
+      "section": "melody"
+    },
+    {
+      "time": 24.91089748411055,
+      "pc": 11,
+      "octave": 2,
+      "duration": 0.06677624665321373,
+      "amplitude": 0.5903742720832605,
+      "type": "guitar_nylon",
+      "category": "picado",
+      "section": "melody"
+    },
+    {
+      "time": 24.989457774290802,
+      "pc": 9,
+      "octave": 2,
+      "duration": 0.06664693777535585,
+      "amplitude": 0.5278605042303721,
+      "type": "guitar_nylon",
+      "category": "picado",
+      "section": "melody"
+    },
+    {
+      "time": 25.5,
+      "pc": 9,
+      "octave": 2,
+      "duration": 0.48,
+      "amplitude": 0.522749868496062,
+      "type": "guitar_nylon",
+      "category": "golpe",
+      "section": "strum"
+    },
+    {
+      "time": 25.52,
+      "pc": 4,
+      "octave": 3,
+      "duration": 0.48,
+      "amplitude": 0.5040096856037808,
+      "type": "guitar_nylon",
+      "category": "golpe",
+      "section": "strum"
+    },
+    {
+      "time": 25.54,
+      "pc": 9,
+      "octave": 3,
+      "duration": 0.48,
+      "amplitude": 0.4971321615755012,
+      "type": "guitar_nylon",
+      "category": "golpe",
+      "section": "strum"
+    },
+    {
+      "time": 25.56,
+      "pc": 0,
+      "octave": 4,
+      "duration": 0.48,
+      "amplitude": 0.5543360952714789,
+      "type": "guitar_nylon",
+      "category": "golpe",
+      "section": "strum"
+    },
+    {
+      "time": 25.58,
+      "pc": 4,
+      "octave": 4,
+      "duration": 0.48,
+      "amplitude": 0.604989861136013,
+      "type": "guitar_nylon",
+      "category": "golpe",
+      "section": "strum"
+    },
+    {
+      "time": 26.22,
+      "pc": 7,
+      "octave": 2,
+      "duration": 0.48,
+      "amplitude": 0.5334956378092203,
+      "type": "guitar_nylon",
+      "category": "golpe",
+      "section": "strum"
+    },
+    {
+      "time": 26.24,
+      "pc": 11,
+      "octave": 2,
+      "duration": 0.48,
+      "amplitude": 0.5665158502574863,
+      "type": "guitar_nylon",
+      "category": "golpe",
+      "section": "strum"
+    },
+    {
+      "time": 26.259999999999998,
+      "pc": 2,
+      "octave": 3,
+      "duration": 0.48,
+      "amplitude": 0.5809356354571985,
+      "type": "guitar_nylon",
+      "category": "golpe",
+      "section": "strum"
+    },
+    {
+      "time": 26.279999999999998,
+      "pc": 7,
+      "octave": 3,
+      "duration": 0.48,
+      "amplitude": 0.5666930120768279,
+      "type": "guitar_nylon",
+      "category": "golpe",
+      "section": "strum"
+    },
+    {
+      "time": 26.299999999999997,
+      "pc": 11,
+      "octave": 3,
+      "duration": 0.48,
+      "amplitude": 0.577965652446548,
+      "type": "guitar_nylon",
+      "category": "golpe",
+      "section": "strum"
+    },
+    {
+      "time": 26.32,
+      "pc": 2,
+      "octave": 4,
+      "duration": 0.48,
+      "amplitude": 0.5994572905987589,
+      "type": "guitar_nylon",
+      "category": "golpe",
+      "section": "strum"
+    },
+    {
+      "time": 26.939999999999998,
+      "pc": 5,
+      "octave": 2,
+      "duration": 0.48,
+      "amplitude": 0.5169296750598787,
+      "type": "guitar_nylon",
+      "category": "golpe",
+      "section": "strum"
+    },
+    {
+      "time": 26.959999999999997,
+      "pc": 0,
+      "octave": 3,
+      "duration": 0.48,
+      "amplitude": 0.4972418019052366,
+      "type": "guitar_nylon",
+      "category": "golpe",
+      "section": "strum"
+    },
+    {
+      "time": 26.979999999999997,
+      "pc": 5,
+      "octave": 3,
+      "duration": 0.48,
+      "amplitude": 0.511762058036327,
+      "type": "guitar_nylon",
+      "category": "golpe",
+      "section": "strum"
+    },
+    {
+      "time": 26.999999999999996,
+      "pc": 9,
+      "octave": 3,
+      "duration": 0.48,
+      "amplitude": 0.5088843072361627,
+      "type": "guitar_nylon",
+      "category": "golpe",
+      "section": "strum"
+    },
+    {
+      "time": 27.019999999999996,
+      "pc": 0,
+      "octave": 4,
+      "duration": 0.48,
+      "amplitude": 0.5686404729081902,
+      "type": "guitar_nylon",
+      "category": "golpe",
+      "section": "strum"
+    },
+    {
+      "time": 27.660639695819295,
+      "pc": 4,
+      "octave": 2,
+      "duration": 1.5,
+      "amplitude": 0.6133353903178456,
+      "type": "guitar_nylon",
+      "category": "rasgueado",
+      "section": "strum"
+    },
+    {
+      "time": 27.701994649712457,
+      "pc": 11,
+      "octave": 2,
+      "duration": 1.46,
+      "amplitude": 0.7,
+      "type": "guitar_nylon",
+      "category": "rasgueado",
+      "section": "strum"
+    },
+    {
+      "time": 27.736677891433672,
+      "pc": 4,
+      "octave": 3,
+      "duration": 1.42,
+      "amplitude": 0.7,
+      "type": "guitar_nylon",
+      "category": "rasgueado",
+      "section": "strum"
+    },
+    {
+      "time": 27.78247925651955,
+      "pc": 8,
+      "octave": 3,
+      "duration": 1.38,
+      "amplitude": 0.7,
+      "type": "guitar_nylon",
+      "category": "rasgueado",
+      "section": "strum"
+    },
+    {
+      "time": 27.823193011743108,
+      "pc": 11,
+      "octave": 3,
+      "duration": 1.34,
+      "amplitude": 0.7,
+      "type": "guitar_nylon",
+      "category": "rasgueado",
+      "section": "strum"
+    },
+    {
+      "time": 27.856080987496572,
+      "pc": 4,
+      "octave": 4,
+      "duration": 1.3,
+      "amplitude": 0.6275607416689821,
+      "type": "guitar_nylon",
+      "category": "rasgueado",
+      "section": "strum"
+    }
+  ],
+  "audio_file": "spanish_guitar.mp3",
+  "seed": 42
+}

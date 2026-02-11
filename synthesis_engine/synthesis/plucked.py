@@ -42,7 +42,16 @@ def karplus_strong(t, start, freq, duration, amplitude, profile, rng):
     if freq < 20 or freq > 8000:
         return voice
 
-    mask = (t >= start) & (t < start + duration)
+    # K-S strings ring past their note duration — compute ring-out tail
+    # The loss_factor determines natural decay time. We extend the window
+    # so the string can ring out naturally rather than hard-cutting.
+    loss = profile.get("loss_factor", 0.998)
+    ring_extra = min(duration * 1.5, 3.0)  # ring-out up to 3s past note end
+    # For very short notes, ensure at least some ring time
+    ring_extra = max(ring_extra, 0.4)
+    total_window = duration + ring_extra
+
+    mask = (t >= start) & (t < start + total_window)
     n_active = int(np.sum(mask))
     if n_active == 0:
         return voice
@@ -168,13 +177,23 @@ def karplus_strong(t, start, freq, duration, amplitude, profile, rng):
         output = output + body_resonance * body_signal
 
     # ── Envelope shaping ──
-    # K-S naturally decays, but add a soft onset and fadeout
-    attack_len = max(int(0.002 * SAMPLE_RATE), 1)  # 2ms click avoidance
+    # Soft onset (click avoidance)
+    attack_len = max(int(0.002 * SAMPLE_RATE), 1)
     if attack_len < n_active:
         output[:attack_len] *= np.linspace(0, 1, attack_len)
 
-    fadeout = min(int(0.01 * SAMPLE_RATE), n_active)
-    if fadeout > 0:
+    # After the note's "duration", apply a gradual damping envelope
+    # to simulate the string being allowed to ring but naturally dying
+    note_end_sample = int(duration * SAMPLE_RATE)
+    if note_end_sample < n_active:
+        ring_samples = n_active - note_end_sample
+        # Exponential decay over the ring-out period
+        ring_env = np.exp(-3.0 * np.linspace(0, 1, ring_samples))
+        output[note_end_sample:] *= ring_env
+
+    # Smooth fadeout at the very end (50ms to avoid clicks)
+    fadeout = min(int(0.05 * SAMPLE_RATE), n_active // 4)
+    if fadeout > 1:
         output[-fadeout:] *= np.linspace(1, 0, fadeout)
 
     # Normalize
