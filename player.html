@@ -354,7 +354,7 @@
 
                 const urls = [
                     `https://www.cloudautomat.net/audio/generator/${filename}`,
-                    `./${filename}`
+                    `./audio/${filename}`
                 ];
                 let attempt = 0;
 
@@ -385,11 +385,11 @@
         async function loadPiece(pieceName) {
             try {
                 clearError();
-                const response = await fetch(`${pieceName}.json`);
+                const response = await fetch(`scores/${pieceName}.json`);
                 if (!response.ok) throw new Error(`Failed to load ${pieceName}.json`);
 
                 const data = await response.json();
-                state.events = data.events || [];
+                state.events = (data.events || []).sort((a, b) => a.time - b.time);
                 state.duration = data.duration || 0;
                 state.activationTimes.clear();
                 state.pastEvents.clear();

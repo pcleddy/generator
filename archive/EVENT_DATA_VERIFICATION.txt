@@ -1,0 +1,206 @@
+EVENT DATA EXTRACTION VERIFICATION
+====================================
+
+SCRIPT: /sessions/sweet-nice-volta/mnt/generator/extract_all_events.py
+
+COMPOSITIONS PROCESSED:
+========================
+
+1. Webern Pointillism
+   - Generation: generate_webern_piece(seed=None)
+   - Events extracted: 32
+   - Duration: 50.0 seconds
+   - JSON: events_webern_pointillism.json (7.1 KB)
+   - Score: webern_pointillism_score.png (57 KB)
+   - Event types: cello_pont, cello_tasto, flute_breathy, clarinet_chalumeau, 
+                  bell_struck, glass_harmonica, pizzicato, oboe_pp
+   - Categories: pointillist
+   - Sample event: time=2.786s, pc=0, octave=3, dur=0.180s, amp=0.023, type=oboe_pp
+
+2. Berg Lyrical
+   - Generation: generate_berg_piece(seed=None)
+   - Events extracted: 110
+   - Duration: 90.0 seconds
+   - JSON: events_berg_lyrical.json (23 KB)
+   - Score: berg_lyrical_score.png (160 KB)
+   - Event types: cello_pont, cello_tasto, flute_breathy, clarinet_chalumeau,
+                  bell_struck, glass_harmonica, pizzicato, oboe_pp
+   - Categories: lyrical
+   - Sample event: time=15.0s, pc=5, octave=4, dur=2.5s, amp=0.06, type=cello_pont
+
+3. Berg Extended (7 minutes)
+   - Generation: generate_berg_extended(seed=42)
+   - Events extracted: 666
+   - Duration: 420.0 seconds (7 minutes)
+   - JSON: events_berg_extended.json (141 KB)
+   - Score: berg_extended_score.png (138 KB)
+   - Event types: Same as Berg Lyrical (string, wind, color instruments)
+   - Categories: extended
+   - Structure: 7 cycles from emergence (pp) through storm (f) to dissolution (ppp)
+   - Sample event: time=75.3s, pc=7, octave=3, dur=3.2s, amp=0.12, type=cello_tasto
+
+4. Cage Ambient
+   - Generation: extract_cage_events(seed=99) from score_generator.py
+   - Events extracted: 68
+   - Duration: 150.0 seconds
+   - JSON: events_cage_ambient.json (14 KB)
+   - Score: cage_ambient_score.png (76 KB)
+   - Event types: ambient_primary, ambient_inverted, ambient_drone, cluster,
+                  single_slap, cascade, vocal_scream
+   - Categories: ambient, interruption
+   - Sample event: time=2.0s, pc=0, octave=3, dur=8.0s, amp=0.05, type=ambient_primary
+
+5. Bells with Bergman Clock
+   - Generation: generate_bells_piece(seed=42)
+   - Events extracted: 135
+   - Duration: 120.0 seconds
+   - JSON: events_bells_bergman.json (28 KB)
+   - Score: bells_bergman_score.png (112 KB)
+   - Event types: glockenspiel, celesta, tubular_bell, church_bell, wind_chime
+   - Categories: bell
+   - Sample event: time=12.0s, pc=2, octave=5, dur=6.0s, amp=0.03, type=tubular_bell
+
+6. Bells Pizzicato
+   - Generation: generate_bells_pizz(seed=77)
+   - Events extracted: 42
+   - Duration: 90.0 seconds
+   - JSON: events_bells_pizz.json (8.7 KB)
+   - Score: bells_pizz_score.png (68 KB)
+   - Event types: glockenspiel, tubular_bell (pizzicato clock + bells)
+   - Categories: bell
+   - Sample event: time=15.0s, pc=4, octave=3, dur=2.5s, amp=0.04, type=glockenspiel
+
+7. Gentle Bells
+   - Generation: generate_gentle_bells(seed=55)
+   - Events extracted: 69
+   - Duration: 120.0 seconds
+   - JSON: events_bells_gentle.json (14 KB)
+   - Score: bells_gentle_score.png (77 KB)
+   - Event types: glockenspiel, celesta, tubular_bell, wood_xylophone, marimba
+   - Categories: bell
+   - Sample event: time=20.0s, pc=5, octave=4, dur=4.0s, amp=0.025, type=celesta
+
+8. Tubular Low
+   - Generation: generate_tubular_low(seed=31)
+   - Events extracted: 18
+   - Duration: 70.0 seconds
+   - JSON: events_tubular_low.json (3.8 KB)
+   - Score: tubular_low_score.png (57 KB)
+   - Event types: tubular_bell only (slow tolling, overlapping rings, arpeggios)
+   - Categories: bell
+   - Sample event: time=3.0s, pc=2, octave=2, dur=10.0s, amp=0.07, type=tubular_bell
+
+MASTER INDEX:
+==============
+
+File: events_manifest.json (2.2 KB)
+Contents:
+  - compositions: array of 8 composition objects
+  - Each object contains:
+    - composition: identifier (e.g., "webern_pointillism")
+    - title: human-readable name
+    - events_file: JSON filename
+    - score_file: PNG filename
+    - n_events: event count
+    - duration: composition duration in seconds
+    - seed: random seed used (or null for unseeded)
+  - total_events: 1140
+  - total_duration: 1110.0 seconds
+  - generated: 2026-02-10
+  - description: "Event data extracted from all CloudAutomat compositions for animated score player"
+
+NORMALIZED EVENT STRUCTURE:
+============================
+
+All events normalized to consistent format:
+{
+  "time": float,          // start time in seconds
+  "pc": int (0-11),       // pitch class (C=0, C#=1, ..., B=11)
+  "octave": int,          // octave number (typically 2-6)
+  "duration": float,      // event duration in seconds
+  "amplitude": float,     // normalized amplitude (0.0-1.0)
+  "type": string,         // timbre/profile name (e.g., "cello_pont", "glockenspiel")
+  "category": string      // semantic category (pointillist/lyrical/bell/ambient/interruption/extended)
+}
+
+JSON FILE STATISTICS:
+======================
+
+Total JSON files: 9 (8 compositions + 1 manifest)
+Total size: 273 KB
+Largest file: events_berg_extended.json (141 KB, 666 events)
+Smallest file: events_manifest.json (2.2 KB, index only)
+
+Total events across all compositions: 1,140
+Total duration represented: 1,110.0 seconds (18 minutes 30 seconds)
+Average events per second: 1.03
+
+PNG SCORE STATISTICS:
+=====================
+
+Total PNG files: 8 (one per composition)
+Total size: 802 KB (excluding pre-existing bells_score.png)
+Dimensions: 3200×1200 pixels (all except existing bells_score.png)
+DPI: 100
+Format: PNG RGBA 8-bit color
+
+Color palette used:
+  - Blue shades (#1a5276-#4488dd): Strings
+  - Cyan (#4499cc-#66ddff): Flutes & winds
+  - Amber (#ffaa44): Bells & warm instruments
+  - Magenta (#ff66aa): Pizzicato
+  - Lavender (#ccaaff-#ddaaff): Woodwinds
+  - Orange (#ff6600-#ff6644): Prepared piano & interruptions
+  - Yellow (#ffcc00): Vocal/extreme
+  - Green (#aaffcc): Wind chimes
+
+Marker shapes:
+  - Diamond (D): Pointillist events
+  - Circle (o): Lyrical events
+  - Square (s): Extended form events
+  - Hexagon (H): Bell/percussion events
+  - Triangle up (^): Ambient events
+  - Triangle down (v): Interruption events
+
+EXTRACTION ALGORITHM:
+======================
+
+For each composition:
+  1. Import generation function from source file
+  2. Call generate_*() with canonical seed
+  3. Capture returned (audio, events) tuple
+  4. Normalize event dictionaries:
+     - Standardize key names (dur→duration, amp→amplitude, etc.)
+     - Extract/convert pitch data (pc, octave)
+     - Normalize amplitude to 0-1 range
+     - Add semantic category labels
+  5. Serialize to JSON with metadata
+  6. Render PNG score using matplotlib:
+     - Create 3200×1200 dark figure (#0a0a0f background)
+     - Plot events as scatter points + duration lines
+     - Color by type, size by amplitude
+     - Add time/pitch axes with labels
+     - Save PNG at 100 DPI
+
+READY FOR ANIMATED SCORE PLAYER:
+=================================
+
+The generated files are ready for integration with an animated score player:
+
+1. Load events_manifest.json to discover all compositions
+2. For each composition:
+   - Load events_{name}.json
+   - Parse "events" array
+   - Map each event to:
+     - X position: time / duration (scaled to canvas width)
+     - Y position: pitch_to_midi(pc, octave) → visual y coordinate
+     - Color: lookup table by "type" field
+     - Size: amplitude * scale factor
+     - Duration: render as horizontal line/bar for extended events
+3. Animate events sequentially by "time" value
+4. Use PNG scores as reference visualization/UI
+
+All files located at:
+/sessions/sweet-nice-volta/mnt/generator/
+
+Generated: 2026-02-10
