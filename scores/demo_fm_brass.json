@@ -1,0 +1,188 @@
+{
+  "title": "FM Brass Synthesis",
+  "duration": 65.5,
+  "events": [
+    {
+      "time": 0.5,
+      "pc": 0,
+      "octave": 4,
+      "duration": 2.5,
+      "amplitude": 0.5,
+      "type": "fm_trumpet",
+      "category": "FM Trumpet",
+      "section": "FM Trumpet"
+    },
+    {
+      "time": 3.25,
+      "pc": 4,
+      "octave": 4,
+      "duration": 2.5,
+      "amplitude": 0.65,
+      "type": "fm_trumpet",
+      "category": "FM Trumpet",
+      "section": "FM Trumpet"
+    },
+    {
+      "time": 6.0,
+      "pc": 7,
+      "octave": 4,
+      "duration": 2.5,
+      "amplitude": 0.5,
+      "type": "fm_trumpet",
+      "category": "FM Trumpet",
+      "section": "FM Trumpet"
+    },
+    {
+      "time": 10.25,
+      "pc": 5,
+      "octave": 3,
+      "duration": 3.0,
+      "amplitude": 0.5,
+      "type": "fm_horn",
+      "category": "FM French Horn",
+      "section": "FM French Horn"
+    },
+    {
+      "time": 13.5,
+      "pc": 9,
+      "octave": 3,
+      "duration": 3.0,
+      "amplitude": 0.65,
+      "type": "fm_horn",
+      "category": "FM French Horn",
+      "section": "FM French Horn"
+    },
+    {
+      "time": 16.75,
+      "pc": 0,
+      "octave": 4,
+      "duration": 3.0,
+      "amplitude": 0.5,
+      "type": "fm_horn",
+      "category": "FM French Horn",
+      "section": "FM French Horn"
+    },
+    {
+      "time": 21.5,
+      "pc": 10,
+      "octave": 2,
+      "duration": 3.0,
+      "amplitude": 0.5,
+      "type": "fm_trombone",
+      "category": "FM Trombone",
+      "section": "FM Trombone"
+    },
+    {
+      "time": 24.75,
+      "pc": 2,
+      "octave": 3,
+      "duration": 3.0,
+      "amplitude": 0.65,
+      "type": "fm_trombone",
+      "category": "FM Trombone",
+      "section": "FM Trombone"
+    },
+    {
+      "time": 28.0,
+      "pc": 5,
+      "octave": 3,
+      "duration": 3.0,
+      "amplitude": 0.5,
+      "type": "fm_trombone",
+      "category": "FM Trombone",
+      "section": "FM Trombone"
+    },
+    {
+      "time": 32.75,
+      "pc": 5,
+      "octave": 2,
+      "duration": 3.5,
+      "amplitude": 0.5,
+      "type": "fm_tuba",
+      "category": "FM Tuba",
+      "section": "FM Tuba"
+    },
+    {
+      "time": 36.5,
+      "pc": 0,
+      "octave": 2,
+      "duration": 3.5,
+      "amplitude": 0.65,
+      "type": "fm_tuba",
+      "category": "FM Tuba",
+      "section": "FM Tuba"
+    },
+    {
+      "time": 40.25,
+      "pc": 7,
+      "octave": 2,
+      "duration": 3.5,
+      "amplitude": 0.5,
+      "type": "fm_tuba",
+      "category": "FM Tuba",
+      "section": "FM Tuba"
+    },
+    {
+      "time": 45.5,
+      "pc": 0,
+      "octave": 4,
+      "duration": 2.5,
+      "amplitude": 0.5,
+      "type": "fm_flugelhorn",
+      "category": "FM Flugelhorn",
+      "section": "FM Flugelhorn"
+    },
+    {
+      "time": 48.25,
+      "pc": 4,
+      "octave": 4,
+      "duration": 2.5,
+      "amplitude": 0.65,
+      "type": "fm_flugelhorn",
+      "category": "FM Flugelhorn",
+      "section": "FM Flugelhorn"
+    },
+    {
+      "time": 51.0,
+      "pc": 7,
+      "octave": 4,
+      "duration": 2.5,
+      "amplitude": 0.5,
+      "type": "fm_flugelhorn",
+      "category": "FM Flugelhorn",
+      "section": "FM Flugelhorn"
+    },
+    {
+      "time": 55.25,
+      "pc": 0,
+      "octave": 4,
+      "duration": 2.0,
+      "amplitude": 0.5,
+      "type": "fm_muted_trumpet",
+      "category": "FM Muted Trumpet",
+      "section": "FM Muted Trumpet"
+    },
+    {
+      "time": 57.5,
+      "pc": 4,
+      "octave": 4,
+      "duration": 2.0,
+      "amplitude": 0.65,
+      "type": "fm_muted_trumpet",
+      "category": "FM Muted Trumpet",
+      "section": "FM Muted Trumpet"
+    },
+    {
+      "time": 59.75,
+      "pc": 7,
+      "octave": 4,
+      "duration": 2.0,
+      "amplitude": 0.5,
+      "type": "fm_muted_trumpet",
+      "category": "FM Muted Trumpet",
+      "section": "FM Muted Trumpet"
+    }
+  ],
+  "audio_file": "demo_fm_brass.mp3",
+  "seed": 42
+}

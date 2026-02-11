@@ -9,6 +9,8 @@ from .profiles.bells import BELL_PROFILES
 from .profiles.wood import WOOD_PROFILES
 from .profiles.brass import BRASS_PROFILES
 from .profiles.voices import VOICE_TIMBRES
+from .profiles.plucked import PLUCKED_PROFILES
+from .profiles.fm_brass import FM_BRASS_PROFILES
 
 
 class InstrumentRegistry:
@@ -49,6 +51,14 @@ class InstrumentRegistry:
 
         # Voices
         for name, profile in VOICE_TIMBRES.items():
+            self._profiles[name] = profile
+
+        # Plucked strings (Karplus-Strong)
+        for name, profile in PLUCKED_PROFILES.items():
+            self._profiles[name] = profile
+
+        # FM Brass
+        for name, profile in FM_BRASS_PROFILES.items():
             self._profiles[name] = profile
 
     def get(self, name):

@@ -1,0 +1,785 @@
+{
+  "title": "Timbre Gallery \u2014 All Instruments",
+  "duration": 211.90000000000018,
+  "events": [
+    {
+      "time": 0.5,
+      "pc": 0,
+      "octave": 6,
+      "duration": 1.8,
+      "amplitude": 0.55,
+      "type": "glockenspiel",
+      "category": "Glockenspiel",
+      "section": "Glockenspiel"
+    },
+    {
+      "time": 2.6,
+      "pc": 4,
+      "octave": 6,
+      "duration": 1.8,
+      "amplitude": 0.7,
+      "type": "glockenspiel",
+      "category": "Glockenspiel",
+      "section": "Glockenspiel"
+    },
+    {
+      "time": 4.7,
+      "pc": 7,
+      "octave": 6,
+      "duration": 1.8,
+      "amplitude": 0.55,
+      "type": "glockenspiel",
+      "category": "Glockenspiel",
+      "section": "Glockenspiel"
+    },
+    {
+      "time": 8.3,
+      "pc": 0,
+      "octave": 5,
+      "duration": 2.0,
+      "amplitude": 0.55,
+      "type": "celesta",
+      "category": "Celesta",
+      "section": "Celesta"
+    },
+    {
+      "time": 10.600000000000001,
+      "pc": 4,
+      "octave": 5,
+      "duration": 2.0,
+      "amplitude": 0.7,
+      "type": "celesta",
+      "category": "Celesta",
+      "section": "Celesta"
+    },
+    {
+      "time": 12.900000000000002,
+      "pc": 7,
+      "octave": 5,
+      "duration": 2.0,
+      "amplitude": 0.55,
+      "type": "celesta",
+      "category": "Celesta",
+      "section": "Celesta"
+    },
+    {
+      "time": 16.700000000000003,
+      "pc": 2,
+      "octave": 3,
+      "duration": 2.5,
+      "amplitude": 0.55,
+      "type": "tubular_bell",
+      "category": "Tubular Bell",
+      "section": "Tubular Bell"
+    },
+    {
+      "time": 19.500000000000004,
+      "pc": 6,
+      "octave": 3,
+      "duration": 2.5,
+      "amplitude": 0.7,
+      "type": "tubular_bell",
+      "category": "Tubular Bell",
+      "section": "Tubular Bell"
+    },
+    {
+      "time": 22.300000000000004,
+      "pc": 9,
+      "octave": 3,
+      "duration": 2.5,
+      "amplitude": 0.55,
+      "type": "tubular_bell",
+      "category": "Tubular Bell",
+      "section": "Tubular Bell"
+    },
+    {
+      "time": 26.600000000000005,
+      "pc": 2,
+      "octave": 3,
+      "duration": 3.0,
+      "amplitude": 0.55,
+      "type": "church_bell",
+      "category": "Church Bell",
+      "section": "Church Bell"
+    },
+    {
+      "time": 29.900000000000006,
+      "pc": 9,
+      "octave": 3,
+      "duration": 3.0,
+      "amplitude": 0.7,
+      "type": "church_bell",
+      "category": "Church Bell",
+      "section": "Church Bell"
+    },
+    {
+      "time": 33.2,
+      "pc": 2,
+      "octave": 4,
+      "duration": 3.0,
+      "amplitude": 0.55,
+      "type": "church_bell",
+      "category": "Church Bell",
+      "section": "Church Bell"
+    },
+    {
+      "time": 38.0,
+      "pc": 7,
+      "octave": 6,
+      "duration": 1.5,
+      "amplitude": 0.55,
+      "type": "wind_chime",
+      "category": "Wind Chime",
+      "section": "Wind Chime"
+    },
+    {
+      "time": 39.8,
+      "pc": 11,
+      "octave": 6,
+      "duration": 1.5,
+      "amplitude": 0.7,
+      "type": "wind_chime",
+      "category": "Wind Chime",
+      "section": "Wind Chime"
+    },
+    {
+      "time": 41.599999999999994,
+      "pc": 2,
+      "octave": 7,
+      "duration": 1.5,
+      "amplitude": 0.55,
+      "type": "wind_chime",
+      "category": "Wind Chime",
+      "section": "Wind Chime"
+    },
+    {
+      "time": 44.89999999999999,
+      "pc": 2,
+      "octave": 2,
+      "duration": 3.0,
+      "amplitude": 0.55,
+      "type": "papa_bell",
+      "category": "Papa Bell (10-partial)",
+      "section": "Papa Bell (10-partial)"
+    },
+    {
+      "time": 48.19999999999999,
+      "pc": 7,
+      "octave": 2,
+      "duration": 3.0,
+      "amplitude": 0.7,
+      "type": "papa_bell",
+      "category": "Papa Bell (10-partial)",
+      "section": "Papa Bell (10-partial)"
+    },
+    {
+      "time": 51.499999999999986,
+      "pc": 2,
+      "octave": 3,
+      "duration": 3.0,
+      "amplitude": 0.55,
+      "type": "papa_bell",
+      "category": "Papa Bell (10-partial)",
+      "section": "Papa Bell (10-partial)"
+    },
+    {
+      "time": 56.29999999999998,
+      "pc": 7,
+      "octave": 5,
+      "duration": 1.5,
+      "amplitude": 0.55,
+      "type": "music_box_tine",
+      "category": "Music Box Tine",
+      "section": "Music Box Tine"
+    },
+    {
+      "time": 58.09999999999998,
+      "pc": 11,
+      "octave": 5,
+      "duration": 1.5,
+      "amplitude": 0.7,
+      "type": "music_box_tine",
+      "category": "Music Box Tine",
+      "section": "Music Box Tine"
+    },
+    {
+      "time": 59.89999999999998,
+      "pc": 2,
+      "octave": 6,
+      "duration": 1.5,
+      "amplitude": 0.55,
+      "type": "music_box_tine",
+      "category": "Music Box Tine",
+      "section": "Music Box Tine"
+    },
+    {
+      "time": 63.199999999999974,
+      "pc": 7,
+      "octave": 5,
+      "duration": 1.5,
+      "amplitude": 0.55,
+      "type": "music_box_worn",
+      "category": "Music Box (Worn)",
+      "section": "Music Box (Worn)"
+    },
+    {
+      "time": 64.99999999999997,
+      "pc": 11,
+      "octave": 5,
+      "duration": 1.5,
+      "amplitude": 0.7,
+      "type": "music_box_worn",
+      "category": "Music Box (Worn)",
+      "section": "Music Box (Worn)"
+    },
+    {
+      "time": 66.79999999999997,
+      "pc": 2,
+      "octave": 6,
+      "duration": 1.5,
+      "amplitude": 0.55,
+      "type": "music_box_worn",
+      "category": "Music Box (Worn)",
+      "section": "Music Box (Worn)"
+    },
+    {
+      "time": 70.09999999999997,
+      "pc": 0,
+      "octave": 5,
+      "duration": 1.5,
+      "amplitude": 0.55,
+      "type": "wood_xylophone",
+      "category": "Wood Xylophone",
+      "section": "Wood Xylophone"
+    },
+    {
+      "time": 71.89999999999996,
+      "pc": 4,
+      "octave": 5,
+      "duration": 1.5,
+      "amplitude": 0.7,
+      "type": "wood_xylophone",
+      "category": "Wood Xylophone",
+      "section": "Wood Xylophone"
+    },
+    {
+      "time": 73.69999999999996,
+      "pc": 7,
+      "octave": 5,
+      "duration": 1.5,
+      "amplitude": 0.55,
+      "type": "wood_xylophone",
+      "category": "Wood Xylophone",
+      "section": "Wood Xylophone"
+    },
+    {
+      "time": 76.99999999999996,
+      "pc": 0,
+      "octave": 4,
+      "duration": 2.0,
+      "amplitude": 0.55,
+      "type": "marimba",
+      "category": "Marimba",
+      "section": "Marimba"
+    },
+    {
+      "time": 79.29999999999995,
+      "pc": 4,
+      "octave": 4,
+      "duration": 2.0,
+      "amplitude": 0.7,
+      "type": "marimba",
+      "category": "Marimba",
+      "section": "Marimba"
+    },
+    {
+      "time": 81.59999999999995,
+      "pc": 7,
+      "octave": 4,
+      "duration": 2.0,
+      "amplitude": 0.55,
+      "type": "marimba",
+      "category": "Marimba",
+      "section": "Marimba"
+    },
+    {
+      "time": 85.39999999999995,
+      "pc": 0,
+      "octave": 3,
+      "duration": 2.0,
+      "amplitude": 0.55,
+      "type": "cello_pont",
+      "category": "Cello sul Ponticello",
+      "section": "Cello sul Ponticello"
+    },
+    {
+      "time": 87.69999999999995,
+      "pc": 4,
+      "octave": 3,
+      "duration": 2.0,
+      "amplitude": 0.7,
+      "type": "cello_pont",
+      "category": "Cello sul Ponticello",
+      "section": "Cello sul Ponticello"
+    },
+    {
+      "time": 89.99999999999994,
+      "pc": 7,
+      "octave": 3,
+      "duration": 2.0,
+      "amplitude": 0.55,
+      "type": "cello_pont",
+      "category": "Cello sul Ponticello",
+      "section": "Cello sul Ponticello"
+    },
+    {
+      "time": 93.79999999999994,
+      "pc": 0,
+      "octave": 3,
+      "duration": 2.0,
+      "amplitude": 0.55,
+      "type": "cello_tasto",
+      "category": "Cello sul Tasto",
+      "section": "Cello sul Tasto"
+    },
+    {
+      "time": 96.09999999999994,
+      "pc": 4,
+      "octave": 3,
+      "duration": 2.0,
+      "amplitude": 0.7,
+      "type": "cello_tasto",
+      "category": "Cello sul Tasto",
+      "section": "Cello sul Tasto"
+    },
+    {
+      "time": 98.39999999999993,
+      "pc": 7,
+      "octave": 3,
+      "duration": 2.0,
+      "amplitude": 0.55,
+      "type": "cello_tasto",
+      "category": "Cello sul Tasto",
+      "section": "Cello sul Tasto"
+    },
+    {
+      "time": 102.19999999999993,
+      "pc": 0,
+      "octave": 3,
+      "duration": 1.2,
+      "amplitude": 0.55,
+      "type": "pizzicato",
+      "category": "Pizzicato",
+      "section": "Pizzicato"
+    },
+    {
+      "time": 103.69999999999993,
+      "pc": 4,
+      "octave": 3,
+      "duration": 1.2,
+      "amplitude": 0.7,
+      "type": "pizzicato",
+      "category": "Pizzicato",
+      "section": "Pizzicato"
+    },
+    {
+      "time": 105.19999999999993,
+      "pc": 7,
+      "octave": 3,
+      "duration": 1.2,
+      "amplitude": 0.55,
+      "type": "pizzicato",
+      "category": "Pizzicato",
+      "section": "Pizzicato"
+    },
+    {
+      "time": 108.19999999999993,
+      "pc": 7,
+      "octave": 4,
+      "duration": 2.0,
+      "amplitude": 0.55,
+      "type": "violin",
+      "category": "Violin",
+      "section": "Violin"
+    },
+    {
+      "time": 110.49999999999993,
+      "pc": 11,
+      "octave": 4,
+      "duration": 2.0,
+      "amplitude": 0.7,
+      "type": "violin",
+      "category": "Violin",
+      "section": "Violin"
+    },
+    {
+      "time": 112.79999999999993,
+      "pc": 2,
+      "octave": 5,
+      "duration": 2.0,
+      "amplitude": 0.55,
+      "type": "violin",
+      "category": "Violin",
+      "section": "Violin"
+    },
+    {
+      "time": 116.59999999999992,
+      "pc": 0,
+      "octave": 4,
+      "duration": 2.0,
+      "amplitude": 0.55,
+      "type": "viola",
+      "category": "Viola",
+      "section": "Viola"
+    },
+    {
+      "time": 118.89999999999992,
+      "pc": 4,
+      "octave": 4,
+      "duration": 2.0,
+      "amplitude": 0.7,
+      "type": "viola",
+      "category": "Viola",
+      "section": "Viola"
+    },
+    {
+      "time": 121.19999999999992,
+      "pc": 7,
+      "octave": 4,
+      "duration": 2.0,
+      "amplitude": 0.55,
+      "type": "viola",
+      "category": "Viola",
+      "section": "Viola"
+    },
+    {
+      "time": 124.99999999999991,
+      "pc": 0,
+      "octave": 3,
+      "duration": 2.0,
+      "amplitude": 0.55,
+      "type": "cello",
+      "category": "Cello",
+      "section": "Cello"
+    },
+    {
+      "time": 127.29999999999991,
+      "pc": 4,
+      "octave": 3,
+      "duration": 2.0,
+      "amplitude": 0.7,
+      "type": "cello",
+      "category": "Cello",
+      "section": "Cello"
+    },
+    {
+      "time": 129.5999999999999,
+      "pc": 7,
+      "octave": 3,
+      "duration": 2.0,
+      "amplitude": 0.55,
+      "type": "cello",
+      "category": "Cello",
+      "section": "Cello"
+    },
+    {
+      "time": 133.39999999999992,
+      "pc": 0,
+      "octave": 2,
+      "duration": 2.0,
+      "amplitude": 0.55,
+      "type": "string_bass",
+      "category": "String Bass",
+      "section": "String Bass"
+    },
+    {
+      "time": 135.69999999999993,
+      "pc": 4,
+      "octave": 2,
+      "duration": 2.0,
+      "amplitude": 0.7,
+      "type": "string_bass",
+      "category": "String Bass",
+      "section": "String Bass"
+    },
+    {
+      "time": 137.99999999999994,
+      "pc": 7,
+      "octave": 2,
+      "duration": 2.0,
+      "amplitude": 0.55,
+      "type": "string_bass",
+      "category": "String Bass",
+      "section": "String Bass"
+    },
+    {
+      "time": 141.79999999999995,
+      "pc": 7,
+      "octave": 4,
+      "duration": 2.0,
+      "amplitude": 0.55,
+      "type": "flute_breathy",
+      "category": "Flute (breathy)",
+      "section": "Flute (breathy)"
+    },
+    {
+      "time": 144.09999999999997,
+      "pc": 11,
+      "octave": 4,
+      "duration": 2.0,
+      "amplitude": 0.7,
+      "type": "flute_breathy",
+      "category": "Flute (breathy)",
+      "section": "Flute (breathy)"
+    },
+    {
+      "time": 146.39999999999998,
+      "pc": 2,
+      "octave": 5,
+      "duration": 2.0,
+      "amplitude": 0.55,
+      "type": "flute_breathy",
+      "category": "Flute (breathy)",
+      "section": "Flute (breathy)"
+    },
+    {
+      "time": 150.2,
+      "pc": 2,
+      "octave": 3,
+      "duration": 2.0,
+      "amplitude": 0.55,
+      "type": "clarinet_chalumeau",
+      "category": "Clarinet (chalumeau)",
+      "section": "Clarinet (chalumeau)"
+    },
+    {
+      "time": 152.5,
+      "pc": 5,
+      "octave": 3,
+      "duration": 2.0,
+      "amplitude": 0.7,
+      "type": "clarinet_chalumeau",
+      "category": "Clarinet (chalumeau)",
+      "section": "Clarinet (chalumeau)"
+    },
+    {
+      "time": 154.8,
+      "pc": 9,
+      "octave": 3,
+      "duration": 2.0,
+      "amplitude": 0.55,
+      "type": "clarinet_chalumeau",
+      "category": "Clarinet (chalumeau)",
+      "section": "Clarinet (chalumeau)"
+    },
+    {
+      "time": 158.60000000000002,
+      "pc": 0,
+      "octave": 4,
+      "duration": 2.0,
+      "amplitude": 0.55,
+      "type": "oboe_pp",
+      "category": "Oboe pp",
+      "section": "Oboe pp"
+    },
+    {
+      "time": 160.90000000000003,
+      "pc": 4,
+      "octave": 4,
+      "duration": 2.0,
+      "amplitude": 0.7,
+      "type": "oboe_pp",
+      "category": "Oboe pp",
+      "section": "Oboe pp"
+    },
+    {
+      "time": 163.20000000000005,
+      "pc": 7,
+      "octave": 4,
+      "duration": 2.0,
+      "amplitude": 0.55,
+      "type": "oboe_pp",
+      "category": "Oboe pp",
+      "section": "Oboe pp"
+    },
+    {
+      "time": 167.00000000000006,
+      "pc": 0,
+      "octave": 5,
+      "duration": 2.0,
+      "amplitude": 0.55,
+      "type": "bell_struck",
+      "category": "Bell (struck)",
+      "section": "Bell (struck)"
+    },
+    {
+      "time": 169.30000000000007,
+      "pc": 4,
+      "octave": 5,
+      "duration": 2.0,
+      "amplitude": 0.7,
+      "type": "bell_struck",
+      "category": "Bell (struck)",
+      "section": "Bell (struck)"
+    },
+    {
+      "time": 171.60000000000008,
+      "pc": 7,
+      "octave": 5,
+      "duration": 2.0,
+      "amplitude": 0.55,
+      "type": "bell_struck",
+      "category": "Bell (struck)",
+      "section": "Bell (struck)"
+    },
+    {
+      "time": 175.4000000000001,
+      "pc": 7,
+      "octave": 4,
+      "duration": 2.5,
+      "amplitude": 0.55,
+      "type": "glass_harmonica",
+      "category": "Glass Harmonica",
+      "section": "Glass Harmonica"
+    },
+    {
+      "time": 178.2000000000001,
+      "pc": 11,
+      "octave": 4,
+      "duration": 2.5,
+      "amplitude": 0.7,
+      "type": "glass_harmonica",
+      "category": "Glass Harmonica",
+      "section": "Glass Harmonica"
+    },
+    {
+      "time": 181.0000000000001,
+      "pc": 2,
+      "octave": 5,
+      "duration": 2.5,
+      "amplitude": 0.55,
+      "type": "glass_harmonica",
+      "category": "Glass Harmonica",
+      "section": "Glass Harmonica"
+    },
+    {
+      "time": 185.30000000000013,
+      "pc": 5,
+      "octave": 3,
+      "duration": 2.0,
+      "amplitude": 0.55,
+      "type": "horn",
+      "category": "Horn",
+      "section": "Horn"
+    },
+    {
+      "time": 187.60000000000014,
+      "pc": 9,
+      "octave": 3,
+      "duration": 2.0,
+      "amplitude": 0.7,
+      "type": "horn",
+      "category": "Horn",
+      "section": "Horn"
+    },
+    {
+      "time": 189.90000000000015,
+      "pc": 0,
+      "octave": 4,
+      "duration": 2.0,
+      "amplitude": 0.55,
+      "type": "horn",
+      "category": "Horn",
+      "section": "Horn"
+    },
+    {
+      "time": 193.70000000000016,
+      "pc": 0,
+      "octave": 4,
+      "duration": 1.8,
+      "amplitude": 0.55,
+      "type": "trumpet",
+      "category": "Trumpet",
+      "section": "Trumpet"
+    },
+    {
+      "time": 195.80000000000015,
+      "pc": 4,
+      "octave": 4,
+      "duration": 1.8,
+      "amplitude": 0.7,
+      "type": "trumpet",
+      "category": "Trumpet",
+      "section": "Trumpet"
+    },
+    {
+      "time": 197.90000000000015,
+      "pc": 7,
+      "octave": 4,
+      "duration": 1.8,
+      "amplitude": 0.55,
+      "type": "trumpet",
+      "category": "Trumpet",
+      "section": "Trumpet"
+    },
+    {
+      "time": 201.50000000000014,
+      "pc": 10,
+      "octave": 2,
+      "duration": 2.0,
+      "amplitude": 0.55,
+      "type": "trombone",
+      "category": "Trombone",
+      "section": "Trombone"
+    },
+    {
+      "time": 203.80000000000015,
+      "pc": 2,
+      "octave": 3,
+      "duration": 2.0,
+      "amplitude": 0.7,
+      "type": "trombone",
+      "category": "Trombone",
+      "section": "Trombone"
+    },
+    {
+      "time": 206.10000000000016,
+      "pc": 5,
+      "octave": 3,
+      "duration": 2.0,
+      "amplitude": 0.55,
+      "type": "trombone",
+      "category": "Trombone",
+      "section": "Trombone"
+    }
+  ],
+  "audio_file": "timbre_gallery.mp3",
+  "seed": 42,
+  "instrument_order": [
+    "Glockenspiel",
+    "Celesta",
+    "Tubular Bell",
+    "Church Bell",
+    "Wind Chime",
+    "Papa Bell (10-partial)",
+    "Music Box Tine",
+    "Music Box (Worn)",
+    "Wood Xylophone",
+    "Marimba",
+    "Cello sul Ponticello",
+    "Cello sul Tasto",
+    "Pizzicato",
+    "Violin",
+    "Viola",
+    "Cello",
+    "String Bass",
+    "Flute (breathy)",
+    "Clarinet (chalumeau)",
+    "Oboe pp",
+    "Bell (struck)",
+    "Glass Harmonica",
+    "Horn",
+    "Trumpet",
+    "Trombone"
+  ]
+}

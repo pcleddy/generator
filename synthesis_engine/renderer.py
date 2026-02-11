@@ -15,6 +15,8 @@ from .config import SAMPLE_RATE, freq_from_pitch_class
 from .registry import InstrumentRegistry
 from .synthesis.tone import pointillist_tone
 from .synthesis.bell import bell_strike, wood_strike
+from .synthesis.plucked import karplus_strong
+from .synthesis.fm_brass import fm_brass_tone
 from .synthesis.reverb import simple_reverb
 
 
@@ -66,6 +68,18 @@ class Renderer:
             elif category == "wood":
                 profile = self._get_wood_profile(instrument)
                 audio += wood_strike(
+                    t, event.time, freq, event.duration,
+                    event.amplitude, profile, rng
+                )
+            elif category == "plucked":
+                profile = self._get_plucked_profile(instrument)
+                audio += karplus_strong(
+                    t, event.time, freq, event.duration,
+                    event.amplitude, profile, rng
+                )
+            elif category == "fm_brass":
+                profile = self._get_fm_brass_profile(instrument)
+                audio += fm_brass_tone(
                     t, event.time, freq, event.duration,
                     event.amplitude, profile, rng
                 )
@@ -165,6 +179,11 @@ class Renderer:
             return 'bell'
         if 'wood' in instrument_name or instrument_name in ('marimba',):
             return 'wood'
+        if instrument_name.startswith('fm_'):
+            return 'fm_brass'
+        if instrument_name in ('guitar_nylon', 'guitar_steel', 'harp', 'plucked_cello',
+                               'banjo', 'sitar', 'koto', 'harpsichord'):
+            return 'plucked'
         return 'string'
 
     def _get_bell_profile(self, name):
@@ -180,6 +199,20 @@ class Renderer:
             return self.registry.get(name)
         from .profiles.wood import WOOD_PROFILES
         return WOOD_PROFILES.get(name, WOOD_PROFILES['wood_xylophone'])
+
+    def _get_plucked_profile(self, name):
+        """Get plucked string (Karplus-Strong) profile dict."""
+        if self.registry.has(name):
+            return self.registry.get(name)
+        from .profiles.plucked import PLUCKED_PROFILES
+        return PLUCKED_PROFILES.get(name, PLUCKED_PROFILES['guitar_nylon'])
+
+    def _get_fm_brass_profile(self, name):
+        """Get FM brass profile dict."""
+        if self.registry.has(name):
+            return self.registry.get(name)
+        from .profiles.fm_brass import FM_BRASS_PROFILES
+        return FM_BRASS_PROFILES.get(name, FM_BRASS_PROFILES['fm_trumpet'])
 
     def _get_timbre(self, name):
         """Get timbre dict for pointillist_tone."""

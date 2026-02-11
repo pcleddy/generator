@@ -1,0 +1,328 @@
+{
+  "title": "Karplus-Strong Plucked Strings",
+  "duration": 93.69999999999999,
+  "events": [
+    {
+      "time": 0.5,
+      "pc": 4,
+      "octave": 3,
+      "duration": 2.5,
+      "amplitude": 0.5,
+      "type": "guitar_nylon",
+      "category": "Nylon Guitar",
+      "section": "Nylon Guitar"
+    },
+    {
+      "time": 3.25,
+      "pc": 7,
+      "octave": 3,
+      "duration": 2.5,
+      "amplitude": 0.5,
+      "type": "guitar_nylon",
+      "category": "Nylon Guitar",
+      "section": "Nylon Guitar"
+    },
+    {
+      "time": 6.0,
+      "pc": 0,
+      "octave": 4,
+      "duration": 2.5,
+      "amplitude": 0.65,
+      "type": "guitar_nylon",
+      "category": "Nylon Guitar",
+      "section": "Nylon Guitar"
+    },
+    {
+      "time": 8.75,
+      "pc": 4,
+      "octave": 4,
+      "duration": 2.5,
+      "amplitude": 0.5,
+      "type": "guitar_nylon",
+      "category": "Nylon Guitar",
+      "section": "Nylon Guitar"
+    },
+    {
+      "time": 13.0,
+      "pc": 4,
+      "octave": 3,
+      "duration": 2.5,
+      "amplitude": 0.5,
+      "type": "guitar_steel",
+      "category": "Steel Guitar",
+      "section": "Steel Guitar"
+    },
+    {
+      "time": 15.75,
+      "pc": 7,
+      "octave": 3,
+      "duration": 2.5,
+      "amplitude": 0.5,
+      "type": "guitar_steel",
+      "category": "Steel Guitar",
+      "section": "Steel Guitar"
+    },
+    {
+      "time": 18.5,
+      "pc": 0,
+      "octave": 4,
+      "duration": 2.5,
+      "amplitude": 0.65,
+      "type": "guitar_steel",
+      "category": "Steel Guitar",
+      "section": "Steel Guitar"
+    },
+    {
+      "time": 21.25,
+      "pc": 4,
+      "octave": 4,
+      "duration": 2.5,
+      "amplitude": 0.5,
+      "type": "guitar_steel",
+      "category": "Steel Guitar",
+      "section": "Steel Guitar"
+    },
+    {
+      "time": 25.5,
+      "pc": 0,
+      "octave": 4,
+      "duration": 2.0,
+      "amplitude": 0.5,
+      "type": "harp",
+      "category": "Harp",
+      "section": "Harp"
+    },
+    {
+      "time": 27.75,
+      "pc": 4,
+      "octave": 4,
+      "duration": 2.0,
+      "amplitude": 0.5,
+      "type": "harp",
+      "category": "Harp",
+      "section": "Harp"
+    },
+    {
+      "time": 30.0,
+      "pc": 7,
+      "octave": 4,
+      "duration": 2.0,
+      "amplitude": 0.65,
+      "type": "harp",
+      "category": "Harp",
+      "section": "Harp"
+    },
+    {
+      "time": 32.25,
+      "pc": 0,
+      "octave": 5,
+      "duration": 2.0,
+      "amplitude": 0.5,
+      "type": "harp",
+      "category": "Harp",
+      "section": "Harp"
+    },
+    {
+      "time": 36.0,
+      "pc": 0,
+      "octave": 3,
+      "duration": 3.0,
+      "amplitude": 0.5,
+      "type": "plucked_cello",
+      "category": "Plucked Cello",
+      "section": "Plucked Cello"
+    },
+    {
+      "time": 39.25,
+      "pc": 4,
+      "octave": 3,
+      "duration": 3.0,
+      "amplitude": 0.5,
+      "type": "plucked_cello",
+      "category": "Plucked Cello",
+      "section": "Plucked Cello"
+    },
+    {
+      "time": 42.5,
+      "pc": 7,
+      "octave": 3,
+      "duration": 3.0,
+      "amplitude": 0.65,
+      "type": "plucked_cello",
+      "category": "Plucked Cello",
+      "section": "Plucked Cello"
+    },
+    {
+      "time": 45.75,
+      "pc": 0,
+      "octave": 4,
+      "duration": 3.0,
+      "amplitude": 0.5,
+      "type": "plucked_cello",
+      "category": "Plucked Cello",
+      "section": "Plucked Cello"
+    },
+    {
+      "time": 50.5,
+      "pc": 7,
+      "octave": 3,
+      "duration": 1.5,
+      "amplitude": 0.5,
+      "type": "banjo",
+      "category": "Banjo",
+      "section": "Banjo"
+    },
+    {
+      "time": 52.25,
+      "pc": 0,
+      "octave": 4,
+      "duration": 1.5,
+      "amplitude": 0.5,
+      "type": "banjo",
+      "category": "Banjo",
+      "section": "Banjo"
+    },
+    {
+      "time": 54.0,
+      "pc": 2,
+      "octave": 4,
+      "duration": 1.5,
+      "amplitude": 0.65,
+      "type": "banjo",
+      "category": "Banjo",
+      "section": "Banjo"
+    },
+    {
+      "time": 55.75,
+      "pc": 7,
+      "octave": 4,
+      "duration": 1.5,
+      "amplitude": 0.5,
+      "type": "banjo",
+      "category": "Banjo",
+      "section": "Banjo"
+    },
+    {
+      "time": 59.0,
+      "pc": 2,
+      "octave": 3,
+      "duration": 2.5,
+      "amplitude": 0.5,
+      "type": "sitar",
+      "category": "Sitar",
+      "section": "Sitar"
+    },
+    {
+      "time": 61.75,
+      "pc": 7,
+      "octave": 3,
+      "duration": 2.5,
+      "amplitude": 0.5,
+      "type": "sitar",
+      "category": "Sitar",
+      "section": "Sitar"
+    },
+    {
+      "time": 64.5,
+      "pc": 9,
+      "octave": 3,
+      "duration": 2.5,
+      "amplitude": 0.65,
+      "type": "sitar",
+      "category": "Sitar",
+      "section": "Sitar"
+    },
+    {
+      "time": 67.25,
+      "pc": 2,
+      "octave": 4,
+      "duration": 2.5,
+      "amplitude": 0.5,
+      "type": "sitar",
+      "category": "Sitar",
+      "section": "Sitar"
+    },
+    {
+      "time": 71.5,
+      "pc": 0,
+      "octave": 4,
+      "duration": 2.0,
+      "amplitude": 0.5,
+      "type": "koto",
+      "category": "Koto",
+      "section": "Koto"
+    },
+    {
+      "time": 73.75,
+      "pc": 2,
+      "octave": 4,
+      "duration": 2.0,
+      "amplitude": 0.5,
+      "type": "koto",
+      "category": "Koto",
+      "section": "Koto"
+    },
+    {
+      "time": 76.0,
+      "pc": 5,
+      "octave": 4,
+      "duration": 2.0,
+      "amplitude": 0.65,
+      "type": "koto",
+      "category": "Koto",
+      "section": "Koto"
+    },
+    {
+      "time": 78.25,
+      "pc": 9,
+      "octave": 4,
+      "duration": 2.0,
+      "amplitude": 0.5,
+      "type": "koto",
+      "category": "Koto",
+      "section": "Koto"
+    },
+    {
+      "time": 82.0,
+      "pc": 0,
+      "octave": 4,
+      "duration": 1.8,
+      "amplitude": 0.5,
+      "type": "harpsichord",
+      "category": "Harpsichord",
+      "section": "Harpsichord"
+    },
+    {
+      "time": 84.05,
+      "pc": 4,
+      "octave": 4,
+      "duration": 1.8,
+      "amplitude": 0.5,
+      "type": "harpsichord",
+      "category": "Harpsichord",
+      "section": "Harpsichord"
+    },
+    {
+      "time": 86.1,
+      "pc": 7,
+      "octave": 4,
+      "duration": 1.8,
+      "amplitude": 0.65,
+      "type": "harpsichord",
+      "category": "Harpsichord",
+      "section": "Harpsichord"
+    },
+    {
+      "time": 88.14999999999999,
+      "pc": 0,
+      "octave": 5,
+      "duration": 1.8,
+      "amplitude": 0.5,
+      "type": "harpsichord",
+      "category": "Harpsichord",
+      "section": "Harpsichord"
+    }
+  ],
+  "audio_file": "demo_plucked_strings.mp3",
+  "seed": 42
+}

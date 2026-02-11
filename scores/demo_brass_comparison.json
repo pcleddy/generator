@@ -1,0 +1,188 @@
+{
+  "title": "Brass: Additive vs FM Comparison",
+  "duration": 59.5,
+  "events": [
+    {
+      "time": 0.5,
+      "pc": 0,
+      "octave": 4,
+      "duration": 2.0,
+      "amplitude": 0.5,
+      "type": "trumpet",
+      "category": "Old Trumpet (additive)",
+      "section": "Old Trumpet (additive)"
+    },
+    {
+      "time": 2.75,
+      "pc": 4,
+      "octave": 4,
+      "duration": 2.0,
+      "amplitude": 0.65,
+      "type": "trumpet",
+      "category": "Old Trumpet (additive)",
+      "section": "Old Trumpet (additive)"
+    },
+    {
+      "time": 5.0,
+      "pc": 7,
+      "octave": 4,
+      "duration": 2.0,
+      "amplitude": 0.5,
+      "type": "trumpet",
+      "category": "Old Trumpet (additive)",
+      "section": "Old Trumpet (additive)"
+    },
+    {
+      "time": 8.75,
+      "pc": 0,
+      "octave": 4,
+      "duration": 2.5,
+      "amplitude": 0.5,
+      "type": "fm_trumpet",
+      "category": "NEW Trumpet (FM)",
+      "section": "NEW Trumpet (FM)"
+    },
+    {
+      "time": 11.5,
+      "pc": 4,
+      "octave": 4,
+      "duration": 2.5,
+      "amplitude": 0.65,
+      "type": "fm_trumpet",
+      "category": "NEW Trumpet (FM)",
+      "section": "NEW Trumpet (FM)"
+    },
+    {
+      "time": 14.25,
+      "pc": 7,
+      "octave": 4,
+      "duration": 2.5,
+      "amplitude": 0.5,
+      "type": "fm_trumpet",
+      "category": "NEW Trumpet (FM)",
+      "section": "NEW Trumpet (FM)"
+    },
+    {
+      "time": 18.5,
+      "pc": 5,
+      "octave": 3,
+      "duration": 2.0,
+      "amplitude": 0.5,
+      "type": "horn",
+      "category": "Old Horn (additive)",
+      "section": "Old Horn (additive)"
+    },
+    {
+      "time": 20.75,
+      "pc": 9,
+      "octave": 3,
+      "duration": 2.0,
+      "amplitude": 0.65,
+      "type": "horn",
+      "category": "Old Horn (additive)",
+      "section": "Old Horn (additive)"
+    },
+    {
+      "time": 23.0,
+      "pc": 0,
+      "octave": 4,
+      "duration": 2.0,
+      "amplitude": 0.5,
+      "type": "horn",
+      "category": "Old Horn (additive)",
+      "section": "Old Horn (additive)"
+    },
+    {
+      "time": 26.75,
+      "pc": 5,
+      "octave": 3,
+      "duration": 3.0,
+      "amplitude": 0.5,
+      "type": "fm_horn",
+      "category": "NEW Horn (FM)",
+      "section": "NEW Horn (FM)"
+    },
+    {
+      "time": 30.0,
+      "pc": 9,
+      "octave": 3,
+      "duration": 3.0,
+      "amplitude": 0.65,
+      "type": "fm_horn",
+      "category": "NEW Horn (FM)",
+      "section": "NEW Horn (FM)"
+    },
+    {
+      "time": 33.25,
+      "pc": 0,
+      "octave": 4,
+      "duration": 3.0,
+      "amplitude": 0.5,
+      "type": "fm_horn",
+      "category": "NEW Horn (FM)",
+      "section": "NEW Horn (FM)"
+    },
+    {
+      "time": 38.0,
+      "pc": 10,
+      "octave": 2,
+      "duration": 2.0,
+      "amplitude": 0.5,
+      "type": "trombone",
+      "category": "Old Trombone (additive)",
+      "section": "Old Trombone (additive)"
+    },
+    {
+      "time": 40.25,
+      "pc": 2,
+      "octave": 3,
+      "duration": 2.0,
+      "amplitude": 0.65,
+      "type": "trombone",
+      "category": "Old Trombone (additive)",
+      "section": "Old Trombone (additive)"
+    },
+    {
+      "time": 42.5,
+      "pc": 5,
+      "octave": 3,
+      "duration": 2.0,
+      "amplitude": 0.5,
+      "type": "trombone",
+      "category": "Old Trombone (additive)",
+      "section": "Old Trombone (additive)"
+    },
+    {
+      "time": 46.25,
+      "pc": 10,
+      "octave": 2,
+      "duration": 3.0,
+      "amplitude": 0.5,
+      "type": "fm_trombone",
+      "category": "NEW Trombone (FM)",
+      "section": "NEW Trombone (FM)"
+    },
+    {
+      "time": 49.5,
+      "pc": 2,
+      "octave": 3,
+      "duration": 3.0,
+      "amplitude": 0.65,
+      "type": "fm_trombone",
+      "category": "NEW Trombone (FM)",
+      "section": "NEW Trombone (FM)"
+    },
+    {
+      "time": 52.75,
+      "pc": 5,
+      "octave": 3,
+      "duration": 3.0,
+      "amplitude": 0.5,
+      "type": "fm_trombone",
+      "category": "NEW Trombone (FM)",
+      "section": "NEW Trombone (FM)"
+    }
+  ],
+  "audio_file": "demo_brass_comparison.mp3",
+  "seed": 42
+}
