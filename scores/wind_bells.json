@@ -1,0 +1,422 @@
+{
+  "title": "Wind Bells",
+  "duration": 132.0,
+  "seed": 42,
+  "n_events": 46,
+  "events": [
+    {
+      "time": 0.8,
+      "pc": 9,
+      "octave": 4,
+      "duration": 10.0,
+      "amplitude": 0.246,
+      "type": "tubular_bell",
+      "category": "bell"
+    },
+    {
+      "time": 2.957,
+      "pc": 9,
+      "octave": 4,
+      "duration": 10.0,
+      "amplitude": 0.201,
+      "type": "tubular_bell",
+      "category": "bell"
+    },
+    {
+      "time": 4.196,
+      "pc": 2,
+      "octave": 4,
+      "duration": 10.0,
+      "amplitude": 0.186,
+      "type": "tubular_bell",
+      "category": "bell"
+    },
+    {
+      "time": 6.241,
+      "pc": 7,
+      "octave": 4,
+      "duration": 10.0,
+      "amplitude": 0.321,
+      "type": "tubular_bell",
+      "category": "bell"
+    },
+    {
+      "time": 9.052,
+      "pc": 0,
+      "octave": 5,
+      "duration": 10.0,
+      "amplitude": 0.262,
+      "type": "tubular_bell",
+      "category": "bell"
+    },
+    {
+      "time": 11.496,
+      "pc": 4,
+      "octave": 4,
+      "duration": 10.0,
+      "amplitude": 0.203,
+      "type": "tubular_bell",
+      "category": "bell"
+    },
+    {
+      "time": 15.323,
+      "pc": 0,
+      "octave": 5,
+      "duration": 10.0,
+      "amplitude": 0.309,
+      "type": "tubular_bell",
+      "category": "bell"
+    },
+    {
+      "time": 18.766,
+      "pc": 7,
+      "octave": 4,
+      "duration": 10.0,
+      "amplitude": 0.328,
+      "type": "tubular_bell",
+      "category": "bell"
+    },
+    {
+      "time": 22.548,
+      "pc": 9,
+      "octave": 4,
+      "duration": 10.0,
+      "amplitude": 0.235,
+      "type": "tubular_bell",
+      "category": "bell"
+    },
+    {
+      "time": 23.851,
+      "pc": 2,
+      "octave": 4,
+      "duration": 10.0,
+      "amplitude": 0.247,
+      "type": "tubular_bell",
+      "category": "bell"
+    },
+    {
+      "time": 27.272,
+      "pc": 4,
+      "octave": 4,
+      "duration": 10.0,
+      "amplitude": 0.244,
+      "type": "tubular_bell",
+      "category": "bell"
+    },
+    {
+      "time": 31.173,
+      "pc": 7,
+      "octave": 4,
+      "duration": 10.0,
+      "amplitude": 0.355,
+      "type": "tubular_bell",
+      "category": "bell"
+    },
+    {
+      "time": 32.867,
+      "pc": 7,
+      "octave": 5,
+      "duration": 10.0,
+      "amplitude": 0.314,
+      "type": "tubular_bell",
+      "category": "bell"
+    },
+    {
+      "time": 37.1,
+      "pc": 9,
+      "octave": 4,
+      "duration": 10.0,
+      "amplitude": 0.188,
+      "type": "tubular_bell",
+      "category": "bell"
+    },
+    {
+      "time": 38.648,
+      "pc": 2,
+      "octave": 4,
+      "duration": 10.0,
+      "amplitude": 0.39,
+      "type": "tubular_bell",
+      "category": "bell"
+    },
+    {
+      "time": 40.7,
+      "pc": 4,
+      "octave": 4,
+      "duration": 10.0,
+      "amplitude": 0.29,
+      "type": "tubular_bell",
+      "category": "bell"
+    },
+    {
+      "time": 42.22,
+      "pc": 7,
+      "octave": 4,
+      "duration": 10.0,
+      "amplitude": 0.32,
+      "type": "tubular_bell",
+      "category": "bell"
+    },
+    {
+      "time": 45.699,
+      "pc": 2,
+      "octave": 4,
+      "duration": 10.0,
+      "amplitude": 0.302,
+      "type": "tubular_bell",
+      "category": "bell"
+    },
+    {
+      "time": 46.018,
+      "pc": 0,
+      "octave": 4,
+      "duration": 10.0,
+      "amplitude": 0.37,
+      "type": "tubular_bell",
+      "category": "bell"
+    },
+    {
+      "time": 47.301,
+      "pc": 4,
+      "octave": 4,
+      "duration": 10.0,
+      "amplitude": 0.307,
+      "type": "tubular_bell",
+      "category": "bell"
+    },
+    {
+      "time": 51.564,
+      "pc": 0,
+      "octave": 4,
+      "duration": 10.0,
+      "amplitude": 0.344,
+      "type": "tubular_bell",
+      "category": "bell"
+    },
+    {
+      "time": 54.818,
+      "pc": 9,
+      "octave": 4,
+      "duration": 10.0,
+      "amplitude": 0.284,
+      "type": "tubular_bell",
+      "category": "bell"
+    },
+    {
+      "time": 57.258,
+      "pc": 0,
+      "octave": 5,
+      "duration": 10.0,
+      "amplitude": 0.3,
+      "type": "tubular_bell",
+      "category": "bell"
+    },
+    {
+      "time": 59.644,
+      "pc": 0,
+      "octave": 5,
+      "duration": 10.0,
+      "amplitude": 0.333,
+      "type": "tubular_bell",
+      "category": "bell"
+    },
+    {
+      "time": 62.704,
+      "pc": 9,
+      "octave": 4,
+      "duration": 10.0,
+      "amplitude": 0.367,
+      "type": "tubular_bell",
+      "category": "bell"
+    },
+    {
+      "time": 65.505,
+      "pc": 4,
+      "octave": 4,
+      "duration": 10.0,
+      "amplitude": 0.403,
+      "type": "tubular_bell",
+      "category": "bell"
+    },
+    {
+      "time": 69.719,
+      "pc": 4,
+      "octave": 4,
+      "duration": 10.0,
+      "amplitude": 0.391,
+      "type": "tubular_bell",
+      "category": "bell"
+    },
+    {
+      "time": 72.664,
+      "pc": 7,
+      "octave": 4,
+      "duration": 10.0,
+      "amplitude": 0.363,
+      "type": "tubular_bell",
+      "category": "bell"
+    },
+    {
+      "time": 75.682,
+      "pc": 7,
+      "octave": 4,
+      "duration": 10.0,
+      "amplitude": 0.244,
+      "type": "tubular_bell",
+      "category": "bell"
+    },
+    {
+      "time": 79.202,
+      "pc": 2,
+      "octave": 4,
+      "duration": 10.0,
+      "amplitude": 0.355,
+      "type": "tubular_bell",
+      "category": "bell"
+    },
+    {
+      "time": 80.807,
+      "pc": 7,
+      "octave": 5,
+      "duration": 10.0,
+      "amplitude": 0.285,
+      "type": "tubular_bell",
+      "category": "bell"
+    },
+    {
+      "time": 83.813,
+      "pc": 2,
+      "octave": 4,
+      "duration": 10.0,
+      "amplitude": 0.321,
+      "type": "tubular_bell",
+      "category": "bell"
+    },
+    {
+      "time": 85.299,
+      "pc": 0,
+      "octave": 4,
+      "duration": 10.0,
+      "amplitude": 0.235,
+      "type": "tubular_bell",
+      "category": "bell"
+    },
+    {
+      "time": 89.56,
+      "pc": 0,
+      "octave": 4,
+      "duration": 10.0,
+      "amplitude": 0.341,
+      "type": "tubular_bell",
+      "category": "bell"
+    },
+    {
+      "time": 90.932,
+      "pc": 2,
+      "octave": 5,
+      "duration": 10.0,
+      "amplitude": 0.293,
+      "type": "tubular_bell",
+      "category": "bell"
+    },
+    {
+      "time": 95.105,
+      "pc": 2,
+      "octave": 4,
+      "duration": 10.0,
+      "amplitude": 0.283,
+      "type": "tubular_bell",
+      "category": "bell"
+    },
+    {
+      "time": 96.912,
+      "pc": 9,
+      "octave": 4,
+      "duration": 10.0,
+      "amplitude": 0.416,
+      "type": "tubular_bell",
+      "category": "bell"
+    },
+    {
+      "time": 97.373,
+      "pc": 4,
+      "octave": 4,
+      "duration": 10.0,
+      "amplitude": 0.24,
+      "type": "tubular_bell",
+      "category": "bell"
+    },
+    {
+      "time": 99.157,
+      "pc": 4,
+      "octave": 4,
+      "duration": 10.0,
+      "amplitude": 0.24,
+      "type": "tubular_bell",
+      "category": "bell"
+    },
+    {
+      "time": 102.71,
+      "pc": 0,
+      "octave": 5,
+      "duration": 10.0,
+      "amplitude": 0.192,
+      "type": "tubular_bell",
+      "category": "bell"
+    },
+    {
+      "time": 106.931,
+      "pc": 7,
+      "octave": 5,
+      "duration": 10.0,
+      "amplitude": 0.384,
+      "type": "tubular_bell",
+      "category": "bell"
+    },
+    {
+      "time": 108.762,
+      "pc": 2,
+      "octave": 4,
+      "duration": 10.0,
+      "amplitude": 0.194,
+      "type": "tubular_bell",
+      "category": "bell"
+    },
+    {
+      "time": 111.243,
+      "pc": 2,
+      "octave": 4,
+      "duration": 10.0,
+      "amplitude": 0.289,
+      "type": "tubular_bell",
+      "category": "bell"
+    },
+    {
+      "time": 113.688,
+      "pc": 7,
+      "octave": 5,
+      "duration": 10.0,
+      "amplitude": 0.352,
+      "type": "tubular_bell",
+      "category": "bell"
+    },
+    {
+      "time": 115.274,
+      "pc": 7,
+      "octave": 5,
+      "duration": 10.0,
+      "amplitude": 0.31,
+      "type": "tubular_bell",
+      "category": "bell"
+    },
+    {
+      "time": 118.171,
+      "pc": 7,
+      "octave": 4,
+      "duration": 10.0,
+      "amplitude": 0.385,
+      "type": "tubular_bell",
+      "category": "bell"
+    }
+  ]
+}
