@@ -1,0 +1,268 @@
+[
+  {
+    "id": "cage_bells_family",
+    "title": "Bells Family — Rude Guy, Boy, Papa &amp; Little Sister",
+    "meta": "0:30 &middot; 87 events &middot; seed 42",
+    "description": "Four bell players collide in 30 seconds of overlapping chaos. A rude guy loops pitch-shifted fragments of the cage_ambient cluster interruption (chewing gum between hits). A boy clangs an F#5 church bell with Bergman-film persistence. Papa hammers a D2 tubular bell with a custom 10-partial bright profile &mdash; double-whacking 35% of the time after schweinshaxe. Little sister on B5 glockenspiel giggles through 42 rapid-fire dings with sloppy tuning and detuned double-taps. No damper pedal &mdash; all tails ring into each other.",
+    "tags": [
+      {"label": "church bell", "class": "tag-timbre"},
+      {"label": "tubular bell", "class": "tag-timbre"},
+      {"label": "glockenspiel", "class": "tag-timbre"},
+      {"label": "prepared piano cluster", "class": "tag-special"},
+      {"label": "10-partial papa profile", "class": "tag-tech"},
+      {"label": "additive layering", "class": "tag-form"}
+    ],
+    "audio_url": "https://www.cloudautomat.net/audio/generator/cage_bells_family_01.mp3",
+    "score_png": "scores/cage_bells_family_score.png",
+    "score_caption": "Graphical Score &mdash; Diamonds = rude guy clusters, circles = boy&rsquo;s church bell, squares = papa&rsquo;s tubular bell, triangles = sister&rsquo;s glockenspiel. 87 events in 30 seconds. Click to enlarge.",
+    "source_file": "compositions/cage_bells_family.py",
+    "player_label": "Bells Family — Rude Guy, Boy, Papa & Sister",
+    "player_name": "Bells Family",
+    "has_score_json": true
+  },
+  {
+    "id": "quay_music_box",
+    "title": "The Dormitory of Dust — Quay Brothers Music Box",
+    "meta": "3:00 &middot; 212 events &middot; seed 42",
+    "description": "A music box winds up, plays a waltz in G major, and slowly runs down as the spring loses tension. Steel tine synthesis with pin-pluck transients and a characteristic metallic overtone at 5.4&times;. The spring model decelerates tempo from 108 BPM to 8 BPM while sagging pitch by 120 cents. Gear clicks, spring creaks, distant bell tolls. The last tine rings out alone in a dusty room.",
+    "tags": [
+      {"label": "music box tines", "class": "tag-timbre"},
+      {"label": "spring wind-down", "class": "tag-special"},
+      {"label": "tempo deceleration", "class": "tag-tech"},
+      {"label": "pitch sag model", "class": "tag-tech"},
+      {"label": "gear clicks", "class": "tag-timbre"},
+      {"label": "G major waltz", "class": "tag-form"}
+    ],
+    "audio_url": "https://www.cloudautomat.net/audio/generator/quay_music_box_01.mp3",
+    "score_png": "scores/quay_music_box_score.png",
+    "score_caption": "Graphical Score &mdash; Diamonds = melody tines, squares = bass tines, pentagons = distant bells, star = last tine. Section markers show the winding-down progression. Click to enlarge.",
+    "source_file": "compositions/quay_music_box.py",
+    "player_label": "The Dormitory of Dust — Quay Music Box",
+    "player_name": "Quay Music Box",
+    "has_score_json": true
+  },
+  {
+    "id": "wind_bells",
+    "title": "Wind Bells &mdash; Tubular Bells in Breeze",
+    "meta": "2:12 &middot; 48 events &middot; seed 42",
+    "description": "Mid-range tubular bells stirred by wind. Sparse, gentle strikes with irregular timing &mdash; sometimes quick gusts, sometimes long silences. Pentatonic pitch set (C&ndash;D&ndash;E&ndash;G&ndash;A) so any random overlap is consonant. Each bell rings until it naturally dies out via exponential partial decay. &plusmn;8 cents of microtonal drift per strike because wind doesn&rsquo;t hit perfectly. Cathedral reverb. Additive bell synthesis with inharmonic partials.",
+    "tags": [
+      {"label": "tubular bells", "class": "tag-timbre"},
+      {"label": "wind-blown", "class": "tag-timbre"},
+      {"label": "additive synthesis", "class": "tag-tech"},
+      {"label": "inharmonic partials", "class": "tag-tech"},
+      {"label": "microtonal &plusmn;8&cent;", "class": "tag-tech"},
+      {"label": "pentatonic &middot; ambient", "class": "tag-form"}
+    ],
+    "audio_url": "https://www.cloudautomat.net/audio/generator/wind_bells_01.mp3",
+    "score_png": "scores/wind_bells_score.png",
+    "score_caption": "Graphical Score &mdash; 48 events over 2 minutes. Hexagons = tubular bell strikes, size = amplitude. Sparse wind-blown timing. Click to enlarge.",
+    "source_file": "compositions/wind_bells.py",
+    "player_label": "Wind Bells — Tubular Bells in Breeze",
+    "player_name": "Wind Bells",
+    "has_score_json": true
+  },
+  {
+    "id": "berg_extended",
+    "title": "Berg Extended — Lyrical Serialism",
+    "meta": "7:00 &middot; 666 events &middot; seed 42",
+    "description": "Seven cycles of development through Berg's triadic row (Violin Concerto concept). Emergence &rarr; Awakening &rarr; Waltz &rarr; Tonal Heart &rarr; Storm &rarr; Remembrance &rarr; Dissolution. Each cycle transposes the row, re-orchestrates, and varies density. The \"loop\" is classical variation form — same process, different content.",
+    "tags": [
+      {"label": "serial variation", "class": "tag-form"},
+      {"label": "7 cycles", "class": "tag-form"},
+      {"label": "strings", "class": "tag-timbre"},
+      {"label": "winds", "class": "tag-timbre"},
+      {"label": "bells", "class": "tag-timbre"},
+      {"label": "triadic row", "class": "tag-tech"},
+      {"label": "waltz fragments", "class": "tag-tech"}
+    ],
+    "audio_url": "https://www.cloudautomat.net/audio/generator/berg_extended_01.mp3",
+    "score_png": "scores/berg_extended_score.png",
+    "score_caption": "Graphical Score &mdash; 7 cycles of variation across 7 minutes. Bars = strings/winds, diamonds = bells/glass. Click to enlarge.",
+    "source_file": "compositions/berg_extended.py",
+    "player_label": "Berg Extended — Lyrical Serialism",
+    "player_name": "Berg Extended",
+    "has_score_json": true
+  },
+  {
+    "id": "bells_bergman",
+    "title": "Bells + Bergman Clock",
+    "meta": "2:00 &middot; 135 events &middot; seed 42",
+    "description": "Layered glockenspiel, celesta, tubular bells, church bells, and wind chimes over a relentless tick-tock metronome at 63 BPM (deliberately off 60 — more unsettling). True bell partials with the characteristic tierce (minor 3rd at 1.183&times;). Tonal: D Dorian &rarr; A Mixolydian &rarr; G Major &rarr; D Minor. The clock never stops.",
+    "tags": [
+      {"label": "glockenspiel", "class": "tag-timbre"},
+      {"label": "tubular bells", "class": "tag-timbre"},
+      {"label": "church bell", "class": "tag-timbre"},
+      {"label": "celesta", "class": "tag-timbre"},
+      {"label": "bell partials", "class": "tag-tech"},
+      {"label": "tick-tock metronome", "class": "tag-special"},
+      {"label": "D Dorian modal", "class": "tag-form"}
+    ],
+    "audio_url": "https://www.cloudautomat.net/audio/generator/bells_bergman_01.mp3",
+    "score_png": "scores/bells_score.png",
+    "score_caption": "Graphical Score &mdash; Diamonds = glockenspiel, circles = celesta, squares = tubular bell, pentagons = church bell, stars = wind chime. Click to enlarge.",
+    "source_file": "compositions/bells_bergman.py",
+    "player_label": "Bells + Bergman Clock",
+    "player_name": "Bells + Bergman Clock",
+    "has_score_json": true
+  },
+  {
+    "id": "bells_pizz",
+    "title": "Bells + Pizzicato Clock",
+    "meta": "1:30 &middot; 42 events &middot; seed 77",
+    "description": "Variation on Bergman Clock: the mechanical tick-tock replaced by a deeper pizzicato pattern at 72 BPM — alternating A2/E3 with ornamental turns and two-note pickup figures from A minor pentatonic. Heavier tubular bells in E Phrygian, church bell toll at 48s, tubular bell chords in D minor.",
+    "tags": [
+      {"label": "pizzicato clock", "class": "tag-special"},
+      {"label": "tubular bells", "class": "tag-timbre"},
+      {"label": "church bell", "class": "tag-timbre"},
+      {"label": "E Phrygian", "class": "tag-tech"},
+      {"label": "ornamental figures", "class": "tag-tech"},
+      {"label": "A minor pentatonic", "class": "tag-form"}
+    ],
+    "audio_url": "https://www.cloudautomat.net/audio/generator/bells_pizz_01.mp3",
+    "score_png": "scores/bells_pizz_score.png",
+    "score_caption": "Graphical Score &mdash; Circles = pizzicato clock, squares = tubular bells, pentagons = church bell. Click to enlarge.",
+    "source_file": "compositions/bells_pizz.py",
+    "player_label": "Bells + Pizzicato Clock",
+    "player_name": "Bells + Pizzicato Clock",
+    "has_score_json": true
+  },
+  {
+    "id": "bells_gentle",
+    "title": "Bells Gentle — For Tanya",
+    "meta": "2:00 &middot; 69 events &middot; seed 55",
+    "description": "Wood xylophone synthesis (rosewood bars with resonator tubes) and marimba (rubber mallets, warmer). Gentle pizzicato clock at 66 BPM. Everything stays pp&ndash;mp — no sudden loud bells, no metallic toy sounds. Modal journey: A pentatonic &rarr; D Dorian &rarr; G Lydian &rarr; F major &rarr; A pentatonic. Tubular bells appear only twice at whisper level.",
+    "tags": [
+      {"label": "wood xylophone", "class": "tag-timbre"},
+      {"label": "marimba", "class": "tag-timbre"},
+      {"label": "pizzicato clock", "class": "tag-special"},
+      {"label": "rosewood synthesis", "class": "tag-tech"},
+      {"label": "A pentatonic", "class": "tag-form"},
+      {"label": "pp&ndash;mp dynamics", "class": "tag-form"}
+    ],
+    "audio_url": "https://www.cloudautomat.net/audio/generator/bells_gentle_01.mp3",
+    "score_png": "scores/bells_gentle_score.png",
+    "score_caption": "Graphical Score &mdash; Squares = xylophone/marimba, circles = pizzicato, tubular bells barely visible. Click to enlarge.",
+    "source_file": "compositions/bells_gentle.py",
+    "player_label": "Bells Gentle — For Tanya",
+    "player_name": "Bells Gentle",
+    "has_score_json": true
+  },
+  {
+    "id": "tubular_low",
+    "title": "Tubular Bells — Low Register",
+    "meta": "1:10 &middot; 18 events &middot; seed 31",
+    "description": "100% tubular bells, low register only (octaves 2&ndash;4). D minor pentatonic with natural minor coloring. Four layers: slow tolling &rarr; overlapping rings &rarr; arpeggiated figures &rarr; chordal swells. Three anchor bells frame the structure: D2 (open), A2 (midpoint), D2 (close). Cathedral reverb with 10 prime-number-ratio delay taps.",
+    "tags": [
+      {"label": "tubular bells", "class": "tag-timbre"},
+      {"label": "low register", "class": "tag-tech"},
+      {"label": "D minor pentatonic", "class": "tag-form"},
+      {"label": "cathedral reverb", "class": "tag-tech"},
+      {"label": "anchor bells", "class": "tag-form"}
+    ],
+    "audio_url": "https://www.cloudautomat.net/audio/generator/tubular_low_01.mp3",
+    "score_png": "scores/tubular_low_score.png",
+    "score_caption": "Graphical Score &mdash; All squares = tubular bells across three octaves. Click to enlarge.",
+    "source_file": "compositions/tubular_low.py",
+    "player_label": "Tubular Bells — Low Register",
+    "player_name": "Tubular Bells",
+    "has_score_json": true
+  },
+  {
+    "id": "cage_ambient",
+    "title": "Cage Ambient — Drift with Interruptions",
+    "meta": "2:30 &middot; 68 events &middot; seed 99",
+    "description": "Continuous ambient bed (12-tone drift, sub-bass drones) periodically slapped by chance-determined prepared piano events: bolt clusters, screw cascades, keyboard runs, vocal screams. Auto-ducking silences the ambient bed after each interruption — the shock of absence. Cage's chance operations determine timing, type, and preparation.",
+    "tags": [
+      {"label": "prepared piano", "class": "tag-special"},
+      {"label": "chance operations", "class": "tag-tech"},
+      {"label": "auto-ducking", "class": "tag-tech"},
+      {"label": "bolt/screw/rubber", "class": "tag-timbre"},
+      {"label": "ambient + interruption", "class": "tag-form"}
+    ],
+    "audio_url": "https://www.cloudautomat.net/audio/generator/cage_ambient_01.mp3",
+    "score_png": "scores/score_graphical.png",
+    "score_caption": "Graphical Score &mdash; Blue bars = ambient drift, pink cascades = interruptions, grey = ducking silence. Click to enlarge.",
+    "source_file": "compositions/cage_ambient.py",
+    "player_label": "Cage Ambient — Drift with Interruptions",
+    "player_name": "Cage Ambient",
+    "has_score_json": true
+  },
+  {
+    "id": "one_more_thing",
+    "title": "\"One More Thing\" — Paul's Voice Clone",
+    "meta": "1:45 &middot; seed 42",
+    "description": "Voice synthesis using formant data extracted via LPC analysis from Paul's actual voice recording: F0=92Hz, F1=673Hz, F2=996Hz, F3=3049Hz, F4=4780Hz. Five sections: ambient drift &rarr; voice emerges &rarr; call/response &rarr; climax with prepared piano &rarr; dissolution. The vocal formants are Paul's; the glottal source uses reduced spectral tilt (0.7) and sharper open quotient (0.45).",
+    "tags": [
+      {"label": "voice clone", "class": "tag-special"},
+      {"label": "LPC analysis", "class": "tag-tech"},
+      {"label": "all-pole resonators", "class": "tag-tech"},
+      {"label": "glottal pulse", "class": "tag-tech"},
+      {"label": "prepared piano", "class": "tag-timbre"}
+    ],
+    "audio_url": "https://www.cloudautomat.net/audio/generator/one_more_thing.mp3",
+    "score_png": null,
+    "score_caption": null,
+    "source_file": "compositions/one_more_thing.py",
+    "player_label": null,
+    "player_name": null,
+    "has_score_json": false
+  },
+  {
+    "id": "berg_lyrical",
+    "title": "Berg Lyrical — Original",
+    "meta": "1:30 &middot; seed default",
+    "description": "The anti-Webern. Lush, overlapping legato lines. 4 sections: Opening (two string voices) &rarr; Development (winds join, waltz fragments) &rarr; Tonal window (G minor triad emerges) &rarr; Dissolution. Triadic row outlines Gm, D, Am, E &mdash; then whole-tone ascent.",
+    "tags": [
+      {"label": "triadic row", "class": "tag-form"},
+      {"label": "waltz", "class": "tag-tech"},
+      {"label": "strings", "class": "tag-timbre"},
+      {"label": "winds", "class": "tag-timbre"},
+      {"label": "tonal window", "class": "tag-form"}
+    ],
+    "audio_url": "https://www.cloudautomat.net/audio/generator/berg_01.mp3",
+    "score_png": "scores/berg_lyrical_score.png",
+    "score_caption": "Graphical Score &mdash; Overlapping legato lines, waltz fragments, tonal window in G minor. Click to enlarge.",
+    "source_file": "compositions/berg_lyrical.py",
+    "player_label": "Berg Lyrical — Original",
+    "player_name": "Berg Lyrical",
+    "has_score_json": true
+  },
+  {
+    "id": "webern",
+    "title": "Webern Pointillism",
+    "meta": "0:50 &middot; seed default",
+    "description": "Derived row from trichord [0, 1, 4]. Isolated tones separated by silence, wide register leaps (3-5 octaves), Klangfarbenmelodie (each note gets its own timbre). The shared synthesis engine that powers all other compositions.",
+    "tags": [
+      {"label": "derived row", "class": "tag-form"},
+      {"label": "pointillism", "class": "tag-tech"},
+      {"label": "Klangfarbenmelodie", "class": "tag-tech"},
+      {"label": "60% silence", "class": "tag-form"}
+    ],
+    "audio_url": "https://www.cloudautomat.net/audio/generator/webern_02.mp3",
+    "score_png": "scores/webern_pointillism_score.png",
+    "score_caption": "Graphical Score &mdash; Isolated tones, wide register leaps, Klangfarbenmelodie. 60% silence. Click to enlarge.",
+    "source_file": "compositions/webern_pointillism.py",
+    "player_label": "Webern Pointillism",
+    "player_name": "Webern Pointillism",
+    "has_score_json": true
+  },
+  {
+    "id": "ambient_synthesis",
+    "title": "Ambient Synthesis — Original POC",
+    "meta": "2:00 &middot; 5 layers",
+    "description": "The original proof of concept. 5 layers: primary 12-tone row, inverted row, microtonal chaos, sub-bass, and chromatic clusters. Where it all started.",
+    "tags": [
+      {"label": "12-tone", "class": "tag-form"},
+      {"label": "additive synthesis", "class": "tag-tech"},
+      {"label": "5 layers", "class": "tag-form"}
+    ],
+    "audio_url": "https://www.cloudautomat.net/audio/generator/ambient_01.mp3",
+    "score_png": null,
+    "score_caption": null,
+    "source_file": "compositions/ambient_synthesis.py",
+    "player_label": null,
+    "player_name": null,
+    "has_score_json": false
+  }
+]

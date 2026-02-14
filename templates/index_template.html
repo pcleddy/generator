@@ -1,0 +1,570 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Generator — Algorithmic Music Synthesis</title>
+<style>
+  :root {
+    --bg: #0a0a0f;
+    --bg2: #12121a;
+    --bg3: #1a1a28;
+    --text: #ccccdd;
+    --text-dim: #777788;
+    --accent: #66ccff;
+    --accent2: #cc99ff;
+    --accent3: #ffaa44;
+    --accent4: #ff6644;
+    --accent5: #aaffcc;
+    --border: #2a2a3a;
+  }
+
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+
+  body {
+    font-family: 'SF Mono', 'Fira Code', 'Consolas', monospace;
+    background: var(--bg);
+    color: var(--text);
+    line-height: 1.6;
+    min-height: 100vh;
+  }
+
+  .container {
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 40px 24px;
+  }
+
+  header {
+    text-align: center;
+    margin-bottom: 60px;
+    padding: 40px 0;
+    border-bottom: 1px solid var(--border);
+  }
+
+  h1 {
+    font-size: 2.2em;
+    font-weight: 300;
+    letter-spacing: 0.15em;
+    color: #ffffff;
+    margin-bottom: 8px;
+  }
+
+  h1 span { color: var(--accent); }
+
+  .subtitle {
+    font-size: 0.85em;
+    color: var(--text-dim);
+    margin-bottom: 20px;
+  }
+
+  .tagline {
+    font-size: 0.95em;
+    color: var(--accent2);
+    font-style: italic;
+    margin-bottom: 12px;
+  }
+
+  .tech-badge {
+    display: inline-block;
+    padding: 3px 10px;
+    margin: 3px;
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    font-size: 0.7em;
+    color: var(--text-dim);
+  }
+
+  h2 {
+    font-size: 1.1em;
+    font-weight: 400;
+    color: var(--accent);
+    margin: 48px 0 20px;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+  }
+
+  .piece-card {
+    background: var(--bg2);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    padding: 24px;
+    margin-bottom: 16px;
+    transition: border-color 0.2s;
+  }
+
+  .piece-card:hover {
+    border-color: var(--accent);
+  }
+
+  .piece-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    margin-bottom: 12px;
+    flex-wrap: wrap;
+    gap: 8px;
+  }
+
+  .piece-title {
+    font-size: 1.05em;
+    color: #ffffff;
+    font-weight: 500;
+  }
+
+  .piece-meta {
+    font-size: 0.75em;
+    color: var(--text-dim);
+  }
+
+  .piece-description {
+    font-size: 0.85em;
+    color: var(--text-dim);
+    margin-bottom: 14px;
+    line-height: 1.5;
+  }
+
+  .piece-tags {
+    margin-bottom: 14px;
+  }
+
+  .tag {
+    display: inline-block;
+    padding: 2px 8px;
+    margin: 2px 4px 2px 0;
+    border-radius: 4px;
+    font-size: 0.7em;
+    font-weight: 500;
+  }
+
+  .tag-timbre  { background: #1a3355; color: var(--accent); }
+  .tag-form    { background: #2a1a3a; color: var(--accent2); }
+  .tag-tech    { background: #2a2a15; color: var(--accent3); }
+  .tag-special { background: #2a1515; color: var(--accent4); }
+
+  audio {
+    width: 100%;
+    height: 40px;
+    margin-top: 4px;
+    border-radius: 4px;
+    outline: none;
+  }
+
+  /* Dark audio player styling */
+  audio::-webkit-media-controls-panel {
+    background: var(--bg3);
+  }
+
+  .score-section {
+    margin: 20px 0;
+  }
+
+  .score-img {
+    width: 100%;
+    border: 1px solid var(--border);
+    border-radius: 6px;
+    margin: 10px 0;
+    cursor: pointer;
+    transition: border-color 0.2s;
+  }
+
+  .score-img:hover {
+    border-color: var(--accent);
+  }
+
+  .score-caption {
+    font-size: 0.75em;
+    color: var(--text-dim);
+    text-align: center;
+    margin-top: 6px;
+  }
+
+  .tech-section {
+    background: var(--bg2);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    padding: 24px;
+    margin: 16px 0;
+  }
+
+  .tech-title {
+    font-size: 0.9em;
+    color: var(--accent3);
+    margin-bottom: 12px;
+    font-weight: 500;
+  }
+
+  .tech-content {
+    font-size: 0.82em;
+    color: var(--text-dim);
+    line-height: 1.6;
+  }
+
+  .tech-content code {
+    background: var(--bg3);
+    padding: 1px 5px;
+    border-radius: 3px;
+    color: var(--accent);
+    font-size: 0.95em;
+  }
+
+  pre {
+    background: var(--bg);
+    border: 1px solid var(--border);
+    border-radius: 6px;
+    padding: 16px;
+    overflow-x: auto;
+    font-size: 0.78em;
+    line-height: 1.5;
+    margin: 12px 0;
+    color: var(--text-dim);
+  }
+
+  pre span.kw { color: var(--accent2); }
+  pre span.fn { color: var(--accent); }
+  pre span.cm { color: #555566; }
+  pre span.st { color: var(--accent5); }
+
+  .file-list {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+    gap: 8px;
+    margin: 12px 0;
+  }
+
+  .file-item {
+    background: var(--bg3);
+    padding: 8px 12px;
+    border-radius: 4px;
+    font-size: 0.78em;
+    color: var(--text-dim);
+    border: 1px solid transparent;
+    transition: border-color 0.2s;
+  }
+
+  .file-item:hover { border-color: var(--border); }
+  .file-item a { color: var(--accent); text-decoration: none; }
+  .file-item a:hover { text-decoration: underline; }
+  .file-item .file-desc { font-size: 0.9em; color: var(--text-dim); margin-top: 2px; }
+
+  footer {
+    margin-top: 80px;
+    padding: 30px 0;
+    border-top: 1px solid var(--border);
+    text-align: center;
+    font-size: 0.78em;
+    color: var(--text-dim);
+  }
+
+  footer a { color: var(--accent); text-decoration: none; }
+  footer a:hover { text-decoration: underline; }
+
+  .timeline {
+    position: relative;
+    padding-left: 20px;
+    border-left: 2px solid var(--border);
+    margin: 20px 0 20px 10px;
+  }
+
+  .timeline-item {
+    margin-bottom: 16px;
+    position: relative;
+  }
+
+  .timeline-item::before {
+    content: '';
+    position: absolute;
+    left: -25px;
+    top: 6px;
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+    background: var(--accent);
+  }
+
+  .timeline-label {
+    font-size: 0.78em;
+    color: var(--accent);
+    font-weight: 500;
+  }
+
+  .timeline-text {
+    font-size: 0.82em;
+    color: var(--text-dim);
+  }
+
+  @media (max-width: 600px) {
+    h1 { font-size: 1.5em; }
+    .piece-header { flex-direction: column; }
+    .file-list { grid-template-columns: 1fr; }
+  }
+</style>
+</head>
+<body>
+
+<div class="container">
+
+<header>
+  <h1><span>GENERATOR</span></h1>
+  <div class="tagline">Algorithmic Music Synthesis from First Principles</div>
+  <div class="subtitle">
+    Pure numpy/scipy synthesis — no samples, no DAW, no MIDI.
+    Every sound generated from mathematical functions.
+  </div>
+  <div>
+    <span class="tech-badge">Python</span>
+    <span class="tech-badge">numpy</span>
+    <span class="tech-badge">scipy</span>
+    <span class="tech-badge">12-tone serialism</span>
+    <span class="tech-badge">additive synthesis</span>
+    <span class="tech-badge">formant modeling</span>
+  </div>
+</header>
+
+<!-- ============================================================ -->
+<div style="text-align: center; margin-bottom: 40px;">
+  <a href="player.html" style="display: inline-block; padding: 12px 28px; background: linear-gradient(135deg, #1a2a4a, #2a1a3a); border: 1px solid var(--accent); border-radius: 6px; color: var(--accent); text-decoration: none; font-size: 0.9em; letter-spacing: 0.08em; transition: all 0.2s;">
+    &#9654; ANIMATED SCORE PLAYER — Watch the music unfold in real time
+  </a>
+</div>
+
+<h2>Compositions</h2>
+<!-- ============================================================ -->
+
+<!-- PIECES_GO_HERE -->
+
+<!-- ============================================================ -->
+<h2>Synthesis Architecture</h2>
+<!-- ============================================================ -->
+
+<div class="tech-section">
+  <div class="tech-title">Signal Chain — Per Note</div>
+  <div class="tech-content">
+    Every single tone passes through this 6-stage pipeline:
+    <strong>Pitch micro-drift</strong> (bounded random walk in cents) &rarr;
+    <strong>Delayed vibrato</strong> (noise-modulated rate &amp; depth, not perfect sine) &rarr;
+    <strong>Per-partial synthesis</strong> (each harmonic gets its own envelope,
+    upper partials decay faster via <code>partial_decay</code> multiplier,
+    inharmonicity via <code>f_n = n &times; f0 &times; &radic;(1 + B&times;n&sup2;)</code>) &rarr;
+    <strong>Attack transient</strong> (bandpass-filtered noise: bow friction, breath, or click) &rarr;
+    <strong>Amplitude envelope</strong> (exponential or sustained shape with anti-click fadeout) &rarr;
+    <strong>Multi-tap delay reverb</strong> (prime-number-ratio delay lines for diffuse reflections).
+  </div>
+</div>
+
+<div class="tech-section">
+  <div class="tech-title">Vocal Synthesis — Formant Model</div>
+  <div class="tech-content">
+    Voice synthesis uses <strong>all-pole resonators</strong> in series cascade
+    (not bandpass — bandpass rejects energy between formants, which is why early
+    attempts sounded like "Darth Vader breathing"):
+<pre>
+<span class="cm"># The critical filter topology</span>
+<span class="kw">for</span> f_freq, f_bw, f_amp <span class="kw">in</span> formant_set:
+    r = np.<span class="fn">exp</span>(-np.pi * f_bw / sample_rate)
+    theta = 2 * np.pi * f_freq / sample_rate
+    a = [1.0, -2 * r * np.<span class="fn">cos</span>(theta), r * r]
+    gain = f_amp * (1 - 2*r*np.<span class="fn">cos</span>(theta) + r*r)
+    b = [gain]
+    output = <span class="fn">lfilter</span>(b, a, output)  <span class="cm"># series cascade</span></pre>
+    Source: Rosenberg glottal pulse with spectral tilt
+    (<code>tilt_coeff=0.7</code>; 0.96 was too aggressive).
+    Vowel morphing via overlap-add with Hann windowing (50ms chunks, 50% overlap).
+  </div>
+</div>
+
+<div class="tech-section">
+  <div class="tech-title">Bell Synthesis — True Bell Partials</div>
+  <div class="tech-content">
+    Real bells have <strong>inharmonic partials</strong> at specific ratios
+    determined by geometry, not integer multiples:
+    <strong>Hum</strong> (0.5&times;), <strong>Prime</strong> (1.0&times;),
+    <strong>Tierce</strong> (1.183&times; — the minor 3rd that makes bells sound minor),
+    <strong>Quint</strong> (1.506&times;), <strong>Nominal</strong> (2.0&times;),
+    then higher modes at 2.514&times;, 2.662&times;, 3.011&times;.
+    Each partial has its own decay rate and slight random detuning (casting imperfections).
+    Strike transient is bandpass-filtered noise at the profile's brightness frequency.
+  </div>
+</div>
+
+<div class="tech-section">
+  <div class="tech-title">Prepared Piano</div>
+  <div class="tech-content">
+    Three preparation types, each modifying the partial structure:
+    <strong>Bolt</strong> — metallic buzzing, 8-14 inharmonic partials detuned &plusmn;8%,
+    amplitude modulation at 30-120 Hz simulating bolt rattle.
+    <strong>Screw</strong> — jangling, 10-18 partials with wild &plusmn;15% detuning,
+    irregular rattle modulation.
+    <strong>Rubber</strong> — dark, thuddy, only 3-6 partials with fast decay (rubber absorbs energy).
+    Hammer impact: bandpass noise with 3-15ms exponential decay.
+  </div>
+</div>
+
+<!-- ============================================================ -->
+<h2>Source Files</h2>
+<!-- ============================================================ -->
+
+<!-- SOURCE_FILES_GO_HERE -->
+
+<!-- ============================================================ -->
+<h2>Project Timeline</h2>
+<!-- ============================================================ -->
+
+<div class="timeline">
+  <div class="timeline-item">
+    <div class="timeline-label">Original POC</div>
+    <div class="timeline-text">
+      5-layer ambient synthesis using harmonic_voice() function.
+      Basic additive synthesis, 12-tone rows. Sounded "a bit MIDI."
+    </div>
+  </div>
+  <div class="timeline-item">
+    <div class="timeline-label">Webern Pointillism</div>
+    <div class="timeline-text">
+      Built the shared synthesis engine with 8 instrument timbres,
+      per-partial envelopes, attack transients, pitch drift, delayed vibrato.
+      Derived row from trichord [0, 1, 4].
+    </div>
+  </div>
+  <div class="timeline-item">
+    <div class="timeline-label">Naturalization</div>
+    <div class="timeline-text">
+      Overhauled every aspect of the sound: inharmonicity modeling,
+      noise-modulated vibrato, multi-tap reverb. Went from "MIDI"
+      to "interesting."
+    </div>
+  </div>
+  <div class="timeline-item">
+    <div class="timeline-label">Berg Lyrical</div>
+    <div class="timeline-text">
+      Triadic row (Violin Concerto concept), overlapping legato lines,
+      waltz fragments, tonal windows. The romantic counterpoint to Webern.
+    </div>
+  </div>
+  <div class="timeline-item">
+    <div class="timeline-label">Vocal Synthesis</div>
+    <div class="timeline-text">
+      Glottal pulse source + formant filtering. Went through:
+      bandpass (Darth Vader) &rarr; cascaded bandpass (still Darth Vader)
+      &rarr; all-pole resonators (breakthrough). Spectral tilt tuning
+      via comparison with real voice recordings.
+    </div>
+  </div>
+  <div class="timeline-item">
+    <div class="timeline-label">Cage Ambient</div>
+    <div class="timeline-text">
+      Prepared piano synthesis (bolt/screw/rubber preparations),
+      chance-determined interruptions, auto-ducking. The piano strikes
+      and bell interruptions sounded "more natural than all the rest."
+    </div>
+  </div>
+  <div class="timeline-item">
+    <div class="timeline-label">Voice Clone</div>
+    <div class="timeline-text">
+      LPC analysis of Paul's voice memo: F0=92Hz, extracted 4 formants.
+      Custom glottal source with reduced spectral tilt.
+      "One More Thing" composition.
+    </div>
+  </div>
+  <div class="timeline-item">
+    <div class="timeline-label">Score Generation</div>
+    <div class="timeline-text">
+      Graphical scores (Cage-style) + text scores + LilyPond output.
+      "Can we output scores?" started as a joke. Turned out: yes we can.
+    </div>
+  </div>
+  <div class="timeline-item">
+    <div class="timeline-label">Bells + Bergman Clock</div>
+    <div class="timeline-text">
+      True bell partials (hum, prime, tierce, quint, nominal).
+      5 bell types layered over a 63 BPM tick-tock metronome.
+      Tonal, modal, layered. "Pulled off."
+    </div>
+  </div>
+  <div class="timeline-item">
+    <div class="timeline-label">Bells + Pizzicato</div>
+    <div class="timeline-text">
+      Variation: mechanical clock replaced by musical pizzicato patterns.
+      Heavier tubular bells in E Phrygian. Ornamental turns and pickup figures.
+    </div>
+  </div>
+  <div class="timeline-item">
+    <div class="timeline-label">Berg Extended</div>
+    <div class="timeline-text">
+      7-minute version of the Berg piece. 7 cycles of variation
+      through transposed row material. 666 events. Classical
+      variation form meets algorithmic generation.
+    </div>
+  </div>
+  <div class="timeline-item">
+    <div class="timeline-label">Bells Gentle (for Tanya)</div>
+    <div class="timeline-text">
+      Wood xylophone synthesis (rosewood bars + resonator tubes) and marimba
+      (rubber mallets). No sudden loud bells, no metallic sounds. Everything
+      pp&ndash;mp. "Big hit with Tanya."
+    </div>
+  </div>
+  <div class="timeline-item">
+    <div class="timeline-label">Tubular Bells — Low Register</div>
+    <div class="timeline-text">
+      100% tubular bells, octaves 2&ndash;4. D minor pentatonic. Cathedral
+      reverb. 18 events, 70 seconds of pure low-end resonance.
+    </div>
+  </div>
+  <div class="timeline-item">
+    <div class="timeline-label">Website + MP3s</div>
+    <div class="timeline-text">
+      GitHub Pages site with S3-hosted audio. Converted to MP3 for
+      streaming. Scores linked inline. Friends askanced.
+    </div>
+  </div>
+  <div class="timeline-item">
+    <div class="timeline-label">Quay Brothers Music Box</div>
+    <div class="timeline-text">
+      "The Dormitory of Dust" &mdash; music box tine synthesis with spring
+      wind-down model. Tempo decelerates 108&rarr;8 BPM, pitch sags 120 cents.
+      Gear clicks, spring creaks, distant bells.
+    </div>
+  </div>
+  <div class="timeline-item">
+    <div class="timeline-label">Mahler Hailstorm</div>
+    <div class="timeline-text">
+      "Hagelsturme" &mdash; 545 events of orchestral chaos. Tremolo strings,
+      brass fanfares, hail pellet synthesis, timpani, cowbells (Mahler 6th!).
+      Everything microtonally detuned &plusmn;50 cents. D minor &rarr; D major.
+    </div>
+  </div>
+  <div class="timeline-item">
+    <div class="timeline-label">Bells Family</div>
+    <div class="timeline-text">
+      Born from iterating on a 4-second slice of cage_ambient&rsquo;s circle 4.
+      Rude guy, boy, papa &amp; little sister &mdash; 12 iterations of "try this,
+      now add that" until the family assembled. Custom 10-partial papa profile.
+    </div>
+  </div>
+  <div class="timeline-item">
+    <div class="timeline-label">Animated Score Player</div>
+    <div class="timeline-text">
+      Canvas-based animated score visualization synced to audio playback.
+      Events light up as the playhead sweeps through — watch the music unfold
+      in real time. Graphical scores for all compositions.
+    </div>
+  </div>
+</div>
+
+<footer>
+  <p>
+    <a href="https://github.com/pcleddy/generator">github.com/pcleddy/generator</a>
+    &nbsp;&middot;&nbsp;
+    CloudAutomat Labs
+    &nbsp;&middot;&nbsp;
+    Built with Claude + numpy + scipy
+  </p>
+  <p style="margin-top: 8px;">
+    No samples. No DAW. No MIDI. Just math.
+  </p>
+</footer>
+
+</div>
+</body>
+</html>
